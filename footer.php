@@ -193,6 +193,28 @@
    
    });
 </script>
+<script>
+            $(document).ready(function(){
+            var $nav = $('.aks-nav');//Caching element
+            var $logo = $('.logo');
+            // hide .navbar first - you can also do this in css .nav{display:none;}
+            $nav.hide();
+        
+            // fade in .navbar
+            $(function () {
+                $(window).scroll(function () {
+                    // set distance user needs to scroll before we start fadeIn
+                    if ($(this).scrollTop() > 100) { //For dynamic effect use $nav.height() instead of '100'
+                        $nav.show();
+                        $logo.hide();
+                    } else {
+                        $nav.hide();
+                        $logo.show()
+                    }
+                });
+            });
+            });
+        </script> 
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script>
    AOS.init();
