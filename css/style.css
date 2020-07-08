@@ -42,6 +42,9 @@ h5{
 h6{
     font-size: 14px !important;
 }
+.pdng-btm-120{
+	padding-bottom: 120px;
+}
 .color-bronze{
     color: #ccb497;
 }
@@ -56,7 +59,6 @@ h6{
 }
 .partner-color{
     background-color: #e1e1e17a;
-    padding-bottom: 120px;
 }
 body {
 	margin: 0;
@@ -78,8 +80,8 @@ img {
 
 .row {
 	max-width: 100%;
-	margin-left: 0px;
-	margin-right: 0px;
+	margin-left: 0px !important;
+	margin-right: 0px !important;
 }
 
 .sticky {
@@ -712,9 +714,8 @@ Project Residential & commrcial
 
 .inner-para-commercial {
 	width: 100%;
-	padding-left: 15%;
+	padding-left: 0;
 }
-
 .gal-item {
 	overflow: hidden !important;
 	padding: 4px !important;
@@ -994,12 +995,6 @@ real estate desktop
 	/***********************************
 	awards desktop
 	***********************************/
-	.green-line {
-	width: 15%;
-	margin: 20px auto;
-	background-color: #4db748;
-	height: 4px;
-	}
 	.clearfix{
 	clear: both;
 	}
@@ -1013,9 +1008,12 @@ real estate desktop
 	margin: 20px 0px;
 	}
 	.position{
-	padding: 10px 0px;
+	padding: 10px 0px 0px 0px;
 	border-top: 1px solid;
 	border-bottom: 1px solid;
+	}
+	.position h4 {
+		font-size: 16px;
 	}
 	.info {
 	width: 90%;
@@ -1027,6 +1025,23 @@ real estate desktop
 	.work{
 	padding-top: 20px;
 	}
+
+	/***********************************
+	testimonial desktop
+	***********************************/
+
+.test-slider{
+	position: relative;
+}
+.commas{
+    position: absolute;
+    top: 28%;
+    left: 5px;
+    width: 7%;
+}
+.test-line{
+	width: 35%;
+}
 
 	/***********************************
 	form desktop

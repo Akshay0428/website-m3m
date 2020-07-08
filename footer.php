@@ -190,6 +190,18 @@
        slidesToShow: 2,
        slidesToScroll: 1,
      });
+
+     $('.test-slider').slick({
+       dots: true,
+       arrow: false,
+       prevArrow:false,
+       nextArrow:false,
+       infinite: true,
+       autoplay: true,
+       speed: 300,
+       slidesToShow: 2,
+       slidesToScroll: 1,
+     });
    
    });
 </script>

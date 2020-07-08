@@ -1,5 +1,5 @@
 <?php include 'header.php';?>
 
-about page
+media page
 
 <?php include 'footer.php';?>

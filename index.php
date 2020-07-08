@@ -86,6 +86,7 @@
       </div>
    </div>
 </section>
+
 <section class="header-extradiv-custom" id="Residential">
    <div class="residential-div">
    <div class="container">
@@ -98,7 +99,8 @@
          <div class="row custom-row-setting">
             <div class="col-lg-8 col-md-8 col-12 custom-col-setting">
                <div class="inner-para" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                  <p>Meticulously crafted and emotionally designed, M3M homes are the perfect place to be in. A lifestyle benchmark in Gurugram, today and tomorrow, our thriving communities are our biggest achievement
+                  </p>
                </div>
             </div>
             <div class="col-lg-4 col-md-4 col-12 custom-col-setting">
@@ -647,25 +649,23 @@
       </div>
    </div>
 </section>
-<div class="container">
+
+<!-- <div class="container">
    <div class="chat-box float-right" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
       <img src="img/Chat Box@2x.png" alt="chat">
       <div class="chat-txt">
          <p>Chat With Us</p>
       </div>
    </div>
-</div>
+</div> -->
+
 <section class="header-extradiv" id="Commercial">
    <div class="residential-div">
    <div class="container">
-      <div class="custom-heading">
-         <h2 class="text-right text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">commercial</h2>
-         <div class="green-line float-right" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1500"></div>
-      </div>
       <div class="clearfix"></div>
       <div class="main-content">
          <div class="row custom-row-setting">
-            <div class="col-lg-4 col-md-4 col-12 custom-col-setting">
+            <div class="col-lg-6 col-md-6 col-12 custom-col-setting">
                <div class="row custom-row-setting">
                   <div class="col-lg-6 col-md-6 col-12 custom-col-setting">
                      <div class="view-button view-button-active" id="ongoing2">
@@ -679,9 +679,15 @@
                   </div>
                </div>
             </div>
-            <div class="col-lg-8 col-md-8 col-12 custom-col-setting">
+            <div class="col-lg-6 col-md-6 col-12 custom-col-setting">
+            <div class="custom-heading">
+               <h2 class="text-left text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">commercial</h2>
+               <div class="green-line float-left test-line" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1500"></div>
+            </div> 
+            <div class="clearfix"></div>
                <div class="inner-para-commercial" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                  <p class="text-left">Striving to achieve the best in class, M3M’s commercial projects are state-of-the-art masterpieces that are strategically located and have cutting edge infrastructure
+                  </p>
                </div>
             </div>
          </div>
@@ -1144,11 +1150,14 @@
       </div>
    </div>
 </section>
+
 <section class="header-extradiv">
    <div class="container custm-container">
    <div class="custom-heading" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
-      <h2 class="text-center text-uppercase">glimpses of m3m</h2>
+      <h2 class="text-center text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">glimpses of m3m</h2>
       <div class="green-line text-center" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500"></div>
+      <p class="text-center"  data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500">Just like our business, our social life is also thriving. See what's new and exciting
+      </p>
    </div>
    <div class="clearfix"></div>
    <div class="glimpses-class" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1500">
@@ -1285,14 +1294,16 @@
    </div>
 </div>
 <div class="clearfix"></div>
+
 <!-- real estate start -->
 
 <!-- award section start -->
+
 <div class="container mrg-top">
    <h2 class="text-center text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">awards and accolades</h2>
    <div class="green-line" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500"></div>
    <div class="container text-center text-capitalize" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
-      <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.The passage is attributed to an unknown typesetter in the 15th century</p>
+      <p data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500">Our consistent effort towards excellence has won us many prestigious awards in the industry. But our heart still beams the brightest when we see a smile on our customer’s face.</p>
    </div>
    <div class="row pdng-top award-slider">
       <div class="col-sm-4">
@@ -1334,19 +1345,22 @@
    </div>
    <div class="clearfix"></div>
 </div>
+
 <!-- award section ends -->
+
 <!-- partner section start -->
-<div class="partner-color">
-   <div class="container mrg-top">
-      <h2 class="text-uppercase pdng-top" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">partners</h2>
+
+<div class="partner-color pdng-btm-120">
+   <div class="container mrg-top  custom-heading">
+      <h2 class="text-uppercase pdng-top" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">partners and<br> testimonials</h2>
       <div class="green-line prtnr-line" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500"></div>
       <div class="row pdng-top partner-slider">
          <div class="col-sm-6">
             <div class="row">
-               <div class="col-sm-6">
-                  <img src="img/partner/Image 17.png" alt="parner-img">
+               <div class="col-sm-12">
+                  <iframe width="100%" height="350px" src="https://www.youtube.com/embed/ngL6S0lDMeQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                </div>
-               <div class="col-sm-6">
+               <!-- <div class="col-sm-6">
                   <div class="info">
                      <div class="name pdng-top">
                         <h4 class="text-center text-uppercase">arcop</h4>
@@ -1358,15 +1372,15 @@
                         <p>Lorem Ipsum, Or Lipsum As It Is Sometimes Known, Is Dummy Text Used In Laying Out Print, Graphic Or Web Designs.The Passage Is Attributed To An Unknown Typesetter In The 15th Century</p>
                      </div>
                   </div>
-               </div>
+               </div> -->
             </div>
          </div>
          <div class="col-sm-6">
             <div class="row">
-               <div class="col-sm-6">
-                  <img src="img/partner/Image 16.png" alt="parner-img">
+               <div class="col-sm-12">
+                  <iframe width="100%" height="350px" src="https://www.youtube.com/embed/ngL6S0lDMeQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                </div>
-               <div class="col-sm-6">
+               <!-- <div class="col-sm-6">
                   <div class="info">
                      <div class="name pdng-top">
                         <h4 class="font-bold">uha<span class="font-400">london</span></h4>
@@ -1378,26 +1392,13 @@
                         <p>Lorem Ipsum, Or Lipsum As It Is Sometimes Known, Is Dummy Text Used In Laying Out Print, Graphic Or Web Designs.The Passage Is Attributed To An Unknown Typesetter In The 15th Century</p>
                      </div>
                   </div>
-               </div>
+               </div> -->
             </div>
          </div>
          <div class="col-sm-6">
             <div class="row">
-               <div class="col-sm-6">
-                  <img src="img/partner/Image 16.png" alt="parner-img">
-               </div>
-               <div class="col-sm-6">
-                  <div class="info">
-                     <div class="name pdng-top">
-                        <h4 class="font-bold">uha<span class="font-400">london</span></h4>
-                     </div>
-                     <div class="position">
-                        <h4 class="text-capitalize">john marc<br><span class="font-500">CEO, uhalondon</span></h4>
-                     </div>
-                     <div class="work pdng-top">
-                        <p>Lorem Ipsum, Or Lipsum As It Is Sometimes Known, Is Dummy Text Used In Laying Out Print, Graphic Or Web Designs.The Passage Is Attributed To An Unknown Typesetter In The 15th Century</p>
-                     </div>
-                  </div>
+               <div class="col-sm-12">
+                  <iframe width="100%" height="350px" src="https://www.youtube.com/embed/ngL6S0lDMeQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                </div>
             </div>
          </div>
@@ -1405,5 +1406,72 @@
    </div>
    <div class="clearfix"></div>
 </div>
+
 <!-- partner section ends -->
+
+<!-- testimonial section start -->
+<div class="test-div pdng-btm-120">
+   <div class="container custom-heading">
+      <div class="row">
+         <div class="col-sm-6 pdg"></div>
+         <div class="col-sm-6 pdg"><h2 class="text-uppercase pdng-top" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">our customer<br> testimonials</h2>
+      <div class="green-line prtnr-line test-line" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500"></div></div>
+      </div>
+   </div>
+   <div class="container">
+      <div class="row">
+         <div class="col-sm-6">
+            <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ngL6S0lDMeQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+         </div>
+         <div class="col-sm-6">
+            <div class="row test-slider mrg-top">
+               <div class="col-sm-6">
+                  <div class="info">
+                     <div class="position">
+                        <h4 class="text-capitalize">Mrs. Oytan Calapover<br><span class="text-uppercase">Golfestate</span></h4>
+                     </div>
+                     <div class="work pdng-top">
+                        <p>Safety and hygiene being the most important aspects, the clubhouse has an indoor kids’ play area and the people are polite and always helpful.</p>
+                     </div>
+                  </div>
+                  <div class="commas">
+                     <img src="img/partner/Quote.png" alt="double quotes">
+                  </div>
+               </div>
+               <div class="col-sm-6">
+                  <div class="info">
+                     <div class="position">
+                        <h4 class="text-capitalize">Mr. Saurabh Jolly & family<br><span class="text-uppercase">Golfestate</span></h4>
+                     </div>
+                     <div class="work pdng-top">
+                        <p>Security and quality of construction well and truly exceeded expectations. Excellent landscape and layout that even has a vast pet area for our furry friends to hang around.</p>
+                     </div>
+                  </div>
+                  <div class="commas">
+                     <img src="img/partner/Quote.png" alt="double quotes">
+                  </div>
+               </div>
+               <div class="col-sm-6">
+                  <div class="info">
+                     <div class="position">
+                        <h4 class="text-capitalize">Mr. Saurabh Jolly & family<br><span class="text-uppercase">Golfestate</span></h4>
+                     </div>
+                     <div class="work pdng-top">
+                        <p>Security and quality of construction well and truly exceeded expectations. Excellent landscape and layout that even has a vast pet area for our furry friends to hang around.</p>
+                     </div>
+                  </div>
+                  <div class="commas">
+                     <img src="img/partner/Quote.png" alt="double quotes">
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+
+
+<!-- testimonial section ends -->
+
+
 <?php include 'footer.php';?>

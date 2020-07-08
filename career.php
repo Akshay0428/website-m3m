@@ -1,5 +1,5 @@
 <?php include 'header.php';?>
 
-about page
+career page
 
 <?php include 'footer.php';?>
