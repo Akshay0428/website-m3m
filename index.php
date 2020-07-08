@@ -110,8 +110,8 @@
                         <a class="text-uppercase" id="ong">ongoing</a>
                      </div>
                   </div>
-                  <div class="col-lg-6 col-md-6 col-12 custom-col-setting" id="delivered">
-                     <div class="view-button">
+                  <div class="col-lg-6 col-md-6 col-12 custom-col-setting">
+                     <div class="view-button" id="delivered">
                         <a class="text-uppercase" id="del">delivered</a>
                      </div>
                   </div>
@@ -667,13 +667,13 @@
          <div class="row custom-row-setting">
             <div class="col-lg-6 col-md-6 col-12 custom-col-setting">
                <div class="row custom-row-setting">
-                  <div class="col-lg-6 col-md-6 col-12 custom-col-setting">
+                  <div class="col-lg-6 col-md-6 col-12 custom-col-setting commercial-btn">
                      <div class="view-button view-button-active" id="ongoing2">
                         <a class="text-uppercase" id="ong2">ongoing</a>
                      </div>
                   </div>
-                  <div class="col-lg-6 col-md-6 col-12 custom-col-setting" id="delivered2">
-                     <div class="view-button">
+                  <div class="col-lg-6 col-md-6 col-12 custom-col-setting commercial-btn">
+                     <div class="view-button" id="delivered2">
                         <a class="text-uppercase" id="del2">delivered</a>
                      </div>
                   </div>
