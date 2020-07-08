@@ -1234,12 +1234,12 @@
       </div>
       <div class="col-sm-8 pdg real-txt">
          <div class="container pdng-real">
-            <h2 class="white text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">changing the<br> contours of <br>real estate</h2>
+            <h2 class="white text-uppercase real-h2" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">changing the<br> contours of <br>real estate</h2>
             <div class="green-line prtnr-line real-line" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500"></div>
             <div class="row pdg">
                <div class="col-sm-4">
                   <div class="box">
-                     <p class="white">One of the</p>
+                     <p class="white top-txt">One of the</p>
                      <h2 class="color-bronze text-uppercase"><span class="two-txt">top</span>2</h2>
                      <p class="white">Developers  in India</p>
                      <div class="white-line"></div>
@@ -1247,17 +1247,15 @@
                </div>
                <div class="col-sm-4">
                   <div class="box">
-                     <p class="white">One of the</p>
-                     <h2 class="color-bronze text-uppercase"><span class="two-txt">top</span>2</h2>
-                     <p class="white">Developers  in India</p>
+                     <h2 class="color-bronze text-uppercase">13<span class="two-txt-2">Lucrative</span></h2>
+                     <p class="white">Commercial Projects</p>
                      <div class="white-line"></div>
                   </div>
                </div>
                <div class="col-sm-4">
                   <div class="box">
-                     <p class="white">One of the</p>
-                     <h2 class="color-bronze text-uppercase"><span class="two-txt">top</span>2</h2>
-                     <p class="white">Developers  in India</p>
+                     <h2 class="color-bronze text-uppercase">15<span class="two-txt-2">Premium</span></h2>
+                     <p class="white">Residential Projects</p>
                      <div class="white-line"></div>
                   </div>
                </div>
@@ -1265,17 +1263,16 @@
             <div class="row pdg">
                <div class="col-sm-4">
                   <div class="box">
-                     <p class="white">One of the</p>
-                     <h2 class="color-bronze text-uppercase"><span class="two-txt">top</span>2</h2>
-                     <p class="white">Developers  in India</p>
+                     <h2 class="color-bronze text-uppercase">4<span class="two-txt-2">Crore SQ.FT</span></h2>
+                     <p class="white">Developed & Under<br>Development Area</p>
                      <div class="white-line"></div>
                   </div>
                </div>
                <div class="col-sm-4">
                   <div class="box">
-                     <p class="white">One of the</p>
-                     <h2 class="color-bronze text-uppercase"><span class="two-txt">top</span>2</h2>
-                     <p class="white">Developers  in India</p>
+                     <h2 class="color-bronze text-uppercase">2200</h2>
+                     <p class="white"><span class="font-weight-bold">Acres</span> Prime Land Bank</p>
+                     <br>
                      <div class="white-line"></div>
                   </div>
                </div>
