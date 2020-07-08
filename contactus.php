@@ -1,5 +1,5 @@
 <?php include 'header.php';?>
 
-about page
+contact us page
 
 <?php include 'footer.php';?>
