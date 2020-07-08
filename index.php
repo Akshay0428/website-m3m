@@ -10,33 +10,33 @@
    </ol>
    <div class="carousel-inner" role="listbox">
       <!-- Slide One - Set the background image for this slide in the line below -->
-      <div class="carousel-item active" style="background-image: url(img/M3M_Banner.jpg)">
+      <div class="carousel-item active" style="background-image: url(img/banner/M3M_Banner.jpg)">
          <div class="carousel-caption d-none d-md-block">
             <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
             <h2 class="display-4">VALUE CREATOR</h2>
          </div>
       </div>
       <!-- Slide Two - Set the background image for this slide in the line below -->
-      <div class="carousel-item" style="background-image: url(img/M3M_Banner02.jpg)">
+      <div class="carousel-item" style="background-image: url(img/banner/M3M_Banner02.jpg)">
          <div class="carousel-caption d-none d-md-block">
             <!-- <p class="slider-caption"></p><br>
                <h2 class="display-4">GURUGRAM</h2> -->
          </div>
       </div>
       <!-- Slide Three - Set the background image for this slide in the line below -->
-      <div class="carousel-item" style="background-image: url(img/M3M_Banner.jpg)">
+      <div class="carousel-item" style="background-image: url(img/banner/M3M_Banner.jpg)">
          <div class="carousel-caption d-none d-md-block">
             <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
             <h2 class="display-4">VALUE CREATOR</h2>
          </div>
       </div>
-      <div class="carousel-item" style="background-image: url(img/M3M_Banner.jpg)">
+      <div class="carousel-item" style="background-image: url(img/banner/M3M_Banner.jpg)">
          <div class="carousel-caption d-none d-md-block">
             <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
             <h2 class="display-4">VALUE CREATOR</h2>
          </div>
       </div>
-      <div class="carousel-item" style="background-image: url(img/M3M_Banner.jpg)">
+      <div class="carousel-item" style="background-image: url(img/banner/M3M_Banner.jpg)">
          <div class="carousel-caption d-none d-md-block">
             <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
             <h2 class="display-4">VALUE CREATOR</h2>
@@ -1226,20 +1226,21 @@
       </div>
    </div>
 </section>
+
 <div class="rel_estate">
    <div class="row rel-margr">
-      <div class="col-sm-4 pdng-0">
+      <div class="col-sm-4 pdg">
          <img src="img/real_estate.png" alt="real estate">
       </div>
-      <div class="col-sm-8 pdng-0 real-txt">
+      <div class="col-sm-8 pdg real-txt">
          <div class="container pdng-real">
-            <h2 class="white txt-upper" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">changing the<br> contours of <br>real estate</h2>
+            <h2 class="white text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">changing the<br> contours of <br>real estate</h2>
             <div class="green-line prtnr-line real-line" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500"></div>
-            <div class="row pdng-0">
+            <div class="row pdg">
                <div class="col-sm-4">
                   <div class="box">
                      <p class="white">One of the</p>
-                     <h2 class="color-bronze txt-upper"><span class="two-txt">top</span>2</h2>
+                     <h2 class="color-bronze text-uppercase"><span class="two-txt">top</span>2</h2>
                      <p class="white">Developers  in India</p>
                      <div class="white-line"></div>
                   </div>
@@ -1247,7 +1248,7 @@
                <div class="col-sm-4">
                   <div class="box">
                      <p class="white">One of the</p>
-                     <h2 class="color-bronze txt-upper"><span class="two-txt">top</span>2</h2>
+                     <h2 class="color-bronze text-uppercase"><span class="two-txt">top</span>2</h2>
                      <p class="white">Developers  in India</p>
                      <div class="white-line"></div>
                   </div>
@@ -1255,17 +1256,17 @@
                <div class="col-sm-4">
                   <div class="box">
                      <p class="white">One of the</p>
-                     <h2 class="color-bronze txt-upper"><span class="two-txt">top</span>2</h2>
+                     <h2 class="color-bronze text-uppercase"><span class="two-txt">top</span>2</h2>
                      <p class="white">Developers  in India</p>
                      <div class="white-line"></div>
                   </div>
                </div>
             </div>
-            <div class="row pdng-0">
+            <div class="row pdg">
                <div class="col-sm-4">
                   <div class="box">
                      <p class="white">One of the</p>
-                     <h2 class="color-bronze txt-upper"><span class="two-txt">top</span>2</h2>
+                     <h2 class="color-bronze text-uppercase"><span class="two-txt">top</span>2</h2>
                      <p class="white">Developers  in India</p>
                      <div class="white-line"></div>
                   </div>
@@ -1273,7 +1274,7 @@
                <div class="col-sm-4">
                   <div class="box">
                      <p class="white">One of the</p>
-                     <h2 class="color-bronze txt-upper"><span class="two-txt">top</span>2</h2>
+                     <h2 class="color-bronze text-uppercase"><span class="two-txt">top</span>2</h2>
                      <p class="white">Developers  in India</p>
                      <div class="white-line"></div>
                   </div>
@@ -1285,48 +1286,49 @@
 </div>
 <div class="clearfix"></div>
 <!-- real estate start -->
+
 <!-- award section start -->
 <div class="container mrg-top">
-   <h2 class="txt-center txt-upper" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">awards and accolades</h2>
+   <h2 class="text-center text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">awards and accolades</h2>
    <div class="green-line" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500"></div>
-   <div class="container txt-center txt-capital" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
+   <div class="container text-center text-capitalize" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
       <p>Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs.The passage is attributed to an unknown typesetter in the 15th century</p>
    </div>
    <div class="row pdng-top award-slider">
       <div class="col-sm-4">
          <div class="container">
-            <img src="img/Award.png" alt="award 1">
+            <img src="img/awards/Award.png" alt="award 1">
          </div>
          <div class="container pdng-top">
-            <p class="txt-center color-bronze txt-upper font-500">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-            <p class="txt-center">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+            <p class="text-center color-bronze text-uppercase font-500">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+            <p class="text-center">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
          </div>
       </div>
       <div class="col-sm-4">
          <div class="container">
-            <img src="img/Award.png" alt="award 1">
+            <img src="img/awards/Award.png" alt="award 1">
          </div>
          <div class="container pdng-top">
-            <p class="txt-center color-bronze txt-upper font-500">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-            <p class="txt-center">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+            <p class="text-center color-bronze text-uppercase font-500">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+            <p class="text-center">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
          </div>
       </div>
       <div class="col-sm-4">
          <div class="container">
-            <img src="img/Award.png" alt="award 1">
+            <img src="img/awards/Award.png" alt="award 1">
          </div>
          <div class="container pdng-top">
-            <p class="txt-center color-bronze txt-upper font-500">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-            <p class="txt-center">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+            <p class="text-center color-bronze text-uppercase font-500">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+            <p class="text-center">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
          </div>
       </div>
       <div class="col-sm-4">
          <div class="container">
-            <img src="img/Award.png" alt="award 1">
+            <img src="img/awards/Award.png" alt="award 1">
          </div>
          <div class="container pdng-top">
-            <p class="txt-center color-bronze txt-upper font-500">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-            <p class="txt-center">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+            <p class="text-center color-bronze text-uppercase font-500">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+            <p class="text-center">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
          </div>
       </div>
    </div>
@@ -1336,21 +1338,21 @@
 <!-- partner section start -->
 <div class="partner-color">
    <div class="container mrg-top">
-      <h2 class="txt-upper pdng-top" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">partners</h2>
+      <h2 class="text-uppercase pdng-top" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">partners</h2>
       <div class="green-line prtnr-line" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500"></div>
       <div class="row pdng-top partner-slider">
          <div class="col-sm-6">
             <div class="row">
                <div class="col-sm-6">
-                  <img src="img/Image 17.png" alt="parner-img">
+                  <img src="img/partner/Image 17.png" alt="parner-img">
                </div>
                <div class="col-sm-6">
                   <div class="info">
                      <div class="name pdng-top">
-                        <h4 class="txt-center txt-upper">arcop</h4>
+                        <h4 class="text-center text-uppercase">arcop</h4>
                      </div>
                      <div class="position">
-                        <h4 class="txt-capital">dalia reda<br><span class="txt-upper">md, arcop</span></h4>
+                        <h4 class="text-capitalize">dalia reda<br><span class="text-uppercase">md, arcop</span></h4>
                      </div>
                      <div class="work pdng-top">
                         <p>Lorem Ipsum, Or Lipsum As It Is Sometimes Known, Is Dummy Text Used In Laying Out Print, Graphic Or Web Designs.The Passage Is Attributed To An Unknown Typesetter In The 15th Century</p>
@@ -1362,7 +1364,7 @@
          <div class="col-sm-6">
             <div class="row">
                <div class="col-sm-6">
-                  <img src="img/Image 16.png" alt="parner-img">
+                  <img src="img/partner/Image 16.png" alt="parner-img">
                </div>
                <div class="col-sm-6">
                   <div class="info">
@@ -1370,7 +1372,7 @@
                         <h4 class="font-bold">uha<span class="font-400">london</span></h4>
                      </div>
                      <div class="position">
-                        <h4 class="txt-capital">john marc<br><span class="font-500">CEO, uhalondon</span></h4>
+                        <h4 class="text-capitalize">john marc<br><span class="font-500">CEO, uhalondon</span></h4>
                      </div>
                      <div class="work pdng-top">
                         <p>Lorem Ipsum, Or Lipsum As It Is Sometimes Known, Is Dummy Text Used In Laying Out Print, Graphic Or Web Designs.The Passage Is Attributed To An Unknown Typesetter In The 15th Century</p>
@@ -1382,7 +1384,7 @@
          <div class="col-sm-6">
             <div class="row">
                <div class="col-sm-6">
-                  <img src="img/Image 16.png" alt="parner-img">
+                  <img src="img/partner/Image 16.png" alt="parner-img">
                </div>
                <div class="col-sm-6">
                   <div class="info">
@@ -1390,7 +1392,7 @@
                         <h4 class="font-bold">uha<span class="font-400">london</span></h4>
                      </div>
                      <div class="position">
-                        <h4 class="txt-capital">john marc<br><span class="font-500">CEO, uhalondon</span></h4>
+                        <h4 class="text-capitalize">john marc<br><span class="font-500">CEO, uhalondon</span></h4>
                      </div>
                      <div class="work pdng-top">
                         <p>Lorem Ipsum, Or Lipsum As It Is Sometimes Known, Is Dummy Text Used In Laying Out Print, Graphic Or Web Designs.The Passage Is Attributed To An Unknown Typesetter In The 15th Century</p>

@@ -1,17 +1,17 @@
 $(document).ready(function () {
 
-	// $(window).scroll(function(){
-	// 	if($(window).scrollTop() > 2)
-	// 	{
-	// 		$(".top_arow").fadeIn();
-	// 		$(".navbar").animate(1000).addClass("top_right_fx");
-	// 	}
-	// 	else
-	// 	{
-	// 		$(".top_arow").fadeOut();
-	// 		$(".navbar").animate(1000).removeClass("top_right_fx");
-	// 	}
-	// });
+	$(function () {
+		$(window).scroll(function () {
+			// set distance user needs to scroll before we start fadeIn
+			if ($(this).scrollTop() > 100) { //For dynamic effect use $nav.height() instead of '100'
+			  $(".navbar").animate(1000).addClass("scroll-css");
+
+			} else {
+				$(".navbar").animate(1000).removeClass("scroll-css");
+			}
+		});
+	});
+
 	$(".top_arow").click(function () {
 		$("body,html").animate({
 			"scrollTop": 0

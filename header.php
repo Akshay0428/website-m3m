@@ -12,182 +12,15 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick-theme.min.css">
       <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
       <style type="text/css">
-         /***********************common code**********************/
-         .txt-upper{
-         text-transform: uppercase;
-         }
-         .txt-capital{
-         text-transform: capitalize;
-         }
-         .txt-center{
-         text-align: center;
-         }
-         /* .container{
-         width: 80%;
-         margin: 0 auto;
-         } */
-         .pdng-top{
-         padding-top: 40px;
-         }
-         .mrg-top{
-         margin-top: 80px;
-         }
-         p{
-         margin: 5px 0px;
-         font-size: 14px;
-         }
-         .pdng-0{
-         padding: 0px;
-         }
-         h2{
-         letter-spacing: 10px;
-         font-weight: 200;
-         }
-         h5{
-         font-size: 16px;
-         }
-         h6{
-         font-size: 14px;
-         }
-         img{
-         width: 100%;
-         }
-         .color-bronze{
-         color: #ccb497;
-         }
-         .font-400{
-         font-weight: 400;
-         }
-         .font-500{
-         font-weight: 500;
-         }
-         .font-bold{
-         font-weight: bold;
-         }
-         .partner-color{
-         background-color: #e1e1e17a;
-         padding-bottom: 120px;
-         }
-         /*real estate*/
-         .rel_estate{
-         width: 100%;
-         }
-         .rel-margr{
-         margin: 0px;
-         }
-         .real-txt{
-         background-color: #173d61;
-         }
-         .real-line{
-         width: 35% !important;
-         }
-         .pdng-real {
-         padding: 21px 80px;
-         }
-         .white-line {
-         height: 2px;
-         background-color: #fff;
-         width: 30%;
-         margin-top: 0%;
-         margin-bottom: 24px;
-         }
-         .txt-down{
-         font-size: 12px;
-         }
-         .box h2{
-         margin: 0px;
-         font-size: 75px;
-         }
-         .negative{
-         margin-top: -30px !important;
-         }
-         h2.color-bronze.txt-upper {
-         font-weight: bold;
-         font-size: 60px !important;
-         }
-         .box p{
-         margin :0px;
-         }
-         .extra-marg{
-         margin-top: 23%;
-         }
-         .two-txt {
-         font-size: 30px;
-         font-weight: bold !important;
-         }
-         /*awards*/
-         .green-line {
-         width: 15%;
-         margin: 20px auto;
-         background-color: #4db748;
-         height: 4px;
-         }
-         .clearfix{
-         clear: both;
-         }
-         .white{
-         color: #fff;
-         }
-         /*partner*/
-         .prtnr-line{
-         margin: 20px 0px;
-         }
-         .position{
-         padding: 10px 0px;
-         border-top: 1px solid;
-         border-bottom: 1px solid;
-         }
-         .info {
-         width: 90%;
-         margin: 0 auto;
-         }
-         .name{
-         padding-top: 20px;
-         }
-         .work{
-         padding-top: 20px;
-         }
-         /*contact us*/
-         .footer-menu{
-         padding-bottom: 20px;
-         }
-         .contact-bg {
-         background-image: url(img/contact-bg.jpg);
-         background-position: center;
-         background-size: 100% 100%;
-         background-repeat: no-repeat;
-         }
-         .con-img {
-         width: 70%;
-         float: right;
-         padding-top: 20px;
-         }
-         /*form*/
-         .bottom-form {
-         background-color: #fff;
-         padding: 20px;
-         width: 65%;
-         margin: 0 auto;
-         margin-left: 35%;
-         }
-         .form-group-custom {
-         margin-bottom: 10px !important;
-         }
-         .form-control-custom {
-         font-size: 14px !important;
-         background-color: #ced4da82 !important;
-         }
-         .social-icons{
-         width: 50%;
-         }
-         /*slick*/
+
+         /***********************************slick***********************************/
          .prev-button {
          color: #999;
          position: absolute;
          top: 40%;
          left: -40px;
          font-size: 1.5em;
-         background-image: url('img/Arrow 02.png');
+         background-image: url('img/arrow/prev_slick.png');
          width: 13px;
          height: 20px;
          border: none;
@@ -199,7 +32,7 @@
          position: absolute;
          top: 40%;
          font-size: 1.5em;
-         background-image: url('img/Arrow.png');
+         background-image: url('img/arrow/next_slick.png');
          right: -35px;
          width: 13px;
          height: 20px;
@@ -239,7 +72,7 @@
          opacity: .75;
          color: #4db748;
          }
-         /*************************************/
+         /**************carousel***********************/
          .carousel-item {
          height: 100vh;
          min-height: 350px;
@@ -315,13 +148,13 @@
          letter-spacing: 8px;
          }
          .aks-nav {
-         position: absolute !important;
-         background-color: transparent !important;
+         position: fixed !important;
+         background-color: transparent;
          }  
       </style>
    </head>
    <body>
-      <nav class="navbar navbar-expand-lg navbar-light bg-light aks-nav">
+      <nav class="navbar navbar-expand-lg navbar-light aks-nav">
          <div class="container">
             <a class="navbar-brand" href="index.php"><img src="img/M3M logo.png"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

@@ -2,61 +2,61 @@
 <div class="contact-bg">
    <div class="container pdng-top">
       <div class="cutsom-heading">
-         <h2 class="txt-center txt-upper white" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">contact us</h2>
+         <h2 class="text-center text-uppercase white" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">contact us</h2>
       </div>
       <div class="green-line" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500"></div>
-      <div class="txt-center txt-capital">
+      <div class="text-center text-capitalize">
          <p class="white text-center" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs</p>
       </div>
       <div class="row pdng-top">
          <div class="col-sm-6">
             <div class="row name">
-               <div class="col-sm-2">
+               <div class="col-sm-2 icon-center">
                   <div class="con-img">
-                     <img src="img/Icon 01.png" alt="office">
+                     <img src="img/contact/Icon 01.png" alt="office">
                   </div>
                </div>
                <div class="col-sm-10">
-                  <h5 class="white txt-capital">corporate office</h5>
-                  <h5 class="white txt-capital">M3M india pvt. ltd.</h5>
-                  <p class="white txt-capital">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
+                  <h5 class="white text-capitalize">corporate office</h5>
+                  <h5 class="white text-capitalize">M3M india pvt. ltd.</h5>
+                  <p class="white text-capitalize">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
                </div>
             </div>
             <div class="row name">
-               <div class="col-sm-2">
+               <div class="col-sm-2 icon-center">
                   <div class="con-img">
-                     <img src="img/Icon 02.png" alt="sale">
+                     <img src="img/contact/Icon 02.png" alt="sale">
                   </div>
                </div>
                <div class="col-sm-10">
-                  <h5 class="white txt-capital">sales gallery address</h5>
-                  <p class="white txt-capital">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
+                  <h5 class="white text-capitalize">sales gallery address</h5>
+                  <p class="white text-capitalize">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
                </div>
             </div>
             <div class="row name">
-               <div class="col-sm-2">
+               <div class="col-sm-2 icon-center">
                   <div class="con-img">
-                     <img src="img/Icon 03.png" alt="call">
+                     <img src="img/contact/Icon 03.png" alt="call">
                   </div>
                </div>
                <div class="col-sm-10">
-                  <h5 class="white txt-capital">office:</h5>
-                  <h5 class="white txt-capital">tel: 9999999999</h5>
-                  <h5 class="white txt-capital">toll free: 99999999</h5>
-                  <h5 class="white txt-capital">fax: 9999999999</h5>
-                  <h5 class="white txt-capital">sales enquires: sales@m3mindia.com</h5>
+                  <h5 class="white text-capitalize">office:</h5>
+                  <h5 class="white text-capitalize">tel: 9999999999</h5>
+                  <h5 class="white text-capitalize">toll free: 99999999</h5>
+                  <h5 class="white text-capitalize">fax: 9999999999</h5>
+                  <h5 class="white text-capitalize">sales enquires: sales@m3mindia.com</h5>
                </div>
             </div>
             <div class="row name">
-               <div class="col-sm-2">
+               <div class="col-sm-2 icon-center">
                   <div class="con-img">
-                     <img src="img/Icon 04.png" alt="person">
+                     <img src="img/contact/Icon 04.png" alt="person">
                   </div>
                </div>
                <div class="col-sm-10">
-                  <h5 class="white txt-capital">leasing enquires:</h5>
-                  <h5 class="white txt-capital">leasing@m3mindia.com</h5>
-                  <h5 class="white txt-capital">tel: 9999999999</h5>
+                  <h5 class="white text-capitalize">leasing enquires:</h5>
+                  <h5 class="white text-capitalize">leasing@m3mindia.com</h5>
+                  <h5 class="white text-capitalize">tel: 9999999999</h5>
                </div>
             </div>
          </div>
@@ -64,10 +64,10 @@
             <div class="custom-frm">
                <form class="bottom-form" action="" method="POST">
                   <div class="form-group form-group-custom">
-                     <label for="exampleInputEmail1" class="txt-capital">
+                     <label for="exampleInputEmail1" class="text-capitalize">
                         <h6>name</h6>
                      </label>
-                     <input type="email" class="form-control txt-capital form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="name">
+                     <input type="email" class="form-control text-capitalize form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="name">
                   </div>
                   <div class="form-group form-group-custom">
                      <label for="exampleInputEmail1">
@@ -76,10 +76,10 @@
                      <input type="email" class="form-control form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-mail ID">
                   </div>
                   <div class="form-group form-group-custom">
-                     <label for="exampleInputEmail1" class="txt-capital">
+                     <label for="exampleInputEmail1" class="text-capitalize">
                         <h6>phone no.</h6>
                      </label>
-                     <input type="email" class="form-control txt-capital form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="+91-">
+                     <input type="email" class="form-control text-capitalize form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="+91-">
                   </div>
                   <div class="form-group form-group-custom">
                      <label for="exampleFormControlSelect1">
@@ -94,7 +94,7 @@
                      </select>
                   </div>
                   <div class="form-group form-group-custom">
-                     <label for="exampleFormControlTextarea1" class="txt-capital">comment</label>
+                     <label for="exampleFormControlTextarea1" class="text-capitalize">comment</label>
                      <textarea class="form-control form-control-custom" id="exampleFormControlTextarea1" rows="3"></textarea>
                   </div>
                </form>
@@ -102,34 +102,34 @@
          </div>
       </div>
       <div class="row pdng-top footer-menu">
-         <div class="col-sm-6 pdng-0">
-            <div class="row pdng-0">
-               <div class="col-sm-2 txt-upper pdng-0">
-                  <h6 class="txt-center txt-upper white font-100 custom-h6-footer">company</h6>
+         <div class="col-sm-6 pdg">
+            <div class="row pdg">
+               <div class="col-sm-2 icon-center text-uppercase pdg">
+                  <h6 class="text-center text-uppercase white font-100 custom-h6-footer">company</h6>
                </div>
-               <div class="col-sm-2 txt-upper pdng-0">
-                  <h6 class="txt-center txt-upper white font-100 custom-h6-footer">partners</h6>
+               <div class="col-sm-2 icon-center text-uppercase pdg">
+                  <h6 class="text-center text-uppercase white font-100 custom-h6-footer">partners</h6>
                </div>
-               <div class="col-sm-2 txt-upper pdng-0">
-                  <h6 class="txt-center txt-upper white font-100 custom-h6-footer">projects</h6>
+               <div class="col-sm-2 icon-center text-uppercase pdg">
+                  <h6 class="text-center text-uppercase white font-100 custom-h6-footer">projects</h6>
                </div>
-               <div class="col-sm-2 txt-upper pdng-0">
-                  <h6 class="txt-center txt-upper white font-100 custom-h6-footer">media</h6>
+               <div class="col-sm-2 icon-center text-uppercase pdg">
+                  <h6 class="text-center text-uppercase white font-100 custom-h6-footer">media</h6>
                </div>
-               <div class="col-sm-2 txt-upper pdng-0">
-                  <h6 class="txt-center txt-upper white font-100 custom-h6-footer">careers</h6>
+               <div class="col-sm-2 icon-center text-uppercase pdg">
+                  <h6 class="text-center text-uppercase white font-100 custom-h6-footer">careers</h6>
                </div>
-               <div class="col-sm-2 txt-upper pdng-0">
-                  <h6 class="txt-center txt-upper white font-100 custom-h6-footer">contact us</h6>
+               <div class="col-sm-2 icon-center text-uppercase pdg">
+                  <h6 class="text-center text-uppercase white font-100 custom-h6-footer">contact us</h6>
                </div>
             </div>
          </div>
          <div class="col-sm-6">
             <!-- <div class="row">
-               <div class="col-sm-3 txt-upper"><div class="social-icons"><img src="img/wticon.png" alt="social icon"></div></div>
-               <div class="col-sm-3 txt-upper"><div class="social-icons"><img src="img/fbicon.png" alt="social icon"></div></div>
-               <div class="col-sm-3 txt-upper"><div class="social-icons"><img src="img/youicon.png" alt="social icon"></div></div>
-               <div class="col-sm-3 txt-upper"><div class="social-icons"><img src="img/linkicon.png" alt="social icon"></div></div>
+               <div class="col-sm-3 text-uppercase"><div class="social-icons"><img src="img/wticon.png" alt="social icon"></div></div>
+               <div class="col-sm-3 text-uppercase"><div class="social-icons"><img src="img/fbicon.png" alt="social icon"></div></div>
+               <div class="col-sm-3 text-uppercase"><div class="social-icons"><img src="img/youicon.png" alt="social icon"></div></div>
+               <div class="col-sm-3 text-uppercase"><div class="social-icons"><img src="img/linkicon.png" alt="social icon"></div></div>
                </div> -->
             <div class="text-right center-block">
                <a href="#"><i id="social-fb" class="fa fa-whatsapp fa-2x social"></i></a>
@@ -193,6 +193,7 @@
    
    });
 </script>
+
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script>
    AOS.init();
