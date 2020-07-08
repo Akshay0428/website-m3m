@@ -42,6 +42,9 @@ h5{
 h6{
     font-size: 14px !important;
 }
+.pdng-btm-120{
+	padding-bottom: 120px;
+}
 .color-bronze{
     color: #ccb497;
 }
@@ -56,7 +59,6 @@ h6{
 }
 .partner-color{
     background-color: #e1e1e17a;
-    padding-bottom: 120px;
 }
 body {
 	margin: 0;
@@ -78,8 +80,8 @@ img {
 
 .row {
 	max-width: 100%;
-	margin-left: 0px;
-	margin-right: 0px;
+	margin-left: 0px !important;
+	margin-right: 0px !important;
 }
 
 .sticky {
@@ -693,6 +695,11 @@ Project Residential & commrcial
 	padding: 0px !important;
 }
 
+.commercial-btn{
+	max-width: 33% !important;
+	margin-top: 82px !important;
+}
+
 .custom-row-setting {
 	margin: 0px !important;
 	padding: 0px !important;
@@ -712,9 +719,8 @@ Project Residential & commrcial
 
 .inner-para-commercial {
 	width: 100%;
-	padding-left: 15%;
+	padding-left: 0;
 }
-
 .gal-item {
 	overflow: hidden !important;
 	padding: 4px !important;
@@ -954,11 +960,14 @@ real estate desktop
 	.real-txt{
 	background-color: #173d61;
 	}
+	.real-h2{
+		font-weight: 100 !important;
+	}
 	.real-line{
 	width: 35% !important;
 	}
 	.pdng-real {
-	padding: 21px 80px !important;
+	padding: 13px 110px !important;
 	}
 	.white-line {
 	height: 2px;
@@ -972,7 +981,8 @@ real estate desktop
 	}
 	.box h2{
 	margin: 0px;
-	font-size: 75px;
+	font-size: 75px !important;
+	letter-spacing: 0px;
 	}
 	.negative{
 	margin-top: -30px !important;
@@ -991,15 +1001,21 @@ real estate desktop
 	font-size: 30px;
 	font-weight: bold !important;
 	}
+	.two-txt-2 {
+	font-size: 14px;
+	font-weight: normal !important;
+	letter-spacing: 0px;
+	text-transform: initial;
+	}
+	.top-txt {
+		margin: 0px;
+		position: absolute;
+		top: 14px;
+		font-size: 11px;
+	}
 	/***********************************
 	awards desktop
 	***********************************/
-	.green-line {
-	width: 15%;
-	margin: 20px auto;
-	background-color: #4db748;
-	height: 4px;
-	}
 	.clearfix{
 	clear: both;
 	}
@@ -1013,9 +1029,12 @@ real estate desktop
 	margin: 20px 0px;
 	}
 	.position{
-	padding: 10px 0px;
+	padding: 10px 0px 0px 0px;
 	border-top: 1px solid;
 	border-bottom: 1px solid;
+	}
+	.position h4 {
+		font-size: 16px;
 	}
 	.info {
 	width: 90%;
@@ -1027,6 +1046,23 @@ real estate desktop
 	.work{
 	padding-top: 20px;
 	}
+
+	/***********************************
+	testimonial desktop
+	***********************************/
+
+.test-slider{
+	position: relative;
+}
+.commas{
+    position: absolute;
+    top: 28%;
+    left: 5px;
+    width: 7%;
+}
+.test-line{
+	width: 35%;
+}
 
 	/***********************************
 	form desktop
