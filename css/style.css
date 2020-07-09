@@ -970,7 +970,7 @@ real estate desktop
 	width: 35% !important;
 	}
 	.pdng-real {
-	padding: 13px 110px !important;
+	padding: 3px 110px !important;
 	}
 	.white-line {
 	height: 2px;
@@ -1078,6 +1078,16 @@ real estate desktop
 	margin: 0 auto;
 	margin-left: 35%;
 	}
+	.form-submit-custom{
+	background-color: green !important;
+	color: #fff !important;
+	border: 1px solid green !important;
+	}
+	.form-submit-custom:hover{
+	background-color: #fff !important;
+	color: green !important;
+	border: 1px solid green !important;
+	}
 	.form-group-custom {
 	margin-bottom: 10px !important;
 	}
@@ -1166,7 +1176,7 @@ contact us page
 
 /* footer ends */
 .contact-bg {
-	background-image: url(../img/contact/contact-bg.jpg);
+	background-image: url(../img/contact/contact-bg.png);
 	background-position: center;
 	background-size: 100% 100%;
 	background-repeat: no-repeat;

@@ -42,7 +42,7 @@
    <div class="footer-line"></div>
 </div>
 
-<div id="sy-whatshelp">
+<!-- <div id="sy-whatshelp">
    <div class="sywh-services">
       <a href="" class="messenger" data-tooltip="Livechat" data-placement="left" target="_blank">
       <i class="fa fa-comments"></i>
@@ -58,7 +58,7 @@
    <i class="fa fa-comments"></i>
    <i class="fa fa-times"></i>
    </a>
-</div>
+</div> -->
 <!-- contact us ends -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
