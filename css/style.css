@@ -26,7 +26,7 @@ html {
     margin-top: 80px;
 }
 p{
-	margin: 5px 0px;
+	margin: 5px 0px !important;
     font-size: 14px;
 }
 .pdg{
@@ -1145,7 +1145,20 @@ contact us page
 .footer-menu{
 	padding-bottom: 20px;
 }
+.footer-bg{
+	background-color:#144168;
+	position: relative;
+}
+.footer-line {
+    position: absolute;
+    height: 12px;
+    width: 100%;
+    top: auto;
+    background-color: #4db748;
+    bottom: 0%;
+}
 
+/* footer ends */
 .contact-bg {
 	background-image: url(../img/contact/contact-bg.jpg);
 	background-position: center;
