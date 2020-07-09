@@ -6,40 +6,40 @@
       </div>
       <div class="green-line" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500"></div>
       <div class="text-center text-capitalize">
-         <p class="white text-center" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs</p>
+         <p class="white text-center m_hide" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs</p>
       </div>
       <div class="row pdng-top">
-         <div class="col-sm-6">
+         <div class="col-sm-6 m_hide">
             <div class="row name">
-               <div class="col-sm-2 icon-center">
+               <div class="col-sm-2 col-3 icon-center">
                   <div class="con-img">
                      <img src="img/contact/Icon 01.png" alt="office">
                   </div>
                </div>
-               <div class="col-sm-10">
+               <div class="col-sm-10 col-9">
                   <h5 class="white text-capitalize">corporate office</h5>
                   <h5 class="white text-capitalize">M3M india pvt. ltd.</h5>
                   <p class="white text-capitalize">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
                </div>
             </div>
             <div class="row name">
-               <div class="col-sm-2 icon-center">
+               <div class="col-sm-2 col-3 icon-center">
                   <div class="con-img">
                      <img src="img/contact/Icon 02.png" alt="sale">
                   </div>
                </div>
-               <div class="col-sm-10">
+               <div class="col-sm-10 col-9">
                   <h5 class="white text-capitalize">sales gallery address</h5>
                   <p class="white text-capitalize">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
                </div>
             </div>
             <div class="row name">
-               <div class="col-sm-2 icon-center">
+               <div class="col-sm-2 col-3 icon-center">
                   <div class="con-img">
                      <img src="img/contact/Icon 03.png" alt="call">
                   </div>
                </div>
-               <div class="col-sm-10">
+               <div class="col-sm-10 col-9">
                   <h5 class="white text-capitalize">office:</h5>
                   <h5 class="white text-capitalize">tel: 9999999999</h5>
                   <h5 class="white text-capitalize">toll free: 99999999</h5>
@@ -48,12 +48,12 @@
                </div>
             </div>
             <div class="row name">
-               <div class="col-sm-2 icon-center">
+               <div class="col-sm-2 col-3 icon-center">
                   <div class="con-img">
                      <img src="img/contact/Icon 04.png" alt="person">
                   </div>
                </div>
-               <div class="col-sm-10">
+               <div class="col-sm-10 col-9">
                   <h5 class="white text-capitalize">leasing enquires:</h5>
                   <h5 class="white text-capitalize">leasing@m3mindia.com</h5>
                   <h5 class="white text-capitalize">tel: 9999999999</h5>
@@ -100,26 +100,77 @@
                </form>
             </div>
          </div>
+         <div class="col-sm-6 d_hide pdng-top">
+            <div class="row name">
+               <div class="col-sm-2 col-3 icon-center">
+                  <div class="con-img">
+                     <img src="img/contact/Icon 01.png" alt="office">
+                  </div>
+               </div>
+               <div class="col-sm-10 col-9">
+                  <h5 class="white text-capitalize">corporate office</h5>
+                  <h5 class="white text-capitalize">M3M india pvt. ltd.</h5>
+                  <p class="white text-capitalize">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
+               </div>
+            </div>
+            <div class="row name">
+               <div class="col-sm-2 col-3 icon-center">
+                  <div class="con-img">
+                     <img src="img/contact/Icon 02.png" alt="sale">
+                  </div>
+               </div>
+               <div class="col-sm-10 col-9">
+                  <h5 class="white text-capitalize">sales gallery address</h5>
+                  <p class="white text-capitalize">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
+               </div>
+            </div>
+            <div class="row name">
+               <div class="col-sm-2 col-3 icon-center">
+                  <div class="con-img">
+                     <img src="img/contact/Icon 03.png" alt="call">
+                  </div>
+               </div>
+               <div class="col-sm-10 col-9">
+                  <h5 class="white text-capitalize">office:</h5>
+                  <h5 class="white text-capitalize">tel: 9999999999</h5>
+                  <h5 class="white text-capitalize">toll free: 99999999</h5>
+                  <h5 class="white text-capitalize">fax: 9999999999</h5>
+                  <h5 class="white text-capitalize">sales enquires: sales@m3mindia.com</h5>
+               </div>
+            </div>
+            <div class="row name">
+               <div class="col-sm-2 col-3 icon-center">
+                  <div class="con-img">
+                     <img src="img/contact/Icon 04.png" alt="person">
+                  </div>
+               </div>
+               <div class="col-sm-10 col-9">
+                  <h5 class="white text-capitalize">leasing enquires:</h5>
+                  <h5 class="white text-capitalize">leasing@m3mindia.com</h5>
+                  <h5 class="white text-capitalize">tel: 9999999999</h5>
+               </div>
+            </div>
+         </div>
       </div>
       <div class="row pdng-top footer-menu">
          <div class="col-sm-6 pdg">
             <div class="row pdg">
-               <div class="col-sm-2 icon-center text-uppercase pdg">
+               <div class="col-2 icon-center text-uppercase pdg">
                   <h6 class="text-center text-uppercase white font-100 custom-h6-footer">company</h6>
                </div>
-               <div class="col-sm-2 icon-center text-uppercase pdg">
+               <div class="col-2 icon-center text-uppercase pdg">
                   <h6 class="text-center text-uppercase white font-100 custom-h6-footer">partners</h6>
                </div>
-               <div class="col-sm-2 icon-center text-uppercase pdg">
+               <div class="col-2 icon-center text-uppercase pdg">
                   <h6 class="text-center text-uppercase white font-100 custom-h6-footer">projects</h6>
                </div>
-               <div class="col-sm-2 icon-center text-uppercase pdg">
+               <div class="col-2 icon-center text-uppercase pdg">
                   <h6 class="text-center text-uppercase white font-100 custom-h6-footer">media</h6>
                </div>
-               <div class="col-sm-2 icon-center text-uppercase pdg">
+               <div class="col-2 icon-center text-uppercase pdg">
                   <h6 class="text-center text-uppercase white font-100 custom-h6-footer">careers</h6>
                </div>
-               <div class="col-sm-2 icon-center text-uppercase pdg">
+               <div class="col-2 icon-center text-uppercase pdg">
                   <h6 class="text-center text-uppercase white font-100 custom-h6-footer">contact us</h6>
                </div>
             </div>
@@ -167,42 +218,151 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick.min.js"></script>
 <script>
    $(document).ready(function(){
-     $('.award-slider').slick({
-       dots: false,
-       arrow: true,
-       prevArrow:'<button type="button" class="prev-button"></button>',
-       nextArrow:'<button type="button" class="next-button"></button>',
-       infinite: true,
-       autoplay: true,
-       speed: 300,
-       slidesToShow: 3,
-       slidesToScroll: 1,
-     });
-   
-     $('.partner-slider').slick({
-       dots: true,
-       arrow: false,
-       prevArrow:false,
-       nextArrow:false,
-       infinite: true,
-       autoplay: true,
-       speed: 300,
-       slidesToShow: 2,
-       slidesToScroll: 1,
-     });
 
-     $('.test-slider').slick({
-       dots: true,
-       arrow: false,
-       prevArrow:false,
-       nextArrow:false,
-       infinite: true,
-       autoplay: true,
-       speed: 300,
-       slidesToShow: 2,
-       slidesToScroll: 1,
-     });
+      $('.partner-slider').slick({
+         dots: true,
+         arrow: false,
+         prevArrow:'<button type="button" class="d-none"></button>',
+         nextArrow:'<button type="button" class="d-none"></button>',
+         infinite: true,
+         autoplay: true,
+         speed: 300,
+         slidesToShow: 2,
+         slidesToScroll: 1,
+         responsive: [
+            {
+               breakpoint: 1024,
+               settings: {
+                  slidesToShow: 2,
+                  slidesToScroll: 1,
+                  arrow: false,
+                  prevArrow:'<button type="button" class="d-none"></button>',
+                  nextArrow:'<button type="button" class="d-none"></button>',
+                  infinite: true,
+                  dots: true
+               }
+            },
+            {
+               breakpoint: 600,
+               settings: {
+                  slidesToShow: 1,
+                  arrow: false,
+                  prevArrow:'<button type="button" class="d-none"></button>',
+                  nextArrow:'<button type="button" class="d-none"></button>',
+                  dots: true,
+                  slidesToScroll: 1
+               }
+            },
+            {
+               breakpoint: 480,
+               settings: {
+                  slidesToShow: 1,
+                  arrow: false,
+                  prevArrow:'<button type="button" class="d-none"></button>',
+                  nextArrow:'<button type="button" class="d-none"></button>',
+                  dots: true,
+                  slidesToScroll: 1
+               }
+            }
+         ]
+	   });
+
+      $('.test-slider').slick({
+         dots: true,
+         arrow: false,
+         prevArrow:'<button type="button" class="d-none"></button>',
+         nextArrow:'<button type="button" class="d-none"></button>',
+         infinite: true,
+         autoplay: true,
+         speed: 300,
+         slidesToShow: 2,
+         slidesToScroll: 1,
+         responsive: [
+            {
+               breakpoint: 1024,
+               settings: {
+                  slidesToShow: 2,
+                  slidesToScroll: 1,
+                  arrow: false,
+                  prevArrow:'<button type="button" class="d-none"></button>',
+                  nextArrow:'<button type="button" class="d-none"></button>',
+                  infinite: true,
+                  dots: true
+               }
+            },
+            {
+               breakpoint: 600,
+               settings: {
+                  slidesToShow: 1,
+                  arrow: false,
+                  prevArrow:'<button type="button" class="d-none"></button>',
+                  nextArrow:'<button type="button" class="d-none"></button>',
+                  dots: true,
+                  slidesToScroll: 1
+               }
+            },
+            {
+               breakpoint: 480,
+               settings: {
+                  slidesToShow: 1,
+                  arrow: false,
+                  prevArrow:'<button type="button" class="d-none"></button>',
+                  nextArrow:'<button type="button" class="d-none"></button>',
+                  dots: true,
+                  slidesToScroll: 1
+               }
+            }
+         ]
+	   });
    
+      $('.award-slider').slick({
+         dots: false,
+         arrow: true,
+         prevArrow:'<button type="button" class="prev-button"></button>',
+         nextArrow:'<button type="button" class="next-button"></button>',
+         infinite: true,
+         autoplay: true,
+         speed: 300,
+         slidesToShow: 3,
+         slidesToScroll: 1,
+         responsive: [
+            {
+               breakpoint: 1024,
+               settings: {
+                  slidesToShow: 3,
+                  slidesToScroll: 1,
+                  arrow: true,
+                  prevArrow:'<button type="button" class="prev-button"></button>',
+                  nextArrow:'<button type="button" class="next-button"></button>',
+                  infinite: true,
+                  dots: false
+               }
+            },
+            {
+               breakpoint: 600,
+               settings: {
+                  slidesToShow: 1,
+                  arrow: false,
+                  dots: true,
+                  prevArrow:'<button type="button" class="d-none"></button>',
+                  nextArrow:'<button type="button" class="d-none"></button>',
+                  slidesToScroll: 1
+               }
+            },
+            {
+               breakpoint: 480,
+               settings: {
+                  slidesToShow: 1,
+                  arrow: false,
+                  dots: true,
+                  prevArrow:'<button type="button" class="d-none"></button>',
+                  nextArrow:'<button type="button" class="d-none"></button>',
+                  slidesToScroll: 1
+               }
+            }
+         ]
+	   });
+
    });
 </script>
 

@@ -1,48 +1,50 @@
 <?php include 'header.php';?>
+<!-- banner section start -->
+
 <section class="banner-section" id="ban-id">
    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="false">
-   <ol class="carousel-indicators carousel-indicators-numbers">
-      <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active">1</li>
-      <li data-target="#carouselExampleIndicators" data-slide-to="1">2</li>
-      <li data-target="#carouselExampleIndicators" data-slide-to="2">3</li>
-      <li data-target="#carouselExampleIndicators" data-slide-to="3">4</li>
-      <li data-target="#carouselExampleIndicators" data-slide-to="4">5</li>
-   </ol>
-   <div class="carousel-inner" role="listbox">
-      <!-- Slide One - Set the background image for this slide in the line below -->
-      <div class="carousel-item active" style="background-image: url(img/banner/M3M_Banner.jpg)">
-         <div class="carousel-caption d-none d-md-block">
-            <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
-            <h2 class="display-4">VALUE CREATOR</h2>
+      <ol class="carousel-indicators carousel-indicators-numbers">
+         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active">1</li>
+         <li data-target="#carouselExampleIndicators" data-slide-to="1">2</li>
+         <li data-target="#carouselExampleIndicators" data-slide-to="2">3</li>
+         <li data-target="#carouselExampleIndicators" data-slide-to="3">4</li>
+         <li data-target="#carouselExampleIndicators" data-slide-to="4">5</li>
+      </ol>
+      <div class="carousel-inner" role="listbox">
+         <!-- Slide One - Set the background image for this slide in the line below -->
+         <div class="carousel-item active" style="background-image: url(img/banner/M3M_Banner.jpg)">
+            <div class="carousel-caption d-none d-md-block">
+               <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
+               <h2 class="display-4">VALUE CREATOR</h2>
+            </div>
+         </div>
+         <!-- Slide Two - Set the background image for this slide in the line below -->
+         <div class="carousel-item" style="background-image: url(img/banner/M3M_Banner02.jpg)">
+            <div class="carousel-caption d-none d-md-block">
+               <!-- <p class="slider-caption"></p><br>
+                  <h2 class="display-4">GURUGRAM</h2> -->
+            </div>
+         </div>
+         <!-- Slide Three - Set the background image for this slide in the line below -->
+         <div class="carousel-item" style="background-image: url(img/banner/M3M_Banner.jpg)">
+            <div class="carousel-caption d-none d-md-block">
+               <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
+               <h2 class="display-4">VALUE CREATOR</h2>
+            </div>
+         </div>
+         <div class="carousel-item" style="background-image: url(img/banner/M3M_Banner.jpg)">
+            <div class="carousel-caption d-none d-md-block">
+               <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
+               <h2 class="display-4">VALUE CREATOR</h2>
+            </div>
+         </div>
+         <div class="carousel-item" style="background-image: url(img/banner/M3M_Banner.jpg)">
+            <div class="carousel-caption d-none d-md-block">
+               <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
+               <h2 class="display-4">VALUE CREATOR</h2>
+            </div>
          </div>
       </div>
-      <!-- Slide Two - Set the background image for this slide in the line below -->
-      <div class="carousel-item" style="background-image: url(img/banner/M3M_Banner02.jpg)">
-         <div class="carousel-caption d-none d-md-block">
-            <!-- <p class="slider-caption"></p><br>
-               <h2 class="display-4">GURUGRAM</h2> -->
-         </div>
-      </div>
-      <!-- Slide Three - Set the background image for this slide in the line below -->
-      <div class="carousel-item" style="background-image: url(img/banner/M3M_Banner.jpg)">
-         <div class="carousel-caption d-none d-md-block">
-            <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
-            <h2 class="display-4">VALUE CREATOR</h2>
-         </div>
-      </div>
-      <div class="carousel-item" style="background-image: url(img/banner/M3M_Banner.jpg)">
-         <div class="carousel-caption d-none d-md-block">
-            <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
-            <h2 class="display-4">VALUE CREATOR</h2>
-         </div>
-      </div>
-      <div class="carousel-item" style="background-image: url(img/banner/M3M_Banner.jpg)">
-         <div class="carousel-caption d-none d-md-block">
-            <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
-            <h2 class="display-4">VALUE CREATOR</h2>
-         </div>
-      </div>
-   </div>
    <!-- <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="sr-only">Previous</span>
@@ -86,6 +88,10 @@
       </div>
    </div>
 </section>
+
+<!-- banner section ends -->
+
+<!-- resrden and comm section start -->
 
 <section class="header-extradiv-custom" id="Residential">
    <div class="residential-div">
@@ -650,6 +656,10 @@
    </div>
 </section>
 
+<!-- resrden and comm section ends -->
+
+<!--chat box  section start -->
+
 <!-- <div class="container">
    <div class="chat-box float-right" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
       <img src="img/Chat Box@2x.png" alt="chat">
@@ -658,6 +668,10 @@
       </div>
    </div>
 </div> -->
+
+<!-- chat box section ends -->
+
+<!--commercial  section start -->
 
 <section class="header-extradiv" id="Commercial">
    <div class="residential-div">
@@ -1151,6 +1165,9 @@
    </div>
 </section>
 
+<!--commercial  section ends -->
+
+<!--glimpse  section start -->
 <section class="header-extradiv">
    <div class="container custm-container">
    <div class="custom-heading" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
@@ -1236,6 +1253,10 @@
    </div>
 </section>
 
+<!--glimpse  section ends -->
+
+
+<!--real estate  section start -->
 <div class="rel_estate">
    <div class="row rel-margr">
       <div class="col-sm-4 pdg">
@@ -1292,7 +1313,7 @@
 </div>
 <div class="clearfix"></div>
 
-<!-- real estate start -->
+<!-- real estate ends -->
 
 <!-- award section start -->
 
@@ -1308,8 +1329,8 @@
             <img src="img/awards/Award.png" alt="award 1">
          </div>
          <div class="container pdng-top">
-            <p class="text-center color-bronze text-uppercase font-500">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-            <p class="text-center">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+            <p class="text-center color-bronze text-uppercase font-500">Best Employer Brand Award 2019</p>
+            <p class="text-center">M3M awarded at the National Human Capital Leadership Congress & Awards.</p>
          </div>
       </div>
       <div class="col-sm-4">
@@ -1317,8 +1338,8 @@
             <img src="img/awards/Award.png" alt="award 1">
          </div>
          <div class="container pdng-top">
-            <p class="text-center color-bronze text-uppercase font-500">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-            <p class="text-center">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+            <p class="text-center color-bronze text-uppercase font-500">HR Super Achievers Award 2019</p>
+            <p class="text-center">M3M awarded at the National Human Capital Leadership Congress & Awards.</p>
          </div>
       </div>
       <div class="col-sm-4">
@@ -1326,8 +1347,8 @@
             <img src="img/awards/Award.png" alt="award 1">
          </div>
          <div class="container pdng-top">
-            <p class="text-center color-bronze text-uppercase font-500">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-            <p class="text-center">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+            <p class="text-center color-bronze text-uppercase font-500">Super Luxury Project of the Year</p>
+            <p class="text-center">M3M Golfestate bags the Super Luxury Project of the Year by Indian Property Awards 2019.</p>
          </div>
       </div>
       <div class="col-sm-4">
@@ -1335,8 +1356,17 @@
             <img src="img/awards/Award.png" alt="award 1">
          </div>
          <div class="container pdng-top">
-            <p class="text-center color-bronze text-uppercase font-500">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-            <p class="text-center">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+            <p class="text-center color-bronze text-uppercase font-500">Luxury Project of the Year- Residential</p>
+            <p class="text-center">M3M Golfestate bags ‘Project of Year’ award at the Golden Bricks Award 2019.</p>
+         </div>
+      </div>
+      <div class="col-sm-4">
+         <div class="container">
+            <img src="img/awards/Award.png" alt="award 1">
+         </div>
+         <div class="container pdng-top">
+            <p class="text-center color-bronze text-uppercase font-500">Innovative Concept Project of the Year- Commercial</p>
+            <p class="text-center">M3M 65th Avenue bags the ‘Innovative Concept Project of the Year’ at the Golden Bricks Award 2019.</p>
          </div>
       </div>
    </div>
@@ -1407,6 +1437,7 @@
 <!-- partner section ends -->
 
 <!-- testimonial section start -->
+
 <div class="test-div pdng-btm-120">
    <div class="container custom-heading">
       <div class="row">
@@ -1466,7 +1497,6 @@
       </div>
    </div>
 </div>
-
 
 <!-- testimonial section ends -->
 
