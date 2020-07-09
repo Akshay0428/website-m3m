@@ -98,7 +98,7 @@
    <div class="container">
       <div class="custom-heading">
          <h2 class="text-left text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500"><span class="color-head">projects</span><br>residential</h2>
-         <div class="green-line float-left" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500"></div>
+         <div class="green-line float-left" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
       </div>
       <div class="clearfix"></div>
       <div class="main-content">
@@ -696,7 +696,7 @@
             <div class="col-lg-6 col-md-6 col-12 custom-col-setting">
             <div class="custom-heading">
                <h2 class="text-left text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">commercial</h2>
-               <div class="green-line float-left test-line" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1500"></div>
+               <div class="green-line float-left test-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
             </div> 
             <div class="clearfix"></div>
                <div class="inner-para-commercial" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
@@ -1173,7 +1173,7 @@
    <div class="custom-heading" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
       <h2 class="text-center text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">glimpses of m3m</h2>
       <div class="green-line text-center" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500"></div>
-      <p class="text-center"  data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500">Just like our business, our social life is also thriving. See what's new and exciting
+      <p class="text-center"  data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">Just like our business, our social life is also thriving. See what's new and exciting
       </p>
    </div>
    <div class="clearfix"></div>
@@ -1265,7 +1265,7 @@
       <div class="col-sm-8 pdg real-txt">
          <div class="container pdng-real">
             <h2 class="white text-uppercase real-h2" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">changing the<br> contours of <br>real estate</h2>
-            <div class="green-line prtnr-line real-line" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500"></div>
+            <div class="green-line prtnr-line real-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
             <div class="row pdg">
                <div class="col-sm-4">
                   <div class="box">
@@ -1319,9 +1319,9 @@
 
 <div class="container mrg-top">
    <h2 class="text-center text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">awards and accolades</h2>
-   <div class="green-line" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500"></div>
+   <div class="green-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
    <div class="container text-center text-capitalize" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
-      <p data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500">Our consistent effort towards excellence has won us many prestigious awards in the industry. But our heart still beams the brightest when we see a smile on our customer’s face.</p>
+      <p data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">Our consistent effort towards excellence has won us many prestigious awards in the industry. But our heart still beams the brightest when we see a smile on our customer’s face.</p>
    </div>
    <div class="row pdng-top award-slider">
       <div class="col-sm-4">
@@ -1380,7 +1380,7 @@
 <div class="partner-color pdng-btm-120">
    <div class="container mrg-top  custom-heading">
       <h2 class="text-uppercase pdng-top" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">partners and<br> testimonials</h2>
-      <div class="green-line prtnr-line" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500"></div>
+      <div class="green-line prtnr-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
       <div class="row pdng-top partner-slider">
          <div class="col-sm-6">
             <div class="row">
@@ -1443,7 +1443,7 @@
       <div class="row">
          <div class="col-sm-6 pdg"></div>
          <div class="col-sm-6 pdg"><h2 class="text-uppercase pdng-top" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">our customer<br> testimonials</h2>
-      <div class="green-line prtnr-line test-line" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500"></div></div>
+      <div class="green-line prtnr-line test-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div></div>
       </div>
    </div>
    <div class="container">
@@ -1507,7 +1507,7 @@
       <div class="cutsom-heading">
          <h2 class="text-center text-uppercase white" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">contact us</h2>
       </div>
-      <div class="green-line" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500"></div>
+      <div class="green-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
       <div class="text-center text-capitalize">
          <p class="white text-center m_hide" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs</p>
       </div>
@@ -1570,25 +1570,25 @@
                      <label for="exampleInputEmail1" class="text-capitalize">
                         <h6>name</h6>
                      </label>
-                     <input type="email" class="form-control text-capitalize form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="name">
+                     <input type="email" class="form-control text-capitalize form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="name" required>
                   </div>
                   <div class="form-group form-group-custom">
                      <label for="exampleInputEmail1">
                         <h6>E-mail</h6>
                      </label>
-                     <input type="email" class="form-control form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-mail ID">
+                     <input type="email" class="form-control form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-mail ID" required>
                   </div>
                   <div class="form-group form-group-custom">
                      <label for="exampleInputEmail1" class="text-capitalize">
                         <h6>phone no.</h6>
                      </label>
-                     <input type="email" class="form-control text-capitalize form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="+91-">
+                     <input type="email" class="form-control text-capitalize form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="+91-" required>
                   </div>
                   <div class="form-group form-group-custom">
                      <label for="exampleFormControlSelect1">
                         <h6>Department</h6>
                      </label>
-                     <select class="form-control form-control-custom" id="exampleFormControlSelect1">
+                     <select class="form-control form-control-custom" id="exampleFormControlSelect1" required>
                         <option>Sales</option>
                         <option>2</option>
                         <option>3</option>
@@ -1598,7 +1598,10 @@
                   </div>
                   <div class="form-group form-group-custom">
                      <label for="exampleFormControlTextarea1" class="text-capitalize">comment</label>
-                     <textarea class="form-control form-control-custom" id="exampleFormControlTextarea1" rows="3"></textarea>
+                     <textarea class="form-control form-control-custom" id="exampleFormControlTextarea1" rows="3" required></textarea>
+                  </div>
+                  <div class="form-group form-group-custom">
+                     <input type="submit" class="form-control text-capitalize form-submit-custom" value="SUBMIT">
                   </div>
                </form>
             </div>
