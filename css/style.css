@@ -26,7 +26,7 @@ html {
     margin-top: 80px;
 }
 p{
-	margin: 5px 0px;
+	margin: 5px 0px !important;
     font-size: 14px;
 }
 .pdg{
@@ -1121,7 +1121,23 @@ Chatbox
 	text-transform: uppercase;
 }
 
+/*********************************************************************
+contact us page
+*********************************************************************/
 
+.contact-bann{
+	background-image: url(../img/contact/desk-con-ban.png);
+	background-position: center;
+	background-repeat:no-repeat ;
+	background-size: 100% 100%;
+	height: 100vh;
+}
+.bannercon-txt {
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    left: 50%;
+}
 /********************************************************
   Footer
   *******************************************************/
@@ -1129,7 +1145,20 @@ Chatbox
 .footer-menu{
 	padding-bottom: 20px;
 }
+.footer-bg{
+	background-color:#144168;
+	position: relative;
+}
+.footer-line {
+    position: absolute;
+    height: 12px;
+    width: 100%;
+    top: auto;
+    background-color: #4db748;
+    bottom: 0%;
+}
 
+/* footer ends */
 .contact-bg {
 	background-image: url(../img/contact/contact-bg.jpg);
 	background-position: center;
@@ -1428,4 +1457,40 @@ a[data-tooltip][data-placement="bottom"]::after {
 	.carousel-item-custom {
 		height: 100% !important;
 	}
+}
+
+
+@media only screen and (max-width:768px) {
+	.d_hide {
+		display: block !important;
+	}
+	
+	.m_hide {
+		display: none !important;
+	}
+	h2 {
+		letter-spacing: 5px;
+		font-size: 22px !important;
+	}
+
+/*******************************
+footer mobile
+********************************/
+
+	.bottom-form {
+		width: 100%;
+		margin-left: 0;
+	}
+	.con-img {
+		width: 100%;
+	}
+	.custom-h6-footer {
+		font-size: 9px !important;
+	}
+	.icon-center {
+		display: flex;
+		justify-content: unset;
+		align-items: unset;
+	}
+
 }
