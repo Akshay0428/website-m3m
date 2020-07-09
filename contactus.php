@@ -83,25 +83,25 @@
                      <label for="exampleInputEmail1" class="text-capitalize">
                         <h6>name</h6>
                      </label>
-                     <input type="email" class="form-control text-capitalize form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="name">
+                     <input type="email" class="form-control text-capitalize form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="name" required>
                   </div>
                   <div class="form-group form-group-custom">
                      <label for="exampleInputEmail1">
                         <h6>E-mail</h6>
                      </label>
-                     <input type="email" class="form-control form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-mail ID">
+                     <input type="email" class="form-control form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-mail ID" required>
                   </div>
                   <div class="form-group form-group-custom">
                      <label for="exampleInputEmail1" class="text-capitalize">
                         <h6>phone no.</h6>
                      </label>
-                     <input type="email" class="form-control text-capitalize form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="+91-">
+                     <input type="email" class="form-control text-capitalize form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="+91-" required>
                   </div>
                   <div class="form-group form-group-custom">
                      <label for="exampleFormControlSelect1">
                         <h6>Department</h6>
                      </label>
-                     <select class="form-control form-control-custom" id="exampleFormControlSelect1">
+                     <select class="form-control form-control-custom" id="exampleFormControlSelect1" required>
                         <option>Sales</option>
                         <option>2</option>
                         <option>3</option>
@@ -111,7 +111,10 @@
                   </div>
                   <div class="form-group form-group-custom">
                      <label for="exampleFormControlTextarea1" class="text-capitalize">comment</label>
-                     <textarea class="form-control form-control-custom" id="exampleFormControlTextarea1" rows="3"></textarea>
+                     <textarea class="form-control form-control-custom" id="exampleFormControlTextarea1" rows="3" required></textarea>
+                  </div>
+                  <div class="form-group form-group-custom">
+                     <input type="submit" class="form-control text-capitalize form-submit-custom" value="SUBMIT">
                   </div>
                </form>
             </div>
@@ -169,7 +172,7 @@
          </div>
       </div>
       <div class="con-map pdng-top">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7539.635435254943!2d72.836059!3d19.115651!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9b43fad3302e9b24!2sChalet%20Amar!5e0!3m2!1sen!2sin!4v1590472168728!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7019.41680571489!2d77.064489!3d28.397874!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb669f263e3bd78fd!2sM3M%20Tee%20Point!5e0!3m2!1sen!2sin!4v1594292002183!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
       </div>
    </div>
 </div>
