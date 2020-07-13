@@ -4,10 +4,10 @@
 
 <section class="banner-section" id="ban-id">
     <div class="career-bann">
-        <div class="bannercon-txt custom-heading">
+        <!-- <div class="bannercon-txt custom-heading">
             <h5 class="text-uppercase text-center white">growth is constant</h5>
             <h2 class="text-uppercase text-center white">with us</h2>
-        </div>
+        </div> -->
     </div>
 </section>
 
@@ -26,9 +26,9 @@
 <!-- content career ends -->
 
 <!-- hand career section start -->
-<div class="rel_estate">
+<div class="rel_estate career">
    <div class="row rel-margr">
-      <div class="col-sm-4 pdg">
+      <div class="col-sm-4 pdg m_hide">
          <img src="img/career/hands.png" class="height-hand" alt="benifits">
       </div>
       <div class="col-sm-8 pdg real-txt">
@@ -36,7 +36,7 @@
             <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">benifits of<br>working at m3m</h2>
             <div class="green-line prtnr-line real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
             <div class="col-sm-4 pdg d_hide">
-               <img src="img/Contour.png" alt="real estate">
+               <img src="img/career/hands.png" class="height-hand" alt="benifits">
             </div>
             <div class="row pdg">
                 <div class="col-lg-4 col-md-4 col-6">
@@ -97,41 +97,45 @@
          <div class="container pdng-benifit d_hide">
             <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">benifits of<br>working at m3m</h2>
             <div class="green-line prtnr-line real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
+            <div class="col-sm-4 pdg d_hide">
+               <img src="img/career/hands.png" class="height-hand" alt="benifits">
+            </div>
             <div class="row pdg slider-contours">
                <div class="col-lg-4 col-md-4 col-6">
                   <div class="box-carrer">
-                     <p class="white box-car-txt font-weight-lighter">One of the</p>
-                     <h2 class="color-bronze text-uppercase"><span class="two-txt">top</span>2</h2>
-                     <p class="white">Developers  in India</p>
-                     <div class="white-line"></div>
+                     <img src="img/career/success.png" alt="success">
+                     <p class="white box-car-txt font-weight-lighter">Clear path<br> to success</p>
                   </div>
+                  <div class="clearfix"></div>
                </div>
                <div class="col-lg-4 col-md-4 col-6">
-                  <div class="box-carrer">
-                     <h2 class="color-bronze text-uppercase">13<span class="two-txt-2">Lucrative</span></h2>
-                     <p class="white">Commercial Projects</p>
-                     <div class="white-line"></div>
-                  </div>
+                    <div class="box-carrer">
+                        <img src="img/career/money.png" alt="money">
+                        <p class="white box-car-txt font-weight-lighter">Best Salary<br> benchmark</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-6">
+                    <div class="box-carrer">
+                        <img src="img/career/target.png" alt="target">
+                        <p class="white box-car-txt font-weight-lighter">Comprehensive<br> training</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-6 d_hide">
+                    <div class="box-carrer">
+                        <img src="img/career/business-and-finance.png" alt="business-and-finance">
+                        <p class="white box-car-txt font-weight-lighter">Enhanced<br> performance</p>
+                    </div>
                </div>
-               <div class="col-lg-4 col-md-4 col-6">
+               <div class="col-lg-4 col-md-4 col-6 d_hide">
                   <div class="box-carrer">
-                     <h2 class="color-bronze text-uppercase">15<span class="two-txt-2">Premium</span></h2>
-                     <p class="white">Residential Projects</p>
-                     <div class="white-line"></div>
+                    <img src="img/career/checkmark.png" alt="checkmark">
+                        <p class="white box-car-txt font-weight-lighter">Job Security</p>
                   </div>
                </div>
                <div class="col-lg-4 col-md-4 col-6 d_hide">
                   <div class="box-carrer">
-                     <h2 class="color-bronze text-uppercase">4<span class="two-txt-2">Crore SQ.FT</span></h2>
-                     <p class="white">Developed &amp; Under<br>Development Area</p>
-                     <div class="white-line"></div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-4 col-6 d_hide">
-                  <div class="box-carrer">
-                     <h2 class="color-bronze text-uppercase">2200</h2>
-                     <p class="white"><span class="font-weight-bold">Acres</span> Prime Land Bank</p>
-                     <div class="white-line"></div>
+                    <img src="img/career/partner.png" alt="partner">
+                        <p class="white box-car-txt font-weight-lighter">Diverse<br> networking</p>
                   </div>
                </div>
             </div>

@@ -365,48 +365,42 @@
                             <ul class="nav">
                                 <li><a href="#">home</a></li>
                                 <li>
-                                	<a href="#">Overview</a>
+                                	<a href="#">Company</a>
                                 	<ul class="sub-menu">
-                                    <li><a href="#">About JP Infra</a></li>
-                                    <li><a href="#">Leadership</a></li>
-                                    <li><a href="#">Redevelopment Projects</a></li>
-                                    <li><a href="#">Achievements</a></li>
+                                    <li><a href="#">About Us</a></li>
+                                    <li><a href="#">CSR</a></li>
+                                    <li><a href="#">Awards</a></li>
                                   </ul>
                                 </li>
                                 <li>
-                                  <a href="#">project</a>
+                                  <a href="#">projects</a>
                                   <ul class="sub-menu">
-                                    <li><a href="#">Ongoing Projects</a></li>
-                                    <li><a href="#">Delivered Projects</a></li>
-                                    <li><a href="#">Construction Updates</a></li>
-                                    <li><a href="#">Testimonials</a></li>
+                                    <li><a href="#">Projects Delivered</a></li>
+                                    <li><a href="#">Residential</a></li>
+                                    <li><a href="#">Commercial</a></li>
+                                    <li><a href="#">New Launch</a></li>
                                   </ul>
                                 </li>
                                 <li>
-                                    <a href="#">Pushing Boundaries</a>
+                                    <a href="#">Partners</a>
                                     <ul class="sub-menu">
-                                      <li><a href="#">Design Innovation</a></li>
-                                      <li><a href="#">Integrated Living </a></li>
-                                      <li><a href="#">Because We Care</a></li>
-                                      <li><a href="#">Our Carbon Footprint</a></li>
-                                    </ul>
-                                  </li>
-                                  <li>
-                                    <a href="#">North</a>
-                                    <ul class="sub-menu">
-                                      <li><a href="#">North An Assured Way Of Living</a></li>
-                                      <li><a href="#">Transforming Mira Road</a></li>
-                                      <li><a href="#">Projects</a></li>
+                                      <li><a href="#">Architects</a></li>
+                                      <li><a href="#">Landscape Design</a></li>
+                                      <li><a href="#">Design Partners</a></li>
+                                      <li><a href="#">Golf Course Design</a></li>
+                                      <li><a href="#">Structural Consultants</a></li>
+                                      <li><a href="#">Construction</a></li>
+                                      <li><a href="#">Equipments</a></li>
                                     </ul>
                                   </li>
                                   <li>
                                     <a href="#">Media</a>
-                                    <ul class="sub-menu">
-                                      <li><a href="#">Glimpses Of JP Infra</a></li>
-                                      <li><a href="#">Articles</a></li>
-                                      <li><a href="#">Newsletters</a></li>
-                                      <li><a href="#">Workplace Events</a></li>
-                                    </ul>
+                                  </li>
+                                  <li>
+                                    <a href="#">Careers</a>
+                                  </li>
+                                  <li>
+                                    <a href="#">Contact Us</a>
                                   </li>
                               </ul>
                            
