@@ -51,6 +51,7 @@ $(document).ready(function () {
 
 	});
 
+/**********************Desktop Start*******************/
 
 	$("#delivered").click(function () {
 		$("#ongoing").removeClass("view-button-active");
@@ -99,7 +100,60 @@ $(document).ready(function () {
 		$("#demo4").css('display', 'none')
 		$("#demo3").css('display', 'block')
 	});
+/************************Desktop Ends Here***********************/
 
+
+
+/**********************Mobile Start*******************/
+
+$("#deliveredmob").click(function () {
+	$("#ongoingmob").removeClass("view-button-active");
+	$("#deliveredmob").addClass("view-button-active");
+});
+
+$("#ongoingmob").click(function () {
+	$("#deliveredmob").removeClass("view-button-active");
+	$("#ongoingmob").addClass("view-button-active");
+});
+
+$("#delmob").click(function () {
+	$("#ongoingmob").removeClass("view-button-active");
+	$("#deliveredmob").addClass("view-button-active");
+	$("#demo2mob").css('display', 'block')
+	$("#demo1mob").css('display', 'none')
+});
+
+$("#ongmob").click(function () {
+	$("#deliveredmob").removeClass("view-button-active");
+	$("#ongoingmob").addClass("view-button-active");
+	$("#demo2mob").css('display', 'none')
+	$("#demo1mob").css('display', 'block')
+});
+
+$("#delivered2mob").click(function () {
+	$("#ongoing2mob").removeClass("view-button-active");
+	$("#delivered2mob").addClass("view-button-active");
+});
+
+$("#ongoing2mob").click(function () {
+	$("#delivered2mob").removeClass("view-button-active");
+	$("#ongoing2mob").addClass("view-button-active");
+});
+
+$("#del2mob").click(function () {
+	$("#ongoing2mob").removeClass("view-button-active");
+	$("#delivered2mob").addClass("view-button-active");
+	$("#demo4mob").css('display', 'block')
+	$("#demo3mob").css('display', 'none')
+});
+
+$("#ong2mob").click(function () {
+	$("#delivered2mob").removeClass("view-button-active");
+	$("#ongoing2mob").addClass("view-button-active");
+	$("#demo4mob").css('display', 'none')
+	$("#demo3mob").css('display', 'block')
+});
+/************************Mobile Ends Here***********************/
 
 	var $logo = $('#scroll_top');
 	$(document).scroll(function () {

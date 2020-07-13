@@ -5,8 +5,8 @@
 <section class="banner-section" id="ban-id">
     <div class="contact-bann">
         <div class="bannercon-txt custom-heading">
-            <h5 class="text-uppercase white text-center">Lorem ipsum</h5>
-            <h2 class="text-uppercase white text-center">Lorem ipsum</h2>
+            <!-- <h5 class="text-uppercase white text-center">Contact Us</h5> -->
+            <h2 class="text-uppercase white text-center">Contact Us</h2>
         </div>
     </div>
 </section>
