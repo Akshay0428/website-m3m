@@ -1175,7 +1175,25 @@ media page
 .load-media{
 	float: right;
 }
-
+#section-more {
+	width: 100%;
+	height: auto;
+	word-wrap: break-word;
+  }
+  
+.moretext {
+	display: none;
+  }
+  
+#media-box-2{
+	  display: none;
+  }
+#media-box-3{
+	display: none;
+}
+#media-box-4{
+	display: none;
+}
 
 /********************************************************
   Footer
