@@ -107,7 +107,6 @@
             </div>
             <!-- extra sections  -->
             <div id="section-more">
-                <!-- <div class="article"> -->
                     <div class="moretext">
                         <div class="row media-card pdng-top">
                             <div class="col-lg-4 col-md-4 col-12">
@@ -139,7 +138,6 @@
                             </div>
                         </div>
                     </div>
-                <!-- </div> -->
                 <div class="view-button" id="med4">
                     <a class="text-uppercase moreless-button" id="">load more</a>
                 </div>

@@ -63,6 +63,9 @@ h6{
 .txt-color{
 	color: #144168;
 }
+.car_mrg{
+	margin: 40px auto;
+}
 body {
 	margin: 0;
 	padding: 0;
@@ -136,6 +139,10 @@ img {
 	margin: 10px auto;
 	background-color: #4db748;
 	height: 4px;
+}
+
+.cmn_green{
+	width: 35% !important;
 }
 
 h2 {
@@ -1159,7 +1166,7 @@ contact us page
 media page
 *********************************************************************/
 .media-bann{
-	background-image: url(../img/media_page/Media-Banner.png);
+	background-image: url(../img/media_page/Media-Banner-desktop.png);
 	background-position: center;
 	background-repeat:no-repeat ;
 	background-size: 100% 100%;
@@ -1195,6 +1202,74 @@ media page
 	display: none;
 }
 
+
+/*********************************************************************
+bespoke living page
+*********************************************************************/
+.bespoke-bann{
+	background-image: url(../img/media_page/Media-Banner.png);
+	background-position: center;
+	background-repeat:no-repeat ;
+	background-size: 100% 100%;
+	height: 100vh;
+}
+.bannersl-txt {
+    position: absolute;
+    top: 50%;
+    transform: translate(50%, -50%);
+    left: 50%;
+}
+
+/********************************************************
+  career page
+  *******************************************************/
+
+.career-bann{
+	background-image: url(../img/career/career-banner-desktop.png);
+	background-position: center;
+	background-repeat:no-repeat ;
+	background-size: 100% 100%;
+	height: 80vh;
+}
+.career-bann h5{
+	letter-spacing: 8.2px;
+}
+.career-bann h2{
+	letter-spacing: 22px;
+}
+.pdng-benifit {
+    padding: 28px 110px !important;
+}
+.height-hand{
+	height: 85vh;
+}
+.box-carrer img {
+    display: flex;
+    width: 35%;
+    margin: 20px 0px;
+}
+.bottom-carrer{
+	margin: 40px 0px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
+}
+.carrer-formbox{
+	width: 80%;
+    margin: 0 auto !important;
+    padding: 40px 0px;
+}
+.form-mrgbtm{
+	margin-bottom:35px !important;
+}
+.carrer-submit{
+    width: 50% !important;
+    float: right !important;
+    margin-top: 10%;	
+}
+.custom-file-label {
+	top: 77% !important;
+	left: 5% !important;
+	right: 5% !important;
+}
 /********************************************************
   Footer
   *******************************************************/
@@ -1529,7 +1604,50 @@ a[data-tooltip][data-placement="bottom"]::after {
 		letter-spacing: 5px;
 		font-size: 22px !important;
 	}
-
+/*******************************
+contact us mobile
+********************************/
+	.contact-bann{
+		background-image: url(../img/contact-page/Contact-Us_Mobile.png);
+	}
+/*******************************
+career mobile
+********************************/
+	.career-bann{
+		background-image: url(../img/career/Career_Mobile-Banner.png);
+	}
+	.bannercon-txt {
+		width: 98% !important;
+	}
+	.career-bann h5 {
+		font-size: 18px;
+		letter-spacing: 2.2px;
+	}
+	.custom-heading h2{
+		font-weight: 400 !important;
+	}
+	.height-hand {
+		height: 50vh;
+	}
+	.bottom-carrer{
+		padding: 0px;
+		width: 98%;
+		margin: 30px auto;
+	}
+	.carrer-formbox {
+		width: 98%;
+	}
+	.carrer-submit {
+		width: 98% !important;
+		float: none !important;
+	}
+	/* .custom-file-label {
+		top: 67%;
+		width: 94%;
+		left: 3%;
+		height: calc(38px);
+		padding: 5px 19px;
+	} */
 /*******************************
 footer mobile
 ********************************/
