@@ -2,7 +2,8 @@
 <!-- banner section start -->
 
 <section class="banner-section" id="ban-id">
-   <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="false">
+   <!------------------------MOBILE CAROUSEL SECTION---------------------------------------->
+   <div id="carouselExampleIndicators" class="carousel slide m_hide" data-ride="carousel" data-interval="false">
       <ol class="carousel-indicators carousel-indicators-numbers">
          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active">1</li>
          <li data-target="#carouselExampleIndicators" data-slide-to="1">2</li>
@@ -45,16 +46,38 @@
             </div>
          </div>
       </div>
-   <!-- <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-      </a>
-      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-      </a>
-      </div>-->
-   <div class="search-sec mx-auto">
+   </div>
+
+   <!------------------------MOBILE CAROUSEL SECTION---------------------------------------->
+
+   <div id="carouselExampleIndicators2" class="carousel slide d_hide" data-ride="carousel">
+         <!-- <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+         </ol> -->
+         <div class="carousel-inner">
+            <div class="carousel-item active">
+               <img src="img/banner/mobile/Banner-01.png" class="d-block w-100 h-100" alt="M3M Banner">
+            </div>
+            <div class="carousel-item">
+               <img src="img/banner/mobile/Banner-02.png" class="d-block w-100 h-100" alt="M3M Banner">
+            </div>
+            <div class="carousel-item">
+               <img src="img/banner/mobile/Banner-01.png" class="d-block w-100 h-100" alt="M3M Banner">
+            </div>
+            <div class="carousel-item">
+               <img src="img/banner/mobile/Banner-01.png" class="d-block w-100 h-100" alt="M3M Banner">
+            </div>
+            <div class="carousel-item">
+               <img src="img/banner/mobile/Banner-02.png" class="d-block w-100 h-100" alt="M3M Banner">
+            </div>
+         </div>
+      </div>
+
+   <div class="search-sec mx-auto m_hide">
       <div class="container">
          <form action="#" method="post" novalidate="novalidate">
             <div class="custom-row">
@@ -91,9 +114,9 @@
 
 <!-- banner section ends -->
 
-<!-- resrden and comm section start -->
+<!-- Resedential Desktop section start -->
 
-<section class="header-extradiv-custom" id="Residential">
+<section class="header-extradiv-custom m_hide" id="Residential">
    <div class="residential-div">
    <div class="container">
       <div class="custom-heading">
@@ -111,12 +134,12 @@
             </div>
             <div class="col-lg-4 col-md-4 col-12 custom-col-setting">
                <div class="row custom-row-setting">
-                  <div class="col-lg-6 col-md-6 col-12 custom-col-setting">
+                  <div class="col-lg-6 col-md-6 col-6 custom-col-setting">
                      <div class="view-button view-button-active" id="ongoing">
                         <a class="text-uppercase" id="ong">ongoing</a>
                      </div>
                   </div>
-                  <div class="col-lg-6 col-md-6 col-12 custom-col-setting">
+                  <div class="col-lg-6 col-md-6 col-6 custom-col-setting">
                      <div class="view-button" id="delivered">
                         <a class="text-uppercase" id="del">delivered</a>
                      </div>
@@ -656,7 +679,221 @@
    </div>
 </section>
 
-<!-- resrden and comm section ends -->
+<!-- Resedential Desktop section ends -->
+
+<!-- Resedential Mobile section start -->
+<section class="header-extradiv-custom d_hide" id="Residential">
+   <div class="residential-div">
+   <div class="container">
+      <div class="custom-heading">
+         <h2 class="text-left text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500"><span class="color-head">projects</span><br>residential</h2>
+         <div class="green-line float-left" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
+      </div>
+      <div class="clearfix"></div>
+      <div class="main-content">
+         <div class="row custom-row-setting">
+            <div class="col-lg-8 col-md-8 col-12 custom-col-setting">
+               <div class="inner-para" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
+                  <p>Meticulously crafted and emotionally designed, M3M homes are the perfect place to be in. A lifestyle benchmark in Gurugram, today and tomorrow, our thriving communities are our biggest achievement
+                  </p>
+               </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-12 custom-col-setting">
+               <div class="row custom-row-setting">
+                  <div class="col-lg-6 col-md-6 col-6 custom-col-setting">
+                     <div class="view-button view-button-active" id="ongoingmob">
+                        <a class="text-uppercase" id="ongmob">ongoing</a>
+                     </div>
+                  </div>
+                  <div class="col-lg-6 col-md-6 col-6 custom-col-setting">
+                     <div class="view-button" id="deliveredmob">
+                        <a class="text-uppercase" id="delmob">delivered</a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+   
+         <div id="demo1mob" class="carousel slide custom-row-setting" data-ride="carousel" >
+            <!-- Indicators -->
+            <!-- <ul class="carousel-indicators">
+               <li data-target="#demo" data-slide-to="0" class="active"></li>
+               <li data-target="#demo" data-slide-to="1"></li>
+               <li data-target="#demo" data-slide-to="2"></li>
+               </ul> -->
+            <!-- The slideshow -->
+            <div class="carousel-inner">
+               <div class="carousel-item carousel-item-custom active">
+                  <div class="row custom-row-setting" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
+                     <div class="col-12 gal-item">
+                        <div class="col-12 custom-col-setting-pad">
+                           <div class="box content">
+                              <img src="img/projects-mob/M3M-IFC.png" class="img-ht img-fluid rounded">
+                              <div class="content-overlay"></div>
+                              <div class="content-details fadeIn-top">
+                                 <h3>M3M IFC</h3>
+                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                                 <h4>KNOW MORE</h4>
+                              </div>
+                              <div class="btm-txt">
+                                 <p>M3M IFC</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="carousel-item carousel-item-custom">
+                  <div class="row custom-row-setting" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
+                     <div class="col-12 gal-item">
+                        <div class="col-12 custom-col-setting-pad">
+                           <div class="box content">
+                              <img src="img/projects-mob/M3M-Arch.png" class="img-ht img-fluid rounded">
+                              <div class="content-overlay"></div>
+                              <div class="content-details fadeIn-top">
+                                 <h3>M3M Arch</h3>
+                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                                 <h4>KNOW MORE</h4>
+                              </div>
+                              <div class="btm-txt">
+                                 <p>M3M Arch</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="carousel-item carousel-item-custom">
+                  <div class="row custom-row-setting" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
+                     <div class="col-12 gal-item">
+                        <div class="col-12 custom-col-setting-pad">
+                           <div class="box content">
+                              <img src="img/projects-mob/M3M-Golfestate.png" class="img-ht img-fluid rounded">
+                              <div class="content-overlay"></div>
+                              <div class="content-details fadeIn-top">
+                                 <h3>M3M Golfestate</h3>
+                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                                 <h4>KNOW MORE</h4>
+                              </div>
+                              <div class="btm-txt">
+                                 <p>M3M Golfestate</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="carousel-item carousel-item-custom">
+                  <div class="row custom-row-setting" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
+                     <div class="col-12 gal-item">
+                        <div class="col-12 custom-col-setting-pad">
+                           <div class="box content">
+                              <img src="img/projects-mob/M3M-Ikonic.png" class="img-ht img-fluid rounded">
+                              <div class="content-overlay"></div>
+                              <div class="content-details fadeIn-top">
+                                 <h3>M3M Ikonic</h3>
+                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                                 <h4>KNOW MORE</h4>
+                              </div>
+                              <div class="btm-txt">
+                                 <p>M3M Ikonic</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="carousel-item carousel-item-custom">
+                  <div class="row custom-row-setting" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
+                     <div class="col-12 gal-item">
+                        <div class="col-12 custom-col-setting-pad">
+                           <div class="box content">
+                              <img src="img/projects-mob/M3M-Palm-Line-Boulevard.png" class="img-ht img-fluid rounded">
+                              <div class="content-overlay"></div>
+                              <div class="content-details fadeIn-top">
+                                 <h3>M3M Palm Line Boulevard</h3>
+                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                                 <h4>KNOW MORE</h4>
+                              </div>
+                              <div class="btm-txt">
+                                 <p>M3M Palm Line Boulevard</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!-- Left and right controls -->
+            <a class="carousel-control-prev" href="#demo1mob" data-slide="prev">
+            <span class="carousel-control-prev-icon carousel-control-prev-icon-custom"></span>
+            </a>
+            <a class="carousel-control-next" href="#demo1mob" data-slide="next">
+            <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
+            </a>
+         </div>      
+         <div id="demo2mob" class="carousel slide custom-row-setting" data-ride="carousel" >
+            <!-- Indicators -->
+            <!-- <ul class="carousel-indicators">
+               <li data-target="#demo" data-slide-to="0" class="active"></li>
+               <li data-target="#demo" data-slide-to="1"></li>
+               <li data-target="#demo" data-slide-to="2"></li>
+               </ul> -->
+            <!-- The slideshow -->
+            <div class="carousel-inner">
+               <div class="carousel-item carousel-item-custom active">
+                  <div class="row custom-row-setting" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
+                     <div class="col-12 gal-item">
+                        <div class="col-12 custom-col-setting-pad">
+                           <div class="box content">
+                              <img src="img/projects-mob/M3M-Prive-73.png" class="img-ht img-fluid rounded">
+                              <div class="content-overlay"></div>
+                              <div class="content-details fadeIn-top">
+                                 <h3>M3M PRIVE73</h3>
+                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                                 <h4>KNOW MORE</h4>
+                              </div>
+                              <div class="btm-txt">
+                                 <p>M3M PRIVE73</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="carousel-item carousel-item-custom">
+                  <div class="row custom-row-setting" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
+                     <div class="col-12 gal-item">
+                        <div class="col-12 custom-col-setting-pad">
+                           <div class="box content">
+                              <img src="img/projects-mob/M3M-65th-Avenue.png" class="img-ht img-fluid rounded">
+                              <div class="content-overlay"></div>
+                              <div class="content-details fadeIn-top">
+                                 <h3>M3M 65th Avenue</h3>
+                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                                 <h4>KNOW MORE</h4>
+                              </div>
+                              <div class="btm-txt">
+                                 <p>M3M 65th Avenue</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!-- Left and right controls -->
+            <a class="carousel-control-prev" href="#demo2mob" data-slide="prev">
+            <span class="carousel-control-prev-icon carousel-control-prev-icon-custom"></span>
+            </a>
+            <a class="carousel-control-next" href="#demo2mob" data-slide="next">
+            <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
+            </a>
+         </div>   
+   </div>
+   </div>
+</section>
+<!-- Resedential Mobile section ends -->
 
 <!--chat box  section start -->
 
@@ -671,9 +908,9 @@
 
 <!-- chat box section ends -->
 
-<!--commercial  section start -->
+<!--commercial  Desktop section start -->
 
-<section class="header-extradiv" id="Commercial">
+<section class="header-extradiv m_hide" id="Commercial">
    <div class="residential-div">
    <div class="container">
       <div class="clearfix"></div>
@@ -1165,7 +1402,223 @@
    </div>
 </section>
 
-<!--commercial  section ends -->
+<!--commercial  Desktop section ends -->
+
+<!--commercial  Mobile section start -->
+
+<section class="header-extradiv d_hide" id="Commercial">
+   <div class="residential-div">
+   <div class="container">
+      <div class="clearfix"></div>
+      <div class="main-content">
+         <div class="row custom-row-setting">
+            <div class="col-lg-6 col-md-6 col-12 custom-col-setting">
+            <div class="custom-heading">
+               <h2 class="text-left text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">commercial</h2>
+               <div class="green-line float-left test-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
+            </div> 
+            <div class="clearfix"></div>
+               <div class="inner-para-commercial" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
+                  <p class="text-left">Striving to achieve the best in class, M3M’s commercial projects are state-of-the-art masterpieces that are strategically located and have cutting edge infrastructure
+                  </p>
+               </div>
+               <div class="col-lg-6 col-md-6 col-12 custom-col-setting">
+               <div class="row custom-row-setting">
+                  <div class="col-lg-6 col-md-6 col-12 custom-col-setting commercial-btn">
+                     <div class="view-button view-button-active" id="ongoing2mob">
+                        <a class="text-uppercase" id="ong2mob">ongoing</a>
+                     </div>
+                  </div>
+                  <div class="col-lg-6 col-md-6 col-12 custom-col-setting commercial-btn">
+                     <div class="view-button" id="delivered2mob">
+                        <a class="text-uppercase" id="del2mob">delivered</a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+         <div id="demo3mob" class="carousel slide custom-row-setting" data-ride="carousel" >
+            <!-- Indicators -->
+            <!-- <ul class="carousel-indicators">
+               <li data-target="#demo" data-slide-to="0" class="active"></li>
+               <li data-target="#demo" data-slide-to="1"></li>
+               <li data-target="#demo" data-slide-to="2"></li>
+               </ul> -->
+            <!-- The slideshow -->
+            <div class="carousel-inner">
+               <div class="carousel-item carousel-item-custom active">
+                  <div class="row custom-row-setting" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
+                     <div class="col-12 gal-item">
+                        <div class="col-12 custom-col-setting-pad">
+                           <div class="box content">
+                              <img src="img/projects-mob/M3M-IFC.png" class="img-ht img-fluid rounded">
+                              <div class="content-overlay"></div>
+                              <div class="content-details fadeIn-top">
+                                 <h3>M3M IFC</h3>
+                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                                 <h4>KNOW MORE</h4>
+                              </div>
+                              <div class="btm-txt">
+                                 <p>M3M IFC</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="carousel-item carousel-item-custom">
+                  <div class="row custom-row-setting" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
+                     <div class="col-12 gal-item">
+                        <div class="col-12 custom-col-setting-pad">
+                           <div class="box content">
+                              <img src="img/projects-mob/M3M-Arch.png" class="img-ht img-fluid rounded">
+                              <div class="content-overlay"></div>
+                              <div class="content-details fadeIn-top">
+                                 <h3>M3M Arch</h3>
+                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                                 <h4>KNOW MORE</h4>
+                              </div>
+                              <div class="btm-txt">
+                                 <p>M3M Arch</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="carousel-item carousel-item-custom">
+                  <div class="row custom-row-setting" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
+                     <div class="col-12 gal-item">
+                        <div class="col-12 custom-col-setting-pad">
+                           <div class="box content">
+                              <img src="img/projects-mob/M3M-Golfestate.png" class="img-ht img-fluid rounded">
+                              <div class="content-overlay"></div>
+                              <div class="content-details fadeIn-top">
+                                 <h3>M3M Golfestate</h3>
+                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                                 <h4>KNOW MORE</h4>
+                              </div>
+                              <div class="btm-txt">
+                                 <p>M3M Golfestate</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="carousel-item carousel-item-custom">
+                  <div class="row custom-row-setting" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
+                     <div class="col-12 gal-item">
+                        <div class="col-12 custom-col-setting-pad">
+                           <div class="box content">
+                              <img src="img/projects-mob/M3M-Ikonic.png" class="img-ht img-fluid rounded">
+                              <div class="content-overlay"></div>
+                              <div class="content-details fadeIn-top">
+                                 <h3>M3M Ikonic</h3>
+                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                                 <h4>KNOW MORE</h4>
+                              </div>
+                              <div class="btm-txt">
+                                 <p>M3M Ikonic</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="carousel-item carousel-item-custom">
+                  <div class="row custom-row-setting" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
+                     <div class="col-12 gal-item">
+                        <div class="col-12 custom-col-setting-pad">
+                           <div class="box content">
+                              <img src="img/projects-mob/M3M-Palm-Line-Boulevard.png" class="img-ht img-fluid rounded">
+                              <div class="content-overlay"></div>
+                              <div class="content-details fadeIn-top">
+                                 <h3>M3M Palm Line Boulevard</h3>
+                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                                 <h4>KNOW MORE</h4>
+                              </div>
+                              <div class="btm-txt">
+                                 <p>M3M Palm Line Boulevard</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!-- Left and right controls -->
+            <a class="carousel-control-prev" href="#demo3mob" data-slide="prev">
+            <span class="carousel-control-prev-icon carousel-control-prev-icon-custom"></span>
+            </a>
+            <a class="carousel-control-next" href="#demo3mob" data-slide="next">
+            <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
+            </a>
+         </div>      
+         <div id="demo4mob" class="carousel slide custom-row-setting" data-ride="carousel" >
+            <!-- Indicators -->
+            <!-- <ul class="carousel-indicators">
+               <li data-target="#demo" data-slide-to="0" class="active"></li>
+               <li data-target="#demo" data-slide-to="1"></li>
+               <li data-target="#demo" data-slide-to="2"></li>
+               </ul> -->
+            <!-- The slideshow -->
+            <div class="carousel-inner">
+               <div class="carousel-item carousel-item-custom active">
+                  <div class="row custom-row-setting" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
+                     <div class="col-12 gal-item">
+                        <div class="col-12 custom-col-setting-pad">
+                           <div class="box content">
+                              <img src="img/projects-mob/M3M-Prive-73.png" class="img-ht img-fluid rounded">
+                              <div class="content-overlay"></div>
+                              <div class="content-details fadeIn-top">
+                                 <h3>M3M PRIVE73</h3>
+                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                                 <h4>KNOW MORE</h4>
+                              </div>
+                              <div class="btm-txt">
+                                 <p>M3M PRIVE73</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="carousel-item carousel-item-custom">
+                  <div class="row custom-row-setting" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
+                     <div class="col-12 gal-item">
+                        <div class="col-12 custom-col-setting-pad">
+                           <div class="box content">
+                              <img src="img/projects-mob/M3M-65th-Avenue.png" class="img-ht img-fluid rounded">
+                              <div class="content-overlay"></div>
+                              <div class="content-details fadeIn-top">
+                                 <h3>M3M 65th Avenue</h3>
+                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                                 <h4>KNOW MORE</h4>
+                              </div>
+                              <div class="btm-txt">
+                                 <p>M3M 65th Avenue</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <!-- Left and right controls -->
+            <a class="carousel-control-prev" href="#demo4mob" data-slide="prev">
+            <span class="carousel-control-prev-icon carousel-control-prev-icon-custom"></span>
+            </a>
+            <a class="carousel-control-next" href="#demo4mob" data-slide="next">
+            <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
+            </a>
+         </div> 
+      </div>
+   </div>
+</section>
+
+<!--commercial  Mobile section ends -->
 
 <!--glimpse  section start -->
 <section class="header-extradiv">
@@ -1177,7 +1630,7 @@
       </p>
    </div>
    <div class="clearfix"></div>
-   <div class="glimpses-class" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1500">
+   <div class="glimpses-class m_hide" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1500">
       <div class="row custom-row-setting">
          <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
             <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-50 custom-col-setting-pad">
@@ -1190,20 +1643,6 @@
                   <img src="img/Image10.png" class="img-ht img-fluid rounded">
                </div>
             </div>
-            <!-- <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-50 custom-col-setting-pad">
-               <div class="row">
-               <div class="col-md-6 col-sm-6 co-xs-12 gal-item h-50 custom-col-setting-pad">
-                 <div class="box">
-                    <img src="img/Image11.png" class="img-ht img-fluid rounded">
-                 </div>
-               </div>
-               <div class="col-md-6 col-sm-6 co-xs-12 gal-item h-50 custom-col-setting-pad">
-               <div class="box">
-                  <img src="img/Image12.png" class="img-ht img-fluid rounded">
-               </div>
-               </div>
-               </div>
-               </div> -->
          </div>
          <div class="col-md-4 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
             <div class="row h-50 custom-row-setting">
@@ -1214,15 +1653,6 @@
                </div>
             </div>
          </div>
-         <!-- <div class="col-md-4 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
-            <div class="row h-50 custom-row-setting">
-               <div class="col-md-12 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
-                  <div class="box">
-                     <img src="img/Image14.png" class="img-ht img-fluid rounded">
-               </div>
-            </div>
-            </div>
-            </div> -->
          <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
             <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-50 custom-col-setting-pad">
                <div class="box">
@@ -1234,20 +1664,31 @@
                   <img src="img/Image10.png" class="img-ht img-fluid rounded">
                </div>
             </div>
-            <!-- <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-50 custom-col-setting-pad">
-               <div class="row">
-               <div class="col-md-6 col-sm-6 co-xs-12 gal-item h-50 custom-col-setting-pad">
-                 <div class="box">
-                    <img src="img/Image11.png" class="img-ht img-fluid rounded">
-                 </div>
-               </div>
-               <div class="col-md-6 col-sm-6 co-xs-12 gal-item h-50 custom-col-setting-pad">
-               <div class="box">
-                  <img src="img/Image12.png" class="img-ht img-fluid rounded">
-               </div>
-               </div>
-               </div>
-               </div> -->
+         </div>
+         <!-- <div class="col-lg-12">   
+            <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2F20531316728%2Fposts%2F10154009990506729%2F&show_text=true&width=552&appId=333141201041040&height=274" width="100%" height="350px" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+         </div> -->
+      </div>
+   </div>
+   <div class="row pdng-top glimpses-class glimpsesslider d_hide" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1500">
+      <div class="col-sm-4">
+         <div class="container">
+            <img src="img/home-glimses/Glimses-01.png" alt="Glimses-01">
+         </div>
+      </div>
+      <div class="col-sm-4">
+         <div class="container">
+            <img src="img/home-glimses/Glimses-02.png" alt="Glimses-02">
+         </div>
+      </div>
+      <div class="col-sm-4">
+         <div class="container">
+            <img src="img/home-glimses/Glimses-03.png" alt="Glimses-03">
+         </div>
+      </div>
+      <div class="col-sm-4">
+         <div class="container">
+            <img src="img/home-glimses/Glimses-04.png" alt="Glimses-04">
          </div>
       </div>
    </div>
@@ -1256,18 +1697,18 @@
 <!--glimpse  section ends -->
 
 
-<!--real estate  section start -->
+<!--Contours real estate  section start -->
 <div class="rel_estate">
    <div class="row rel-margr">
-      <div class="col-sm-4 pdg">
+      <div class="col-sm-4 pdg m_hide">
          <img src="img/real_estate.png" alt="real estate">
       </div>
       <div class="col-sm-8 pdg real-txt">
-         <div class="container pdng-real">
-            <h2 class="white text-uppercase real-h2" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">changing the<br> contours of <br>real estate</h2>
-            <div class="green-line prtnr-line real-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
+         <div class="container pdng-real m_hide">
+            <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">changing the<br> contours of <br>real estate</h2>
+            <div class="green-line prtnr-line real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
             <div class="row pdg">
-               <div class="col-sm-4">
+               <div class="col-lg-4 col-md-4 col-6">
                   <div class="box">
                      <p class="white top-txt">One of the</p>
                      <h2 class="color-bronze text-uppercase"><span class="two-txt">top</span>2</h2>
@@ -1275,30 +1716,106 @@
                      <div class="white-line"></div>
                   </div>
                </div>
-               <div class="col-sm-4">
+               <div class="col-lg-4 col-md-4 col-6">
                   <div class="box">
                      <h2 class="color-bronze text-uppercase">13<span class="two-txt-2">Lucrative</span></h2>
                      <p class="white">Commercial Projects</p>
                      <div class="white-line"></div>
                   </div>
                </div>
-               <div class="col-sm-4">
+               <div class="col-lg-4 col-md-4 col-6">
                   <div class="box">
                      <h2 class="color-bronze text-uppercase">15<span class="two-txt-2">Premium</span></h2>
                      <p class="white">Residential Projects</p>
                      <div class="white-line"></div>
                   </div>
                </div>
-            </div>
-            <div class="row pdg">
-               <div class="col-sm-4">
+               <div class="col-lg-4 col-md-4 col-6 d_hide">
                   <div class="box">
                      <h2 class="color-bronze text-uppercase">4<span class="two-txt-2">Crore SQ.FT</span></h2>
-                     <p class="white">Developed & Under<br>Development Area</p>
+                     <p class="white">Developed &amp; Under<br>Development Area</p>
                      <div class="white-line"></div>
                   </div>
                </div>
-               <div class="col-sm-4">
+               <div class="col-lg-4 col-md-4 col-6 d_hide">
+                  <div class="box">
+                     <h2 class="color-bronze text-uppercase">2200</h2>
+                     <p class="white"><span class="font-weight-bold">Acres</span> Prime Land Bank</p>
+                     <div class="white-line"></div>
+                  </div>
+               </div>
+            </div>
+            <div class="row pdg">
+               <div class="col-lg-4 col-md-4 col-6 m_hide">
+                  <div class="box">
+                     <h2 class="color-bronze text-uppercase">4<span class="two-txt-2">Crore SQ.FT</span></h2>
+                     <p class="white">Developed &amp; Under<br>Development Area</p>
+                     <div class="white-line"></div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-6 m_hide">
+                  <div class="box">
+                     <h2 class="color-bronze text-uppercase">2200</h2>
+                     <p class="white"><span class="font-weight-bold">Acres</span> Prime Land Bank</p>
+                     <br>
+                     <div class="white-line"></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="container pdng-real d_hide">
+            <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">changing the<br> contours of <br>real estate</h2>
+            <div class="green-line prtnr-line real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
+            <div class="col-sm-4 pdg d_hide">
+               <img src="img/Contour.png" alt="real estate">
+            </div>
+            <div class="row pdg slider-contours">
+               <div class="col-lg-4 col-md-4 col-6">
+                  <div class="box">
+                     <p class="white top-txt">One of the</p>
+                     <h2 class="color-bronze text-uppercase"><span class="two-txt">top</span>2</h2>
+                     <p class="white">Developers  in India</p>
+                     <div class="white-line"></div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-6">
+                  <div class="box">
+                     <h2 class="color-bronze text-uppercase">13<span class="two-txt-2">Lucrative</span></h2>
+                     <p class="white">Commercial Projects</p>
+                     <div class="white-line"></div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-6">
+                  <div class="box">
+                     <h2 class="color-bronze text-uppercase">15<span class="two-txt-2">Premium</span></h2>
+                     <p class="white">Residential Projects</p>
+                     <div class="white-line"></div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-6 d_hide">
+                  <div class="box">
+                     <h2 class="color-bronze text-uppercase">4<span class="two-txt-2">Crore SQ.FT</span></h2>
+                     <p class="white">Developed &amp; Under<br>Development Area</p>
+                     <div class="white-line"></div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-6 d_hide">
+                  <div class="box">
+                     <h2 class="color-bronze text-uppercase">2200</h2>
+                     <p class="white"><span class="font-weight-bold">Acres</span> Prime Land Bank</p>
+                     <div class="white-line"></div>
+                  </div>
+               </div>
+            </div>
+            <div class="row pdg">
+               <div class="col-lg-4 col-md-4 col-6 m_hide">
+                  <div class="box">
+                     <h2 class="color-bronze text-uppercase">4<span class="two-txt-2">Crore SQ.FT</span></h2>
+                     <p class="white">Developed &amp; Under<br>Development Area</p>
+                     <div class="white-line"></div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-6 m_hide">
                   <div class="box">
                      <h2 class="color-bronze text-uppercase">2200</h2>
                      <p class="white"><span class="font-weight-bold">Acres</span> Prime Land Bank</p>
@@ -1382,11 +1899,8 @@
       <h2 class="text-uppercase pdng-top" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">partners and<br> testimonials</h2>
       <div class="green-line prtnr-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
       <div class="row pdng-top partner-slider">
-         <div class="col-sm-6">
-            <div class="row">
-               <div class="col-sm-12">
-                  <iframe width="100%" height="350px" src="https://www.youtube.com/embed/ngL6S0lDMeQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-               </div>
+         <div class="col-sm-6"> 
+            <iframe width="100%" height="350px" src="https://www.youtube.com/embed/nUsc2wxaavw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                <!-- <div class="col-sm-6">
                   <div class="info">
                      <div class="name pdng-top">
@@ -1400,34 +1914,69 @@
                      </div>
                   </div>
                </div> -->
-            </div>
          </div>
          <div class="col-sm-6">
-            <div class="row">
-               <div class="col-sm-12">
-                  <iframe width="100%" height="350px" src="https://www.youtube.com/embed/ngL6S0lDMeQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-               </div>
+            <iframe width="100%" height="350px" src="https://www.youtube.com/embed/C8kvUT2PE1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                <!-- <div class="col-sm-6">
                   <div class="info">
                      <div class="name pdng-top">
-                        <h4 class="font-bold">uha<span class="font-400">london</span></h4>
+                        <h4 class="text-center text-uppercase">arcop</h4>
                      </div>
                      <div class="position">
-                        <h4 class="text-capitalize">john marc<br><span class="font-500">CEO, uhalondon</span></h4>
+                        <h4 class="text-capitalize">dalia reda<br><span class="text-uppercase">md, arcop</span></h4>
                      </div>
                      <div class="work pdng-top">
                         <p>Lorem Ipsum, Or Lipsum As It Is Sometimes Known, Is Dummy Text Used In Laying Out Print, Graphic Or Web Designs.The Passage Is Attributed To An Unknown Typesetter In The 15th Century</p>
                      </div>
                   </div>
                </div> -->
-            </div>
          </div>
          <div class="col-sm-6">
-            <div class="row">
-               <div class="col-sm-12">
-                  <iframe width="100%" height="350px" src="https://www.youtube.com/embed/ngL6S0lDMeQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-               </div>
-            </div>
+                  <iframe width="100%" height="350px" src="https://www.youtube.com/embed/vYBaAlzLaKg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><!-- <div class="col-sm-6">
+                  <div class="info">
+                     <div class="name pdng-top">
+                        <h4 class="text-center text-uppercase">arcop</h4>
+                     </div>
+                     <div class="position">
+                        <h4 class="text-capitalize">dalia reda<br><span class="text-uppercase">md, arcop</span></h4>
+                     </div>
+                     <div class="work pdng-top">
+                        <p>Lorem Ipsum, Or Lipsum As It Is Sometimes Known, Is Dummy Text Used In Laying Out Print, Graphic Or Web Designs.The Passage Is Attributed To An Unknown Typesetter In The 15th Century</p>
+                     </div>
+                  </div>
+               </div> -->
+         </div>
+         <div class="col-sm-6">
+            <iframe width="100%" height="350px" src="https://www.youtube.com/embed/e_G_t6lBWeA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                  <!-- <div class="col-sm-6">
+                  <div class="info">
+                     <div class="name pdng-top">
+                        <h4 class="text-center text-uppercase">arcop</h4>
+                     </div>
+                     <div class="position">
+                        <h4 class="text-capitalize">dalia reda<br><span class="text-uppercase">md, arcop</span></h4>
+                     </div>
+                     <div class="work pdng-top">
+                        <p>Lorem Ipsum, Or Lipsum As It Is Sometimes Known, Is Dummy Text Used In Laying Out Print, Graphic Or Web Designs.The Passage Is Attributed To An Unknown Typesetter In The 15th Century</p>
+                     </div>
+                  </div>
+               </div> -->
+         </div>
+         <div class="col-sm-6">
+            <iframe width="100%" height="350px" src="https://www.youtube.com/embed/ngL6S0lDMeQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+                  <!-- <div class="col-sm-6">
+                  <div class="info">
+                     <div class="name pdng-top">
+                        <h4 class="text-center text-uppercase">arcop</h4>
+                     </div>
+                     <div class="position">
+                        <h4 class="text-capitalize">dalia reda<br><span class="text-uppercase">md, arcop</span></h4>
+                     </div>
+                     <div class="work pdng-top">
+                        <p>Lorem Ipsum, Or Lipsum As It Is Sometimes Known, Is Dummy Text Used In Laying Out Print, Graphic Or Web Designs.The Passage Is Attributed To An Unknown Typesetter In The 15th Century</p>
+                     </div>
+                  </div>
+               </div> -->
          </div>
       </div>
    </div>
