@@ -138,7 +138,7 @@
                             </div>
                         </div>
                     </div>
-                <div class="view-button" id="med4">
+                <div class="view-button float-right" id="med4">
                     <a class="text-uppercase moreless-button" id="">load more</a>
                 </div>
             </div>
