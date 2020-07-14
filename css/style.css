@@ -1655,7 +1655,7 @@ contact us mobile
 		height: calc(38px);
 		padding: 5px 19px;
 	} */
-=======
+
 /******************************
 Resedential & Commercial Section
 **********************************/
@@ -1742,6 +1742,30 @@ footer mobile
 		justify-content: unset;
 		align-items: unset;
 	}
+
+ /****************************Careers Page******************************/
+.career-bann{
+	background-image: url(../img/career/Career_Mobile-Banner.png);
+	height: 300px;
+}
+.career p {
+	text-align: center;
+	font-size: 14px;
+}
+.box-carrer img {
+    width: 50%;
+    margin: 0 auto;
+}
+.pdng-benifit{
+	padding: 28px !important;
+}
+/*********************************************************************
+media page
+*********************************************************************/
+.media-bann{
+	background-image: url(../img/media_page/Media-Banner-mobile.png);
+	height: 300px;
+}
 
 }
 

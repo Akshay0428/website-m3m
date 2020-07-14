@@ -6,7 +6,7 @@
     <div class="redefining-bann">
         <div class="bannercon-txt custom-heading">
             <!-- <h5 class="text-uppercase text-center white">growth is constant</h5> -->
-            <h2 class="text-uppercase text-center white">Lorem Ipsum</h2>
+            <!-- <h2 class="text-uppercase text-center white">Lorem Ipsum</h2> -->
         </div>
     </div>
 </section>
