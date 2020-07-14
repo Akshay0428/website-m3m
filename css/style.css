@@ -989,7 +989,8 @@ real estate desktop
 	.box h2{
 	margin: 0px;
 	font-size: 75px !important;
-	letter-spacing: 0px;
+	letter-spacing: 0px !important;
+	font-weight: 400 !important;
 	}
 	.negative{
 	margin-top: -30px !important;
