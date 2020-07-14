@@ -737,7 +737,7 @@ Project Residential & commrcial
 }
 
 .gal-item .box {
-	height: 98.5% !important;
+	height: 100% !important;
 	overflow: hidden !important;
 }
 
@@ -1304,7 +1304,7 @@ bespoke living page
 
 /* footer ends */
 .contact-bg {
-	background-image: url(../img/contact/contact-bg.png);
+	background-image: url(../img/contact/footer.png);
 	background-position: center;
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
