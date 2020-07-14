@@ -18,6 +18,64 @@ $(document).ready(function () {
 		});
 	});
 
+	// media page start//
+
+	$('.moreless-button').click(function() {
+		$('.moretext').slideToggle();
+		if ($('.moreless-button').text() == "load more") {
+		  $(this).text("load less")
+		} else {
+		  $(this).text("load more")
+		}
+	});
+
+
+
+	$("#med1").click(function () {
+		$("#med1").addClass("view-button-active");
+		$("#med2").removeClass("view-button-active");
+		$("#med3").removeClass("view-button-active");
+		$("#med4").removeClass("view-button-active");
+		$("#media-box-1").css('display', 'block')
+		$("#media-box-2").css('display', 'none')
+		$("#media-box-3").css('display', 'none')
+		$("#media-box-4").css('display', 'none')
+	});
+
+	$("#med2").click(function () {
+		$("#med1").removeClass("view-button-active");
+		$("#med2").addClass("view-button-active");
+		$("#med3").removeClass("view-button-active");
+		$("#med4").removeClass("view-button-active");
+		$("#media-box-1").css('display', 'none')
+		$("#media-box-2").css('display', 'block')
+		$("#media-box-3").css('display', 'none')
+		$("#media-box-4").css('display', 'none')
+	});
+
+	$("#med3").click(function () {
+		$("#med1").removeClass("view-button-active");
+		$("#med2").removeClass("view-button-active");
+		$("#med3").addClass("view-button-active");
+		$("#med4").removeClass("view-button-active");
+		$("#media-box-1").css('display', 'none')
+		$("#media-box-2").css('display', 'none')
+		$("#media-box-3").css('display', 'block')
+		$("#media-box-4").css('display', 'none')
+	});
+
+	$("#med4").click(function () {
+		$("#med1").removeClass("view-button-active");
+		$("#med2").removeClass("view-button-active");
+		$("#med3").removeClass("view-button-active");
+		$("#med4").addClass("view-button-active");
+		$("#media-box-1").css('display', 'none')
+		$("#media-box-2").css('display', 'none')
+		$("#media-box-3").css('display', 'none')
+		$("#media-box-4").css('display', 'block')
+	});
+
+	// media page ends//
 
 	$(".asp-active").click(function () {
 		$("html").removeClass("responsive-menu-open");
@@ -51,6 +109,7 @@ $(document).ready(function () {
 
 	});
 
+/**********************Desktop Start*******************/
 
 	$("#delivered").click(function () {
 		$("#ongoing").removeClass("view-button-active");
@@ -99,7 +158,60 @@ $(document).ready(function () {
 		$("#demo4").css('display', 'none')
 		$("#demo3").css('display', 'block')
 	});
+/************************Desktop Ends Here***********************/
 
+
+
+/**********************Mobile Start*******************/
+
+$("#deliveredmob").click(function () {
+	$("#ongoingmob").removeClass("view-button-active");
+	$("#deliveredmob").addClass("view-button-active");
+});
+
+$("#ongoingmob").click(function () {
+	$("#deliveredmob").removeClass("view-button-active");
+	$("#ongoingmob").addClass("view-button-active");
+});
+
+$("#delmob").click(function () {
+	$("#ongoingmob").removeClass("view-button-active");
+	$("#deliveredmob").addClass("view-button-active");
+	$("#demo2mob").css('display', 'block')
+	$("#demo1mob").css('display', 'none')
+});
+
+$("#ongmob").click(function () {
+	$("#deliveredmob").removeClass("view-button-active");
+	$("#ongoingmob").addClass("view-button-active");
+	$("#demo2mob").css('display', 'none')
+	$("#demo1mob").css('display', 'block')
+});
+
+$("#delivered2mob").click(function () {
+	$("#ongoing2mob").removeClass("view-button-active");
+	$("#delivered2mob").addClass("view-button-active");
+});
+
+$("#ongoing2mob").click(function () {
+	$("#delivered2mob").removeClass("view-button-active");
+	$("#ongoing2mob").addClass("view-button-active");
+});
+
+$("#del2mob").click(function () {
+	$("#ongoing2mob").removeClass("view-button-active");
+	$("#delivered2mob").addClass("view-button-active");
+	$("#demo4mob").css('display', 'block')
+	$("#demo3mob").css('display', 'none')
+});
+
+$("#ong2mob").click(function () {
+	$("#delivered2mob").removeClass("view-button-active");
+	$("#ongoing2mob").addClass("view-button-active");
+	$("#demo4mob").css('display', 'none')
+	$("#demo3mob").css('display', 'block')
+});
+/************************Mobile Ends Here***********************/
 
 	var $logo = $('#scroll_top');
 	$(document).scroll(function () {

@@ -151,6 +151,16 @@
          position: fixed !important;
          background-color: transparent;
          }  
+
+         /* mobile banner */
+         .mobile_carousel .carousel-control-prev{
+            left: 0% !important;
+            top: 45% !important;
+         }
+         .mobile_carousel .carousel-control-next{
+            top: 45% !important;
+            right:0 !important;
+         }
       </style>
    </head>
    <body>
