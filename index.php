@@ -2,7 +2,7 @@
 <!-- banner section start -->
 
 <section class="banner-section" id="ban-id">
-   <!------------------------MOBILE CAROUSEL SECTION---------------------------------------->
+   <!------------------------Desktop CAROUSEL SECTION---------------------------------------->
    <div id="carouselExampleIndicators" class="carousel slide m_hide" data-ride="carousel" data-interval="false">
       <ol class="carousel-indicators carousel-indicators-numbers">
          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active">1</li>
@@ -60,19 +60,19 @@
          </ol> -->
          <div class="carousel-inner">
             <div class="carousel-item active">
-               <img src="img/banner/mobile/Banner-01.png" class="d-block w-100 h-100" alt="M3M Banner">
+               <img src="img/banner/mobile/mob-1.png" class="d-block w-100 h-100" alt="M3M Banner">
             </div>
             <div class="carousel-item">
-               <img src="img/banner/mobile/Banner-02.png" class="d-block w-100 h-100" alt="M3M Banner">
+               <img src="img/banner/mobile/mob-2.png" class="d-block w-100 h-100" alt="M3M Banner">
             </div>
             <div class="carousel-item">
-               <img src="img/banner/mobile/Banner-01.png" class="d-block w-100 h-100" alt="M3M Banner">
+               <img src="img/banner/mobile/mob-3.png" class="d-block w-100 h-100" alt="M3M Banner">
             </div>
             <div class="carousel-item">
-               <img src="img/banner/mobile/Banner-01.png" class="d-block w-100 h-100" alt="M3M Banner">
+               <img src="img/banner/mobile/mob-4.png" class="d-block w-100 h-100" alt="M3M Banner">
             </div>
             <div class="carousel-item">
-               <img src="img/banner/mobile/Banner-02.png" class="d-block w-100 h-100" alt="M3M Banner">
+               <img src="img/banner/mobile/mob-4.png" class="d-block w-100 h-100" alt="M3M Banner">
             </div>
          </div>
          <a class="carousel-control-prev" href="#carouselExampleIndicators2" role="button" data-slide="prev">
