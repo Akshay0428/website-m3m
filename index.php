@@ -13,44 +13,44 @@
       </ol>
       <div class="carousel-inner" role="listbox">
          <!-- Slide One - Set the background image for this slide in the line below -->
-         <div class="carousel-item active" style="background-image: url(img/banner/M3M_Banner.jpg)">
-            <div class="carousel-caption d-none d-md-block">
+         <div class="carousel-item active" style="background-image: url(img/banner/banner1.png)">
+            <!-- <div class="carousel-caption d-none d-md-block">
                <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
                <h2 class="display-4">VALUE CREATOR</h2>
-            </div>
+            </div> -->
          </div>
          <!-- Slide Two - Set the background image for this slide in the line below -->
-         <div class="carousel-item" style="background-image: url(img/banner/M3M_Banner02.jpg)">
-            <div class="carousel-caption d-none d-md-block">
-               <!-- <p class="slider-caption"></p><br>
-                  <h2 class="display-4">GURUGRAM</h2> -->
-            </div>
+         <div class="carousel-item" style="background-image: url(img/banner/banner2.png)">
+            <!-- <div class="carousel-caption d-none d-md-block">
+               <p class="slider-caption"></p><br>
+                  <h2 class="display-4">GURUGRAM</h2>
+            </div> -->
          </div>
          <!-- Slide Three - Set the background image for this slide in the line below -->
-         <div class="carousel-item" style="background-image: url(img/banner/M3M_Banner.jpg)">
-            <div class="carousel-caption d-none d-md-block">
+         <div class="carousel-item" style="background-image: url(img/banner/banner3.png)">
+            <!-- <div class="carousel-caption d-none d-md-block">
                <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
                <h2 class="display-4">VALUE CREATOR</h2>
-            </div>
+            </div> -->
          </div>
-         <div class="carousel-item" style="background-image: url(img/banner/M3M_Banner.jpg)">
-            <div class="carousel-caption d-none d-md-block">
+         <div class="carousel-item" style="background-image: url(img/banner/banner4.png)">
+            <!-- <div class="carousel-caption d-none d-md-block">
                <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
                <h2 class="display-4">VALUE CREATOR</h2>
-            </div>
+            </div> -->
          </div>
-         <div class="carousel-item" style="background-image: url(img/banner/M3M_Banner.jpg)">
-            <div class="carousel-caption d-none d-md-block">
+         <div class="carousel-item" style="background-image: url(img/banner/banner4.png)">
+            <!-- <div class="carousel-caption d-none d-md-block">
                <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
                <h2 class="display-4">VALUE CREATOR</h2>
-            </div>
+            </div> -->
          </div>
       </div>
    </div>
 
    <!------------------------MOBILE CAROUSEL SECTION---------------------------------------->
 
-   <div id="carouselExampleIndicators2" class="carousel slide d_hide" data-ride="carousel">
+   <div id="carouselExampleIndicators2" class="carousel slide mobile_carousel d_hide" data-ride="carousel">
          <!-- <ol class="carousel-indicators">
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -75,7 +75,15 @@
                <img src="img/banner/mobile/Banner-02.png" class="d-block w-100 h-100" alt="M3M Banner">
             </div>
          </div>
-      </div>
+         <a class="carousel-control-prev" href="#carouselExampleIndicators2" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+         </a>
+         <a class="carousel-control-next" href="#carouselExampleIndicators2" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+         </a>
+   </div>
 
    <!-- <div class="search-sec mx-auto m_hide">
       <div class="container">

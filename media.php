@@ -50,7 +50,7 @@
             <div class="row media-card pdng-top">
                 <div class="col-lg-4 col-md-4 col-12">
                     <div class="card">
-                        <img class="card-img-top" src="img/media_page/Media-01.png" alt="Card image">
+                        <img class="card-img-top" src="img/media_page/whats_new1.jpg" alt="Card image">
                         <div class="card-body">
                             <p class="card-title txt-color">06-Jul-2020</p>
                             <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
@@ -59,7 +59,7 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-12">
                     <div class="card">
-                        <img class="card-img-top" src="img/media_page/Media-02.png" alt="Card image">
+                        <img class="card-img-top" src="img/media_page/whats_new1.jpg" alt="Card image">
                         <div class="card-body">
                             <p class="card-title txt-color">06-Jul-2020</p>
                             <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
@@ -68,7 +68,8 @@
                 </div>
                 <div class="col-lg-4 col-md-4 col-12">
                     <div class="card">
-                        <img class="card-img-top" src="img/media_page/Media-03.png" alt="Card image">
+                        <a href="img/media_page/M3M, News Clipping of 'Growing by leaps and bounds'- The Times of India (11th July 2020).pdf">
+                        <img class="card-img-top" src="img/media_page/pdf.jpg" alt="Card image"></a>
                         <div class="card-body">
                             <p class="card-title txt-color">06-Jul-2020</p>
                             <p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
