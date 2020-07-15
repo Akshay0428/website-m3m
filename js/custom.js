@@ -32,10 +32,10 @@ $(document).ready(function () {
 
 
 	$("#med1").click(function () {
-		$("#med1").addClass("view-button-active");
-		$("#med2").removeClass("view-button-active");
-		$("#med3").removeClass("view-button-active");
-		$("#med4").removeClass("view-button-active");
+		$("#med1").addClass("view_btn_media-active");
+		$("#med2").removeClass("view_btn_media-active");
+		$("#med3").removeClass("view_btn_media-active");
+		$("#med4").removeClass("view_btn_media-active");
 		$("#media-box-1").css('display', 'block')
 		$("#media-box-2").css('display', 'none')
 		$("#media-box-3").css('display', 'none')
@@ -43,10 +43,10 @@ $(document).ready(function () {
 	});
 
 	$("#med2").click(function () {
-		$("#med1").removeClass("view-button-active");
-		$("#med2").addClass("view-button-active");
-		$("#med3").removeClass("view-button-active");
-		$("#med4").removeClass("view-button-active");
+		$("#med1").removeClass("view_btn_media-active");
+		$("#med2").addClass("view_btn_media-active");
+		$("#med3").removeClass("view_btn_media-active");
+		$("#med4").removeClass("view_btn_media-active");
 		$("#media-box-1").css('display', 'none')
 		$("#media-box-2").css('display', 'block')
 		$("#media-box-3").css('display', 'none')
@@ -54,10 +54,10 @@ $(document).ready(function () {
 	});
 
 	$("#med3").click(function () {
-		$("#med1").removeClass("view-button-active");
-		$("#med2").removeClass("view-button-active");
-		$("#med3").addClass("view-button-active");
-		$("#med4").removeClass("view-button-active");
+		$("#med1").removeClass("view_btn_media-active");
+		$("#med2").removeClass("view_btn_media-active");
+		$("#med3").addClass("view_btn_media-active");
+		$("#med4").removeClass("view_btn_media-active");
 		$("#media-box-1").css('display', 'none')
 		$("#media-box-2").css('display', 'none')
 		$("#media-box-3").css('display', 'block')
@@ -65,10 +65,10 @@ $(document).ready(function () {
 	});
 
 	$("#med4").click(function () {
-		$("#med1").removeClass("view-button-active");
-		$("#med2").removeClass("view-button-active");
-		$("#med3").removeClass("view-button-active");
-		$("#med4").addClass("view-button-active");
+		$("#med1").removeClass("view_btn_media-active");
+		$("#med2").removeClass("view_btn_media-active");
+		$("#med3").removeClass("view_btn_media-active");
+		$("#med4").addClass("view_btn_media-active");
 		$("#media-box-1").css('display', 'none')
 		$("#media-box-2").css('display', 'none')
 		$("#media-box-3").css('display', 'none')

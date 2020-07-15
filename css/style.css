@@ -22,6 +22,12 @@ html {
 .pdng-top{
     padding-top: 40px;
 }
+.pdng-btm{
+    padding-bottom: 40px;
+}
+/* .pdng_media_top_btm{
+	padding: 0px 5px !important;
+} */
 .mrg-top{
     margin-top: 80px;
 }
@@ -58,6 +64,9 @@ h6{
 }
 .txt-color{
 	color: #005aab;
+}
+.txt-color-bold{
+	color: #144168;
 }
 .car_mrg{
 	margin: 40px auto;
@@ -689,7 +698,6 @@ Project Residential & commrcial
 	background-color: #005aab;
 	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
 }
-
 .view-button-active a {
 	text-decoration: none !important;
 	color: #fff !important;
@@ -700,9 +708,39 @@ Project Residential & commrcial
     font-size: 12px !important;
 }
 
+.view_btn_media a{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: 5px 0px !important;
+	border: 1px solid #c5c5c5;
+	width: 100%;
+	border-radius: 0px;
+	outline: none;
+	color: #fff;
+	font-size: 13px;
+	font-family: montserrat;
+	font-weight: 400 !IMPORTANT;
+	line-height: 4.9;
+	text-align: center;
+	background-color: #c5c5c5;
+}
+.view_btn_media a:hover {
+	text-decoration: none;
+	color: #fff;
+	background-color: #005aab;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
+}
+.view_btn_media-active a {
+	text-decoration: none !important;
+	color: #fff !important;
+	background-color: #005aab !important;
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3) !important;
+}
+
 .custom-col-setting {
 	margin: 0px !important;
-	padding: 0px !important;
+	/* padding: 0px !important; */
 }
 
 .commercial-btn{
@@ -985,6 +1023,9 @@ real estate desktop
 	width: 30%;
 	margin-top: 0%;
 	margin-bottom: 24px;
+	}
+	.bronze-line{
+		background-color: #ccb497;
 	}
 	.txt-down{
 	font-size: 12px;
@@ -1282,6 +1323,56 @@ bespoke living page
 	background-repeat:no-repeat ;
 	background-size: 100% 100%;
 	height: 400px;
+}
+
+/********************************************************
+  ABOUT US
+  *******************************************************/
+
+.abtus-bann{
+	background-image: url(../img/aboutus/About-Us_Dbanner.png);
+	background-position: center;
+	background-repeat:no-repeat ;
+	background-size: 100% 100%;
+	height: 400px;
+}
+.box-p p{
+	text-align: left;
+}
+
+.magnificence{
+	background-color: #144168;
+	height: auto;
+}
+.font-box{
+	font-size: 35px !important;
+}
+.bold-p{
+	font-weight: 600 !important;
+}
+.bg-vision {
+	background-color: #eee;
+	position: relative;
+	height: 510px;
+}
+.vision-txt {
+	position: absolute;
+	width: 80%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+}
+.col-half-offset{
+    margin-left: 0%;
+}
+.box .bold-no{
+	font-weight: bold !important;
+}
+.height-hand_abt{
+	height: auto;
+}
+.pdng-benifit_abt {
+    padding: 20px 110px !important;
 }
 /********************************************************
   Footer
@@ -1618,9 +1709,9 @@ a[data-tooltip][data-placement="bottom"]::after {
 		font-size: 22px !important;
 	}
 
-/*******************************
-contact us mobile
-********************************/
+	/*******************************
+	contact us mobile
+	********************************/
 	.contact-bann{
 		background-image: url(../img/contact-page/Contact-Us_Mobile.png);
 		height: 300px;
@@ -1658,81 +1749,106 @@ contact us mobile
 		padding: 5px 19px;
 	} */
 
-/******************************
-Resedential & Commercial Section
-**********************************/
+	/******************************
+	Resedential & Commercial Section
+	**********************************/
 
-.inner-para{
-	width: 100%;
-}
-.view-button a{
-	padding: 16px 57px !important;
-}
-.custom-row-setting {
-    max-width: max-content !important;
-    display: -webkit-inline-box;
-}
-.carousel-item{
-	height: auto !important;
-	min-height: auto !important;
-}
-div#demo1mob, div#demo2mob, div#demo3mob, div#demo4mob {
-    margin-top: 14px !important;
-}
+	.inner-para{
+		width: 100%;
+	}
+	.view-button a {
+		padding: 16px 57px !important;
+	}
+	.custom-row-setting {
+		max-width: max-content !important;
+		display: -webkit-inline-box;
+	}
+	.carousel-item{
+		height: auto !important;
+		min-height: auto !important;
+	}
+	div#demo1mob, div#demo2mob, div#demo3mob, div#demo4mob {
+		margin-top: 14px !important;
+	}
 
-div#demo2mob, div#demo4mob{
-	display: none;
-}
-.commercial-btn {
-    max-width: 50% !important;
-    margin-top: 20px !important;
-}
-.content-overlay{
-	height: 100%;
-}
-.carousel-control-prev {
-    left: 40% !important;
-    top: 103% !important;
-}
-.carousel-control-next {
-    right: 40% !important;
-    top: 103% !important;
-}
-section#Commercial {
-    background-color: #cccccc47;
-    padding: 25px 0px;
-}
+	div#demo2mob, div#demo4mob{
+		display: none;
+	}
+	.commercial-btn {
+		max-width: 50% !important;
+		margin-top: 20px !important;
+	}
+	.content-overlay{
+		height: 100%;
+	}
+	.carousel-control-prev {
+		left: 40% !important;
+		top: 103% !important;
+	}
+	.carousel-control-next {
+		right: 40% !important;
+		top: 103% !important;
+	}
+	section#Commercial {
+		background-color: #cccccc47;
+		padding: 25px 0px;
+	}
 
-/******************Glimse*********************************/
-.custm-container {
-    width: 100% !important;
-}
+	/******************Glimse*********************************/
+	.custm-container {
+		width: 100% !important;
+	}
 
-/****************Contours********************************/
+	/****************Contours********************************/
 
-.pdng-real {
-    padding: 32px !important;
-}
-.box h2{
-	font-size: 45px !important;
-}
-.top-txt{
-	top: 0px;
-}
-.rel_estate p {
-	text-align: left;
-	font-size: 11px;
-}
-.header-extradiv{
-	margin: 50px 0 0 0;
-}
-.slider-contours{
-	margin-top: 30px !important;
-}
-/********************************************************/
-/*******************************
-footer mobile
-********************************/
+	.pdng-real {
+		padding: 32px !important;
+	}
+	.box h2{
+		font-size: 45px !important;
+	}
+	.top-txt{
+		top: 0px;
+	}
+	.rel_estate p {
+		text-align: left;
+		font-size: 11px;
+	}
+	.header-extradiv{
+		margin: 50px 0 0 0;
+	}
+	.slider-contours{
+		margin-top: 30px !important;
+	}
+	/********************************************************/
+
+	/********************************************************
+	ABOUT US MOBILE
+	*******************************************************/
+
+  	.abtus-bann{
+		background-image: url(../img/aboutus/About-Us_Mbanner.png);
+	}
+	.bg-vision {
+		background-color:#eee0;
+		height: 300px;
+		margin-top: 0px;
+	}
+	.vision-txt{
+		width: 100%;
+	}
+	.col-half-offset{
+		margin-left: 0%;
+	}
+	.abt-counter .slick-dots{
+		bottom: -40px !important;
+	}
+	.rel_estate.career.pdng-top.pdng-btm{
+		padding-bottom: 0 !important;
+	}
+	/*******************************
+	footer mobile
+	********************************/
 
 	.bottom-form {
 		width: 100%;
@@ -1750,37 +1866,37 @@ footer mobile
 		align-items: unset;
 	}
 
- /****************************Careers Page******************************/
-.career-bann{
-	background-image: url(../img/career/Career_Mobile-Banner.png);
-	height: 300px;
-}
-.career p {
-	text-align: center;
-	font-size: 14px;
-}
-.box-carrer img {
-    width: 50%;
-    margin: 0 auto;
-}
-.pdng-benifit{
-	padding: 28px !important;
-}
-/*********************************************************************
-media page
-*********************************************************************/
-.media-bann{
-	background-image: url(../img/media_page/Media-Banner-mobile.png);
-	height: 300px;
-}
+	/****************************Careers Page******************************/
+	.career-bann{
+		background-image: url(../img/career/Career_Mobile-Banner.png);
+		height: 300px;
+	}
+	.career p {
+		text-align: center;
+		font-size: 14px;
+	}
+	.box-carrer img {
+		width: 50%;
+		margin: 0 auto;
+	}
+	.pdng-benifit{
+		padding: 28px !important;
+	}
+	/*********************************************************************
+	media page
+	*********************************************************************/
+	.media-bann{
+		background-image: url(../img/media_page/Media-Banner-mobile.png);
+		height: 300px;
+	}
 
-/********************************************************************
-Redefining
-***********************************************************************/
-.redefining-bann{
-	background-image: url(../img/redefining/mobile.png);
-	height: 300px;
-}
+	/********************************************************************
+	Redefining
+	***********************************************************************/
+	.redefining-bann{
+		background-image: url(../img/redefining/mobile.png);
+		height: 300px;
+	}
 
 }
 
