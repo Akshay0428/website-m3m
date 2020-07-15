@@ -261,6 +261,7 @@
          ]
       });
 
+
       $('.slider-contours').slick({
          dots: false,
          arrow: true,

@@ -1,0 +1,27 @@
+Media Images
+
+Glimse Section Live
+
+Navbar Correction with merge
+
+
+Header to be used are:
+
+Home
+About M3M (About Us, Team, Awards)
+Projects (Residential, Commercial, New Launch)
+Investor Corner
+Verified Agents
+Media
+Career
+Contact Us
+
+overall nice, but its an exact copy of wadhwa, so some design changes needed:
+
+fonts need to be same as M3M website. So do font colours.  
+Fonts of the grid have to be corrected
+Put a + sign against tabs that open up (see lodha nav bar for reference)
+On clicking Company, the 3 tabs that open need to be aligned with Company. As of now, they are in line with Home.  If that is difficult, then let it open u
+Shakun, the content of nav bar needs to reflect the pages we are going live with 
+Social handles - keep only we are linking with
+1800 number has to be the correct one
