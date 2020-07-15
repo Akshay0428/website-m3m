@@ -696,6 +696,9 @@ Project Residential & commrcial
 	background-color: #005aab !important;
 	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3) !important;
 }
+.overtxt li {
+    font-size: 12px !important;
+}
 
 .custom-col-setting {
 	margin: 0px !important;
@@ -832,7 +835,7 @@ div#demo4 {
 .content-overlay {
 	background: #173f63d1;
 	position: absolute;
-	height: 99%;
+	height: 100%;
 	width: 100%;
 	left: 0;
 	top: 0;
@@ -906,13 +909,13 @@ div#demo4 {
 	text-transform: uppercase;
 }
 
-.content-details h4 {
-	color: #fff;
-	font-weight: 500;
-	letter-spacing: 1px;
-	margin-bottom: 0.5em;
+.content-details h4 a{
+	color: #fff !important;
+	font-weight: 500 !important;
+	letter-spacing: 1px !important;
+	margin-bottom: 0.5em !important;
 	font-size: 16px !important;
-	text-transform: uppercase;
+	text-transform: uppercase !important;
 }
 
 .content-details.fadeIn-top p {
