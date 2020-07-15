@@ -205,11 +205,12 @@
                         <h6>Position applied for</h6>
                     </label>
                     <select class="form-control form-control-custom" id="exampleFormControlSelect1" required>
-                        <option>Sales</option>
-                        <option>2</option>
-                        <option>3</option>
-                        <option>4</option>
-                        <option>5</option>
+                        <option>GENERAL MANAGER  - SALES</option>
+                        <option>ASST. GENERAL MANAGER  - SALES</option>
+                        <option>DEPUTY GENERAL MANAGER  - SALES3</option>
+                        <option>SENIOR MANAGER  - SALES</option>
+                        <option>MANAGER - SALES</option>
+                        <option>ASST. MANAGER  - SALES</option>
                     </select>
                 </div>
 
