@@ -18,59 +18,80 @@ html {
 	-moz-box-sizing: inherit;
 	box-sizing: inherit;
 }
+
+
 /***********************common code**********************/
-.pdng-top{
-    padding-top: 40px;
+
+.pdng-top {
+	padding-top: 40px;
 }
-.pdng-btm{
-    padding-bottom: 40px;
+
+.pdng-btm {
+	padding-bottom: 40px;
 }
+
+
 /* .pdng_media_top_btm{
 	padding: 0px 5px !important;
 } */
-.mrg-top{
-    margin-top: 80px;
+
+.mrg-top {
+	margin-top: 80px;
 }
-p{
+
+p {
 	margin: 5px 0px !important;
-    font-size: 14px;
+	font-size: 14px;
 }
-.pdg{
-    padding: 0px !important;
+
+.pdg {
+	padding: 0px !important;
 }
-h5{
-    font-size: 16px;
+
+h5 {
+	font-size: 16px;
 }
-h6{
-    font-size: 14px !important;
+
+h6 {
+	font-size: 14px !important;
 }
-.pdng-btm-120{
+
+.pdng-btm-120 {
 	padding-bottom: 120px;
 }
-.color-bronze{
-    color: #ccb497;
+
+.color-bronze {
+	color: #ccb497;
 }
-.font-400{
-    font-weight: 400;
+
+.font-400 {
+	font-weight: 400;
 }
-.font-500{
-    font-weight: 500;
+
+.font-500 {
+	font-weight: 500;
 }
-.font-bold{
-    font-weight: bold;
+
+.font-bold {
+	font-weight: bold;
 }
-.partner-color{
-    background-color: #e1e1e17a;
+
+.partner-color {
+	background-color: #e1e1e17a;
 }
-.txt-color{
+
+.txt-color {
 	color: #005aab;
 }
-.txt-color-bold{
+
+.txt-color-bold {
 	color: #144168;
 }
-.car_mrg{
+
+.car_mrg {
 	margin: 40px auto;
 }
+
 body {
 	margin: 0;
 	padding: 0;
@@ -146,14 +167,14 @@ img {
 	height: 4px;
 }
 
-.cmn_green{
+.cmn_green {
 	width: 35% !important;
 }
 
 h2 {
 	font-size: 40px !important;
 	letter-spacing: 10px !important;
-    font-weight: 200 !important;
+	font-weight: 200 !important;
 }
 
 .custom-heading h2 {
@@ -362,7 +383,11 @@ Header
 	float: left;
 	margin-top: 8px;
 }
-.nav{display:none;}
+
+.nav {
+	display: none;
+}
+
 .call_ico {
 	width: 44px;
 	height: 44px;
@@ -409,14 +434,24 @@ Navbar
 	border: none;
 }
 
+
+/* .navCall {
+	width: 44px;
+	border-left: 0px;
+	padding: 8px !important;
+	margin: 12px 20px;
+	border-right: 0px;
+} */
+
 .navCall {
 	width: 44px;
 	border-left: 0px;
 	padding: 8px !important;
 	/* margin: 59px 9px; */
-	margin: 12px 20px;
-	/* margin-right: 60px; */
-	border-right: 0px;
+	margin: 0px auto;
+	position: absolute;
+	right: 70px;
+	top: 20px;
 }
 
 .navMenu {
@@ -453,9 +488,9 @@ Navbar
 	z-index: 999999999 !important;
 }
 
-.scroll-css{
+.scroll-css {
 	background-color: #144168 !important;
-	height:15vh;
+	height: 15vh;
 }
 
 .menuPop {
@@ -698,17 +733,19 @@ Project Residential & commrcial
 	background-color: #005aab;
 	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
 }
+
 .view-button-active a {
 	text-decoration: none !important;
 	color: #fff !important;
 	background-color: #005aab !important;
 	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3) !important;
 }
+
 .overtxt li {
-    font-size: 12px !important;
+	font-size: 12px !important;
 }
 
-.view_btn_media a{
+.view_btn_media a {
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -725,12 +762,14 @@ Project Residential & commrcial
 	text-align: center;
 	background-color: #c5c5c5;
 }
+
 .view_btn_media a:hover {
 	text-decoration: none;
 	color: #fff;
 	background-color: #005aab;
 	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
 }
+
 .view_btn_media-active a {
 	text-decoration: none !important;
 	color: #fff !important;
@@ -743,7 +782,7 @@ Project Residential & commrcial
 	/* padding: 0px !important; */
 }
 
-.commercial-btn{
+.commercial-btn {
 	max-width: 33% !important;
 	margin-top: 82px !important;
 }
@@ -769,6 +808,7 @@ Project Residential & commrcial
 	width: 100%;
 	padding-left: 0;
 }
+
 .gal-item {
 	overflow: hidden !important;
 	padding: 4px !important;
@@ -947,7 +987,7 @@ div#demo4 {
 	text-transform: uppercase;
 }
 
-.content-details h4 a{
+.content-details h4 a {
 	color: #fff !important;
 	font-weight: 500 !important;
 	letter-spacing: 1px !important;
@@ -996,157 +1036,197 @@ div#demo4 {
 	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
 }
 
+
 /**********************************
 real estate desktop
 **********************************/
-.rel_estate{
+
+.rel_estate {
 	width: 100%;
-	}
-	.rel-margr{
+}
+
+.rel-margr {
 	margin: 0px;
-	}
-	.real-txt{
+}
+
+.real-txt {
 	background-color: #173d61;
-	}
-	.real-h2{
-		font-weight: 100 !important;
-	}
-	.real-line{
+}
+
+.real-h2 {
+	font-weight: 100 !important;
+}
+
+.real-line {
 	width: 35% !important;
-	}
-	.pdng-real {
+}
+
+.pdng-real {
 	padding: 3px 110px !important;
-	}
-	.white-line {
+}
+
+.white-line {
 	height: 2px;
 	background-color: #fff;
 	width: 30%;
 	margin-top: 0%;
 	margin-bottom: 24px;
-	}
-	.bronze-line{
-		background-color: #ccb497;
-	}
-	.txt-down{
+}
+
+.bronze-line {
+	background-color: #ccb497;
+}
+
+.txt-down {
 	font-size: 12px;
-	}
-	.box h2{
+}
+
+.box h2 {
 	margin: 0px;
 	font-size: 75px !important;
 	letter-spacing: 0px !important;
 	font-weight: 400 !important;
-	}
-	.negative{
+}
+
+.negative {
 	margin-top: -30px !important;
-	}
-	h2.color-bronze.txt-upper {
+}
+
+h2.color-bronze.txt-upper {
 	font-weight: bold;
 	font-size: 60px !important;
-	}
-	.box p{
-	margin :0px;
-	}
-	.extra-marg{
+}
+
+.box p {
+	margin: 0px;
+}
+
+.extra-marg {
 	margin-top: 23%;
-	}
-	.two-txt {
+}
+
+.two-txt {
 	font-size: 30px;
 	font-weight: bold !important;
-	}
-	.two-txt-2 {
+}
+
+.two-txt-2 {
 	font-size: 14px;
 	font-weight: normal !important;
 	letter-spacing: 0px;
 	text-transform: initial;
-	}
-	.top-txt {
-		margin: 0px;
-		position: absolute;
-		top: 14px;
-		font-size: 11px;
-	}
-	/***********************************
+}
+
+.top-txt {
+	margin: 0px;
+	position: absolute;
+	top: 14px;
+	font-size: 11px;
+}
+
+
+/***********************************
 	awards desktop
 	***********************************/
-	.clearfix{
+
+.clearfix {
 	clear: both;
-	}
-	.white{
+}
+
+.white {
 	color: #fff;
-	}
-	/***********************************
+}
+
+
+/***********************************
 	partner desktop
 	***********************************/
-	.prtnr-line{
+
+.prtnr-line {
 	margin: 20px 0px;
-	}
-	.position{
+}
+
+.position {
 	padding: 10px 0px 0px 0px;
 	border-top: 1px solid;
 	border-bottom: 1px solid;
-	}
-	.position h4 {
-		font-size: 16px;
-	}
-	.info {
+}
+
+.position h4 {
+	font-size: 16px;
+}
+
+.info {
 	width: 90%;
 	margin: 0 auto;
-	}
-	.name{
-	padding-top: 20px;
-	}
-	.work{
-	padding-top: 20px;
-	}
+}
 
-	/***********************************
+.name {
+	padding-top: 20px;
+}
+
+.work {
+	padding-top: 20px;
+}
+
+
+/***********************************
 	testimonial desktop
 	***********************************/
 
-.test-slider{
+.test-slider {
 	position: relative;
 }
-.commas{
-    position: absolute;
-    top: 28%;
-    left: 5px;
-    width: 7%;
+
+.commas {
+	position: absolute;
+	top: 28%;
+	left: 5px;
+	width: 7%;
 }
-.test-line{
+
+.test-line {
 	width: 35%;
 }
 
-	/***********************************
+
+/***********************************
 	form desktop
 	***********************************/
 
-	.bottom-form {
+.bottom-form {
 	background-color: #fff;
 	padding: 20px;
 	width: 65%;
 	margin: 0 auto;
 	margin-left: 35%;
-	}
-	.form-submit-custom{
+}
+
+.form-submit-custom {
 	background-color: green !important;
 	color: #fff !important;
 	border: 1px solid green !important;
-	}
-	.form-submit-custom:hover{
+}
+
+.form-submit-custom:hover {
 	background-color: #fff !important;
 	color: green !important;
 	border: 1px solid green !important;
-	}
-	.form-group-custom {
+}
+
+.form-group-custom {
 	margin-bottom: 10px !important;
-	}
-	.form-control-custom {
+}
+
+.form-control-custom {
 	font-size: 14px !important;
 	background-color: #ced4da82 !important;
-	}
-	.social-icons{
+}
+
+.social-icons {
 	width: 50%;
-	}
+}
+
 
 /***********************************************************
 Awards
@@ -1183,64 +1263,75 @@ Chatbox
 	text-transform: uppercase;
 }
 
+
 /*********************************************************************
 contact us page
 *********************************************************************/
 
-.contact-bann{
+.contact-bann {
 	background-image: url(../img/contact-page/contactus-bg.png);
 	background-position: center;
-	background-repeat:no-repeat ;
+	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	height: 400px;
 }
+
 .bannercon-txt {
-    position: absolute;
-    top: 50%;
-    transform: translate(-50%, -50%);
-    left: 50%;
+	position: absolute;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	left: 50%;
 }
-.con-page-form{
+
+.con-page-form {
 	box-shadow: 0px 0px 5px 5px #88888824;
 }
+
 
 /*********************************************************************
 media page
 *********************************************************************/
-.media-bann{
+
+.media-bann {
 	background-image: url(../img/media_page/Media-Banner-desktop.png);
 	background-position: center;
-	background-repeat:no-repeat ;
+	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	height: 400px;
 }
+
 .press h5 {
-    font-weight: 200;
+	font-weight: 200;
 	letter-spacing: 5px;
 }
+
 .card {
 	border: none !important;
 }
-.load-media{
+
+.load-media {
 	float: right;
 }
+
 #section-more {
 	width: 100%;
 	height: auto;
 	word-wrap: break-word;
-  }
-  
+}
+
 .moretext {
 	display: none;
-  }
-  
-#media-box-2{
-	  display: none;
-  }
-#media-box-3{
+}
+
+#media-box-2 {
 	display: none;
 }
-#media-box-4{
+
+#media-box-3 {
+	display: none;
+}
+
+#media-box-4 {
 	display: none;
 }
 
@@ -1248,153 +1339,183 @@ media page
 /*********************************************************************
 bespoke living page
 *********************************************************************/
-.bespoke-bann{
+
+.bespoke-bann {
 	background-image: url(../img/media_page/Media-Banner.png);
 	background-position: center;
-	background-repeat:no-repeat ;
+	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	height: 400px;
 }
+
 .bannersl-txt {
-    position: absolute;
-    top: 50%;
-    transform: translate(50%, -50%);
-    left: 50%;
+	position: absolute;
+	top: 50%;
+	transform: translate(50%, -50%);
+	left: 50%;
 }
+
 
 /********************************************************
   career page
   *******************************************************/
 
-.career-bann{
+.career-bann {
 	background-image: url(../img/career/career-banner-desktop.png);
 	background-position: center;
-	background-repeat:no-repeat ;
+	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	height: 400px;
 }
-.career-bann h5{
+
+.career-bann h5 {
 	letter-spacing: 8.2px;
 }
-.career-bann h2{
+
+.career-bann h2 {
 	letter-spacing: 22px;
 }
+
 .pdng-benifit {
-    padding: 28px 110px !important;
+	padding: 28px 110px !important;
 }
-.height-hand{
+
+.height-hand {
 	height: 85vh;
 }
+
 .box-carrer img {
-    display: flex;
-    width: 35%;
-    margin: 20px 0px;
+	display: flex;
+	width: 35%;
+	margin: 20px 0px;
 }
-.bottom-carrer{
+
+.bottom-carrer {
 	margin: 40px 0px;
-    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
+	box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);
 }
-.carrer-formbox{
+
+.carrer-formbox {
 	width: 80%;
-    margin: 0 auto !important;
-    padding: 40px 0px;
+	margin: 0 auto !important;
+	padding: 40px 0px;
 }
-.form-mrgbtm{
-	margin-bottom:35px !important;
+
+.form-mrgbtm {
+	margin-bottom: 35px !important;
 }
-.carrer-submit{
-    width: 50% !important;
-    float: right !important;
-    margin-top: 10%;	
+
+.carrer-submit {
+	width: 50% !important;
+	float: right !important;
+	margin-top: 10%;
 }
+
 .custom-file-label {
 	top: 77% !important;
 	left: 5% !important;
 	right: 5% !important;
 }
 
+
 /********************************************************
   redefining
   *******************************************************/
 
-.redefining-bann{
+.redefining-bann {
 	background-image: url(../img/redefining/desktop.png);
 	background-position: center;
-	background-repeat:no-repeat ;
+	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	height: 400px;
 }
+
 
 /********************************************************
   ABOUT US
   *******************************************************/
 
-.abtus-bann{
+.abtus-bann {
 	background-image: url(../img/aboutus/About-Us_Dbanner.png);
 	background-position: center;
-	background-repeat:no-repeat ;
+	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	height: 400px;
 }
-.box-p p{
+
+.box-p p {
 	text-align: left;
 }
 
-.magnificence{
+.magnificence {
 	background-color: #144168;
 	height: auto;
 }
-.font-box{
+
+.font-box {
 	font-size: 35px !important;
 }
-.bold-p{
+
+.bold-p {
 	font-weight: 600 !important;
 }
+
 .bg-vision {
 	background-color: #eee;
 	position: relative;
 	height: 510px;
 }
+
 .vision-txt {
 	position: absolute;
 	width: 80%;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50% , -50%);
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
-.col-half-offset{
-    margin-left: 0%;
+
+.col-half-offset {
+	margin-left: 0%;
 }
-.box .bold-no{
+
+.box .bold-no {
 	font-weight: bold !important;
 }
-.height-hand_abt{
+
+.height-hand_abt {
 	height: auto;
 }
+
 .pdng-benifit_abt {
-    padding: 20px 110px !important;
+	padding: 20px 110px !important;
 }
+
+
 /********************************************************
   Footer
   *******************************************************/
 
-.footer-menu{
+.footer-menu {
 	padding-bottom: 20px;
 }
-.footer-bg{
-	background-color:#144168;
+
+.footer-bg {
+	background-color: #144168;
 	position: relative;
 }
+
 .footer-line {
-    position: absolute;
-    height: 12px;
-    width: 100%;
-    top: auto;
-    background-color: #4db748;
-    bottom: 0%;
+	position: absolute;
+	height: 12px;
+	width: 100%;
+	top: auto;
+	background-color: #4db748;
+	bottom: 0%;
 }
 
+
 /* footer ends */
+
 .contact-bg {
 	background-image: url(../img/contact/footer.png);
 	background-position: center;
@@ -1409,11 +1530,13 @@ bespoke living page
 .custom-h6-footer {
 	font-weight: 100 !important;
 }
-.icon-center{
+
+.icon-center {
 	display: flex;
-    justify-content: center;
-    align-items: center;
+	justify-content: center;
+	align-items: center;
 }
+
 #lab_social_icon_footer {
 	padding: 40px 0;
 	background-color: #dedede;
@@ -1695,12 +1818,10 @@ a[data-tooltip][data-placement="bottom"]::after {
 	}
 }
 
-
 @media only screen and (max-width:768px) {
 	.d_hide {
 		display: block !important;
 	}
-	
 	.m_hide {
 		display: none !important;
 	}
@@ -1708,11 +1829,10 @@ a[data-tooltip][data-placement="bottom"]::after {
 		letter-spacing: 5px;
 		font-size: 22px !important;
 	}
-
 	/*******************************
 	contact us mobile
 	********************************/
-	.contact-bann{
+	.contact-bann {
 		background-image: url(../img/contact-page/Contact-Us_Mobile.png);
 		height: 300px;
 	}
@@ -1723,13 +1843,13 @@ a[data-tooltip][data-placement="bottom"]::after {
 		font-size: 18px;
 		letter-spacing: 2.2px;
 	}
-	.custom-heading h2{
+	.custom-heading h2 {
 		font-weight: 100 !important;
 	}
 	.height-hand {
 		height: 50vh;
 	}
-	.bottom-carrer{
+	.bottom-carrer {
 		padding: 0px;
 		width: 98%;
 		margin: 30px auto;
@@ -1748,12 +1868,10 @@ a[data-tooltip][data-placement="bottom"]::after {
 		height: calc(38px);
 		padding: 5px 19px;
 	} */
-
 	/******************************
 	Resedential & Commercial Section
 	**********************************/
-
-	.inner-para{
+	.inner-para {
 		width: 100%;
 	}
 	.view-button a {
@@ -1763,22 +1881,25 @@ a[data-tooltip][data-placement="bottom"]::after {
 		max-width: max-content !important;
 		display: -webkit-inline-box;
 	}
-	.carousel-item{
+	.carousel-item {
 		height: auto !important;
 		min-height: auto !important;
 	}
-	div#demo1mob, div#demo2mob, div#demo3mob, div#demo4mob {
+	div#demo1mob,
+	div#demo2mob,
+	div#demo3mob,
+	div#demo4mob {
 		margin-top: 14px !important;
 	}
-
-	div#demo2mob, div#demo4mob{
+	div#demo2mob,
+	div#demo4mob {
 		display: none;
 	}
 	.commercial-btn {
 		max-width: 50% !important;
 		margin-top: 20px !important;
 	}
-	.content-overlay{
+	.content-overlay {
 		height: 100%;
 	}
 	.carousel-control-prev {
@@ -1793,63 +1914,57 @@ a[data-tooltip][data-placement="bottom"]::after {
 		background-color: #cccccc47;
 		padding: 25px 0px;
 	}
-
 	/******************Glimse*********************************/
 	.custm-container {
 		width: 100% !important;
 	}
-
 	/****************Contours********************************/
-
 	.pdng-real {
 		padding: 32px !important;
 	}
-	.box h2{
+	.box h2 {
 		font-size: 45px !important;
 	}
-	.top-txt{
+	.top-txt {
 		top: 0px;
 	}
 	.rel_estate p {
 		text-align: left;
 		font-size: 11px;
 	}
-	.header-extradiv{
+	.header-extradiv {
 		margin: 50px 0 0 0;
 	}
-	.slider-contours{
+	.slider-contours {
 		margin-top: 30px !important;
 	}
 	/********************************************************/
-
 	/********************************************************
 	ABOUT US MOBILE
 	*******************************************************/
-
-  	.abtus-bann{
+	.abtus-bann {
 		background-image: url(../img/aboutus/About-Us_Mbanner.png);
 	}
 	.bg-vision {
-		background-color:#eee0;
+		background-color: #eee0;
 		height: 300px;
 		margin-top: 0px;
 	}
-	.vision-txt{
+	.vision-txt {
 		width: 100%;
 	}
-	.col-half-offset{
+	.col-half-offset {
 		margin-left: 0%;
 	}
-	.abt-counter .slick-dots{
+	.abt-counter .slick-dots {
 		bottom: -40px !important;
 	}
-	.rel_estate.career.pdng-top.pdng-btm{
+	.rel_estate.career.pdng-top.pdng-btm {
 		padding-bottom: 0 !important;
 	}
 	/*******************************
 	footer mobile
 	********************************/
-
 	.bottom-form {
 		width: 100%;
 		margin-left: 0;
@@ -1865,9 +1980,8 @@ a[data-tooltip][data-placement="bottom"]::after {
 		justify-content: unset;
 		align-items: unset;
 	}
-
 	/****************************Careers Page******************************/
-	.career-bann{
+	.career-bann {
 		background-image: url(../img/career/Career_Mobile-Banner.png);
 		height: 300px;
 	}
@@ -1879,25 +1993,23 @@ a[data-tooltip][data-placement="bottom"]::after {
 		width: 50%;
 		margin: 0 auto;
 	}
-	.pdng-benifit{
+	.pdng-benifit {
 		padding: 28px !important;
 	}
 	/*********************************************************************
 	media page
 	*********************************************************************/
-	.media-bann{
+	.media-bann {
 		background-image: url(../img/media_page/Media-Banner-mobile.png);
 		height: 300px;
 	}
-
 	/********************************************************************
 	Redefining
 	***********************************************************************/
-	.redefining-bann{
+	.redefining-bann {
 		background-image: url(../img/redefining/mobile.png);
 		height: 300px;
 	}
-
 }
 
 
@@ -1918,6 +2030,7 @@ a[data-tooltip][data-placement="bottom"]::after {
 	}
 }
 
+
 /*********************Pixel***************************************************************/
 
 @media only screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
@@ -1925,6 +2038,7 @@ a[data-tooltip][data-placement="bottom"]::after {
 		padding: 16px 48px !important;
 	}
 }
+
 
 /*************************************************Iphone 6 7 8********************************************/
 
@@ -1934,9 +2048,11 @@ a[data-tooltip][data-placement="bottom"]::after {
 	}
 }
 
+
 /**************************************************Samsung************************************************/
 
-@media only screen and (max-width:360px), screen and (max-height: 640px) {
+@media only screen and (max-width:360px),
+screen and (max-height: 640px) {
 	.view-button a {
 		padding: 16px 44px !important;
 	}

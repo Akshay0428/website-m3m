@@ -11,8 +11,39 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick.min.css">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick-theme.min.css">
       <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+      <link rel="stylesheet" href="resources/css/common.css"/>
       <style type="text/css">
-
+         .top-wrp a:hover {
+         text-decoration: none !important;
+         }
+         .logo-wrp{
+         margin: 18px;;
+         }
+         .logo-wrp a img:last-child {
+         display: block;
+         width: 100%;
+         }
+         nav .menu-btn {
+         background: transparent !important;
+         }
+         .menu-wrp {
+         background: #144168 !important;
+         color: #fff !important;
+         }
+         .menu-wrp .top-wrp .left a{
+         color: #fff !important;
+         }
+         .menu-wrp .top-wrp .left a:after {
+         bottom: 10px;
+         background: #fff;
+         }
+         .menu-wrp .top-wrp .right > a .name{
+         color: #ffffff !important;
+         }
+         .menu-wrp.active {
+         font-family: 'Montserrat', sans-serif !important;
+         font-weight: 100 !important;
+         }
          /***********************************slick***********************************/
          .prev-button {
          color: #999;
@@ -151,63 +182,299 @@
          position: fixed !important;
          background-color: transparent;
          }  
-
          /* mobile banner */
          .mobile_carousel .carousel-control-prev{
-            left: 0% !important;
-            top: 45% !important;
+         left: 0% !important;
+         top: 45% !important;
          }
          .mobile_carousel .carousel-control-next{
-            top: 45% !important;
-            right:0 !important;
+         top: 45% !important;
+         right:0 !important;
+         }
+         @media only screen and (max-width: 540px)
+         {
+         nav {
+         top: 23px !important;
+         }
+         .menu-wrp .top-wrp .right > a .name {
+         font-size: 12px !important;
+         padding: 0px 10px !important;
+         text-align: left !important;
+         }
+         .left a {
+         padding: 1px !important;
+         }
          }
       </style>
    </head>
-   <body>
-      <nav class="navbar navbar-expand-lg navbar-light aks-nav">
-         <div class="container">
+   <body class="home-body">
+      <header class="scroll-col">
+         <div class="container navbar">
             <a class="navbar-brand" href="index.php"><img src="img/M3M logo.png"></a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-               <ul class="navbar-nav ml-auto">
-                  <li class="nav-item active">
-                     <a class="nav-link" href="#">Projects <span class="sr-only">(current)</span></a>
-                     <div class="dropdownContain">
-                        <div class="dropOut">
-                           <div class="triangle"></div>
-                           <ul>
-                              <li>Residential</li>
-                              <li>Commercial</li>
-                           </ul>
-                        </div>
+            <a href="tel:18001233333"><img class="navCall" src="img/Call Icon@2x.png"/></a>
+            <nav>
+               <div class="menu-btn">
+                  <div class="lines">
+                     <span></span>
+                     <span></span>
+                     <span></span>
+                     <span></span>
+                  </div>
+               </div>
+            </nav>
+            <div class="menu-overlay"></div>
+            <div class="menu-wrp">
+               <div class="whatsapp-wrp">
+                  <a href="#"><img src=""></a>
+               </div>
+               <div class="top-wrp">
+                  <div class="right" id="div-1">
+                     <!-- <a href="#" target="_blank" ><p class="name line-anim-01">About Us</p></a>
+                        <a href="#" target="_blank" ><p class="name line-anim-01">CSR</p></a>
+                        <a href="#" target="_blank" ><p class="name line-anim-01">Awards</p></a> -->
+                  </div>
+                  <div class="right" id="div-2">
+                     <a href="http://m3mescala.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M Escala</p>
+                     </a>
+                     <a href="http://m3mfairwaywest.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M Fairway West</p>
+                     </a>
+                     <a href="http://www.m3mpolosuite.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M Polo Suites</p>
+                     </a>
+                     <a href="http://m3mstandrewsgolfresidences.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M St. Andrews</p>
+                     </a>
+                     <a href="http://m3mwoodshire.co/" target="_blank" >
+                        <p class="name line-anim-01">M3M Woodshire</p>
+                     </a>
+                     <a href="http://www.m3mgolfestate.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M Golfestate</p>
+                     </a>
+                     <a href="http://www.m3mmerlin.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M Merlin</p>
+                     </a>
+                     <a href="http://www.m3murbana.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M Urbana</p>
+                     </a>
+                     <a href="http://www.m3mcosmopolitan.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M Cosmopolitan</p>
+                     </a>
+                     <a href="http://www.m3mpanoramasuites.com/" target="_blank"  >
+                        <p class="name line-anim-01">M3M Panorama</p>
+                     </a>
+                     <a href="https://www.m3mskysuites.com/" target="_blank"  >
+                        <p class="name line-anim-01">M3M Skysuites</p>
+                     </a>
+                  </div>
+                  <div class="right" id="div-3">
+                     <a href="http://m3mescala.com/" target="_blank" >
+                        <p class="name line-anim-01"> M3M Escala</p>
+                     </a>
+                     <a href="http://www.m3mthemarina.com/ikonic/" target="_blank" >
+                        <p class="name line-anim-01"> Ikonic At M3M The Marina</p>
+                     </a>
+                     <a href="http://m3mfairwaywest.com/" target="_blank" >
+                        <p class="name line-anim-01"> M3M Fairway West</p>
+                     </a>
+                     <a href="http://www.m3mgolfestate.com/" target="_blank" >
+                        <p class="name line-anim-01"> M3M Golfestate</p>
+                     </a>
+                     <a href="http://m3m65thavenue.com/heights/" target="_blank" >
+                        <p class="name line-anim-01"> M3M Heights</p>
+                     </a>
+                     <a href="http://www.m3mlatitude.com/" target="_blank" >
+                        <p class="name line-anim-01"> M3M Latitude</p>
+                     </a>
+                     <a href="http://m3mthemarina.com/" target="_blank" >
+                        <p class="name line-anim-01"> M3M Marina</p>
+                     </a>
+                     <a href="http://www.m3mmerlin.com/" target="_blank" >
+                        <p class="name line-anim-01"> M3M Merlin</p>
+                     </a>
+                     <a href="http://m3mnatura.com/" target="_blank" >
+                        <p class="name line-anim-01"> M3M Natura</p>
+                     </a>
+                     <a href="http://www.m3mpanoramasuites.com/" target="_blank" >
+                        <p class="name line-anim-01"> M3M Panorama</p>
+                     </a>
+                     <a href="http://www.m3mpolosuite.com/" target="_blank" >
+                        <p class="name line-anim-01"> M3M Polo Suites</p>
+                     </a>
+                     <a href="http://m3mstandrewsgolfresidences.com/" target="_blank" >
+                        <p class="name line-anim-01"> M3M St. Andrews</p>
+                     </a>
+                     <a href="http://m3msierra68.co.in/" target="_blank" >
+                        <p class="name line-anim-01"> M3M Sierra68</p>
+                     </a>
+                     <a href="http://www.m3mskycity.com/" target="_blank" >
+                        <p class="name line-anim-01"> M3M Skycity</p>
+                     </a>
+                     <a href="http://m3mwoodshire.co/" target="_blank" >
+                        <p class="name line-anim-01"> M3M Woodshire</p>
+                     </a>
+                     <a href="https://www.m3mskysuites.com/" target="_blank"  >
+                        <p class="name line-anim-01">  M3M Skysuites</p>
+                     </a>
+                  </div>
+                  <div class="right" id="div-4">
+                     <a href="http://m3mprive73.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M Prive 73</p>
+                     </a>
+                     <a href="http://m3mbroadway.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M Broadway</p>
+                     </a>
+                     <a href="http://m3m65thavenue.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M 65th Avenue</p>
+                     </a>
+                     <a href="http://m3mcornerwalk.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M Corner Walk </p>
+                     </a>
+                     <a href="http://www.m3mcosmopolitan.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M Cosmopolitan </p>
+                     </a>
+                     <a href="http://www.m3mifc.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M IFC</p>
+                     </a>
+                     <a href="http://www.m3monekeyresiments.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M One-Key Resi-ments</p>
+                     </a>
+                     <a href="http://m3mteepoint.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M Tee Point</p>
+                     </a>
+                     <a href="http://www.m3murbana.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M Urbana</p>
+                     </a>
+                     <a href="http://www.m3murbana.com/urbanabusinesspark/" target="_blank" >
+                        <p class="name line-anim-01">M3M Urbana Business Park</p>
+                     </a>
+                     <a href="http://m3murbanapremium.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M Urbana Premium</p>
+                     </a>
+                     <a target="_blank" href="#">
+                        <p class="name line-anim-01">M3M MY DEN</p>
+                     </a>
+                     <a target="_blank" href="#">
+                        <p class="name line-anim-01">M3M Skylofts</p>
+                     </a>
+                  </div>
+                  <div class="right" id="div-5">
+                     <a href="http://www.m3mthemarina.com/ikonic/" target="_blank" >
+                        <p class="name line-anim-01">Ikonic At M3M The Marina</p>
+                     </a>
+                     <a href="http://m3mprive73.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M Prive 73</p>
+                     </a>
+                     <a href="http://m3mnatura.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M Natura</p>
+                     </a>
+                     <a href="http://m3mbroadway.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M Broadway</p>
+                     </a>
+                     <a href="http://www.m3mifc.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M IFC</p>
+                     </a>
+                     <a href="http://m3mcornerwalk.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M Corner Walk</p>
+                     </a>
+                     <a href="http://m3m65thavenue.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M 65th Avenue</p>
+                     </a>
+                     <a href="http://m3m65thavenue.com/heights/" target="_blank" >
+                        <p class="name line-anim-01">M3M Heights</p>
+                     </a>
+                     <a href="http://www.m3mskycity.com/" target="_blank" >
+                        <p class="name line-anim-01">M3M Skycity</p>
+                     </a>
+                  </div>
+                  <div class="left">
+                     <a href="index.php" class="line-anim-01">Home</a>
+                     <a class="line-anim-01 customicon" data-toggle="collapse" href="#collapseExample1" role="button" aria-expanded="false">About M3M +</span></a>
+                     <div class="collapse" id="collapseExample1">
+                        <a href="about_us.php" class="line-anim-01" id="link-3">About Us</a>
+                        <!-- <a href="#" class="line-anim-01 link" id="link-4">Team</a>
+                           <a href="#" class="line-anim-01 link" id="link-5">Awards</a> -->
                      </div>
-                  </li>
-                  <li class="nav-item">
-                     <a class="nav-link" href="#">Redefining New Gurugram</a>
-                  </li>
-                  <li class="nav-item">
-                     <a class="nav-link" href="#">Bespoke Homes</a>
-                  </li>
-                  <li>
-                     <img class="navCall" src="img/Call Icon@2x.png"/>
-                  </li>
-                  <li>
-                     <img class="navMenu" src="img/Hamburger.png"/>
-                  </li>
-                  <li>
-                     <img class="navMenu1" src="img/cross.png"/>
-                     <div class="menuPop">
-                        <div class="triangle-up"></div>
-                        <ul class="ulMenu">
-                           <li class="li-1"><a href="#">OVERVIEW</a></li>
-                           <li class="li-1"><a href="#">BLOGS</a></li>
-                           <li class="li-3"><a href="#">WORK WITH US</a></li>
-                        </ul>
+                     <a class="line-anim-01" data-toggle="collapse" href="#collapseExample2" role="button" aria-expanded="false">Projects +</a>
+                     <div class="collapse" id="collapseExample2">
+                        <a href="#" class="line-anim-01 link" id="link-3">Residential</a>
+                        <a href="#" class="line-anim-01 link" id="link-4">Commecial</a>
+                        <a href="#" class="line-anim-01 link" id="link-5">New Launch</a>
                      </div>
-                  </li>
-               </ul>
+                     <!-- <a href="" class="line-anim-01 ">Investor Corner</a> -->
+                     <!-- <a href="" class="line-anim-01" target="_blank">Verified Agents</a> -->
+                     <a href="media.php" class="line-anim-01 ">Media</a>
+                     <a href="career.php" class="line-anim-01" target="_blank">Career</a>
+                     <a href="contactus.php" class="line-anim-01 ">Contact Us</a>
+                  </div>
+               </div>
+               <div class="horiz-line"></div>
+               <div class="horiz-line"></div>
+               <div class="bottom-wrp">
+                  <div class="left">
+                     <a href="tel:18001233333">
+                     Call Us
+                     <span> 1800-123-3333</span>
+                     </a>
+                  </div>
+                  <div class="right">
+                     <a href="https://www.facebook.com/M3MIndiaLtd" target ="_blank" class="bg-anim-01">
+                     <img src="https://www.thewadhwagroup.com/resources/images/fb-circle-icon.png">
+                     </a>
+                     <a href="https://twitter.com/M3MIndiaPvtLtd" target ="_blank" class="bg-anim-01">
+                     <img src="https://www.thewadhwagroup.com/resources/images/twitter-circle-icon.png">
+                     </a>
+                     <a href="https://www.linkedin.com/company/m3m-india-limited/?originalSubdomain=in" target ="_blank" class="bg-anim-01">
+                     <img src="https://www.thewadhwagroup.com/resources/images/linkedin-circle-icon.png">
+                     </a>
+                     <a href="https://www.instagram.com/M3MIndiaPvtLtd/" target ="_blank" class="bg-anim-01">
+                     <img src="https://www.thewadhwagroup.com/resources/images/instagram-circle-icon.png">
+                     </a>
+                     <a href="https://www.youtube.com/user/M3MIndiaLtd/Q" target ="_blank" class="bg-anim-01">
+                     <img src="https://www.thewadhwagroup.com/resources/images/youtube-circle-icon.png">
+                     </a>
+                  </div>
+               </div>
             </div>
          </div>
-      </nav>
+      </header>
+      <!--
+         <div class="home-sec">
+           <div id="home-main-slider" class="owl-carousel owl-theme">
+             
+             <div class="hm-slide" style="background-image: url('resources/images/home/slide6.jpg');"></div>
+             <div class="hm-slide" style="background-image: url('resources/images/home/slide3.jpg');"></div>
+             <div class="hm-slide" style="background-image: url('resources/images/home/slide4.jpg');"></div>
+             <div class="hm-slide" style="background-image: url('resources/images/home/slide5.jpg');"></div>
+           </div>
+           
+         </div>-->
+      <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+      <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+      <script src="resources/js/main.js"></script>
+      <script>
+         $('.top-wrp > .right').hide();
+         $('#div-1').show();
+         $('#link-1').addClass('active');
+         
+            $(".link").click(function(e) {
+            e.preventDefault();
+            
+            $(".left a").removeClass('active');
+            $('.top-wrp > .right').hide();
+            
+            if($(this).hasClass('active')){
+         		$(this).removeClass('active');
+         	}else{
+         		$(this).addClass('active');
+         	}
+                
+            
+            var id = $(this).attr('id').replace('link-','');
+            $('#div-'+id).show();
+         });
+      </script>
+   </body>
+</html>
