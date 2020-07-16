@@ -352,18 +352,18 @@ nav.active .menu-btn .lines span:nth-child(4)/*,
 }
 
 .menu-wrp .top-wrp .right > a {
-  width: 36%;
-  padding-left: 30px;
-  border: 1px solid #e3e3e3;
-  border-left: none;
-  border-top: none;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  width: 28%;
+    padding-left: 5px;
+    border: 1px solid #e3e3e3;
+    border-left: none;
+    border-top: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
 
 .menu-wrp .top-wrp .right > a:nth-child(1),
 .menu-wrp .top-wrp .right > a:nth-child(4) {
-  padding-left: 0;
+  padding-left: 5px;
   width: 28%;
 }
 
@@ -371,7 +371,7 @@ nav.active .menu-btn .lines span:nth-child(4)/*,
 .menu-wrp .top-wrp .right > a:nth-child(5),
 .menu-wrp .top-wrp .right > a:nth-child(6) {
   padding-top: 30px;
-  border-bottom: 0;
+ 
 }
 
 .menu-wrp .top-wrp .right > a:nth-child(3n) {
@@ -385,12 +385,12 @@ nav.active .menu-btn .lines span:nth-child(4)/*,
 }
 
 .menu-wrp .top-wrp .right > a .name {
-  font-size: 31px;
-  color: #2184bf;
-  font-weight: 700;
-  letter-spacing: -2px;
-  position: relative;
-  display: table;
+  font-size: 13px;
+    color: #2184bf;
+    font-weight: 700;
+    letter-spacing: 2px;
+    position: relative;
+    display: table;
 }
 
 .menu-wrp .top-wrp .right a .line-anim-01:after{

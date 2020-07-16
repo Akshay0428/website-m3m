@@ -32,9 +32,9 @@
                   </div> -->
             <div class="text-right center-block">
                <a href="#"><i id="social-fb" class="fa fa-whatsapp fa-2x social"></i></a>
-               <a href="#"><i id="social-tw" class="fa fa-facebook fa-2x social"></i></a>
-               <a href="#"><i id="social-gp" class="fa fa-youtube-play fa-2x social"></i></a>
-               <a href="#"><i id="social-em" class="fa fa-linkedin fa-2x social"></i></a>
+               <a href="https://www.facebook.com/M3MIndiaLtd" target="_blank"><i id="social-tw" class="fa fa-facebook fa-2x social"></i></a>
+               <a href="https://www.youtube.com/user/M3MIndiaLtd/" target="_blank"><i id="social-gp" class="fa fa-youtube-play fa-2x social"></i></a>
+               <a href="https://www.linkedin.com/company/m3m-india-limited/?originalSubdomain=in" target="_blank"><i id="social-em" class="fa fa-linkedin fa-2x social"></i></a>
             </div>
          </div>
       </div>
@@ -300,6 +300,102 @@
                breakpoint: 480,
                settings: {
                   slidesToShow: 2,
+                  arrow: false,
+                  dots: true,
+                  prevArrow:'<button type="button" class="d-none"></button>',
+                  nextArrow:'<button type="button" class="d-none"></button>',
+                  slidesToScroll: 1
+               }
+            }
+         ]
+      });
+
+      $('.abt-counter').slick({
+         dots: false,
+         arrow: true,
+         prevArrow:'<button type="button" class="prev-button"></button>',
+         nextArrow:'<button type="button" class="next-button"></button>',
+         infinite: true,
+         autoplay: true,
+         speed: 300,
+         slidesToShow: 5,
+         slidesToScroll: 1,
+         responsive: [
+            {
+               breakpoint: 1024,
+               settings: {
+                  slidesToShow: 5,
+                  slidesToScroll: 1,
+                  arrow: true,
+                  prevArrow:'<button type="button" class="prev-button"></button>',
+                  nextArrow:'<button type="button" class="next-button"></button>',
+                  infinite: true,
+                  dots: false
+               }
+            },
+            {
+               breakpoint: 600,
+               settings: {
+                  slidesToShow: 2,
+                  arrow: false,
+                  dots: true,
+                  prevArrow:'<button type="button" class="d-none"></button>',
+                  nextArrow:'<button type="button" class="d-none"></button>',
+                  slidesToScroll: 1
+               }
+            },
+            {
+               breakpoint: 480,
+               settings: {
+                  slidesToShow: 2,
+                  arrow: false,
+                  dots: true,
+                  prevArrow:'<button type="button" class="d-none"></button>',
+                  nextArrow:'<button type="button" class="d-none"></button>',
+                  slidesToScroll: 1
+               }
+            }
+         ]
+      });
+
+      $('.deal-slider').slick({
+         dots: false,
+         arrow: true,
+         prevArrow:'<button type="button" class="prev-button"></button>',
+         nextArrow:'<button type="button" class="next-button"></button>',
+         infinite: true,
+         autoplay: true,
+         speed: 300,
+         slidesToShow: 3,
+         slidesToScroll: 1,
+         responsive: [
+            {
+               breakpoint: 1024,
+               settings: {
+                  slidesToShow: 3,
+                  slidesToScroll: 1,
+                  arrow: true,
+                  prevArrow:'<button type="button" class="prev-button"></button>',
+                  nextArrow:'<button type="button" class="next-button"></button>',
+                  infinite: true,
+                  dots: false
+               }
+            },
+            {
+               breakpoint: 600,
+               settings: {
+                  slidesToShow: 1,
+                  arrow: false,
+                  dots: true,
+                  prevArrow:'<button type="button" class="d-none"></button>',
+                  nextArrow:'<button type="button" class="d-none"></button>',
+                  slidesToScroll: 1
+               }
+            },
+            {
+               breakpoint: 480,
+               settings: {
+                  slidesToShow: 1,
                   arrow: false,
                   dots: true,
                   prevArrow:'<button type="button" class="d-none"></button>',
