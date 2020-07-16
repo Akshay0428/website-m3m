@@ -2008,7 +2008,7 @@
 
 <!-- partner section start -->
 
-<div class="partner-color pdng-btm-120">
+<div class="partner-color pdng55">
    <div class="container mrg-top  custom-heading">
       <h2 class="text-uppercase pdng-top" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">partners and<br> testimonials</h2>
       <div class="green-line prtnr-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
@@ -2183,8 +2183,8 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="white text-capitalize text-left">corporate office</h5>
-                  <h5 class="white text-capitalize text-left">M3M india pvt. ltd.</h5>
+                  <h5 class="white text-capitalize text-left font-bold">corporate office</h5>
+                  <h5 class="white text-capitalize text-left font-bold">M3M india pvt. ltd.</h5>
                   <p class="white text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
                </div>
             </div>
@@ -2195,8 +2195,8 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="white text-capitalize text-left">sales gallery address</h5>
-                  <p class="white text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
+                  <h5 class="white text-capitalize text-left font-bold">sales gallery address</h5>
+                  <p class="white text-capitalize text-left">‘The Experia’, Golf Course Road (Extn.),Sector–73, Gurugram (Gurgaon) 122004,Haryana, India</p>
                </div>
             </div>
             <div class="row name">
@@ -2206,11 +2206,11 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="white text-capitalize text-left">office:</h5>
-                  <p class="white text-capitalize text-left">tel: 9999999999</p>
-                  <p class="white text-capitalize text-left">toll free: 99999999</p>
-                  <p class="white text-capitalize text-left">fax: 9999999999</p>
-                  <p class="white text-capitalize text-left">sales enquires: sales@m3mindia.com</p>
+                  <h5 class="white text-capitalize text-left font-bold">office:</h5>
+                  <p class="white text-capitalize text-left">el: +91 124 4732000</p>
+                  <p class="text-capitalize white text-left">toll free: 1800 123 3333</p>
+                  <p class="text-capitalize white text-left">fax: +91 124 4732010</p>
+                  <p class="white text-left">Sales Enquires: sales@m3mindia.com</p>
                </div>
             </div>
             <div class="row name">
@@ -2220,9 +2220,9 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="white text-capitalize text-left">leasing enquires:</h5>
+                  <h5 class="white text-capitalize text-left font-bold">leasing enquires:</h5>
                   <p class="white text-capitalize text-left">leasing@m3mindia.com</p>
-                  <p class="white text-capitalize text-left">tel: 9999999999</p>
+                  <p class="white text-capitalize text-left">tel:+91 9870323433</p>
                </div>
             </div>
          </div>
@@ -2231,25 +2231,25 @@
                <form class="bottom-form" action="" method="POST">
                   <div class="form-group form-group-custom">
                      <label for="exampleInputEmail1" class="text-capitalize">
-                        <h6>name</h6>
+                        <h6 class="font-400">name</h6>
                      </label>
                      <input type="email" class="form-control text-capitalize form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="name" required>
                   </div>
                   <div class="form-group form-group-custom">
                      <label for="exampleInputEmail1">
-                        <h6>E-mail</h6>
+                        <h6 class="font-400">E-mail</h6>
                      </label>
                      <input type="email" class="form-control form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-mail ID" required>
                   </div>
                   <div class="form-group form-group-custom">
                      <label for="exampleInputEmail1" class="text-capitalize">
-                        <h6>phone no.</h6>
+                        <h6 class="font-400">phone no.</h6>
                      </label>
                      <input type="email" class="form-control text-capitalize form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="+91-" required>
                   </div>
                   <div class="form-group form-group-custom">
                      <label for="exampleFormControlSelect1">
-                        <h6>Department</h6>
+                        <h6 class="font-400">Department</h6>
                      </label>
                      <select class="form-control form-control-custom" id="exampleFormControlSelect1" required>
                         <option>Sales</option>
@@ -2277,8 +2277,8 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="white text-capitalize text-left">corporate office</h5>
-                  <h5 class="white text-capitalize text-left">M3M india pvt. ltd.</h5>
+                  <h5 class="white text-capitalize text-left font-bold">corporate office</h5>
+                  <h5 class="white text-capitalize text-left font-bold">M3M india pvt. ltd.</h5>
                   <p class="white text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
                </div>
             </div>
@@ -2289,8 +2289,8 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="white text-capitalize text-left">sales gallery address</h5>
-                  <p class="white text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
+                  <h5 class="white text-capitalize text-left font-bold">sales gallery address</h5>
+                  <p class="white text-capitalize text-left">‘The Experia’, Golf Course Road (Extn.),Sector–73, Gurugram (Gurgaon) 122004,Haryana, India</p>
                </div>
             </div>
             <div class="row name">
@@ -2300,11 +2300,11 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="white text-capitalize text-left">office:</h5>
-                  <p class="white text-capitalize text-left">tel: 9999999999</p>
-                  <p class="white text-capitalize text-left">toll free: 99999999</p>
-                  <p class="white text-capitalize text-left">fax: 9999999999</p>
-                  <p class="white text-capitalize text-left">sales enquires: sales@m3mindia.com</p>
+                  <h5 class="white text-capitalize text-left font-bold">office:</h5>
+                  <p class="white text-capitalize text-left">el: +91 124 4732000</p>
+                  <p class="text-capitalize white text-left">toll free: 1800 123 3333</p>
+                  <p class="text-capitalize white text-left">fax: +91 124 4732010</p>
+                  <p class="white text-left">Sales Enquires: sales@m3mindia.com</p>
                </div>
             </div>
             <div class="row name">
@@ -2314,9 +2314,9 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="white text-capitalize text-left">leasing enquires:</h5>
+                  <h5 class="white text-capitalize text-left font-bold">leasing enquires:</h5>
                   <p class="white text-capitalize text-left">leasing@m3mindia.com</p>
-                  <p class="white text-capitalize text-left">tel: 9999999999</p>
+                  <p class="white text-capitalize text-left">tel:+91 9870323433</p>
                </div>
             </div>
          </div>

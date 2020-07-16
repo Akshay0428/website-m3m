@@ -30,6 +30,14 @@ $(document).ready(function () {
 	});
 
 
+	$('.moreless-button2').click(function() {
+		$('.moretext2').slideToggle();
+		if ($('.moreless-button2').text() == "load more") {
+		  $(this).text("load less")
+		} else {
+		  $(this).text("load more")
+		}
+	});
 
 	$("#med1").click(function () {
 		$("#med1").addClass("view_btn_media-active");

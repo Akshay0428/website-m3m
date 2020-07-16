@@ -204,6 +204,10 @@
          .left a {
          padding: 1px !important;
          }
+         .custom-col-setting {
+            margin: 0px !important;
+            padding: 0px !important;
+         }
          }
       </style>
    </head>
@@ -406,7 +410,7 @@
                      <!-- <a href="" class="line-anim-01 ">Investor Corner</a> -->
                      <!-- <a href="" class="line-anim-01" target="_blank">Verified Agents</a> -->
                      <a href="media.php" class="line-anim-01 ">Media</a>
-                     <a href="career.php" class="line-anim-01" target="_blank">Career</a>
+                     <a href="career.php" class="line-anim-01">Career</a>
                      <a href="contactus.php" class="line-anim-01 ">Contact Us</a>
                   </div>
                </div>
