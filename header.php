@@ -204,6 +204,10 @@
          .left a {
          padding: 1px !important;
          }
+         .custom-col-setting {
+            margin: 0px !important;
+            padding: 0px !important;
+         }
          }
       </style>
    </head>
@@ -211,6 +215,7 @@
       <header class="scroll-col">
          <div class="container navbar">
             <a class="navbar-brand" href="index.php"><img src="img/M3M logo.png"></a>
+            <a class="nav-link m_hide" href="redefining.php">Redefining New Gurugram</a>
             <a href="tel:18001233333"><img class="navCall" src="img/Call Icon@2x.png"/></a>
             <nav>
                <div class="menu-btn">
@@ -405,7 +410,7 @@
                      <!-- <a href="" class="line-anim-01 ">Investor Corner</a> -->
                      <!-- <a href="" class="line-anim-01" target="_blank">Verified Agents</a> -->
                      <a href="media.php" class="line-anim-01 ">Media</a>
-                     <a href="career.php" class="line-anim-01" target="_blank">Career</a>
+                     <a href="career.php" class="line-anim-01">Career</a>
                      <a href="contactus.php" class="line-anim-01 ">Contact Us</a>
                   </div>
                </div>
@@ -476,5 +481,3 @@
             $('#div-'+id).show();
          });
       </script>
-   </body>
-</html>

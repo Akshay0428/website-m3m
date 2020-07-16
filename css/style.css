@@ -60,6 +60,10 @@ h6 {
 	padding-bottom: 120px;
 }
 
+.pdng55{
+	padding-bottom: 55px;
+}
+
 .color-bronze {
 	color: #ccb497;
 }
@@ -576,12 +580,22 @@ li.nav-item {
 	padding: 24px 20px !important;
 }
 
-a.nav-link {
+/* a.nav-link {
 	position: relative;
 	display: block;
 	font-size: 16px !important;
 	color: #fff !important;
 	font-weight: 100 !important;
+} */
+
+a.nav-link {
+    position: absolute;
+    display: block;
+    font-size: 16px !important;
+    color: #fff !important;
+    font-weight: 100 !important;
+    right: 128px;
+    cursor: pointer;
 }
 
 a.nav-link:hover {
@@ -743,6 +757,11 @@ Project Residential & commrcial
 
 .overtxt li {
 	font-size: 12px !important;
+	list-style: initial !important;
+}
+
+.box ul{
+	padding: 10px;
 }
 
 .view_btn_media a {
@@ -1154,6 +1173,7 @@ h2.color-bronze.txt-upper {
 
 .position h4 {
 	font-size: 16px;
+	font-weight: 400;
 }
 
 .info {
@@ -1198,7 +1218,7 @@ h2.color-bronze.txt-upper {
 	background-color: #fff;
 	padding: 20px;
 	width: 65%;
-	margin: 0 auto;
+	margin: 20px auto;
 	margin-left: 35%;
 }
 
@@ -1318,8 +1338,16 @@ media page
 	height: auto;
 	word-wrap: break-word;
 }
-
 .moretext {
+	display: none;
+}
+
+#section-more2 {
+	width: 100%;
+	height: auto;
+	word-wrap: break-word;
+}
+.moretext2 {
 	display: none;
 }
 
@@ -1412,7 +1440,7 @@ bespoke living page
 }
 
 .custom-file-label {
-	top: 77% !important;
+	top: 67% !important;
 	left: 5% !important;
 	right: 5% !important;
 }
@@ -1861,13 +1889,9 @@ a[data-tooltip][data-placement="bottom"]::after {
 		width: 98% !important;
 		float: none !important;
 	}
-	/* .custom-file-label {
-		top: 67%;
-		width: 94%;
-		left: 3%;
-		height: calc(38px);
-		padding: 5px 19px;
-	} */
+	.custom-file-label {
+		top: 77% !important;
+	}
 	/******************************
 	Resedential & Commercial Section
 	**********************************/
@@ -1962,6 +1986,9 @@ a[data-tooltip][data-placement="bottom"]::after {
 	.rel_estate.career.pdng-top.pdng-btm {
 		padding-bottom: 0 !important;
 	}
+	.pdng-benifit_abt {
+		padding: 20px 20px !important;
+	}
 	/*******************************
 	footer mobile
 	********************************/
@@ -2012,7 +2039,19 @@ a[data-tooltip][data-placement="bottom"]::after {
 	}
 }
 
+/***************************Iphone 11************************************************************************/
+@media only screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) { 
+	.view-button a {
+		padding: 16px 57px !important;
+	}
+}
 
+/***************************Iphone 11 Pro Max************************************************************************/
+@media only screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) { 
+	.view-button a {
+		padding: 16px 57px !important;
+	}
+}
 /****************************************Iphone 6 7 8 Plus***************************************************/
 
 @media only screen and (device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) {
@@ -2022,7 +2061,7 @@ a[data-tooltip][data-placement="bottom"]::after {
 }
 
 
-/*********************Iphone X***************************************************************/
+/*********************Iphone X and 11 Pro***************************************************************/
 
 @media only screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
 	.view-button a {

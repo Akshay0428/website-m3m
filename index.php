@@ -1054,9 +1054,8 @@
                </ul> -->
             <!-- The slideshow -->
             <div class="carousel-inner">
-               <div class="carousel-item carousel-item-custom active">
+            <div class="carousel-item carousel-item-custom active">
                   <div class="row custom-row-setting" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
-                     
                      <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                         <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-50 custom-col-setting-pad">
                            <div class="box content">
@@ -1097,6 +1096,75 @@
                            </div>
                         </div>
                      </div>
+                     <div class="col-md-4 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
+                        <div class="row h-50 custom-row-setting">
+                           <div class="col-md-12 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
+                              <div class="box content">
+                                 <img src="img/Image07.png" class="img-ht img-fluid rounded">
+                                 <div class="content-overlay-middle"></div>
+                                 <div class="content-details fadeIn-top">
+                                    <h3>M3M 65TH AVENUE</h3>
+                                       <ul class="text-left text-white overtxt">
+                                       <li>Retail units with large frontage and glazed area</li>
+                                       <li>Anchor stores, F&B and multiplex creating an ambience to the place</li>
+                                       <li>Approx. 2,787 sq. m. (30,000 sq. ft.) central atrium</li>
+                                       <li>Wide boulevards and open spaces enhance visibility</li>
+                                       </ul>
+                                    <h4><a href="http://m3m65thavenue.com/" target="_blank">KNOW MORE</a></h4>
+                                 </div>
+                                 <div class="btm-txt-middle">
+                                    <p>M3M 65TH AVENUE</p>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
+                        <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-50 custom-col-setting-pad">
+                           <div class="box content">
+                              <img src="img/Image08.png" class="img-ht img-fluid rounded">
+                              <div class="content-overlay"></div>
+                              <div class="content-details fadeIn-top">
+                                 <h3>M3M PRIVE 73</h3>
+                                    <ul class="text-left text-white overtxt">
+                                    <li>A bewildering architecture inspired from Burlington Arcade, London</li>
+                                    <li>Open-to-sky cut outs extending natural light with large, impactful show windows</li>
+                                    <li>Premium high-street with goodness of a mall</li>
+                                    <li>Sky walkways for seamless connectivity and retail units with glass frontage for better business</li>
+                                    </ul>
+                                 <h4><a href="http://m3mprive73.com/" target="_blank">KNOW MORE</a></h4>
+                              </div>
+                              <div class="btm-txt">
+                                 <p>M3M PRIVE 73</p>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-50 custom-col-setting-pad">
+                           <div class="box content">
+                              <img src="img/Image09.png" class="img-ht img-fluid rounded">
+                              <div class="content-overlay"></div>
+                              <div class="content-details fadeIn-top">
+                                 <h3>M3M CORNER WALK</h3>
+                                    <ul class="text-left text-white overtxt">
+                                    <li>Mixed-use development with office spaces and double height stores</li>
+                                    <li>Rectangular-shaped for a spectacular frontage and two-side access</li>
+                                    <li>Located at sector-74, Golf Course Road (Extn.)</li>
+                                    <li>A mix of retail shops, F&B and office spaces with separate entry, pick-up and drop offs points</li>
+                                    </ul>
+                                 <h4><a href="http://m3mcornerwalk.com/" target="_blank">KNOW MORE</a></h4>
+                              </div>
+                              <div class="btm-txt">
+                                 <p>M3M CORNER WALK</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="carousel-item carousel-item-custom">
+                  <div class="row custom-row-setting" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
+                     
+                     
                      <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                         <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-50 custom-col-setting-pad">
                            <div class="box content">
@@ -1133,6 +1201,29 @@
                               </div>
                               <div class="btm-txt">
                                  <p>M3M BROADWAY</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-md-4 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
+                        <div class="row h-50 custom-row-setting">
+                           <div class="col-md-12 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
+                              <div class="box content">
+                                    <img src="img/Image06.png" class="img-ht img-fluid rounded">
+                                       <div class="content-overlay-middle"></div>
+                                       <div class="content-details fadeIn-top">
+                                          <h3>M3M IFC</h3>
+                                             <ul class="text-left text-white overtxt">
+                                             <li>Premium grade ‘A’ office spaces with triple height frontage, front facing retail units</li>
+                                             <li>Luxury shopping experience with high-end boutiques</li>
+                                             <li>High-speed elevators with destination control</li>
+                                             <li>State-of-the-art multi-level parking facility</li>
+                                             </ul>
+                                          <h4><a href="http://www.m3mifc.com/" target="_blank">KNOW MORE</a></h4>
+                                 </div>
+                                 <div class="btm-txt-middle">
+                                    <p>M3M IFC</p>
+                                 </div>
                               </div>
                            </div>
                         </div>
@@ -1917,7 +2008,7 @@
 
 <!-- partner section start -->
 
-<div class="partner-color pdng-btm-120">
+<div class="partner-color pdng55">
    <div class="container mrg-top  custom-heading">
       <h2 class="text-uppercase pdng-top" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">partners and<br> testimonials</h2>
       <div class="green-line prtnr-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
@@ -2092,8 +2183,8 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="white text-capitalize text-left">corporate office</h5>
-                  <h5 class="white text-capitalize text-left">M3M india pvt. ltd.</h5>
+                  <h5 class="white text-capitalize text-left font-bold">corporate office</h5>
+                  <h5 class="white text-capitalize text-left font-bold">M3M india pvt. ltd.</h5>
                   <p class="white text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
                </div>
             </div>
@@ -2104,8 +2195,8 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="white text-capitalize text-left">sales gallery address</h5>
-                  <p class="white text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
+                  <h5 class="white text-capitalize text-left font-bold">sales gallery address</h5>
+                  <p class="white text-capitalize text-left">‘The Experia’, Golf Course Road (Extn.),Sector–73, Gurugram (Gurgaon) 122004,Haryana, India</p>
                </div>
             </div>
             <div class="row name">
@@ -2115,11 +2206,11 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="white text-capitalize text-left">office:</h5>
-                  <p class="white text-capitalize text-left">tel: 9999999999</p>
-                  <p class="white text-capitalize text-left">toll free: 99999999</p>
-                  <p class="white text-capitalize text-left">fax: 9999999999</p>
-                  <p class="white text-capitalize text-left">sales enquires: sales@m3mindia.com</p>
+                  <h5 class="white text-capitalize text-left font-bold">office:</h5>
+                  <p class="white text-capitalize text-left">el: +91 124 4732000</p>
+                  <p class="text-capitalize white text-left">toll free: 1800 123 3333</p>
+                  <p class="text-capitalize white text-left">fax: +91 124 4732010</p>
+                  <p class="white text-left">Sales Enquires: sales@m3mindia.com</p>
                </div>
             </div>
             <div class="row name">
@@ -2129,9 +2220,9 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="white text-capitalize text-left">leasing enquires:</h5>
+                  <h5 class="white text-capitalize text-left font-bold">leasing enquires:</h5>
                   <p class="white text-capitalize text-left">leasing@m3mindia.com</p>
-                  <p class="white text-capitalize text-left">tel: 9999999999</p>
+                  <p class="white text-capitalize text-left">tel:+91 9870323433</p>
                </div>
             </div>
          </div>
@@ -2140,25 +2231,25 @@
                <form class="bottom-form" action="" method="POST">
                   <div class="form-group form-group-custom">
                      <label for="exampleInputEmail1" class="text-capitalize">
-                        <h6>name</h6>
+                        <h6 class="font-400">name</h6>
                      </label>
                      <input type="email" class="form-control text-capitalize form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="name" required>
                   </div>
                   <div class="form-group form-group-custom">
                      <label for="exampleInputEmail1">
-                        <h6>E-mail</h6>
+                        <h6 class="font-400">E-mail</h6>
                      </label>
                      <input type="email" class="form-control form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-mail ID" required>
                   </div>
                   <div class="form-group form-group-custom">
                      <label for="exampleInputEmail1" class="text-capitalize">
-                        <h6>phone no.</h6>
+                        <h6 class="font-400">phone no.</h6>
                      </label>
                      <input type="email" class="form-control text-capitalize form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="+91-" required>
                   </div>
                   <div class="form-group form-group-custom">
                      <label for="exampleFormControlSelect1">
-                        <h6>Department</h6>
+                        <h6 class="font-400">Department</h6>
                      </label>
                      <select class="form-control form-control-custom" id="exampleFormControlSelect1" required>
                         <option>Sales</option>
@@ -2186,8 +2277,8 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="white text-capitalize text-left">corporate office</h5>
-                  <h5 class="white text-capitalize text-left">M3M india pvt. ltd.</h5>
+                  <h5 class="white text-capitalize text-left font-bold">corporate office</h5>
+                  <h5 class="white text-capitalize text-left font-bold">M3M india pvt. ltd.</h5>
                   <p class="white text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
                </div>
             </div>
@@ -2198,8 +2289,8 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="white text-capitalize text-left">sales gallery address</h5>
-                  <p class="white text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
+                  <h5 class="white text-capitalize text-left font-bold">sales gallery address</h5>
+                  <p class="white text-capitalize text-left">‘The Experia’, Golf Course Road (Extn.),Sector–73, Gurugram (Gurgaon) 122004,Haryana, India</p>
                </div>
             </div>
             <div class="row name">
@@ -2209,11 +2300,11 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="white text-capitalize text-left">office:</h5>
-                  <p class="white text-capitalize text-left">tel: 9999999999</p>
-                  <p class="white text-capitalize text-left">toll free: 99999999</p>
-                  <p class="white text-capitalize text-left">fax: 9999999999</p>
-                  <p class="white text-capitalize text-left">sales enquires: sales@m3mindia.com</p>
+                  <h5 class="white text-capitalize text-left font-bold">office:</h5>
+                  <p class="white text-capitalize text-left">el: +91 124 4732000</p>
+                  <p class="text-capitalize white text-left">toll free: 1800 123 3333</p>
+                  <p class="text-capitalize white text-left">fax: +91 124 4732010</p>
+                  <p class="white text-left">Sales Enquires: sales@m3mindia.com</p>
                </div>
             </div>
             <div class="row name">
@@ -2223,9 +2314,9 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="white text-capitalize text-left">leasing enquires:</h5>
+                  <h5 class="white text-capitalize text-left font-bold">leasing enquires:</h5>
                   <p class="white text-capitalize text-left">leasing@m3mindia.com</p>
-                  <p class="white text-capitalize text-left">tel: 9999999999</p>
+                  <p class="white text-capitalize text-left">tel:+91 9870323433</p>
                </div>
             </div>
          </div>
