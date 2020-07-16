@@ -9,7 +9,7 @@
          <li data-target="#carouselExampleIndicators" data-slide-to="1">2</li>
          <li data-target="#carouselExampleIndicators" data-slide-to="2">3</li>
          <li data-target="#carouselExampleIndicators" data-slide-to="3">4</li>
-         <li data-target="#carouselExampleIndicators" data-slide-to="4">5</li>
+         <!-- <li data-target="#carouselExampleIndicators" data-slide-to="4">5</li> -->
       </ol>
       <div class="carousel-inner" role="listbox">
          <!-- Slide One - Set the background image for this slide in the line below -->
@@ -28,12 +28,6 @@
          </div>
          <!-- Slide Three - Set the background image for this slide in the line below -->
          <div class="carousel-item" style="background-image: url(img/banner/banner3.png)">
-            <!-- <div class="carousel-caption d-none d-md-block">
-               <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
-               <h2 class="display-4">VALUE CREATOR</h2>
-            </div> -->
-         </div>
-         <div class="carousel-item" style="background-image: url(img/banner/banner4.png)">
             <!-- <div class="carousel-caption d-none d-md-block">
                <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
                <h2 class="display-4">VALUE CREATOR</h2>
@@ -67,9 +61,6 @@
             </div>
             <div class="carousel-item">
                <img src="img/banner/mobile/mob-3.png" class="d-block w-100 h-100" alt="M3M Banner">
-            </div>
-            <div class="carousel-item">
-               <img src="img/banner/mobile/mob-4.png" class="d-block w-100 h-100" alt="M3M Banner">
             </div>
             <div class="carousel-item">
                <img src="img/banner/mobile/mob-4.png" class="d-block w-100 h-100" alt="M3M Banner">
@@ -1685,7 +1676,7 @@
    <div class="custom-heading" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
       <h2 class="text-center text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">glimpses of m3m</h2>
       <div class="green-line text-center" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500"></div>
-      <p class="text-center"  data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">Just like our business, our social life is also thriving. See what's new and exciting
+      <p class="text-center pad-custom"  data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">Just like our business, our social life is also thriving. See what's new and exciting
       </p>
    </div>
    <div class="clearfix"></div>
@@ -1952,7 +1943,7 @@
    <h2 class="text-center text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">awards and accolades</h2>
    <div class="green-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
    <div class="container text-center text-capitalize" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
-      <p data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">Our consistent effort towards excellence has won us many prestigious awards in the industry. But our heart still beams the brightest when we see a smile on our customer’s face.</p>
+      <p data-aos="zoom-in" class="text-center" data-aos-easing="linear" data-aos-duration="1500">Our consistent effort towards excellence has won us many prestigious awards in the industry. But our heart still beams the brightest when we see a smile on our customer’s face.</p>
    </div>
    <div class="row pdng-top award-slider">
       <div class="col-sm-4">

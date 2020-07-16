@@ -1,5 +1,14 @@
 <?php include 'header.php';?>
-
+<!-- Temporary Style Only For Two Buttons -->
+<style>
+    @media only screen and (max-width: 768px)
+    {
+    .custom-row-setting {
+        max-width: 100% !important;
+        display: flex !important;
+    }
+    }
+</style>
 <!-- banner section start -->
 
 <section class="banner-section" id="ban-id">
@@ -35,12 +44,12 @@
             </div>
             <div class="col-lg-3 col-md-3 col-6 custom-col-setting">
                 <div class="view_btn_media" id="med3">
-                <a class="text-uppercase" id="medhov3">news</a>
+                <!-- <a class="text-uppercase" id="medhov3">news</a> -->
                 </div>
             </div>
             <div class="col-lg-3 col-md-3 col-6 custom-col-setting">
                 <div class="view_btn_media" id="med4">
-                <a class="text-uppercase" id="medhov4">press release</a>
+                <!-- <a class="text-uppercase" id="medhov4">press release</a> -->
                 </div>
             </div>
         </div>

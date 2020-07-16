@@ -404,13 +404,13 @@
                      <a class="line-anim-01" data-toggle="collapse" href="#collapseExample2" role="button" aria-expanded="false">Projects +</a>
                      <div class="collapse" id="collapseExample2">
                         <a href="#" class="line-anim-01 link" id="link-3">Residential</a>
-                        <a href="#" class="line-anim-01 link" id="link-4">Commecial</a>
+                        <a href="#" class="line-anim-01 link" id="link-4">Commercial</a>
                         <a href="#" class="line-anim-01 link" id="link-5">New Launch</a>
                      </div>
                      <!-- <a href="" class="line-anim-01 ">Investor Corner</a> -->
                      <!-- <a href="" class="line-anim-01" target="_blank">Verified Agents</a> -->
                      <a href="media.php" class="line-anim-01 ">Media</a>
-                     <a href="career.php" class="line-anim-01">Career</a>
+                     <a href="career.php" class="line-anim-01">Careers</a>
                      <a href="contactus.php" class="line-anim-01 ">Contact Us</a>
                   </div>
                </div>
