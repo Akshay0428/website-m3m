@@ -37,14 +37,12 @@ h2 {
 h3 {
   font-weight: 300; }
 
-h4 {
-  font-weight: 300; }
+
+  
 
 h5 {
   font-weight: 300; }
 
-h6 {
-  font-weight: 300; }
 
 
 .transition {transition: all 1s cubic-bezier(0.04, 0.58, 0.43, 1.04); }
