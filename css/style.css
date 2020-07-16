@@ -576,12 +576,22 @@ li.nav-item {
 	padding: 24px 20px !important;
 }
 
-a.nav-link {
+/* a.nav-link {
 	position: relative;
 	display: block;
 	font-size: 16px !important;
 	color: #fff !important;
 	font-weight: 100 !important;
+} */
+
+a.nav-link {
+    position: absolute;
+    display: block;
+    font-size: 16px !important;
+    color: #fff !important;
+    font-weight: 100 !important;
+    right: 128px;
+    cursor: pointer;
 }
 
 a.nav-link:hover {
@@ -743,6 +753,11 @@ Project Residential & commrcial
 
 .overtxt li {
 	font-size: 12px !important;
+	list-style: initial !important;
+}
+
+.box ul{
+	padding: 10px;
 }
 
 .view_btn_media a {
@@ -2012,7 +2027,19 @@ a[data-tooltip][data-placement="bottom"]::after {
 	}
 }
 
+/***************************Iphone 11************************************************************************/
+@media only screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) { 
+	.view-button a {
+		padding: 16px 57px !important;
+	}
+}
 
+/***************************Iphone 11 Pro Max************************************************************************/
+@media only screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3) { 
+	.view-button a {
+		padding: 16px 57px !important;
+	}
+}
 /****************************************Iphone 6 7 8 Plus***************************************************/
 
 @media only screen and (device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) {
@@ -2022,7 +2049,7 @@ a[data-tooltip][data-placement="bottom"]::after {
 }
 
 
-/*********************Iphone X***************************************************************/
+/*********************Iphone X and 11 Pro***************************************************************/
 
 @media only screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
 	.view-button a {

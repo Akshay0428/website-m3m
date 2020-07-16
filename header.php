@@ -211,6 +211,7 @@
       <header class="scroll-col">
          <div class="container navbar">
             <a class="navbar-brand" href="index.php"><img src="img/M3M logo.png"></a>
+            <a class="nav-link m_hide" href="redefining.php">Redefining New Gurugram</a>
             <a href="tel:18001233333"><img class="navCall" src="img/Call Icon@2x.png"/></a>
             <nav>
                <div class="menu-btn">
