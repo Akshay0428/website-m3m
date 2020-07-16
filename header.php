@@ -47,6 +47,14 @@
          .menu-wrp.active {
             overflow-y: scroll !important;
          }
+         .menu-brand img {
+            position: absolute;
+            width: 9%;
+            top: 17px;
+         }
+         .menu-wrp .top-wrp {
+            margin-top: 25px;
+         }
          /***********************************slick***********************************/
          .prev-button {
          color: #999;
@@ -224,6 +232,12 @@
             width: 100%;
             padding: 22px 0px !important;
          }
+         .menu-wrp .top-wrp .right {
+            border: none !important;
+         }
+         .menu-brand img {
+            width: 30%;
+         }
          }
       </style>
    </head>
@@ -245,11 +259,13 @@
             </nav>
             <div class="menu-overlay"></div>
             <div class="menu-wrp">
+            <a class="menu-brand" href="index.php"><img src="img/M3M logo.png"></a>
                <div class="whatsapp-wrp">
                   <a href="#"><img src=""></a>
                </div>
                <div class="top-wrp">
                   <div class="right" id="div-1">
+                     
                      <!-- <a href="#" target="_blank" ><p class="name line-anim-01">About Us</p></a>
                         <a href="#" target="_blank" ><p class="name line-anim-01">CSR</p></a>
                         <a href="#" target="_blank" ><p class="name line-anim-01">Awards</p></a> -->
@@ -409,6 +425,7 @@
                         <p class="name line-anim-01">M3M Skycity</p>
                      </a>
                   </div>
+                  
                   <div class="left">
                      <a href="index.php" class="line-anim-01">Home</a>
                      <a class="line-anim-01 about" onclick="togglesign('.about')" data-toggle="collapse" href="#collapseExample1" role="button" aria-expanded="false">About M3M <i class="fa fa-plus"></i></span></a>
