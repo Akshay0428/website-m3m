@@ -1,7 +1,5 @@
 <?php include 'header.php';?>
-
 <!-- banner section start -->
-
 <section class="banner-section" id="ban-id">
    <div class="media-bann">
       <!-- <div class="bannercon-txt custom-heading">
@@ -10,12 +8,8 @@
          </div> -->
    </div>
 </section>
-
 <!-- banner section ends -->
-
-
 <!-- contact us start -->
-
 <div class="con-page">
    <div class="container pdng-top">
       <div class="cutsom-heading">
@@ -23,26 +17,25 @@
       </div>
       <div class="green-line prtnr-line" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500"></div>
       <div class="row custom-row-setting">
-         <div class="col-lg-3 col-md-3 col-6 custom-col-setting">
-            <button type="button" class="view-button" id="med1">
-                <a class="text-uppercase" id="medhov1">what's new</a>
-            </button>
-            
+         <div class="col-lg-3 col-md-3 col-12 custom-col-setting">
+            <div class="view-button view-button-active" id="med1">
+               <a class="text-uppercase" id="medhov1">what's new</a>
+            </div>
          </div>
-         <div class="col-lg-3 col-md-3 col-6 custom-col-setting">
-            <button type="button" class="view-button" id="med3">
+         <div class="col-lg-3 col-md-3 col-12 custom-col-setting">
+            <div class="view-button" id="med2">
                <a class="text-uppercase" id="medhov2">past events</a>
-         </button>
+            </div>
          </div>
-         <div class="col-lg-3 col-md-3 col-6 custom-col-setting">
-            <button type="button" class="view-button" id="med3">
+         <div class="col-lg-3 col-md-3 col-12 custom-col-setting">
+            <div class="view-button" id="med3">
                <a class="text-uppercase" id="medhov3">news</a>
-         </button>
+            </div>
          </div>
-         <div class="col-lg-3 col-md-3 col-6 custom-col-setting">
-            <button type="button" class="view-button" id="med4">
+         <div class="col-lg-3 col-md-3 col-12 custom-col-setting">
+            <div class="view-button" id="med4">
                <a class="text-uppercase" id="medhov4">press release</a>
-         </button>
+            </div>
          </div>
       </div>
       <div class="press pdng-top">
@@ -52,10 +45,21 @@
          <div class="row media-card pdng-top">
             <div class="col-lg-4 col-md-4 col-12">
                <div class="card">
+                  <a href="https://bit.ly/32eRHIo"  target="_blank">
+                  <img class="card-img-top" src="img/media_page/pdf.png" alt="Card image">
+                  </a>
+                  <div class="card-body">
+                     <p class="card-title txt-color">13th July</p>
+                     <p class="card-text">Capital Investment</p>
+                  </div>
+               </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-12">
+               <div class="card">
                   <img class="card-img-top" src="img/media_page/whats_new/Media-01.png" alt="Card image">
                   <div class="card-body">
-                     <p class="card-title txt-color">06-Jul-2020</p>
-                     <p class="card-text">M3M delivers 2 new projects in Gurugram</p>
+                     <p class="card-title txt-color">11th July</p>
+                     <p class="card-text">Mail Today - 2 New Projects in Gurugram</p>
                   </div>
                </div>
             </div>
@@ -63,50 +67,40 @@
                <div class="card">
                   <img class="card-img-top" src="img/media_page/whats_new/Media-02.png" alt="Card image">
                   <div class="card-body">
-                     <p class="card-title txt-color">06-Jul-2020</p>
-                     <p class="card-text">M3M delivers 2 new projects in Gurugram</p>
+                     <p class="card-title txt-color">11th July</p>
+                     <p class="card-text"> Times Of India - Growing By Leaps & Bounds</p>
                   </div>
                </div>
             </div>
-            <div class="col-lg-4 col-md-4 col-12">
-               <div class="card">
-                  <a href="img/media_page/whats_new/M3M, News Clipping of 'Growing by leaps and bounds'- The Times of India (11th July 2020).pdf"  target="_blank">
-                  <img class="card-img-top" src="img/media_page/pdf.png" alt="Card image"></a>
-                  <div class="card-body">
-                     <p class="card-title txt-color">11th July 2020</p>
-                     <p class="card-text">Growing by leaps and bounds'</p>
-                  </div>
-               </div>
-            </div>
-        </div>
+         </div>
          <div class="row media-card pdng-top">
             <div class="col-lg-4 col-md-4 col-12">
                <div class="card">
-                  <a href="img/media_page/whats_new/M3M, News Clipping of 'Home buyer interest in studio, serviced apartments rising in NCR'- The Economic Times (9th July 2020)- without logo.pdf" target="_blank">
+                  <a href="https://bit.ly/2BND0Bv" target="_blank">
                   <img class="card-img-top" src="img/media_page/pdf.png" alt="Card image"></a>
                   <div class="card-body">
-                     <p class="card-title txt-color">9th July 2020</p>
-                     <p class="card-text">Home buyer interest in studio, serviced apartments rising in NCR'</p>
+                     <p class="card-title txt-color">9th July</p>
+                     <p class="card-text">Financial Express- 5500 </p>
                   </div>
                </div>
             </div>
             <div class="col-lg-4 col-md-4 col-12">
                <div class="card">
-                  <a href="img/media_page/whats_new/M3M, News Clipping of 'Corporates lend a helping hand in fight against Covid'- Hindustan Times (1st April 2020).pdf" target="_blank">
+                  <a href="https://bit.ly/38HIR73" target="_blank">
                   <img class="card-img-top" src="img/media_page/pdf.png" alt="Card image"></a>
                   <div class="card-body">
-                     <p class="card-title txt-color">1st April 2020</p>
-                     <p class="card-text">Corporates lend a helping hand in fight against Covid-19'</p>
+                     <p class="card-title txt-color">8th July</p>
+                     <p class="card-text"> Business World</p>
                   </div>
                </div>
             </div>
             <div class="col-lg-4 col-md-4 col-12">
                <div class="card">
-                  <a href="img/media_page/whats_new/M3M, News Clipping of 'STIMULATING THE SECTOR'- Mail Today (18th May 2020).pdf" target="_blank">
+                  <a href="https://bit.ly/2DfZX0f" target="_blank">
                   <img class="card-img-top" src="img/media_page/pdf.png" alt="Card image"></a>
                   <div class="card-body">
-                     <p class="card-title txt-color">18th May 2020</p>
-                     <p class="card-text">Stimulating the sector'</p>
+                     <p class="card-title txt-color">8th July</p>
+                     <p class="card-text">Economic Times</p>
                   </div>
                </div>
             </div>
@@ -164,7 +158,5 @@
    </div>
    <div class="clearfix"></div>
 </div>
-
 <!-- contact us ends -->
-
 <?php include 'footer.php';?>

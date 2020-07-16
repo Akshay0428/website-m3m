@@ -211,9 +211,9 @@
                 </div>
                 </div>
             </div>
-            <!-- extra sections  -->
-            <div id="section-more">
-                <div class="moretext">
+
+            <div id="section-more2">
+                <div class="moretext2">
                 <div class="row media-card pdng-top">
                     <div class="col-lg-4 col-md-4 col-12">
                         <div class="card">
@@ -248,7 +248,7 @@
                 </div>
                 </div>
                 <div class="view-button float-right" id="med4">
-                <a class="text-uppercase moreless-button" id="">load more</a>
+                <a class="text-uppercase moreless-button2" id="">load more</a>
                 </div>
             </div>
         </div>

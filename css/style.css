@@ -1323,8 +1323,16 @@ media page
 	height: auto;
 	word-wrap: break-word;
 }
-
 .moretext {
+	display: none;
+}
+
+#section-more2 {
+	width: 100%;
+	height: auto;
+	word-wrap: break-word;
+}
+.moretext2 {
 	display: none;
 }
 
