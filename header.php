@@ -411,7 +411,7 @@
                   </div>
                   <div class="left">
                      <a href="index.php" class="line-anim-01">Home</a>
-                     <a class="line-anim-01 customicon" data-toggle="collapse" href="#collapseExample1" role="button" aria-expanded="false">About M3M +</span></a>
+                     <a class="line-anim-01 about" onclick="togglesign('.about')" data-toggle="collapse" href="#collapseExample1" role="button" aria-expanded="false">About M3M <i class="fa fa-plus"></i></span></a>
                      <div class="collapse card-header" id="collapseExample1">
                         <a href="about_us.php" class="line-anim-01" id="link-3">About Us</a>
                         <!-- <a href="#" class="line-anim-01 link" id="link-4">Team</a>
@@ -419,7 +419,7 @@
                      </div>
                      <a href="redefining.php" class="line-anim-01">Redefining New Gurugram</a>
                      <div class="m_hide">
-                     <a class="line-anim-01" data-toggle="collapse" href="#collapseExample2" role="button" aria-expanded="false">Projects<i class="fa fa-plus"></i></a>
+                     <a class="line-anim-01 project" onclick="togglesign('.project')"  data-toggle="collapse" href="#collapseExample2" role="button" aria-expanded="false">Projects <i class="fa fa-plus"></i></a>
                      <div class="collapse card-header" id="collapseExample2">
                         <a href="#" class="line-anim-01 link" id="link-3">Residential</a>
                         <a href="#" class="line-anim-01 link" id="link-4">Commercial</a>
@@ -428,9 +428,9 @@
                      </div>
 
                      <div class="d_hide left">
-                     <a class="line-anim-01" data-toggle="collapse" href="#collapseExample2mob" role="button" aria-expanded="false">Projects +</a>
+                     <a class="line-anim-01 projectmob" onclick="togglesign('.projectmob')" data-toggle="collapse" href="#collapseExample2mob" role="button" aria-expanded="false">Projects <i class="fa fa-plus"></i></a>
                      <div class="collapse card-header" id="collapseExample2mob">
-                        <a class="line-anim-01" data-toggle="collapse" href="#residiv" role="button" aria-expanded="false">Residential+</a>
+                        <a class="line-anim-01 resimob" onclick="togglesign('.resimob')" data-toggle="collapse" href="#residiv" role="button" aria-expanded="false">Residential <i class="fa fa-plus"></i></a>
                         <div class="collapse card-header" id="residiv">
                            <a href="http://m3mescala.com/" target="_blank" >M3M Escala</a>
                            <a href="http://www.m3mthemarina.com/ikonic/" target="_blank" >Ikonic At M3M The Marina</a>
@@ -449,7 +449,7 @@
                            <a href="http://m3mwoodshire.co/" target="_blank" >M3M Woodshire</a>
                            <a href="https://www.m3mskysuites.com/" target="_blank"  >M3M Skysuites</a>                
                         </div>
-                        <a class="line-anim-01" data-toggle="collapse" href="#comdiv" role="button" aria-expanded="false">Commercial+</a>
+                        <a class="line-anim-01 commmob" onclick="togglesign('.commmob')" data-toggle="collapse" href="#comdiv" role="button" aria-expanded="false">Commercial <i class="fa fa-plus"></i></a>
                         <div class="collapse card-header" id="comdiv">
                            <a href="http://m3mprive73.com/" target="_blank" >M3M Prive 73</a>
                            <a href="http://m3mbroadway.com/" target="_blank" >M3M Broadway</a>
@@ -465,7 +465,7 @@
                            <a target="_blank" href="#">M3M MY DEN</a>
                            <a target="_blank" href="#">M3M Skylofts</a>
                         </div>
-                        <a class="line-anim-01" data-toggle="collapse" href="#launchdiv" role="button" aria-expanded="false">New Launch+</a>
+                        <a class="line-anim-01 newlaunchmob" onclick="togglesign('.newlaunchmob')" data-toggle="collapse" href="#launchdiv" role="button" aria-expanded="false">New Launch <i class="fa fa-plus"></i></a>
                         <div class="collapse card-header" id="launchdiv">
                            <a href="http://www.m3mthemarina.com/ikonic/" target="_blank" >Ikonic At M3M The Marina</a>
                            <a href="http://m3mprive73.com/" target="_blank" >M3M Prive 73</a>
@@ -528,6 +528,7 @@
            
          </div>-->
       <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
       <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
       <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
       <script src="resources/js/main.js"></script>
@@ -552,4 +553,20 @@
             var id = $(this).attr('id').replace('link-','');
             $('#div-'+id).show();
          });
+      </script>
+      <script>
+         function togglesign(custome){
+            // console.log("Default "+$(custome).attr('aria-expanded'));
+               if($(custome).attr('aria-expanded')==="false"){
+                  // console.log("IF "+$(custome).attr('aria-expanded'));
+                  $(custome).find(".fa").removeClass("fa-plus");
+                  $(custome).find(".fa").addClass("fa-minus");
+               }else{
+                  // console.log("else "+$(custome).attr('aria-expanded'));
+                  $(custome).find(".fa").removeClass("fa-minus");
+                  $(custome).find(".fa").addClass("fa-plus");
+                  //$(".custome").find(".fa").removeClass(".fa-minus").addClass("fa-plus");
+               }
+            
+         }
       </script>
