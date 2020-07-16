@@ -1857,6 +1857,11 @@ a[data-tooltip][data-placement="bottom"]::after {
 		letter-spacing: 5px;
 		font-size: 22px !important;
 	}
+	/******media************/
+	.view_btn_media {
+		padding: 0px 15px !important;
+	}
+
 	/*******************************
 	contact us mobile
 	********************************/
