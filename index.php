@@ -2171,9 +2171,9 @@
          <h2 class="text-center text-uppercase white" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">contact us</h2>
       </div>
       <div class="green-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
-      <div class="text-center text-capitalize">
+      <!-- <div class="text-center text-capitalize">
          <p class="white text-center m_hide" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs</p>
-      </div>
+      </div> -->
       <div class="row pdng-top">
          <div class="col-sm-6 m_hide">
             <div class="row name">
