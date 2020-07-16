@@ -476,5 +476,3 @@
             $('#div-'+id).show();
          });
       </script>
-   </body>
-</html>
