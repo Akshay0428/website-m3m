@@ -1861,7 +1861,9 @@ a[data-tooltip][data-placement="bottom"]::after {
 	.view_btn_media {
 		padding: 0px 15px !important;
 	}
-
+	.fa-2x {
+		font-size: 1.5em !important;
+	}
 	/*******************************
 	contact us mobile
 	********************************/

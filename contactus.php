@@ -22,7 +22,7 @@
       </div>
       <div class="green-line prtnr-line" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500"></div>
       <div class="text-center text-capitalize">
-         <p class="text-left m_hide" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs</p>
+         <p class="text-left m_hide" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">For contact us, see below:</p>
       </div>
       <div class="row pdng-top">
          <div class="col-sm-6 m_hide">
