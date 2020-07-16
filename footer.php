@@ -32,9 +32,9 @@
                   </div> -->
             <div class="text-right center-block">
                <a href="#"><i id="social-fb" class="fa fa-whatsapp fa-2x social"></i></a>
-               <a href="#"><i id="social-tw" class="fa fa-facebook fa-2x social"></i></a>
-               <a href="#"><i id="social-gp" class="fa fa-youtube-play fa-2x social"></i></a>
-               <a href="#"><i id="social-em" class="fa fa-linkedin fa-2x social"></i></a>
+               <a href="https://www.facebook.com/M3MIndiaLtd" target="_blank"><i id="social-tw" class="fa fa-facebook fa-2x social"></i></a>
+               <a href="https://www.youtube.com/user/M3MIndiaLtd/" target="_blank"><i id="social-gp" class="fa fa-youtube-play fa-2x social"></i></a>
+               <a href="https://www.linkedin.com/company/m3m-india-limited/?originalSubdomain=in" target="_blank"><i id="social-em" class="fa fa-linkedin fa-2x social"></i></a>
             </div>
          </div>
       </div>

@@ -25,3 +25,11 @@ On clicking Company, the 3 tabs that open need to be aligned with Company. As of
 Shakun, the content of nav bar needs to reflect the pages we are going live with 
 Social handles - keep only we are linking with
 1800 number has to be the correct one
+
+Here are the positions open at M3M (for the career page)
+GENERAL MANAGER  - SALES
+ASST. GENERAL MANAGER  - SALES
+DEPUTY GENERAL MANAGER  - SALES
+SENIOR MANAGER  - SALES
+MANAGER - SALES
+ASST. MANAGER  - SALES
