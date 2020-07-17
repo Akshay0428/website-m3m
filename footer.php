@@ -1,7 +1,7 @@
 <div class="footer-bg">
    <div class="container">
       <div class="row pdng-top footer-menu">
-         <div class="col-sm-6 pdg">
+         <div class="col-sm-6 pdg pdng55">
             <div class="row pdg">
                <div class="col-2 icon-center text-uppercase pdg">
                   <h6 class="text-center text-uppercase white font-100 custom-h6-footer">company</h6>
@@ -29,15 +29,28 @@
                </div>
             </div>
          </div>
-         <div class="col-sm-6">
+         <div class="col-sm-6 custom-col-setting-pad">
                <!-- <div class="row">
                   <div class="col-sm-3 text-uppercase"><div class="social-icons"><img src="img/wticon.png" alt="social icon"></div></div>
                   <div class="col-sm-3 text-uppercase"><div class="social-icons"><img src="img/fbicon.png" alt="social icon"></div></div>
                   <div class="col-sm-3 text-uppercase"><div class="social-icons"><img src="img/youicon.png" alt="social icon"></div></div>
                   <div class="col-sm-3 text-uppercase"><div class="social-icons"><img src="img/linkicon.png" alt="social icon"></div></div>
                   </div> -->
-            <div class="text-right center-block">
-               <a href="#"><i id="social-fb" class="fa fa-whatsapp fa-2x social"></i></a>
+            <div class="text-right center-block m_hide">
+               <a href="#"  target="_blank"><i id="social-fb" class="fa fa-whatsapp fa-2x social"></i></a>
+               <a href="https://in.pinterest.com/m3mi/" target="_blank"><i id="social-pintrest" class="fa fa-pinterest fa-2x social"></i></a>
+               <a href="https://twitter.com/M3MIndiaPvtLtd" target="_blank"><i id="social-twitter" class="fa fa-twitter fa-2x social"></i></a>
+               <a href="https://www.instagram.com/M3MIndiaPvtLtd/" target="_blank"><i id="social-insta" class="fa fa-instagram fa-2x social"></i></a>
+               <a href="https://www.facebook.com/M3MIndiaLtd" target="_blank"><i id="social-tw" class="fa fa-facebook fa-2x social"></i></a>
+               <a href="https://www.youtube.com/user/M3MIndiaLtd/" target="_blank"><i id="social-gp" class="fa fa-youtube-play fa-2x social"></i></a>
+               <a href="https://www.linkedin.com/company/m3m-india-limited/?originalSubdomain=in" target="_blank"><i id="social-em" class="fa fa-linkedin fa-2x social"></i></a>
+            </div>
+
+            <div class="text-center d_hide center-block mrg-foot">
+               <a href="#" target="_blank"><i id="social-fb" class="fa fa-whatsapp fa-2x social"></i></a>
+               <a href="https://in.pinterest.com/m3mi/" target="_blank"><i id="social-pintrest" class="fa fa-pinterest fa-2x social"></i></a>
+               <a href="https://twitter.com/M3MIndiaPvtLtd" target="_blank"><i id="social-twitter" class="fa fa-twitter fa-2x social"></i></a>
+               <a href="https://www.instagram.com/M3MIndiaPvtLtd/" target="_blank"><i id="social-insta" class="fa fa-instagram fa-2x social"></i></a>
                <a href="https://www.facebook.com/M3MIndiaLtd" target="_blank"><i id="social-tw" class="fa fa-facebook fa-2x social"></i></a>
                <a href="https://www.youtube.com/user/M3MIndiaLtd/" target="_blank"><i id="social-gp" class="fa fa-youtube-play fa-2x social"></i></a>
                <a href="https://www.linkedin.com/company/m3m-india-limited/?originalSubdomain=in" target="_blank"><i id="social-em" class="fa fa-linkedin fa-2x social"></i></a>

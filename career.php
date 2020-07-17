@@ -1,5 +1,39 @@
 <?php include 'header.php';?>
 
+<style>
+
+.prtnr-line-pad {
+    margin: 20px 60px !important;
+}
+.box-carrer img {
+    display: flex;
+    width: 35%;
+    margin: 0 auto 15px auto !important;
+}
+.font-weight-lighter {
+    font-weight: lighter!important;
+    text-align: center;
+}
+.real-txt h2 {
+    padding-left: 55px !important;
+}
+.pdng-benifit {
+    /* padding: 7px !important; */
+    padding-left: 15px !important;
+    padding-top: 25px !important;
+}
+.extra-mrgnew{
+    margin-bottom: 36px !important;
+}
+
+@media screen and (max-width: 1444px) and (min-width: 1400px) {
+    .height-hand {
+        height: 65vh;
+    }
+}
+</style>
+
+
 <!-- banner section start -->
 
 <section class="banner-section" id="ban-id">
@@ -34,12 +68,12 @@
       <div class="col-sm-8 pdg real-txt">
          <div class="container pdng-benifit m_hide">
             <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">benefits of<br>working at m3m</h2>
-            <div class="green-line prtnr-line real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
+            <div class="green-line prtnr-line prtnr-line-pad real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
             <div class="col-sm-4 pdg d_hide">
                <img src="img/career/hands.png" class="height-hand" alt="benifits">
             </div>
             <div class="row pdg">
-                <div class="col-lg-4 col-md-4 col-6">
+                <div class="col-lg-4 col-md-4 col-6 extra-mrgnew">
                     <div class="box-carrer">
                         <img src="img/career/success.png" alt="success">
                         <p class="white box-car-txt font-weight-lighter">Clear path<br> to success</p>
@@ -96,7 +130,7 @@
          </div>
          <div class="container pdng-benifit d_hide">
             <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">benefits of<br>working at m3m</h2>
-            <div class="green-line prtnr-line real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
+            <div class="green-line prtnr-line prtnr-line-pad real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
             <div class="col-sm-4 pdg d_hide">
                <img src="img/career/hands.png" class="height-hand" alt="benifits">
             </div>

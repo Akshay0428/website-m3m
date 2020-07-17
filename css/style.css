@@ -1089,7 +1089,9 @@ real estate desktop
 .pdng-real {
 	padding: 3px 110px !important;
 }
-
+.pdng-realnew {
+	padding: 27px 60px !important;
+}
 .white-line {
 	height: 2px;
 	background-color: #fff;
@@ -1568,7 +1570,9 @@ bespoke living page
 	background-color: #4db748;
 	bottom: 0%;
 }
-
+.mrg-foot{
+	margin-top: 20px;;
+}
 
 /* footer ends */
 
@@ -1659,8 +1663,15 @@ bespoke living page
 .fa-linkedin:hover {
 	color: #2867B2 !important;
 }
-
-
+.fa-instagram:hover {
+	color: #ef677dc7 !important;
+}
+.fa-twitter:hover {
+	color: #00acce !important;
+}
+.fa-pinterest:hover {
+	color: #c8232c !important;
+}
 /***************************contact bot*******************/
 
 #sy-whatshelp {
@@ -1871,6 +1882,15 @@ a[data-tooltip][data-placement="bottom"]::after {
 	}
 	.carousel-item-custom {
 		height: 100% !important;
+	}
+	.navbar{
+		top: 20px;
+	}
+	.menu-brand img{
+		top: 32px !important;
+	}
+	.carousel-indicators{
+		top: 220px !important;
 	}
 }
 
