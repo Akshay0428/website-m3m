@@ -2198,7 +2198,7 @@
                </div>
                <div class="col-sm-10 col-9">
                   <h5 class="white text-capitalize text-left font-bold">office:</h5>
-                  <p class="white text-capitalize text-left">el: +91 124 4732000</p>
+                  <p class="white text-capitalize text-left">tel: +91 124 4732000</p>
                   <p class="text-capitalize white text-left">toll free: 1800 123 3333</p>
                   <p class="text-capitalize white text-left">fax: +91 124 4732010</p>
                   <p class="white text-left">Sales Enquires: sales@m3mindia.com</p>
@@ -2292,7 +2292,7 @@
                </div>
                <div class="col-sm-10 col-9">
                   <h5 class="white text-capitalize text-left font-bold">office:</h5>
-                  <p class="white text-capitalize text-left">el: +91 124 4732000</p>
+                  <p class="white text-capitalize text-left">tel: +91 124 4732000</p>
                   <p class="text-capitalize white text-left">toll free: 1800 123 3333</p>
                   <p class="text-capitalize white text-left">fax: +91 124 4732010</p>
                   <p class="white text-left">Sales Enquires: sales@m3mindia.com</p>

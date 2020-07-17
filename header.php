@@ -430,9 +430,9 @@
                      <a href="index.php" class="line-anim-01">Home</a>
                      <a class="line-anim-01 about" onclick="togglesign('.about')" data-toggle="collapse" href="#collapseExample1" role="button" aria-expanded="false">About M3M <i class="fa fa-plus"></i></span></a>
                      <div class="collapse card-header" id="collapseExample1">
-                        <a href="about_us.php" class="line-anim-01" id="link-3">About Us</a>
-                        <!-- <a href="#" class="line-anim-01 link" id="link-4">Team</a>
-                           <a href="#" class="line-anim-01 link" id="link-5">Awards</a> -->
+                        <a href="about_us.php" class="line-anim-01">About Us</a>
+                        <!-- <a href="#" class="line-anim-01 link" id="link-4">Team</a> -->
+                           <a href="awards.php" class="line-anim-01">Awards</a>
                      </div>
                      <a href="redefining.php" class="line-anim-01">Redefining New Gurugram</a>
                      <div class="m_hide">
