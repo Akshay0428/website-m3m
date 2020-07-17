@@ -620,7 +620,9 @@ li.nav-item {
 .ulMenu a:hover {
 	color: #000 !important;
 }
-
+a:hover {
+    text-decoration: none!important;
+}
 
 /*********************************************************************
 Carousel
@@ -870,14 +872,16 @@ div#demo4 {
 	position: absolute;
 	top: 82%;
 	left: 8%;
-	background: #21252959;
+	background: #212529ab;
+	padding: 0px 10px;
 }
 
 .btm-txt-middle {
 	position: absolute;
 	top: 92%;
 	left: 8%;
-	background: #21252959;
+	background: #212529ab;
+	padding: 0px 10px;
 }
 
 .btm-txt p {

@@ -17,7 +17,7 @@
 
 <div class="career_content">
    <div class="container car_mrg custom-heading">
-      <h2 class="text-uppercase pdng-top txt-color" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">career</h2>
+      <h2 class="text-uppercase pdng-top txt-color" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">careers</h2>
       <div class="green-line prtnr-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
       <p data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">Our people are the face of the brand and we strive to get perfect synergies between the goals of the brand and the individual. One of the most sought-after brands in the real estate industry, we are proud to attract the top talents through our best work practices and work ethics. Our work culture is a combination of mutual respect, objectivity, drive for excellence, camaraderie and healthy competition. Our environment is carefully crafted to nurture team bonding, individual growth and achievements. All this while ensuring safe and fun work culture.</p>
     </div>
