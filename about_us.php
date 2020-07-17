@@ -64,12 +64,15 @@
 <div class="magnificence pdng-top pdng-btm">
     <div class="container">
         <div class="custom-heading">
-            <h2 class="text-left text-uppercase white" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">magnificence in the trinity of men , materials & money</h2>
+            <h2 class="text-left text-uppercase white" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">Magnificence in the Trinity of Men, Materials & Money</h2>
             <div class="green-line float-left" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
             <div class="clearfix"></div>
-            <p class="white">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+            <p class="white">M3M today, is amongst India’s top three real estate developers with a reputation for identifying emerging real estate markets, recognizing aspirations in lifestyle evolution, perfecting the modulations of luxury and responding with projects that capture the unique spirit of changing India. 
+In less than a decade, M3M has emerged as an illustrious real estate developer with speed, class and innovation being at the core of its vision. The Group has launched a slew of iconic projects, designed and developed by world-class partners. They epitomize the new bustling Millennium Gurugram.</p>
 
-            <p class="white">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+            <p class="white">During the last financial year, the Group recorded Sales worth 3,700 Cr. In terms of area, close to 10,00,000 sq. mtr. (10 million sq. ft.) of real estate was developed by M3M last year, making it one of the largest real estate conglomerates across the country. Approx. 15,00,000 sq. mtr. (15 million sq. ft.) of area will be developed by the Group in near future as well. A new customer base of 2,500 is also being targeted. The brand achieved 3,700 Crores worth of Sales in the last financial year. The brand is ranked #1 in North India and is amongst top 2 brands in the country.</p>
+            <p class="white">M3M signed a landmark agreement with SWECO AB –a Swedish giant to develop a Sustainable Smart City – M3M Smart city Delhi Airport. Landmark project will attract foreign investment of around US$ 2 billion. This will be, 1st of its kind in entire Asia, a mixed-use development spread across 165 acres, strategically located near IGI Airport.
+The Group also recently brought to North India, its first iconic Trump Towers. The global appeal of the Trump brand along with the absolute best product offering is expected to give the luxury residential market in the region a much needed boost.</p>
         </div>
         <div class="clearfix"></div>
     </div>
@@ -85,7 +88,7 @@
         <h2 class="text-left text-uppercase txt-color" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">path - breaking deals :</h2>
         <div class="green-line float-left" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
         <div class="clearfix"></div>
-        <p>generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which</p>
+        <p>As one of India’s fastest growing real estate conglomerate, M3M has changed the very contours of Indian real estate space. The Group has over the years been a part of path-breaking deals.</p>
     </div>
     <div class="clearfix"></div>
     <div class="m_hide">
@@ -169,6 +172,7 @@
     <h2 class="text-center text-uppercase txt-color" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">m3m group vision</h2>
     <div class="green-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
     <div class="clearfix"></div>
+    <p>The Group’s projects have repeatedly been acknowledged as the best and have been felicitated with numerous business and lifestyle awards the world over.</p>
     <div class="row pdng-top">
         <div class="col-lg-5 col-md-5 col-12">
             <img src="img/aboutus/Vision-M3M_Desktop.png" alt="">
@@ -176,7 +180,7 @@
         <div class="col-lg-7 col-md-7 col-12">
             <div class="bg-vision">
                 <div class="vision-txt">
-                    <p>Despite the slowdown due to COVID-19, the Gurugram market has been resilient. Where location has a huge potential and is economical. Mr. Pankaj Bansal</p>
+                    <p>M3M - an ethical, growth oriented organisation, that strives for customer delight, by delivering the ‘best-in-class’ projects, with uncompromising quality standards, through innovation and speed.</p>
                     <h4 class="pdng-top font-bold txt-color-bold m_hide">Mr. Basant Bansal</h4>
                     <p class="m_hide">Chairman, M3M</p>
                     <h4 class="pdng-top font-bold txt-color-bold text-center d_hide">Mr. Basant Bansal</h4>

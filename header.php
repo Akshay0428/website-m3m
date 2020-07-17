@@ -44,6 +44,17 @@
          font-family: 'Montserrat', sans-serif !important;
          font-weight: 100 !important;
          }
+         .menu-wrp.active {
+            overflow-y: scroll !important;
+         }
+         .menu-brand img {
+            position: absolute;
+            width: 9%;
+            top: 17px;
+         }
+         .menu-wrp .top-wrp {
+            margin-top: 25px;
+         }
          /***********************************slick***********************************/
          .prev-button {
          color: #999;
@@ -208,6 +219,25 @@
             margin: 0px !important;
             padding: 0px !important;
          }
+         .menu-wrp .top-wrp .left a {
+            font-size: 13px;
+            font-weight: 400;
+            color: #262626;
+            text-transform: uppercase;
+            padding: 4px 0 12px;
+            position: relative;
+            display: table;
+            letter-spacing: 2px;
+            border-bottom: 1px solid #fff;
+            width: 100%;
+            padding: 22px 0px !important;
+         }
+         .menu-wrp .top-wrp .right {
+            border: none !important;
+         }
+         .menu-brand img {
+            width: 30%;
+         }
          }
       </style>
    </head>
@@ -215,6 +245,7 @@
       <header class="scroll-col">
          <div class="container navbar">
             <a class="navbar-brand" href="index.php"><img src="img/M3M logo.png"></a>
+            <a class="nav-link m_hide" href="redefining.php">Redefining New Gurugram</a>
             <a href="tel:18001233333"><img class="navCall" src="img/Call Icon@2x.png"/></a>
             <nav>
                <div class="menu-btn">
@@ -228,16 +259,18 @@
             </nav>
             <div class="menu-overlay"></div>
             <div class="menu-wrp">
+            <a class="menu-brand" href="index.php"><img src="img/M3M logo.png"></a>
                <div class="whatsapp-wrp">
                   <a href="#"><img src=""></a>
                </div>
                <div class="top-wrp">
                   <div class="right" id="div-1">
+                     
                      <!-- <a href="#" target="_blank" ><p class="name line-anim-01">About Us</p></a>
                         <a href="#" target="_blank" ><p class="name line-anim-01">CSR</p></a>
                         <a href="#" target="_blank" ><p class="name line-anim-01">Awards</p></a> -->
                   </div>
-                  <div class="right" id="div-2">
+                  <!-- <div class="right" id="div-2">
                      <a href="http://m3mescala.com/" target="_blank" >
                         <p class="name line-anim-01">M3M Escala</p>
                      </a>
@@ -271,7 +304,7 @@
                      <a href="https://www.m3mskysuites.com/" target="_blank"  >
                         <p class="name line-anim-01">M3M Skysuites</p>
                      </a>
-                  </div>
+                  </div> -->
                   <div class="right" id="div-3">
                      <a href="http://m3mescala.com/" target="_blank" >
                         <p class="name line-anim-01"> M3M Escala</p>
@@ -392,24 +425,81 @@
                         <p class="name line-anim-01">M3M Skycity</p>
                      </a>
                   </div>
+                  
                   <div class="left">
                      <a href="index.php" class="line-anim-01">Home</a>
-                     <a class="line-anim-01 customicon" data-toggle="collapse" href="#collapseExample1" role="button" aria-expanded="false">About M3M +</span></a>
-                     <div class="collapse" id="collapseExample1">
+                     <a class="line-anim-01 about" onclick="togglesign('.about')" data-toggle="collapse" href="#collapseExample1" role="button" aria-expanded="false">About M3M <i class="fa fa-plus"></i></span></a>
+                     <div class="collapse card-header" id="collapseExample1">
                         <a href="about_us.php" class="line-anim-01" id="link-3">About Us</a>
                         <!-- <a href="#" class="line-anim-01 link" id="link-4">Team</a>
                            <a href="#" class="line-anim-01 link" id="link-5">Awards</a> -->
                      </div>
-                     <a class="line-anim-01" data-toggle="collapse" href="#collapseExample2" role="button" aria-expanded="false">Projects +</a>
-                     <div class="collapse" id="collapseExample2">
+                     <a href="redefining.php" class="line-anim-01">Redefining New Gurugram</a>
+                     <div class="m_hide">
+                     <a class="line-anim-01 project" onclick="togglesign('.project')"  data-toggle="collapse" href="#collapseExample2" role="button" aria-expanded="false">Projects <i class="fa fa-plus"></i></a>
+                     <div class="collapse card-header" id="collapseExample2">
                         <a href="#" class="line-anim-01 link" id="link-3">Residential</a>
-                        <a href="#" class="line-anim-01 link" id="link-4">Commecial</a>
+                        <a href="#" class="line-anim-01 link" id="link-4">Commercial</a>
                         <a href="#" class="line-anim-01 link" id="link-5">New Launch</a>
+                     </div>
+                     </div>
+
+                     <div class="d_hide left">
+                     <a class="line-anim-01 projectmob" onclick="togglesign('.projectmob')" data-toggle="collapse" href="#collapseExample2mob" role="button" aria-expanded="false">Projects <i class="fa fa-plus"></i></a>
+                     <div class="collapse card-header" id="collapseExample2mob">
+                        <a class="line-anim-01 resimob" onclick="togglesign('.resimob')" data-toggle="collapse" href="#residiv" role="button" aria-expanded="false">Residential <i class="fa fa-plus"></i></a>
+                        <div class="collapse card-header" id="residiv">
+                           <a href="http://m3mescala.com/" target="_blank" >M3M Escala</a>
+                           <a href="http://www.m3mthemarina.com/ikonic/" target="_blank" >Ikonic At M3M The Marina</a>
+                           <a href="http://m3mfairwaywest.com/" target="_blank" >M3M Fairway West</a>
+                           <a href="http://www.m3mgolfestate.com/" target="_blank" >M3M Golfestate</a>
+                           <a href="http://m3m65thavenue.com/heights/" target="_blank" >M3M Heights</a>
+                           <a href="http://www.m3mlatitude.com/" target="_blank" >M3M Latitude</a>
+                           <a href="http://m3mthemarina.com/" target="_blank" >M3M Marina</a>
+                           <a href="http://www.m3mmerlin.com/" target="_blank" >M3M Merlin</a>
+                           <a href="http://m3mnatura.com/" target="_blank" >M3M Natura</a>
+                           <a href="http://www.m3mpanoramasuites.com/" target="_blank" >M3M Panorama</a>
+                           <a href="http://www.m3mpolosuite.com/" target="_blank" >M3M Polo Suites</a>
+                           <a href="http://m3mstandrewsgolfresidences.com/" target="_blank" >M3M St. Andrews</a>
+                           <a href="http://m3msierra68.co.in/" target="_blank" >M3M Sierra68</a>
+                           <a href="http://www.m3mskycity.com/" target="_blank" >M3M Skycity</a>
+                           <a href="http://m3mwoodshire.co/" target="_blank" >M3M Woodshire</a>
+                           <a href="https://www.m3mskysuites.com/" target="_blank"  >M3M Skysuites</a>                
+                        </div>
+                        <a class="line-anim-01 commmob" onclick="togglesign('.commmob')" data-toggle="collapse" href="#comdiv" role="button" aria-expanded="false">Commercial <i class="fa fa-plus"></i></a>
+                        <div class="collapse card-header" id="comdiv">
+                           <a href="http://m3mprive73.com/" target="_blank" >M3M Prive 73</a>
+                           <a href="http://m3mbroadway.com/" target="_blank" >M3M Broadway</a>
+                           <a href="http://m3m65thavenue.com/" target="_blank" >M3M 65th Avenue</a>
+                           <a href="http://m3mcornerwalk.com/" target="_blank" >M3M Corner Walk</a>
+                           <a href="http://www.m3mcosmopolitan.com/" target="_blank" >M3M Cosmopolitan</a>
+                           <a href="http://www.m3mifc.com/" target="_blank" >M3M IFC</a>
+                           <a href="http://www.m3monekeyresiments.com/" target="_blank" >M3M One-Key Resi-ments</a>
+                           <a href="http://m3mteepoint.com/" target="_blank" >M3M Tee Point</a>
+                           <a href="http://www.m3murbana.com/" target="_blank" >M3M Urbana</a>
+                           <a href="http://www.m3murbana.com/urbanabusinesspark/" target="_blank" >M3M Urbana Business Park</a>
+                           <a href="http://m3murbanapremium.com/" target="_blank" >M3M Urbana Premium</a>
+                           <a target="_blank" href="#">M3M MY DEN</a>
+                           <a target="_blank" href="#">M3M Skylofts</a>
+                        </div>
+                        <a class="line-anim-01 newlaunchmob" onclick="togglesign('.newlaunchmob')" data-toggle="collapse" href="#launchdiv" role="button" aria-expanded="false">New Launch <i class="fa fa-plus"></i></a>
+                        <div class="collapse card-header" id="launchdiv">
+                           <a href="http://www.m3mthemarina.com/ikonic/" target="_blank" >Ikonic At M3M The Marina</a>
+                           <a href="http://m3mprive73.com/" target="_blank" >M3M Prive 73</a>
+                           <a href="http://m3mnatura.com/" target="_blank" >M3M Natura</a>
+                           <a href="http://m3mbroadway.com/" target="_blank" >M3M Broadway</a>
+                           <a href="http://www.m3mifc.com/" target="_blank" >M3M IFC</a>
+                           <a href="http://m3mcornerwalk.com/" target="_blank" >M3M Corner Walk</a>
+                           <a href="http://m3m65thavenue.com/" target="_blank" >M3M 65th Avenue</a>
+                           <a href="http://m3m65thavenue.com/heights/" target="_blank" >M3M Heights</a>
+                           <a href="http://www.m3mskycity.com/" target="_blank" >M3M Skycity</a>
+                        </div>
+                        </div>
                      </div>
                      <!-- <a href="" class="line-anim-01 ">Investor Corner</a> -->
                      <!-- <a href="" class="line-anim-01" target="_blank">Verified Agents</a> -->
                      <a href="media.php" class="line-anim-01 ">Media</a>
-                     <a href="career.php" class="line-anim-01">Career</a>
+                     <a href="career.php" class="line-anim-01">Careers</a>
                      <a href="contactus.php" class="line-anim-01 ">Contact Us</a>
                   </div>
                </div>
@@ -455,6 +545,7 @@
            
          </div>-->
       <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
       <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
       <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
       <script src="resources/js/main.js"></script>
@@ -479,4 +570,20 @@
             var id = $(this).attr('id').replace('link-','');
             $('#div-'+id).show();
          });
+      </script>
+      <script>
+         function togglesign(custome){
+            // console.log("Default "+$(custome).attr('aria-expanded'));
+               if($(custome).attr('aria-expanded')==="false"){
+                  // console.log("IF "+$(custome).attr('aria-expanded'));
+                  $(custome).find(".fa").removeClass("fa-plus");
+                  $(custome).find(".fa").addClass("fa-minus");
+               }else{
+                  // console.log("else "+$(custome).attr('aria-expanded'));
+                  $(custome).find(".fa").removeClass("fa-minus");
+                  $(custome).find(".fa").addClass("fa-plus");
+                  //$(".custome").find(".fa").removeClass(".fa-minus").addClass("fa-plus");
+               }
+            
+         }
       </script>

@@ -19,7 +19,7 @@
    <div class="container car_mrg custom-heading">
       <h2 class="text-uppercase pdng-top txt-color" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">career</h2>
       <div class="green-line prtnr-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
-      <p data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">What is Lorem Ipsum Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industry's standard dummy text ever since the 1500s when an unknown printer took a galley of type and scrambled it to make a type specimen book it has</p>
+      <p data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">Our people are the face of the brand and we strive to get perfect synergies between the goals of the brand and the individual. One of the most sought-after brands in the real estate industry, we are proud to attract the top talents through our best work practices and work ethics. Our work culture is a combination of mutual respect, objectivity, drive for excellence, camaraderie and healthy competition. Our environment is carefully crafted to nurture team bonding, individual growth and achievements. All this while ensuring safe and fun work culture.</p>
     </div>
 </div>
 
@@ -33,7 +33,7 @@
       </div>
       <div class="col-sm-8 pdg real-txt">
          <div class="container pdng-benifit m_hide">
-            <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">benifits of<br>working at m3m</h2>
+            <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">benefits of<br>working at m3m</h2>
             <div class="green-line prtnr-line real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
             <div class="col-sm-4 pdg d_hide">
                <img src="img/career/hands.png" class="height-hand" alt="benifits">
@@ -95,7 +95,7 @@
             </div>
          </div>
          <div class="container pdng-benifit d_hide">
-            <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">benifits of<br>working at m3m</h2>
+            <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">benefits of<br>working at m3m</h2>
             <div class="green-line prtnr-line real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
             <div class="col-sm-4 pdg d_hide">
                <img src="img/career/hands.png" class="height-hand" alt="benifits">

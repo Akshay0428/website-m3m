@@ -22,7 +22,7 @@
       </div>
       <div class="green-line prtnr-line" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500"></div>
       <div class="text-center text-capitalize">
-         <p class="text-left m_hide" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs</p>
+         <p class="text-left m_hide" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">For contact us, see below:</p>
       </div>
       <div class="row pdng-top">
          <div class="col-sm-6 m_hide">
@@ -127,8 +127,8 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="text-capitalize text-left">corporate office</h5>
-                  <h5 class="text-capitalize text-left">M3M india pvt. ltd.</h5>
+                  <h5 class="text-capitalize text-left font-400">corporate office</h5>
+                  <h5 class="text-capitalize text-left font-400">M3M india pvt. ltd.</h5>
                   <p class="text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
                </div>
             </div>
@@ -139,8 +139,8 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="text-capitalize text-left">sales gallery address</h5>
-                  <p class="text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
+                  <h5 class="text-capitalize text-left font-400">sales gallery address</h5>
+                  <p class="text-capitalize text-left">‘The Experia’, Golf Course Road (Extn.),Sector–73, Gurugram (Gurgaon) 122004,Haryana, India</p>
                </div>
             </div>
             <div class="row name">
@@ -150,11 +150,11 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="text-capitalize text-left">office:</h5>
-                  <p class="text-capitalize text-left">tel: 9999999999</p>
-                  <p class="text-capitalize text-left">toll free: 99999999</p>
-                  <p class="text-capitalize text-left">fax: 9999999999</p>
-                  <p class="text-capitalize text-left">sales enquires: sales@m3mindia.com</p>
+                  <h5 class="text-capitalize text-left font-400">office:</h5>
+                  <p class="text-capitalize text-left">tel: +91 124 4732000</p>
+                  <p class="text-capitalize text-left">toll free: 1800 123 3333</p>
+                  <p class="text-capitalize text-left">fax: +91 124 4732010</p>
+                  <p class="text-left">Sales Enquires: sales@m3mindia.com</p>
                </div>
             </div>
             <div class="row name">
@@ -164,9 +164,9 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="text-capitalize text-left">leasing enquires:</h5>
-                  <p class="text-capitalize text-left">leasing@m3mindia.com</p>
-                  <p class="text-capitalize text-left">tel: 9999999999</p>
+                  <h5 class="text-capitalize text-left font-400">leasing enquires:</h5>
+                  <p class="text-left">leasing@m3mindia.com</p>
+                  <p class="text-capitalize text-left">tel:+91 9870323433</p>
                </div>
             </div>
          </div>

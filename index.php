@@ -9,7 +9,7 @@
          <li data-target="#carouselExampleIndicators" data-slide-to="1">2</li>
          <li data-target="#carouselExampleIndicators" data-slide-to="2">3</li>
          <li data-target="#carouselExampleIndicators" data-slide-to="3">4</li>
-         <li data-target="#carouselExampleIndicators" data-slide-to="4">5</li>
+         <!-- <li data-target="#carouselExampleIndicators" data-slide-to="4">5</li> -->
       </ol>
       <div class="carousel-inner" role="listbox">
          <!-- Slide One - Set the background image for this slide in the line below -->
@@ -28,12 +28,6 @@
          </div>
          <!-- Slide Three - Set the background image for this slide in the line below -->
          <div class="carousel-item" style="background-image: url(img/banner/banner3.png)">
-            <!-- <div class="carousel-caption d-none d-md-block">
-               <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
-               <h2 class="display-4">VALUE CREATOR</h2>
-            </div> -->
-         </div>
-         <div class="carousel-item" style="background-image: url(img/banner/banner4.png)">
             <!-- <div class="carousel-caption d-none d-md-block">
                <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
                <h2 class="display-4">VALUE CREATOR</h2>
@@ -67,9 +61,6 @@
             </div>
             <div class="carousel-item">
                <img src="img/banner/mobile/mob-3.png" class="d-block w-100 h-100" alt="M3M Banner">
-            </div>
-            <div class="carousel-item">
-               <img src="img/banner/mobile/mob-4.png" class="d-block w-100 h-100" alt="M3M Banner">
             </div>
             <div class="carousel-item">
                <img src="img/banner/mobile/mob-4.png" class="d-block w-100 h-100" alt="M3M Banner">
@@ -1054,9 +1045,8 @@
                </ul> -->
             <!-- The slideshow -->
             <div class="carousel-inner">
-               <div class="carousel-item carousel-item-custom active">
+            <div class="carousel-item carousel-item-custom active">
                   <div class="row custom-row-setting" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
-                     
                      <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                         <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-50 custom-col-setting-pad">
                            <div class="box content">
@@ -1097,6 +1087,75 @@
                            </div>
                         </div>
                      </div>
+                     <div class="col-md-4 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
+                        <div class="row h-50 custom-row-setting">
+                           <div class="col-md-12 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
+                              <div class="box content">
+                                 <img src="img/Image07.png" class="img-ht img-fluid rounded">
+                                 <div class="content-overlay-middle"></div>
+                                 <div class="content-details fadeIn-top">
+                                    <h3>M3M 65TH AVENUE</h3>
+                                       <ul class="text-left text-white overtxt">
+                                       <li>Retail units with large frontage and glazed area</li>
+                                       <li>Anchor stores, F&B and multiplex creating an ambience to the place</li>
+                                       <li>Approx. 2,787 sq. m. (30,000 sq. ft.) central atrium</li>
+                                       <li>Wide boulevards and open spaces enhance visibility</li>
+                                       </ul>
+                                    <h4><a href="http://m3m65thavenue.com/" target="_blank">KNOW MORE</a></h4>
+                                 </div>
+                                 <div class="btm-txt-middle">
+                                    <p>M3M 65TH AVENUE</p>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
+                        <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-50 custom-col-setting-pad">
+                           <div class="box content">
+                              <img src="img/Image08.png" class="img-ht img-fluid rounded">
+                              <div class="content-overlay"></div>
+                              <div class="content-details fadeIn-top">
+                                 <h3>M3M PRIVE 73</h3>
+                                    <ul class="text-left text-white overtxt">
+                                    <li>A bewildering architecture inspired from Burlington Arcade, London</li>
+                                    <li>Open-to-sky cut outs extending natural light with large, impactful show windows</li>
+                                    <li>Premium high-street with goodness of a mall</li>
+                                    <li>Sky walkways for seamless connectivity and retail units with glass frontage for better business</li>
+                                    </ul>
+                                 <h4><a href="http://m3mprive73.com/" target="_blank">KNOW MORE</a></h4>
+                              </div>
+                              <div class="btm-txt">
+                                 <p>M3M PRIVE 73</p>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-50 custom-col-setting-pad">
+                           <div class="box content">
+                              <img src="img/Image09.png" class="img-ht img-fluid rounded">
+                              <div class="content-overlay"></div>
+                              <div class="content-details fadeIn-top">
+                                 <h3>M3M CORNER WALK</h3>
+                                    <ul class="text-left text-white overtxt">
+                                    <li>Mixed-use development with office spaces and double height stores</li>
+                                    <li>Rectangular-shaped for a spectacular frontage and two-side access</li>
+                                    <li>Located at sector-74, Golf Course Road (Extn.)</li>
+                                    <li>A mix of retail shops, F&B and office spaces with separate entry, pick-up and drop offs points</li>
+                                    </ul>
+                                 <h4><a href="http://m3mcornerwalk.com/" target="_blank">KNOW MORE</a></h4>
+                              </div>
+                              <div class="btm-txt">
+                                 <p>M3M CORNER WALK</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="carousel-item carousel-item-custom">
+                  <div class="row custom-row-setting" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
+                     
+                     
                      <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                         <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-50 custom-col-setting-pad">
                            <div class="box content">
@@ -1133,6 +1192,29 @@
                               </div>
                               <div class="btm-txt">
                                  <p>M3M BROADWAY</p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="col-md-4 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
+                        <div class="row h-50 custom-row-setting">
+                           <div class="col-md-12 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
+                              <div class="box content">
+                                    <img src="img/Image06.png" class="img-ht img-fluid rounded">
+                                       <div class="content-overlay-middle"></div>
+                                       <div class="content-details fadeIn-top">
+                                          <h3>M3M IFC</h3>
+                                             <ul class="text-left text-white overtxt">
+                                             <li>Premium grade ‘A’ office spaces with triple height frontage, front facing retail units</li>
+                                             <li>Luxury shopping experience with high-end boutiques</li>
+                                             <li>High-speed elevators with destination control</li>
+                                             <li>State-of-the-art multi-level parking facility</li>
+                                             </ul>
+                                          <h4><a href="http://www.m3mifc.com/" target="_blank">KNOW MORE</a></h4>
+                                 </div>
+                                 <div class="btm-txt-middle">
+                                    <p>M3M IFC</p>
+                                 </div>
                               </div>
                            </div>
                         </div>
@@ -1594,7 +1676,7 @@
    <div class="custom-heading" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
       <h2 class="text-center text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">glimpses of m3m</h2>
       <div class="green-line text-center" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500"></div>
-      <p class="text-center"  data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">Just like our business, our social life is also thriving. See what's new and exciting
+      <p class="text-center pad-custom"  data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">Just like our business, our social life is also thriving. See what's new and exciting
       </p>
    </div>
    <div class="clearfix"></div>
@@ -1861,7 +1943,7 @@
    <h2 class="text-center text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">awards and accolades</h2>
    <div class="green-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
    <div class="container text-center text-capitalize" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
-      <p data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">Our consistent effort towards excellence has won us many prestigious awards in the industry. But our heart still beams the brightest when we see a smile on our customer’s face.</p>
+      <p data-aos="zoom-in" class="text-center" data-aos-easing="linear" data-aos-duration="1500">Our consistent effort towards excellence has won us many prestigious awards in the industry. But our heart still beams the brightest when we see a smile on our customer’s face.</p>
    </div>
    <div class="row pdng-top award-slider">
       <div class="col-sm-4">
@@ -2080,9 +2162,9 @@
          <h2 class="text-center text-uppercase white" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">contact us</h2>
       </div>
       <div class="green-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
-      <div class="text-center text-capitalize">
+      <!-- <div class="text-center text-capitalize">
          <p class="white text-center m_hide" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs</p>
-      </div>
+      </div> -->
       <div class="row pdng-top">
          <div class="col-sm-6 m_hide">
             <div class="row name">
