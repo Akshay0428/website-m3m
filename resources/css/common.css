@@ -20,9 +20,6 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 .project-info a {color: #0374b7;}
 
-a {
-  color: #ffffff;
-  text-decoration: none; }
 
 a:active, .hover-body a:hover {
   outline: 0; }

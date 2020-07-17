@@ -13,13 +13,19 @@
                   <h6 class="text-center text-uppercase white font-100 custom-h6-footer">projects</h6>
                </div>
                <div class="col-2 icon-center text-uppercase pdg">
-                  <h6 class="text-center text-uppercase white font-100 custom-h6-footer">media</h6>
+                  <a href="media.php">
+                     <h6 class="text-center text-uppercase white font-100 custom-h6-footer">media</h6>
+                  </a>
                </div>
                <div class="col-2 icon-center text-uppercase pdg">
-                  <h6 class="text-center text-uppercase white font-100 custom-h6-footer">careers</h6>
+                  <a href="career.php">
+                     <h6 class="text-center text-uppercase white font-100 custom-h6-footer">careers</h6>
+                  </a>
                </div>
                <div class="col-2 icon-center text-uppercase pdg">
-                  <h6 class="text-center text-uppercase white font-100 custom-h6-footer">contact us</h6>
+                  <a href="contactus.php">
+                     <h6 class="text-center text-uppercase white font-100 custom-h6-footer">contact us</h6>
+                  </a>
                </div>
             </div>
          </div>
@@ -76,7 +82,7 @@
          nextArrow:'<button type="button" class="d-none"></button>',
          infinite: true,
          autoplay: true,
-         speed: 300,
+         speed: 500,
          slidesToShow: 2,
          slidesToScroll: 1,
          responsive: [
@@ -124,7 +130,7 @@
          nextArrow:'<button type="button" class="d-none"></button>',
          infinite: true,
          autoplay: true,
-         speed: 300,
+         speed: 500,
          slidesToShow: 2,
          slidesToScroll: 1,
          responsive: [
