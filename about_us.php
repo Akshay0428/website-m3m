@@ -1,5 +1,32 @@
 <?php include 'header.php';?>
 
+<style>
+.prtnr-line {
+    margin: 20px 60px;
+}
+.box-carrer img {
+    display: flex;
+    width: 35%;
+    margin: 0 auto 15px auto !important;
+}
+.font-weight-lighter {
+    font-weight: lighter!important;
+    text-align: center;
+}
+.real-txt h2 {
+    padding-left: 55px !important;
+}
+.pdng-benifit_abt {
+    /* padding: 7px !important; */
+    padding-left: 15px !important;
+    padding-top: 25px !important;
+}
+.extra-mrgnew{
+    margin-bottom: 36px !important;
+}
+</style>
+
+
 <!-- banner section start -->
 
 <section class="banner-section" id="ban-id">
@@ -209,7 +236,7 @@ The Group also recently brought to North India, its first iconic Trump Towers. T
                <img src="img/aboutus/commitnent_mobile.png" class="height-hand_abt" alt="commitnent">
             </div>
             <div class="row pdg">
-                <div class="col-lg-4 col-md-4 col-6">
+                <div class="col-lg-4 col-md-4 col-6 extra-mrgnew">
                     <div class="box-carrer">
                         <img src="img/aboutus/time1.png" alt="time1">
                         <p class="white box-car-txt font-weight-lighter">Timely delivery</p>

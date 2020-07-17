@@ -1,5 +1,39 @@
 <?php include 'header.php';?>
 
+<style>
+
+.prtnr-line {
+    margin: 20px 60px;
+}
+.box-carrer img {
+    display: flex;
+    width: 35%;
+    margin: 0 auto 15px auto !important;
+}
+.font-weight-lighter {
+    font-weight: lighter!important;
+    text-align: center;
+}
+.real-txt h2 {
+    padding-left: 55px !important;
+}
+.pdng-benifit {
+    /* padding: 7px !important; */
+    padding-left: 15px !important;
+    padding-top: 25px !important;
+}
+.extra-mrgnew{
+    margin-bottom: 36px !important;
+}
+
+@media screen and (max-width: 1444px) and (min-width: 1400px) {
+    .height-hand {
+        height: 65vh;
+    }
+}
+</style>
+
+
 <!-- banner section start -->
 
 <section class="banner-section" id="ban-id">
@@ -39,7 +73,7 @@
                <img src="img/career/hands.png" class="height-hand" alt="benifits">
             </div>
             <div class="row pdg">
-                <div class="col-lg-4 col-md-4 col-6">
+                <div class="col-lg-4 col-md-4 col-6 extra-mrgnew">
                     <div class="box-carrer">
                         <img src="img/career/success.png" alt="success">
                         <p class="white box-car-txt font-weight-lighter">Clear path<br> to success</p>
