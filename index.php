@@ -1809,8 +1809,8 @@
          <img src="img/real_estate.png" alt="real estate">
       </div>
       <div class="col-sm-8 pdg real-txt">
-         <div class="container pdng-real m_hide">
-            <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">changing the<br> contours of <br>real estate</h2>
+         <div class="container pdng-realnew m_hide">
+            <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">changing the contours of real estate</h2>
             <div class="green-line prtnr-line real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
             <div class="row pdg">
                <div class="col-lg-4 col-md-4 col-6">
