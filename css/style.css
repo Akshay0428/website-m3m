@@ -1883,6 +1883,15 @@ a[data-tooltip][data-placement="bottom"]::after {
 	.carousel-item-custom {
 		height: 100% !important;
 	}
+	.navbar{
+		top: 20px;
+	}
+	.menu-brand img{
+		top: 32px !important;
+	}
+	.carousel-indicators{
+		top: 220px !important;
+	}
 }
 
 @media only screen and (max-width:768px) {
