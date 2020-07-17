@@ -39,6 +39,15 @@ $(document).ready(function () {
 		}
 	});
 
+	$('.moreless-button4').click(function() {
+		$('.moretext4').slideToggle();
+		if ($('.moreless-button4').text() == "load more") {
+		  $(this).text("load less")
+		} else {
+		  $(this).text("load more")
+		}
+	});
+
 	$("#med1").click(function () {
 		$("#med1").addClass("view_btn_media-active");
 		$("#med2").removeClass("view_btn_media-active");
