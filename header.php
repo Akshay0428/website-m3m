@@ -245,7 +245,7 @@
       <header class="scroll-col">
          <div class="container navbar">
             <a class="navbar-brand" href="index.php"><img src="img/M3M logo.png"></a>
-            <a class="nav-link m_hide" href="redefining.php">Redefining New Gurugram</a>
+            <!-- <a class="nav-link m_hide" href="redefining.php">Redefining New Gurugram</a> -->
             <a href="tel:18001233333"><img class="navCall" src="img/Call Icon@2x.png"/></a>
             <nav>
                <div class="menu-btn">
@@ -434,7 +434,7 @@
                         <!-- <a href="#" class="line-anim-01 link" id="link-4">Team</a> -->
                            <a href="awards.php" class="line-anim-01">Awards</a>
                      </div>
-                     <a href="redefining.php" class="line-anim-01">Redefining New Gurugram</a>
+                     <!-- <a href="redefining.php" class="line-anim-01">Redefining New Gurugram</a> -->
                      <div class="m_hide">
                      <a class="line-anim-01 project" onclick="togglesign('.project')"  data-toggle="collapse" href="#collapseExample2" role="button" aria-expanded="false">Projects <i class="fa fa-plus"></i></a>
                      <div class="collapse card-header" id="collapseExample2">
