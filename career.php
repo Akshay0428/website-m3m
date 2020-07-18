@@ -2,8 +2,8 @@
 
 <style>
 
-.prtnr-line {
-    margin: 20px 60px;
+.prtnr-line-pad {
+    margin: 20px 60px !important;
 }
 .box-carrer img {
     display: flex;
@@ -68,7 +68,7 @@
       <div class="col-sm-8 pdg real-txt">
          <div class="container pdng-benifit m_hide">
             <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">benefits of<br>working at m3m</h2>
-            <div class="green-line prtnr-line real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
+            <div class="green-line prtnr-line prtnr-line-pad real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
             <div class="col-sm-4 pdg d_hide">
                <img src="img/career/hands.png" class="height-hand" alt="benifits">
             </div>
@@ -130,7 +130,7 @@
          </div>
          <div class="container pdng-benifit d_hide">
             <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">benefits of<br>working at m3m</h2>
-            <div class="green-line prtnr-line real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
+            <div class="green-line prtnr-line prtnr-line-pad real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
             <div class="col-sm-4 pdg d_hide">
                <img src="img/career/hands.png" class="height-hand" alt="benifits">
             </div>
