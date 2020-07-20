@@ -47,9 +47,16 @@
     <div class="row abt-counter pdng-top">
         <div class="col-xs-2">
             <div class="box box-p">
-                <p class="top-txt">One of the</p>
-                <h2 class="color-bronze text-uppercase bold-no"><span class="two-txt">top</span>2</h2>
+                <!-- <p class="top-txt">One of the</p> -->
+                <h2 class="color-bronze text-uppercase bold-no"><span class="two-txt-2">Number </span>2</h2>
                 <p class="">Developers  in India</p><br>
+                <div class="white-line bronze-line"></div>
+            </div>
+        </div>
+        <div class="col-xs-2 col-half-offset">
+            <div class="box box-p">
+            <h2 class="color-bronze text-uppercase bold-no"><span class="two-txt-2">Number </span>1</h2>
+                <p class="">in North India</p><br>
                 <div class="white-line bronze-line"></div>
             </div>
         </div>
@@ -62,7 +69,7 @@
         </div>
         <div class="col-xs-2 col-half-offset">
             <div class="box box-p">
-                <h2 class="color-bronze text-uppercase bold-no">15<span class="two-txt-2">Premium</span></h2>
+                <h2 class="color-bronze text-uppercase bold-no">16<span class="two-txt-2">Premium</span></h2>
                 <p class="">Residential Projects</p><br>
                 <div class="white-line bronze-line"></div>
             </div>
@@ -71,13 +78,6 @@
             <div class="box box-p">
                 <h2 class="color-bronze text-uppercase bold-no">4<span class="two-txt-2">Crore SQ.FT</span></h2>
                 <p class="">Developed &amp; Under<br>Development Area</p>
-                <div class="white-line bronze-line"></div>
-            </div>
-        </div>
-        <div class="col-xs-2 col-half-offset">
-            <div class="box box-p">
-                <h2 class="color-bronze text-uppercase bold-no">2200</h2>
-                <p class=""><span class="font-weight-bold two-txt-2 color-bronze">Acres</span> Prime Land Bank</p><br>
                 <div class="white-line bronze-line"></div>
             </div>
         </div>
@@ -94,12 +94,12 @@
             <h2 class="text-left text-uppercase white" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">Magnificence in the Trinity of Men, Materials & Money</h2>
             <div class="green-line float-left" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
             <div class="clearfix"></div>
-            <p class="white">M3M today, is amongst India’s top three real estate developers with a reputation for identifying emerging real estate markets, recognizing aspirations in lifestyle evolution, perfecting the modulations of luxury and responding with projects that capture the unique spirit of changing India. 
-In less than a decade, M3M has emerged as an illustrious real estate developer with speed, class and innovation being at the core of its vision. The Group has launched a slew of iconic projects, designed and developed by world-class partners. They epitomize the new bustling Millennium Gurugram.</p>
+            <p class="white">M3M today, is No.2 in India & No. 1 in North India with a reputation for identifying emerging real estate markets, recognizing aspirations in lifestyle evolution, perfecting the modulations of luxury and responding with projects that capture the unique spirit of changing India. 
+            In less than a decade, M3M has emerged as an illustrious real estate developer with speed, class and innovation being at the core of its vision. The Group has launched a slew of iconic projects, designed and developed by world-class partners. They epitomize the new bustling Millennium Gurugram.</p>
 
             <p class="white">During the last financial year, the Group recorded Sales worth 3,700 Cr. In terms of area, close to 10,00,000 sq. mtr. (10 million sq. ft.) of real estate was developed by M3M last year, making it one of the largest real estate conglomerates across the country. Approx. 15,00,000 sq. mtr. (15 million sq. ft.) of area will be developed by the Group in near future as well. A new customer base of 2,500 is also being targeted. The brand achieved 3,700 Crores worth of Sales in the last financial year. The brand is ranked #1 in North India and is amongst top 2 brands in the country.</p>
             <p class="white">M3M signed a landmark agreement with SWECO AB –a Swedish giant to develop a Sustainable Smart City – M3M Smart city Delhi Airport. Landmark project will attract foreign investment of around US$ 2 billion. This will be, 1st of its kind in entire Asia, a mixed-use development spread across 165 acres, strategically located near IGI Airport.
-The Group also recently brought to North India, its first iconic Trump Towers. The global appeal of the Trump brand along with the absolute best product offering is expected to give the luxury residential market in the region a much needed boost.</p>
+            The Group also recently brought to North India, its first iconic Trump Towers. The global appeal of the Trump brand along with the absolute best product offering is expected to give the luxury residential market in the region a much needed boost.</p>
         </div>
         <div class="clearfix"></div>
     </div>
