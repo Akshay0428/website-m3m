@@ -9,11 +9,17 @@
          <li data-target="#carouselExampleIndicators" data-slide-to="1">2</li>
          <li data-target="#carouselExampleIndicators" data-slide-to="2">3</li>
          <li data-target="#carouselExampleIndicators" data-slide-to="3">4</li>
-         <!-- <li data-target="#carouselExampleIndicators" data-slide-to="4">5</li> -->
+         <li data-target="#carouselExampleIndicators" data-slide-to="4">5</li>
       </ol>
       <div class="carousel-inner" role="listbox">
          <!-- Slide One - Set the background image for this slide in the line below -->
-         <div class="carousel-item active" style="background-image: url(img/banner/banner1.png)">
+         <div class="carousel-item active" style="background-image: url(img/banner/3D-desk.png)">
+            <!-- <div class="carousel-caption d-none d-md-block">
+               <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
+               <h2 class="display-4">VALUE CREATOR</h2>
+            </div> -->
+         </div>
+         <div class="carousel-item" style="background-image: url(img/banner/banner1.png)">
             <!-- <div class="carousel-caption d-none d-md-block">
                <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
                <h2 class="display-4">VALUE CREATOR</h2>
@@ -54,6 +60,9 @@
          </ol> -->
          <div class="carousel-inner">
             <div class="carousel-item active">
+               <img src="img/banner/mobile/3D-mob.png" class="d-block w-100 h-100" alt="M3M Banner">
+            </div>
+            <div class="carousel-item">
                <img src="img/banner/mobile/mob-1.png" class="d-block w-100 h-100" alt="M3M Banner">
             </div>
             <div class="carousel-item">
