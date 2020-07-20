@@ -10,7 +10,7 @@
                   <h6 class="text-center text-uppercase white font-100 custom-h6-footer">partners</h6>
                </div>
                <div class="col-2 icon-center text-uppercase pdg">
-                  <h6 class="text-center text-uppercase white font-100 custom-h6-footer">projects</h6>
+                  <h6 class="text-center text-uppercase white font-100 custom-h6-footer pdng-left">projects</h6>
                </div>
                <div class="col-2 icon-center text-uppercase pdg">
                   <a href="media.php">
@@ -19,7 +19,7 @@
                </div>
                <div class="col-2 icon-center text-uppercase pdg">
                   <a href="career.php">
-                     <h6 class="text-center text-uppercase white font-100 custom-h6-footer">careers</h6>
+                     <h6 class="text-center text-uppercase white font-100 custom-h6-footer pdng-right">careers</h6>
                   </a>
                </div>
                <div class="col-2 icon-center text-uppercase pdg">

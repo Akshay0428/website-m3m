@@ -31,9 +31,9 @@
         </div>
         <div class="green-line prtnr-line" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500"></div>
         <p data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">At M3M we are always striving for excellence, be it in the projects we make or the people
-we work with. Awards reinstate our belief in our efforts and motivate us to march forward
-towards excellence. While winning awards has almost become a tradition at M3M, our
-biggest award is the smile and the happiness of our customers and employees.</p>
+        we work with. Awards reinstate our belief in our efforts and motivate us to march forward
+        towards excellence. While winning awards has almost become a tradition at M3M, our
+        biggest award is the smile and the happiness of our customers and employees.</p>
         <div class="row custom-row-setting">
             <div class="col-lg-3 col-md-3 col-6 custom-col-setting">
                 <div class="view_btn_media view_btn_media-active" id="med1">
@@ -57,6 +57,18 @@ biggest award is the smile and the happiness of our customers and employees.</p>
             </div>
         </div>
         <div id="media-box-1">
+            <div class="row pdng-top">
+                <div class="col-lg-2 col-md-2 col-12">
+                    <div class="award-img">
+                        <img src="img/awards/Award.png" alt="award">
+                    </div>
+                </div>
+                <div class="col-lg-10 col-md-10 col-12 border-btm_award">
+                    <div class="txt-award pdng-top">
+                        <h4>A Great Place to Work by Great Place to Work Certified India</h4>
+                    </div>
+                </div>
+            </div>
             <div class="row pdng-top">
                 <div class="col-lg-2 col-md-2 col-12">
                     <div class="award-img">

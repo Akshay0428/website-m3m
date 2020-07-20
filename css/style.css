@@ -1550,8 +1550,14 @@ bespoke living page
 
 
 /********************************************************
-  Footer
+  Footer desktop
   *******************************************************/
+.pdng-right{
+	padding-right: 20px;
+}
+.pdng-left{
+	padding-left: 20px;
+}
 
 .footer-menu {
 	padding-bottom: 20px;
@@ -2069,6 +2075,13 @@ a[data-tooltip][data-placement="bottom"]::after {
 	/*******************************
 	footer mobile
 	********************************/
+	.pdng-right{
+		padding-right: 0px;
+	}
+	.pdng-left{
+		padding-left: 0px;
+	}
+	
 	.bottom-form {
 		width: 100%;
 		margin-left: 0;

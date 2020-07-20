@@ -1969,6 +1969,15 @@
             <img src="img/awards/Award.png" alt="award 1">
          </div>
          <div class="container pdng-top">
+            <p class="text-center color-bronze text-uppercase font-500">A Great Place to Work - 2019</p>
+            <p class="text-center">Great Place to Work Certified India</p>
+         </div>
+      </div>
+      <div class="col-sm-4">
+         <div class="container">
+            <img src="img/awards/Award.png" alt="award 1">
+         </div>
+         <div class="container pdng-top">
             <p class="text-center color-bronze text-uppercase font-500">Super Luxury Project of the Year</p>
             <p class="text-center">M3M Golfestate bags the Super Luxury Project of the Year by Indian Property Awards 2019.</p>
          </div>
@@ -2020,9 +2029,9 @@
                   </div>
                </div> -->
          </div>
-         <div class="col-sm-6">
+         <!-- <div class="col-sm-6">
             <iframe width="100%" height="350px" src="https://www.youtube.com/embed/C8kvUT2PE1c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-               <!-- <div class="col-sm-6">
+               <div class="col-sm-6">
                   <div class="info">
                      <div class="name pdng-top">
                         <h4 class="text-center text-uppercase">arcop</h4>
@@ -2034,8 +2043,8 @@
                         <p>Lorem Ipsum, Or Lipsum As It Is Sometimes Known, Is Dummy Text Used In Laying Out Print, Graphic Or Web Designs.The Passage Is Attributed To An Unknown Typesetter In The 15th Century</p>
                      </div>
                   </div>
-               </div> -->
-         </div>
+               </div>
+         </div> -->
          <div class="col-sm-6">
                   <iframe width="100%" height="350px" src="https://www.youtube.com/embed/vYBaAlzLaKg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><!-- <div class="col-sm-6">
                   <div class="info">
@@ -2067,9 +2076,9 @@
                   </div>
                </div> -->
          </div>
-         <div class="col-sm-6">
+         <!-- <div class="col-sm-6">
             <iframe width="100%" height="350px" src="https://www.youtube.com/embed/ngL6S0lDMeQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
-                  <!-- <div class="col-sm-6">
+                  <div class="col-sm-6">
                   <div class="info">
                      <div class="name pdng-top">
                         <h4 class="text-center text-uppercase">arcop</h4>
@@ -2081,8 +2090,8 @@
                         <p>Lorem Ipsum, Or Lipsum As It Is Sometimes Known, Is Dummy Text Used In Laying Out Print, Graphic Or Web Designs.The Passage Is Attributed To An Unknown Typesetter In The 15th Century</p>
                      </div>
                   </div>
-               </div> -->
-         </div>
+               </div>
+         </div> -->
       </div>
    </div>
    <div class="clearfix"></div>
