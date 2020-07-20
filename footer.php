@@ -37,7 +37,7 @@
                   <div class="col-sm-3 text-uppercase"><div class="social-icons"><img src="img/linkicon.png" alt="social icon"></div></div>
                   </div> -->
             <div class="text-right center-block m_hide">
-               <a href="#"  target="_blank"><i id="social-fb" class="fa fa-whatsapp fa-2x social"></i></a>
+               <a href="https://api.whatsapp.com/send?phone=919871093339"  target="_blank"><i id="social-fb" class="fa fa-whatsapp fa-2x social"></i></a>
                <a href="https://in.pinterest.com/m3mi/" target="_blank"><i id="social-pintrest" class="fa fa-pinterest fa-2x social"></i></a>
                <a href="https://twitter.com/M3MIndiaPvtLtd" target="_blank"><i id="social-twitter" class="fa fa-twitter fa-2x social"></i></a>
                <a href="https://www.instagram.com/M3MIndiaPvtLtd/" target="_blank"><i id="social-insta" class="fa fa-instagram fa-2x social"></i></a>
@@ -47,7 +47,7 @@
             </div>
 
             <div class="text-center d_hide center-block mrg-foot">
-               <a href="#" target="_blank"><i id="social-fb" class="fa fa-whatsapp fa-2x social"></i></a>
+               <a href="https://api.whatsapp.com/send?phone=919871093339" target="_blank"><i id="social-fb" class="fa fa-whatsapp fa-2x social"></i></a>
                <a href="https://in.pinterest.com/m3mi/" target="_blank"><i id="social-pintrest" class="fa fa-pinterest fa-2x social"></i></a>
                <a href="https://twitter.com/M3MIndiaPvtLtd" target="_blank"><i id="social-twitter" class="fa fa-twitter fa-2x social"></i></a>
                <a href="https://www.instagram.com/M3MIndiaPvtLtd/" target="_blank"><i id="social-insta" class="fa fa-instagram fa-2x social"></i></a>
