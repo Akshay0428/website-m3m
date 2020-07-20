@@ -221,7 +221,7 @@ The Group also recently brought to North India, its first iconic Trump Towers. T
                 <div class="vision-txt">
                     <p>M3M - an ethical, growth oriented organisation, that strives for customer delight, by delivering the ‘best-in-class’ projects, with uncompromising quality standards, through innovation and speed.</p>
                     <h4 class="pdng-top font-bold txt-color-bold m_hide">Mr. Basant Bansal</h4>
-                    <p class="m_hide">Chairman, M3M</p>
+                    <p class="m_hide">Founder, M3M</p>
                     <h4 class="pdng-top font-bold txt-color-bold text-center d_hide">Mr. Basant Bansal</h4>
                     <p class="d_hide text-center">Founder, M3M</p>
                 </div>

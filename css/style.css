@@ -1892,6 +1892,15 @@ a[data-tooltip][data-placement="bottom"]::after {
 	.carousel-indicators{
 		top: 220px !important;
 	}
+	.gal-item .box {
+		height: 98.5% !important;
+	}
+	.view-button a {
+		padding: 18px 44px !important;
+	}
+	.commercial-btn {
+		padding-left: 0px !important;
+	}
 }
 
 @media only screen and (max-width:768px) {
