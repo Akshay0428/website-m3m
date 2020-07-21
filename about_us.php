@@ -24,6 +24,18 @@
 .extra-mrgnew{
     margin-bottom: 36px !important;
 }
+.slick-dots {
+    bottom: -44px;
+}
+@media only screen and (max-width:768px) {
+    .small-line {
+        left: 30% !important;
+        background-color: #ccb497;
+    }
+    .bronze-line {
+        left: 22% !important;
+    }
+}
 </style>
 
 
@@ -44,44 +56,46 @@
         <div class="green-line float-left" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
     </div>
     <div class="clearfix"></div>
-    <div class="row abt-counter pdng-top">
-        <div class="col-xs-2">
-            <div class="box box-p">
-                <!-- <p class="top-txt">One of the</p> -->
-                <h2 class="color-bronze text-uppercase bold-no"><span class="two-txt-2">Number </span>2</h2>
-                <p class="">Developers  in India</p><br>
-                <div class="white-line bronze-line"></div>
+
+
+    <div class="row pdng-top slider-contours-desktop">
+               <div class="col-lg-4 col-md-4 col-12">
+                  <div class="box box-desk-counter">
+                     <!-- <p class="top-txt text-center top-desktop">One of the</p> -->
+                     <h2 class="color-bronze text-center text-uppercase"><span class="two-txt-2">Number </span>2</h2>
+                     <p class="text-center">Developers  in India</p><br>
+                     <div class="white-line bronze-line"></div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-12">
+                  <div class="box  box-desk-counter">
+                  <h2 class="color-bronze text-uppercase bold-no text-center"><span class="two-txt-2">Number </span>1</h2>
+                     <p class="text-center">In North India</p><br>
+                     <div class="white-line small-line"></div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-12">
+                  <div class="box box-desk-counter">
+                     <h2 class="color-bronze text-center text-uppercase">13 <span class="two-txt-2">Lucrative</span></h2>
+                     <p class="text-center">Commercial Projects</p><br>
+                     <div class="white-line bronze-line"></div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-12">
+                  <div class="box box-desk-counter">
+                     <h2 class="color-bronze text-uppercase text-center">16 <span class="two-txt-2">Premium</span></h2>
+                     <p class="text-center">Residential Projects</p><br>
+                     <div class="white-line bronze-line"></div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-12">
+                  <div class="box box-desk-counter">
+                     <h2 class="color-bronze text-uppercase text-center">4 <span class="two-txt-2">Crore SQ.FT</span></h2>
+                     <p class="text-center">Developed &amp; Under<br>Development Area</p><br>
+                     <div class="white-line bronze-line"></div>
+                  </div>
+               </div>
             </div>
-        </div>
-        <div class="col-xs-2 col-half-offset">
-            <div class="box box-p">
-            <h2 class="color-bronze text-uppercase bold-no"><span class="two-txt-2">Number </span>1</h2>
-                <p class="">in North India</p><br>
-                <div class="white-line bronze-line"></div>
-            </div>
-        </div>
-        <div class="col-xs-2 col-half-offset">
-            <div class="box box-p">
-                <h2 class="color-bronze text-uppercase bold-no">13<span class="two-txt-2">Lucrative</span></h2>
-                <p class="">Commercial Projects</p><br>
-                <div class="white-line bronze-line"></div>
-            </div>
-        </div>
-        <div class="col-xs-2 col-half-offset">
-            <div class="box box-p">
-                <h2 class="color-bronze text-uppercase bold-no">16<span class="two-txt-2">Premium</span></h2>
-                <p class="">Residential Projects</p><br>
-                <div class="white-line bronze-line"></div>
-            </div>
-        </div>
-        <div class="col-xs-2 col-half-offset">
-            <div class="box box-p">
-                <h2 class="color-bronze text-uppercase bold-no">4<span class="two-txt-2">Crore SQ.FT</span></h2>
-                <p class="">Developed &amp; Under<br>Development Area</p>
-                <div class="white-line bronze-line"></div>
-            </div>
-        </div>
-    </div>
 </div>
 
 <!-- change content ends -->

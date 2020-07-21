@@ -280,7 +280,7 @@
          ]
       });
 
-
+      
       $('.slider-contours').slick({
          dots: false,
          arrow: true,
@@ -328,6 +328,54 @@
             }
          ]
       });
+
+      $('.slider-contours-desktop').slick({
+         dots: true,
+         arrow: false,
+         prevArrow:'<button type="button" class="d-none"></button>',
+         nextArrow:'<button type="button" class="d-none"></button>',
+         infinite: true,
+         autoplay: true,
+         speed: 500,
+         slidesToShow: 3,
+         slidesToScroll: 1,
+         responsive: [
+            {
+               breakpoint: 1024,
+               settings: {
+                  slidesToShow: 3,
+                  slidesToScroll: 1,
+                  arrow: false,
+                  prevArrow:'<button type="button" class="d-none"></button>',
+                  nextArrow:'<button type="button" class="d-none"></button>',
+                  infinite: true,
+                  dots: true
+               }
+            },
+            {
+               breakpoint: 600,
+               settings: {
+                  slidesToShow: 1,
+                  arrow: false,
+                  prevArrow:'<button type="button" class="d-none"></button>',
+                  nextArrow:'<button type="button" class="d-none"></button>',
+                  dots: true,
+                  slidesToScroll: 1
+               }
+            },
+            {
+               breakpoint: 480,
+               settings: {
+                  slidesToShow: 1,
+                  arrow: false,
+                  prevArrow:'<button type="button" class="d-none"></button>',
+                  nextArrow:'<button type="button" class="d-none"></button>',
+                  dots: true,
+                  slidesToScroll: 1
+               }
+            }
+         ]
+	   });
 
       $('.abt-counter').slick({
          dots: false,
