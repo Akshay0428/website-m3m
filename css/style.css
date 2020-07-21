@@ -867,7 +867,19 @@ div#demo4 {
 .box {
 	position: relative;
 }
-
+.box-desk-counter{
+	width: 80%;
+    margin: 0 auto;
+    border: 2px solid #ccb497;
+}
+.box-desk-counter h2{
+	font-weight: bold !important;
+    padding-top: 15px;
+}
+.top-desktop{
+	left: 70px;
+	top: 32px !important;
+}
 .btm-txt {
 	position: absolute;
 	top: 82%;
@@ -1093,17 +1105,24 @@ real estate desktop
 	padding: 27px 60px !important;
 }
 .white-line {
+	/* margin-top: 0%;
+	margin-bottom: 24px; */
 	height: 2px;
-	background-color: #fff;
-	width: 30%;
-	margin-top: 0%;
-	margin-bottom: 24px;
+    background-color: #fff;
+    width: 30%;
+	top: 85%;
+    position: absolute;
+    left: 22%;
 }
 
 .bronze-line {
 	background-color: #ccb497;
+	left: 25% !important;
 }
-
+.small-line{
+	left: 30% !important;
+	background-color: #ccb497;
+}
 .txt-down {
 	font-size: 12px;
 }
@@ -1112,7 +1131,7 @@ real estate desktop
 	margin: 0px;
 	font-size: 75px !important;
 	letter-spacing: 0px !important;
-	font-weight: 400 !important;
+	font-weight: 400;
 }
 
 .negative {
@@ -1916,9 +1935,24 @@ a[data-tooltip][data-placement="bottom"]::after {
 	.m_hide {
 		display: none !important;
 	}
+	.white-line {
+		top: 84%;
+		left: 33%;
+	}
+	.small-line {
+		left: 36% !important;
+	}
+	.top-desktop {
+		left: 85px !important;
+		top: 13px !important;
+	}
 	h2 {
 		letter-spacing: 5px;
 		font-size: 22px !important;
+	}
+	.box h2 {
+		font-size: 45px !important;
+		font-weight: bold !important;
 	}
 	/******media************/
 	.view_btn_media {
@@ -2031,6 +2065,9 @@ a[data-tooltip][data-placement="bottom"]::after {
 	}
 	.slider-contours {
 		margin-top: 30px !important;
+	}
+	.pdng-realnew {
+		padding: 35px 0px !important;
 	}
 	/********************************************************/
 
