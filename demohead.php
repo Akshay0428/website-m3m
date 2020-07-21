@@ -321,27 +321,28 @@
                   <div class="right" id="div-3">
                      <a href="http://m3mescala.com/" target="_blank">
                         <img src="img/M3M logo.png" class="nav-logo">
-                        <p class="name line-anim-01">M3M ESCALA- Sector 70A, Golf Course Road (Extn.), Gurugram, 122001</p>
+                        <p class="name line-anim-01">Sec 68, Gurugram<br><span class="font-weight-light">Spacious 3 bed luxury apartments</span></p>
+                        <!-- <p class="name line-anim-01">Spacious 3 bed luxury apartments</p> -->
                      </a>
                      <a href="http://www.m3mthemarina.com/ikonic/" target="_blank" >
                         <img src="img/M3M logo.png" class="nav-logo">   
-                        <p class="name line-anim-01">IKONIC - Sector 68, Gurugram, 122018</p>
+                        <p class="name line-anim-01">Near Golf Course Road Ext, Sector 65, Gurugram<br><span class="font-weight-light">Finest Golf Resort Living</span></p>
+                        <!-- <p class="name line-anim-01">Finest Golf Resort Living</p> -->
                      </a>
                      <a href="http://m3mfairwaywest.com/" target="_blank" >
-                        <img src="img/M3M logo.png" class="nav-logo">
-                        <p class="name line-anim-01">FAIRWAY WEST - Sector 65, Golf Course Road (Extn.), Gurugram, 122102</p>
+                        <p class="name line-anim-01"> M3M Fairway West</p>
+                     </a>
+                     <a href="http://www.m3mgolfestate.com/" target="_blank" >
+                        <p class="name line-anim-01"> M3M Golfestate</p>
                      </a>
                      <a href="http://m3m65thavenue.com/heights/" target="_blank" >
-                        <img src="img/M3M logo.png" class="nav-logo">
-                        <p class="name line-anim-01">M3M HEIGHTS- Sector 65, Gurugram, 122102</p>
+                        <p class="name line-anim-01"> M3M Heights</p>
                      </a>
                      <a href="http://www.m3mlatitude.com/" target="_blank" >
-                        <img src="img/M3M logo.png" class="nav-logo">
-                        <p class="name line-anim-01">M3M LATITUDE- Sector 65, Golf Course Road (Extn.), Gurugram, 122102</p>
+                        <p class="name line-anim-01"> M3M Latitude</p>
                      </a>
                      <a href="http://m3mthemarina.com/" target="_blank" >
-                        <img src="img/M3M logo.png" class="nav-logo">
-                        <p class="name line-anim-01">M3M THE MARINA- Sector 68, Gurgaon-122001</p>
+                        <p class="name line-anim-01"> M3M Marina</p>
                      </a>
                      <a href="http://www.m3mmerlin.com/" target="_blank" >
                         <p class="name line-anim-01"> M3M Merlin</p>
@@ -360,9 +361,6 @@
                      </a>
                      <a href="http://m3msierra68.co.in/" target="_blank" >
                         <p class="name line-anim-01"> M3M Sierra68</p>
-                     </a>
-                     <a href="http://www.m3mgolfestate.com/" target="_blank" >
-                        <p class="name line-anim-01"> M3M Golfestate</p>
                      </a>
                      <a href="http://www.m3mskycity.com/" target="_blank" >
                         <p class="name line-anim-01"> M3M Skycity</p>
