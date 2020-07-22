@@ -201,8 +201,8 @@
                                     <ul class="text-left text-white overtxt">
                                     <li>Part of a larger development, M3M Golfestate, thus enjoying all-inclusive amenities.</li>
                                     <li>360⁰ Roof top observatory deck with a breath-taking panoramic view</li>
-                                    <li>High rise with beautiful external lighting in the building</li>
-                                    <li>Modern Contemporary Architecture with a resort-style pool area and large deck</li>
+                                    <li>High rise with beautiful external lighting in the building to give you a feeling of being at the top</li>
+                                    <li>Modern Contemporary Architecture and magnificent landscaping with mood effects and rock garden.</li>
                                     </ul>
                                     <h4><a href="http://www.m3mlatitude.com/" target="_blank">KNOW MORE</a></h4>
                                  </div>
@@ -221,11 +221,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M HEIGHTS</h3>
                                     <ul class="text-left text-white overtxt">
-                                    <li>An elevated living in the most promising location with </li>
-                                    <li>2 & 3 BHK Residences for your healthier, livelier and sportier life</li>
-                                    <li>Part of a Grand mixed-use development 65th Avenue that is 65th Avenue</li>
-                                    <li>Breath-taking and classic views with an oasis of leisure to drop into</li>
-                                    <li>Uniquely personalized experience of serenity and nature</li>
+                                    <li> An elevated living experience at the most promising location with 2 & 3 BHK Residences for your healthier, livelier and sportier life</li>
+                                    <li>Part of a Grand mixed-use development that is 65th Avenue</li>
+                                    <li>Breathtakingly invigorating and classic views with an oasis of leisure </li>
+                                    <li>Uniquely personalized experience of nature and serenity</li>
                                     </ul>
                                  <h4><a href="http://m3m65thavenue.com/heights/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -267,7 +266,8 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M NATURA</h3>
                                     <ul class="text-left text-white overtxt">
-                                    <li>2 & 3 BHK residences nestled amidst Nature</li>
+                                    <!-- <li>2 & 3 BHK residences nestled amidst Nature</li> -->
+                                    <li>2 BHK residences nestled amidst Nature</li>
                                     <li>Dedicated tower drop offs, salon and Alfresco cafe for you to flaunt away</li>
                                     <li>Peripheral alignment of towers having magnificent entrance with flowing water structures.</li>
                                     <li>Expansive marina like water body</li>
@@ -290,9 +290,13 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M SIERRA68</h3>
                                     <ul class="text-left text-white overtxt">
-                                    <li>High quality sustainable Landscape Design Services with integral designs</li>
+                                    <!-- <li>High quality sustainable Landscape Design Services with integral designs</li>
                                     <li>World-Class clubhouse with Indulgent Amenities</li>
                                     <li>Well-designed architecture that helps to minimize the effects of the variables in nature</li>
+                                    <li>Expansive marina like water body</li> -->
+                                    <li>Lush Green Central Landscapes invigoratingly close to nature</li>
+                                    <li>World-Class clubhouse with Indulgent Amenities</li>
+                                    <li>Strategically designed architecture which integrates features that minimize the effects of the variables in nature.</li>
                                     <li>Expansive marina like water body</li>
                                     </ul>
                                     <h4><a href="http://m3msierra68.co.in/" target="_blank">KNOW MORE</a></h4>
@@ -313,9 +317,13 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M SKYCITY</h3>
                                     <ul class="text-left text-white overtxt">
-                                    <li>Strategic location on golf course road extension</li>
+                                    <!-- <li>Strategic location on golf course road extension</li>
                                     <li>30m wide road for you to drive away with zeal and enthusiasm</li>
                                     <li>2, 3 BHK residences presenting the acme of availability and access</li>
+                                    <li>A distinguished neighbourhood of residential & retail development</li>
+                                    <li>Every modern comfort is just 1 minute away from you</li> -->
+                                    <li>Strategic location on golf course road extension with a 30m wide road for you to drive away with zeal and enthusiasm</li>
+                                    <li>3 BHK residences presenting the acme of availability and access</li>
                                     <li>A distinguished neighbourhood of residential & retail development</li>
                                     <li>Every modern comfort is just 1 minute away from you</li>
                                     </ul>
@@ -359,9 +367,9 @@
                                     <div class="content-details fadeIn-top">
                                        <h3>M3M ESCALA</h3>
                                        <ul class="text-left text-white overtxt">
-                                       <li>Inspired by nature with 90% of open spaces and beautiful views of the Aravalli</li>
-                                       <li>Strategically linked to major business hubs & retail destinations</li>
-                                       <li>Exclusive condominium with 2 & 3 BHK Apartments and Penthouses for your peaceful living</li>
+                                       <li>With 90% of open spaces and beautiful views of the Aravalli, M3M Escala is the next lifestyle destination inspired by nature</li>
+                                       <li>Short Drive from NH-8 and Golf Course Extension Road. It is strategically linked to major business hubs & retail destinations</li>
+                                       <li>Exclusive condominium with 2 & 3 BHK Apartments and Penthouses that provide ample space for your peace living</li>
                                        <li>Spacious Lift corridors with grand lobby entrances for your triumphal entry</li>
                                        </ul>
                                        <h4><a href="http://m3mescala.com/" target="_blank">KNOW MORE</a></h4>
@@ -383,10 +391,14 @@
                                     <div class="content-details fadeIn-top">
                                        <h3>M3M MERLIN</h3>
                                        <ul class="text-left text-white overtxt">
-                                       <li>Singapore style architecture for an alluring lifestyle</li>
+                                       <!-- <li>Singapore style architecture for an alluring lifestyle</li>
                                        <li>Manicured gardens with an expanse of central green landscape</li>
                                        <li>Extravagant lush green field of vision from your spacious balcony</li>
-                                       <li>An excellent location with superior connectivity to all strategic locations</li>
+                                       <li>An excellent location with superior connectivity to all strategic locations</li> -->
+                                       <li>Inspired by nature wake up to the scintillating views of the Aravalli</li>
+                                       <li>Exclusive 3 BHK Residences with carefully planned sprawling central greens</li>
+                                       <li>Iconic Clubhouse with an Open-Deck Lounge</li>
+                                       <li>Exclusive premium lounge pool, salon, café for you to have an astonishing experience</li>
                                        </ul>
                                        <h4><a href="http://www.m3mmerlin.com/" target="_blank">KNOW MORE</a></h4>
                                     </div>
@@ -405,7 +417,7 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M FAIRWAY WEST</h3>
                                        <ul class="text-left text-white overtxt">
-                                       <li>Nestled in the finest golf themed development- M3M Golfestate</li>
+                                       <li>Nestled in the finest golf themed development- M3M Golfestate, it offers a lifestyle unmatched by any other.</li>
                                        <li>3 & 4 BHK Residences in a mix of 2 iconic high-rise towers and 7 mid-rise towers</li>
                                        <li>All Inclusive Amenities for sports, dining entertainment and Leisure</li>
                                        <li>Concierge and white glove services</li>
@@ -424,8 +436,8 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M FAIRWAY EAST</h3>
                                        <ul class="text-left text-white overtxt">
-                                       <li>Nestled in the finest golf themed development- M3M Golfestate</li>
-                                       <li>Offers the luxury of space, low density and linear design</li>
+                                       <li>Nestled in the finest golf themed development- M3M Golfestate
+                                       offers the luxury of space, low density and linear design</li>
                                        <li>3 & 4 BHK Spacious Residences Ranging from 3,799 - 5,210 Sq. Ft.</li>
                                        <li>Enjoys proximity to club Elevate, replete with World-class Amenities</li>
                                        <li>Concierge and white glove services</li>
@@ -475,7 +487,8 @@
                                     <div class="content-details fadeIn-top">
                                        <h3>M3M ST ANDREWS</h3>
                                        <ul class="text-left text-white overtxt">
-                                       <li>Inspired by the Link in Scotland, this is where the world’s best offerings converge </li>
+                                      <li>Home of Golf, and Inspired by the Link in Scotland, this is where the worlds best offerings converge for an extravagant lifestyle</li>
+                                       <!-- <li>Inspired by the Link in Scotland, this is where the world’s best offerings converge </li> -->
                                        <li>62 select ultra-premium 4 & 5 bedroom spacious residences</li>
                                        <li>Standalone tower with only 2 apartments to a core</li>
                                        <li>3-side open apartments with lavish balconies that serve as extended living spaces</li>
@@ -497,8 +510,12 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M WOODSHIRE</h3>
                                        <ul class="text-left text-white overtxt">
-                                       <li>2,3 & 4 BHK with duplex penthouses replete with ultra-modern features</li>
+                                       <!-- <li>2,3 & 4 BHK with duplex penthouses replete with ultra-modern features</li>
                                        <li>Lush green landscapes and open spaces giving you a feeling of living near an oasis</li>
+                                       <li>Three side open apartments let you soak in the natural light and feel the fresh breeze</li>
+                                       <li>Crafted on a pristine location providing multilevel club house and ease of shopping</li> -->
+                                       <li>2,3 & 4 BHK with duplex penthouses offering a unique habitat replete with ultra-modern features</li>
+                                       <li>Lush green landscapes and open spaces giving you a feeling of living near an oasis in a chaotic city</li>
                                        <li>Three side open apartments let you soak in the natural light and feel the fresh breeze</li>
                                        <li>Crafted on a pristine location providing multilevel club house and ease of shopping</li>
                                        </ul>
@@ -518,8 +535,8 @@
                                        <ul class="text-left text-white overtxt">
                                        <li>Inspired by the royal sport Polo and specially designed for the new age blue bloods</li>
                                        <li>3 & 4 Bedroom limited edition luxury suites with only 2 apartments to a floor</li>
-                                       <li>Exclusive Polo Lounge with contemporary elegance and glamorous decor</li>
-                                       <li>Access to exclusive polo events and assistance in owning and maintaining a horse</li>
+                                       <li>Exclusive Polo Lounge with contemporary elegance and glamorous decor for your entertainment and leisure needs</li>
+                                       <li> Access to exclusive polo events</li>
                                        </ul>
                                     <h4><a href="http://www.m3mpolosuite.com/" target="_blank">KNOW MORE</a></h4>
                                  </div>
@@ -625,8 +642,8 @@
                                     <ul class="text-left text-white overtxt">
                                     <li>Part of a larger development, M3M Golfestate, thus enjoying all-inclusive amenities.</li>
                                     <li>360⁰ Roof top observatory deck with a breath-taking panoramic view</li>
-                                    <li>High rise with beautiful external lighting in the building</li>
-                                    <li>Modern Contemporary Architecture with a resort-style pool area and large deck</li>
+                                    <li>High rise with beautiful external lighting in the building to give you a feeling of being at the top</li>
+                                    <li>Modern Contemporary Architecture and magnificent landscaping with mood effects and rock garden.</li>
                                     </ul>
                                     <h4><a href="http://www.m3mlatitude.com/" target="_blank">KNOW MORE</a></h4>
                                  </div>
@@ -648,11 +665,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M HEIGHTS</h3>
                                     <ul class="text-left text-white overtxt">
-                                    <li>An elevated living in the most promising location with </li>
-                                    <li>2 & 3 BHK Residences for your healthier, livelier and sportier life</li>
-                                    <li>Part of a Grand mixed-use development 65th Avenue that is 65th Avenue</li>
-                                    <li>Breath-taking and classic views with an oasis of leisure to drop into</li>
-                                    <li>Uniquely personalized experience of serenity and nature</li>
+                                    <li> An elevated living experience at the most promising location with 2 & 3 BHK Residences for your healthier, livelier and sportier life</li>
+                                    <li>Part of a Grand mixed-use development that is 65th Avenue</li>
+                                    <li>Breathtakingly invigorating and classic views with an oasis of leisure </li>
+                                    <li>Uniquely personalized experience of nature and serenity</li>
                                     </ul>
                                  <h4><a href="http://m3m65thavenue.com/heights/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -699,7 +715,8 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M NATURA</h3>
                                     <ul class="text-left text-white overtxt">
-                                    <li>2 & 3 BHK residences nestled amidst Nature</li>
+                                    <!-- <li>2 & 3 BHK residences nestled amidst Nature</li> -->
+                                    <li>2 BHK residences nestled amidst Nature</li>
                                     <li>Dedicated tower drop offs, salon and Alfresco cafe for you to flaunt away</li>
                                     <li>Peripheral alignment of towers having magnificent entrance with flowing water structures.</li>
                                     <li>Expansive marina like water body</li>
@@ -724,9 +741,13 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M SIERRA68</h3>
                                     <ul class="text-left text-white overtxt">
-                                    <li>High quality sustainable Landscape Design Services with integral designs</li>
+                                    <!-- <li>High quality sustainable Landscape Design Services with integral designs</li>
                                     <li>World-Class clubhouse with Indulgent Amenities</li>
                                     <li>Well-designed architecture that helps to minimize the effects of the variables in nature</li>
+                                    <li>Expansive marina like water body</li> -->
+                                    <li>Lush Green Central Landscapes invigoratingly close to nature</li>
+                                    <li>World-Class clubhouse with Indulgent Amenities</li>
+                                    <li>Strategically designed architecture which integrates features that minimize the effects of the variables in nature.</li>
                                     <li>Expansive marina like water body</li>
                                     </ul>
                                     <h4><a href="http://m3msierra68.co.in/" target="_blank">KNOW MORE</a></h4>
@@ -749,9 +770,13 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M SKYCITY</h3>
                                     <ul class="text-left text-white overtxt">
-                                    <li>Strategic location on golf course road extension</li>
+                                    <!-- <li>Strategic location on golf course road extension</li>
                                     <li>30m wide road for you to drive away with zeal and enthusiasm</li>
                                     <li>2, 3 BHK residences presenting the acme of availability and access</li>
+                                    <li>A distinguished neighbourhood of residential & retail development</li>
+                                    <li>Every modern comfort is just 1 minute away from you</li> -->
+                                    <li>Strategic location on golf course road extension with a 30m wide road for you to drive away with zeal and enthusiasm</li>
+                                    <li>3 BHK residences presenting the acme of availability and access</li>
                                     <li>A distinguished neighbourhood of residential & retail development</li>
                                     <li>Every modern comfort is just 1 minute away from you</li>
                                     </ul>
@@ -793,9 +818,9 @@
                                     <div class="content-details fadeIn-top">
                                        <h3>M3M ESCALA</h3>
                                        <ul class="text-left text-white overtxt">
-                                       <li>Inspired by nature with 90% of open spaces and beautiful views of the Aravalli</li>
-                                       <li>Strategically linked to major business hubs & retail destinations</li>
-                                       <li>Exclusive condominium with 2 & 3 BHK Apartments and Penthouses for your peaceful living</li>
+                                       <li>With 90% of open spaces and beautiful views of the Aravalli, M3M Escala is the next lifestyle destination inspired by nature</li>
+                                       <li>Short Drive from NH-8 and Golf Course Extension Road. It is strategically linked to major business hubs & retail destinations</li>
+                                       <li>Exclusive condominium with 2 & 3 BHK Apartments and Penthouses that provide ample space for your peace living</li>
                                        <li>Spacious Lift corridors with grand lobby entrances for your triumphal entry</li>
                                        </ul>
                                        <h4><a href="http://m3mescala.com/" target="_blank">KNOW MORE</a></h4>
@@ -818,10 +843,14 @@
                                     <div class="content-details fadeIn-top">
                                        <h3>M3M MERLIN</h3>
                                        <ul class="text-left text-white overtxt">
-                                       <li>Singapore style architecture for an alluring lifestyle</li>
+                                       <!-- <li>Singapore style architecture for an alluring lifestyle</li>
                                        <li>Manicured gardens with an expanse of central green landscape</li>
                                        <li>Extravagant lush green field of vision from your spacious balcony</li>
-                                       <li>An excellent location with superior connectivity to all strategic locations</li>
+                                       <li>An excellent location with superior connectivity to all strategic locations</li> -->
+                                       <li>Inspired by nature wake up to the scintillating views of the Aravalli</li>
+                                       <li>Exclusive 3 BHK Residences with carefully planned sprawling central greens</li>
+                                       <li>Iconic Clubhouse with an Open-Deck Lounge</li>
+                                       <li>Exclusive premium lounge pool, salon, café for you to have an astonishing experience</li>
                                        </ul>
                                        <h4><a href="http://www.m3mmerlin.com/" target="_blank">KNOW MORE</a></h4>
                                     </div>
@@ -843,7 +872,7 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M FAIRWAY WEST</h3>
                                        <ul class="text-left text-white overtxt">
-                                       <li>Nestled in the finest golf themed development- M3M Golfestate</li>
+                                       <li>Nestled in the finest golf themed development- M3M Golfestate, it offers a lifestyle unmatched by any other.</li>
                                        <li>3 & 4 BHK Residences in a mix of 2 iconic high-rise towers and 7 mid-rise towers</li>
                                        <li>All Inclusive Amenities for sports, dining entertainment and Leisure</li>
                                        <li>Concierge and white glove services</li>
@@ -868,8 +897,8 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M FAIRWAY EAST</h3>
                                        <ul class="text-left text-white overtxt">
-                                       <li>Nestled in the finest golf themed development- M3M Golfestate</li>
-                                       <li>Offers the luxury of space, low density and linear design</li>
+                                       <li>Nestled in the finest golf themed development- M3M Golfestate
+                                       offers the luxury of space, low density and linear design</li>
                                        <li>3 & 4 BHK Spacious Residences Ranging from 3,799 - 5,210 Sq. Ft.</li>
                                        <li>Enjoys proximity to club Elevate, replete with World-class Amenities</li>
                                        <li>Concierge and white glove services</li>
@@ -919,7 +948,8 @@
                                     <div class="content-details fadeIn-top">
                                        <h3>M3M ST ANDREWS</h3>
                                        <ul class="text-left text-white overtxt">
-                                       <li>Inspired by the Link in Scotland, this is where the world’s best offerings converge </li>
+                                       <!-- <li>Inspired by the Link in Scotland, this is where the world’s best offerings converge </li> -->
+                                       <li>Home of Golf, and Inspired by the Link in Scotland, this is where the worlds best offerings converge for an extravagant lifestyle</li>
                                        <li>62 select ultra-premium 4 & 5 bedroom spacious residences</li>
                                        <li>Standalone tower with only 2 apartments to a core</li>
                                        <li>3-side open apartments with lavish balconies that serve as extended living spaces</li>
@@ -944,8 +974,12 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M WOODSHIRE</h3>
                                        <ul class="text-left text-white overtxt">
-                                       <li>2,3 & 4 BHK with duplex penthouses replete with ultra-modern features</li>
+                                       <!-- <li>2,3 & 4 BHK with duplex penthouses replete with ultra-modern features</li>
                                        <li>Lush green landscapes and open spaces giving you a feeling of living near an oasis</li>
+                                       <li>Three side open apartments let you soak in the natural light and feel the fresh breeze</li>
+                                       <li>Crafted on a pristine location providing multilevel club house and ease of shopping</li> -->
+                                       <li>2,3 & 4 BHK with duplex penthouses offering a unique habitat replete with ultra-modern features</li>
+                                       <li>Lush green landscapes and open spaces giving you a feeling of living near an oasis in a chaotic city</li>
                                        <li>Three side open apartments let you soak in the natural light and feel the fresh breeze</li>
                                        <li>Crafted on a pristine location providing multilevel club house and ease of shopping</li>
                                        </ul>
@@ -971,8 +1005,8 @@
                                        <ul class="text-left text-white overtxt">
                                        <li>Inspired by the royal sport Polo and specially designed for the new age blue bloods</li>
                                        <li>3 & 4 Bedroom limited edition luxury suites with only 2 apartments to a floor</li>
-                                       <li>Exclusive Polo Lounge with contemporary elegance and glamorous decor</li>
-                                       <li>Access to exclusive polo events and assistance in owning and maintaining a horse</li>
+                                       <li>Exclusive Polo Lounge with contemporary elegance and glamorous decor for your entertainment and leisure needs</li>
+                                       <li>Access to exclusive polo events</li>
                                        </ul>
                                     <h4><a href="http://www.m3mpolosuite.com/" target="_blank">KNOW MORE</a></h4>
                                  </div>
@@ -1064,10 +1098,16 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M URBANA BUSINESS PARK</h3>
                                     <ul class="text-left text-white overtxt">
-                                    <li>Grade-A office spaces in-tune with nature and green-tech solutions</li>
+                                    <!-- <li>Grade-A office spaces in-tune with nature and green-tech solutions</li>
                                     <li>Efficient large Floor Plate of 16000- 23,000 sq. ft. onwards with open space design</li>
                                     <li>Dedicated drop-off and Entrance Lobby</li>
-                                    <li>Total area: 7 lakh sq. ft. -North Block: 2.5 lakh sq. ft., South Block: 4.5 lakh sq. ft.</li>
+                                    <li>Total area: 7 lakh sq. ft. -North Block: 2.5 lakh sq. ft., South Block: 4.5 lakh sq. ft.</li> -->
+                                    <li>Largest commercial complex on the hi-street retail format in one of the country's most coveted locations</li>
+                                    <li>One of the best commercial project mix - retail, anchor store, restaurant & food courts, office, serviced units</li>
+                                    <li>Exclusive Restaurant/F&B space on the second floor with dedicated landscaped terrace area with each</li>
+                                    <li>Sky-Bridge over the central plaza connecting the retail blocks</li>
+                                    <li>Multiple entry & exit points with boom barriers for retail patrons & office goers</li>
+                                    <li>Located in the fast evolving residential hub of HNI’s (nearly 5000 hi-end apartments coming up in the neighborhood)</li>
                                     </ul>
                                  <h4><a href="http://www.m3murbana.com/urbanabusinesspark/" target="_blank">KNOW MORE</a></h4>
                                 </div>
@@ -1083,10 +1123,13 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M URBANA PREMIUM</h3>
                                     <ul class="text-left text-white overtxt">
-                                    <li>Prominently located at the junction off Golf Course Road (Extn.), sector 67</li>
+                                    <!-- <li>Prominently located at the junction off Golf Course Road (Extn.), sector 67</li>
                                     <li>Independent corporate tower with independent double-height entrance lobby</li>
                                     <li>Terraces at different level for breakout areas</li>
-                                    <li>An iconic structure design by UHA London</li>
+                                    <li>An iconic structure design by UHA London</li> -->
+
+                                    <li>Part of a 17 acres commercial development: M3M Urbana</li>
+                                    <li>Replete with top-notch specifications and technology</li>
                                     </ul>
                                  <h4><a href="http://m3murbanapremium.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1236,6 +1279,7 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M MY DEN</h3>
                                     <ul class="text-left text-white overtxt">
+                                    <li>1&2 BHK Branded Serviced Suites</li>
                                     <li>An integral part of M3M Urbana, a mixed-use complex spread across 6.87 hectare (17 acre)</li>
                                     <li>Ready to move in, free hold property prominently located at sector 67, Gold Course Road (Extn.)</li>
                                     <li>2000 retail units and 13000 office goers</li>
@@ -1456,10 +1500,12 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M URBANA PREMIUM</h3>
                                     <ul class="text-left text-white overtxt">
-                                    <li>Prominently located at the junction off Golf Course Road (Extn.), sector 67</li>
+                                    <!-- <li>Prominently located at the junction off Golf Course Road (Extn.), sector 67</li>
                                     <li>Independent corporate tower with independent double-height entrance lobby</li>
                                     <li>Terraces at different level for breakout areas</li>
-                                    <li>An iconic structure design by UHA London</li>
+                                    <li>An iconic structure design by UHA London</li> -->
+                                    <li>Part of a 17 acres commercial development: M3M Urbana</li>
+                                    <li>Replete with top-notch specifications and technology</li>
                                     </ul>
                                  <h4><a href="http://m3murbanapremium.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1531,6 +1577,7 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M MY DEN</h3>
                                     <ul class="text-left text-white overtxt">
+                                    <li>1&2 BHK Branded Serviced Suites</li>
                                     <li>An integral part of M3M Urbana, a mixed-use complex spread across 6.87 hectare (17 acre)</li>
                                     <li>Ready to move in, free hold property prominently located at sector 67, Gold Course Road (Extn.)</li>
                                     <li>2000 retail units and 13000 office goers</li>
@@ -1599,10 +1646,16 @@
                                  <div class="content-details fadeIn-top">
                                  <h3>M3M URBANA</h3>
                                     <ul class="text-left text-white overtxt">
-                                    <li>Proximity to a high net worth catchment area</li>
+                                    <!-- <li>Proximity to a high net worth catchment area</li>
                                     <li>A contemporary architectural marvel designed by UHA London</li>
                                     <li>Encompassing modern technology and state-of-the-art specifications</li>
-                                    <li>30mins away from Delhi International Airport</li>
+                                    <li>30mins away from Delhi International Airport</li> -->
+                                    <li>Largest commercial complex on the hi-street retail format in one of the country's most coveted locations</li>
+                                    <li>One of the best commercial project mix - retail, anchor store, restaurant & food courts, office, serviced units</li>
+                                    <li>Exclusive Restaurant/F&B space on the second floor with dedicated landscaped terrace area with each</li>
+                                    <li>Sky-Bridge over the central plaza connecting the retail blocks</li>
+                                    <li>Multiple entry & exit points with boom barriers for retail patrons & office goers</li>
+                                    <li>Located in the fast evolving residential hub of HNI’s (nearly 5000 hi-end apartments coming up in the neighborhood)</li>
                                     </ul>
                                  <h4><a href="http://www.m3murbana.com/" target="_blank">KNOW MORE</a></h4>
                                 </div>
@@ -2245,10 +2298,13 @@
                      </label>
                      <select class="form-control form-control-custom" id="exampleFormControlSelect1" required>
                         <option>Sales</option>
-                        <option>2</option>
-                        <option>3</option>
-                        <option>4</option>
-                        <option>5</option>
+                        <option>Marketing</option>
+                        <option>Leasing</option>
+                        <option>Human Resource</option>
+                        <option>Finance</option>
+                        <option>Operations</option>
+                        <option>IT</option>
+                        <option>Other</option>
                      </select>
                   </div>
                   <div class="form-group form-group-custom">
