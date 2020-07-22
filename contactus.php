@@ -102,11 +102,14 @@
                         <h6 class="font-400">Department</h6>
                      </label>
                      <select class="form-control form-control-custom" id="exampleFormControlSelect1" required>
-                        <option>Sales</option>
-                        <option>2</option>
-                        <option>3</option>
-                        <option>4</option>
-                        <option>5</option>
+                     <option>Sales</option>
+                        <option>Marketing</option>
+                        <option>Leasing</option>
+                        <option>Human Resource</option>
+                        <option>Finance</option>
+                        <option>Operations</option>
+                        <option>IT</option>
+                        <option>Other</option>
                      </select>
                   </div>
                   <div class="form-group form-group-custom">
