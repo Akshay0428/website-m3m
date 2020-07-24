@@ -1,4 +1,4 @@
-<?php include 'demohead.php';?>
+<?php include 'header.php';?>
 <!-- banner section start -->
 
 <section class="banner-section" id="ban-id">
@@ -177,8 +177,8 @@
                                     <ul class="text-left text-white overtxt">
                                     <li>A single Iconic tower with 3 BHK Luxury Apartments</li>
                                     <li>Magnificent waterfront views with lush green landscapes and open spaces</li>
-                                    <li>State-of-the-art 3 level Club House, Day and Night’ Club, Salsa & Yoga classes</li>
-                                    <li>Located at sector 68, it is a premium location that enjoys connectivity from Southern Periphery Road and NH-8</li>
+                                    <li>Unique amenities like Marina Yacht Club House, Day and Night’ Club, Salsa & Yoga classes</li>
+                                    <li>A prime location in sector 67 that enjoys connectivity from SPR and NH-8</li>
                                     </ul>
                                     <h4><a href="http://www.m3mthemarina.com/ikonic/" target="_blank">KNOW MORE</a></h4>
                                  </div>
@@ -391,10 +391,14 @@
                                     <div class="content-details fadeIn-top">
                                        <h3>M3M MERLIN</h3>
                                        <ul class="text-left text-white overtxt">
-                                       <li>Singapore style architecture for an alluring lifestyle</li>
+                                       <!-- <li>Singapore style architecture for an alluring lifestyle</li>
                                        <li>Manicured gardens with an expanse of central green landscape</li>
-                                       <li>Magnificent water bodies with lush green landscapes and open spaces</li>
-                                       <li>An excellent location with superior connectivity to all strategic locations</li>
+                                       <li>Extravagant lush green field of vision from your spacious balcony</li>
+                                       <li>An excellent location with superior connectivity to all strategic locations</li> -->
+                                       <li>Inspired by nature wake up to the scintillating views of the Aravalli</li>
+                                       <li>Exclusive 3 BHK Residences with carefully planned sprawling central greens</li>
+                                       <li>Iconic Clubhouse with an Open-Deck Lounge</li>
+                                       <li>Exclusive premium lounge pool, salon, café for you to have an astonishing experience</li>
                                        </ul>
                                        <h4><a href="http://www.m3mmerlin.com/" target="_blank">KNOW MORE</a></h4>
                                     </div>
@@ -613,8 +617,8 @@
                                     <ul class="text-left text-white overtxt">
                                     <li>A single Iconic tower with 3 BHK Luxury Apartments</li>
                                     <li>Magnificent waterfront views with lush green landscapes and open spaces</li>
-                                    <li>State-of-the-art 3 level Club House, Day and Night’ Club, Salsa & Yoga classes</li>
-                                    <li>Located at sector 68, it is a premium location that enjoys connectivity from Southern Periphery Road and NH-8</li>
+                                    <li>Unique amenities like Marina Yacht Club House, Day and Night’ Club, Salsa & Yoga classes</li>
+                                    <li>A prime location in sector 67 that enjoys connectivity from SPR and NH-8</li>
                                     </ul>
                                     <h4><a href="http://www.m3mthemarina.com/ikonic/" target="_blank">KNOW MORE</a></h4>
                                  </div>
@@ -839,10 +843,14 @@
                                     <div class="content-details fadeIn-top">
                                        <h3>M3M MERLIN</h3>
                                        <ul class="text-left text-white overtxt">
-                                       <li>Singapore style architecture for an alluring lifestyle</li>
+                                       <!-- <li>Singapore style architecture for an alluring lifestyle</li>
                                        <li>Manicured gardens with an expanse of central green landscape</li>
-                                       <li>Magnificent water bodies with lush green landscapes and open spaces</li>
-                                       <li>An excellent location with superior connectivity to all strategic locations</li>
+                                       <li>Extravagant lush green field of vision from your spacious balcony</li>
+                                       <li>An excellent location with superior connectivity to all strategic locations</li> -->
+                                       <li>Inspired by nature wake up to the scintillating views of the Aravalli</li>
+                                       <li>Exclusive 3 BHK Residences with carefully planned sprawling central greens</li>
+                                       <li>Iconic Clubhouse with an Open-Deck Lounge</li>
+                                       <li>Exclusive premium lounge pool, salon, café for you to have an astonishing experience</li>
                                        </ul>
                                        <h4><a href="http://www.m3mmerlin.com/" target="_blank">KNOW MORE</a></h4>
                                     </div>
@@ -1090,10 +1098,16 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M URBANA BUSINESS PARK</h3>
                                     <ul class="text-left text-white overtxt">
-                                    <li>Grade-A office spaces in-tune with nature and green-tech solutions</li>
+                                    <!-- <li>Grade-A office spaces in-tune with nature and green-tech solutions</li>
                                     <li>Efficient large Floor Plate of 16000- 23,000 sq. ft. onwards with open space design</li>
                                     <li>Dedicated drop-off and Entrance Lobby</li>
-                                    <li>Total area: 7 lakh sq. ft. -North Block: 2.5 lakh sq. ft., South Block: 4.5 lakh sq. ft.</li>
+                                    <li>Total area: 7 lakh sq. ft. -North Block: 2.5 lakh sq. ft., South Block: 4.5 lakh sq. ft.</li> -->
+                                    <li>Largest commercial complex on the hi-street retail format in one of the country's most coveted locations</li>
+                                    <li>One of the best commercial project mix - retail, anchor store, restaurant & food courts, office, serviced units</li>
+                                    <li>Exclusive Restaurant/F&B space on the second floor with dedicated landscaped terrace area with each</li>
+                                    <li>Sky-Bridge over the central plaza connecting the retail blocks</li>
+                                    <li>Multiple entry & exit points with boom barriers for retail patrons & office goers</li>
+                                    <li>Located in the fast evolving residential hub of HNI’s (nearly 5000 hi-end apartments coming up in the neighborhood)</li>
                                     </ul>
                                  <h4><a href="http://www.m3murbana.com/urbanabusinesspark/" target="_blank">KNOW MORE</a></h4>
                                 </div>
@@ -1330,16 +1344,10 @@
                                  <div class="content-details fadeIn-top">
                                  <h3>M3M URBANA</h3>
                                     <ul class="text-left text-white overtxt">
-                                    <!-- <li>Proximity to a high net worth catchment area</li>
+                                    <li>Proximity to a high net worth catchment area</li>
                                     <li>A contemporary architectural marvel designed by UHA London</li>
                                     <li>Encompassing modern technology and state-of-the-art specifications</li>
-                                    <li>30mins away from Delhi International Airport</li> -->
-                                    <li>Largest commercial complex on the hi-street retail format in one of the country's most coveted locations</li>
-                                    <li>One of the best commercial project mix - retail, anchor store, restaurant & food courts, office, serviced units</li>
-                                    <li>Exclusive Restaurant/F&B space on the second floor with dedicated landscaped terrace area with each</li>
-                                    <li>Sky-Bridge over the central plaza connecting the retail blocks</li>
-                                    <li>Multiple entry & exit points with boom barriers for retail patrons & office goers</li>
-                                    <li>Located in the fast evolving residential hub of HNI’s (nearly 5000 hi-end apartments coming up in the neighborhood)</li>
+                                    <li>30mins away from Delhi International Airport</li>
                                     </ul>
                                  <h4><a href="http://www.m3murbana.com/" target="_blank">KNOW MORE</a></h4>
                                 </div>
@@ -1646,8 +1654,8 @@
                                     <li>One of the best commercial project mix - retail, anchor store, restaurant & food courts, office, serviced units</li>
                                     <li>Exclusive Restaurant/F&B space on the second floor with dedicated landscaped terrace area with each</li>
                                     <li>Sky-Bridge over the central plaza connecting the retail blocks</li>
-                                    <!-- <li>Multiple entry & exit points with boom barriers for retail patrons & office goers</li>
-                                    <li>Located in the fast evolving residential hub of HNI’s (nearly 5000 hi-end apartments coming up in the neighborhood)</li> -->
+                                    <li>Multiple entry & exit points with boom barriers for retail patrons & office goers</li>
+                                    <li>Located in the fast evolving residential hub of HNI’s (nearly 5000 hi-end apartments coming up in the neighborhood)</li>
                                     </ul>
                                  <h4><a href="http://www.m3murbana.com/" target="_blank">KNOW MORE</a></h4>
                                 </div>
