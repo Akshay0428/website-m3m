@@ -1564,7 +1564,7 @@
                      <div class="col-12 gal-item">
                         <div class="col-12 custom-col-setting-pad">
                         <div class="box content">
-                             <img src="img\commercial-projects\mobile\ongoing\M3M-65th-Avenue.png" class="img-ht img-fluid rounded">
+                             <img src="img\commercial-projects\mobile\ongoing\M3M-den.png" class="img-ht img-fluid rounded">
                               <div class="content-overlay"></div>
                               <div class="content-details fadeIn-top">
                                  <h3>M3M MY DEN</h3>

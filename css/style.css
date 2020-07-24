@@ -1954,6 +1954,9 @@ a[data-tooltip][data-placement="bottom"]::after {
 		font-size: 45px !important;
 		font-weight: bold !important;
 	}
+	.overtxt li {
+		font-size: 11px !important;
+	}
 	/******media************/
 	.view_btn_media {
 		padding: 0px 15px !important;
