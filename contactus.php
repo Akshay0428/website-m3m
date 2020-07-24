@@ -76,32 +76,41 @@
                </div>
             </div>
          </div>
+
+
          <div class="col-sm-6">
             <div class="custom-frm">
-               <form class="bottom-form con-page-form" action="" method="POST">
+               <form class="bottom-form con-page-form" name="insightly_web_to_lead" action="" method="post">
+
+                  <input type="hidden" name="Brand" class="form-control" value="M3M" id="brand2">
+                  <input type="hidden" name="Category" class="form-control" value="st.andrews" id="category2" required>
+                  
                   <div class="form-group form-group-custom">
                      <label for="exampleInputEmail1" class="text-capitalize">
                         <h6 class="font-400">name</h6>
                      </label>
-                     <input type="email" class="form-control text-capitalize form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="name" required>
+                     <input type="text" class="form-control text-capitalize form-control-custom" id="insightly_firstName2" aria-describedby="emailHelp" placeholder="name" required>
                   </div>
+
                   <div class="form-group form-group-custom">
                      <label for="exampleInputEmail1">
                         <h6 class="font-400">E-mail</h6>
                      </label>
-                     <input type="email" class="form-control form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-mail ID" required>
+                     <input type="email" class="form-control form-control-custom" id="insightly_Email2" aria-describedby="emailHelp" placeholder="E-mail ID" required>
                   </div>
+
                   <div class="form-group form-group-custom">
                      <label for="exampleInputEmail1" class="text-capitalize">
                         <h6 class="font-400">phone no.</h6>
                      </label>
-                     <input type="email" class="form-control text-capitalize form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="+91-" required>
+                     <input type="text" class="form-control text-capitalize form-control-custom" id="insightly_Phone2" aria-describedby="emailHelp" placeholder="+91-" required>
                   </div>
+
                   <div class="form-group form-group-custom">
                      <label for="exampleFormControlSelect1">
                         <h6 class="font-400">Department</h6>
                      </label>
-                     <select class="form-control form-control-custom" id="exampleFormControlSelect1" required>
+                     <select class="form-control form-control-custom" id="insightly_department2" required>
                      <option>Sales</option>
                         <option>Marketing</option>
                         <option>Leasing</option>
@@ -112,16 +121,21 @@
                         <option>Other</option>
                      </select>
                   </div>
+                  
                   <div class="form-group form-group-custom">
                      <label for="exampleFormControlTextarea1" class="text-capitalize">comment</label>
-                     <textarea class="form-control form-control-custom" id="exampleFormControlTextarea1" rows="3" required></textarea>
+                     <textarea class="form-control form-control-custom" id="insightly_comment2" rows="3"></textarea>
                   </div>
+
                   <div class="form-group form-group-custom">
-                     <input type="submit" class="form-control text-capitalize form-submit-custom" value="SUBMIT">
+                     <input type="submit" class="form-control text-capitalize form-submit-custom" value="SUBMIT" onclick='myfunction2();return(false);'>
                   </div>
+
                </form>
             </div>
          </div>
+
+
          <div class="col-sm-6 d_hide pdng-top">
             <div class="row name">
                <div class="col-sm-2 col-3 icon-center">
