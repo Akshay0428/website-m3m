@@ -1,4 +1,4 @@
-<?php include 'header.php';?>
+<?php include 'demohead.php';?>
 <!-- banner section start -->
 
 <section class="banner-section" id="ban-id">
@@ -121,6 +121,125 @@
 </section>
 
 <!-- banner section ends -->
+
+
+<!--Contours real estate  section start -->
+<div class="rel_estate">
+   <div class="row rel-margr">
+      <!-- <div class="col-sm-4 pdg m_hide">
+         <img src="img/real_estate.png" alt="real estate">
+      </div> -->
+      <div class="col-sm-12 pdg real-txt">
+         <div class="container pdng-realnew">
+            <h2 class="white text-uppercase real-h2 aos-init aos-animate text-center" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">changing the contours of real estate</h2>
+            <div class="green-line real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
+            <div class="row pdng-top slider-contours-desktop">
+               <div class="col-lg-4 col-md-4 col-12">
+                  <div class="box box-desk-counter">
+                     <!-- <p class="white top-txt text-center top-desktop">One of the</p> -->
+                     <h2 class="color-bronze text-center text-uppercase"><span class="two-txt-2">Number</span> 2</h2>
+                     <p class="white text-center">Developers  in India</p><br>
+                     <div class="white-line"></div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-12">
+                  <div class="box  box-desk-counter">
+                  <h2 class="color-bronze text-uppercase bold-no text-center"><span class="two-txt-2">Number </span>1</h2>
+                     <p class="text-center white">In North India</p><br>
+                     <div class="white-line small-line"></div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-12">
+                  <div class="box box-desk-counter">
+                     <h2 class="color-bronze text-center text-uppercase">13 <span class="two-txt-2">Lucrative</span></h2>
+                     <p class="white text-center">Commercial Projects</p><br>
+                     <div class="white-line"></div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-12">
+                  <div class="box box-desk-counter">
+                     <h2 class="color-bronze text-uppercase text-center">16 <span class="two-txt-2">Premium</span></h2>
+                     <p class="white text-center">Residential Projects</p><br>
+                     <div class="white-line"></div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-12">
+                  <div class="box box-desk-counter">
+                     <h2 class="color-bronze text-uppercase text-center">4 <span class="two-txt-2">Crore SQ.FT</span></h2>
+                     <p class="white text-center">Developed &amp; Under<br>Development Area</p><br>
+                     <div class="white-line"></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <!-- <div class="container pdng-real d_hide">
+            <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">changing the<br> contours of <br>real estate</h2>
+            <div class="green-line prtnr-line real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
+            <div class="col-sm-4 pdg d_hide">
+               <img src="img/Contour.png" alt="real estate">
+            </div>
+            <div class="row pdg slider-contours">
+               <div class="col-lg-4 col-md-4 col-6">
+                  <div class="box">
+                     <p class="white top-txt">One of the</p>
+                     <h2 class="color-bronze text-uppercase"><span class="two-txt">top</span>2</h2>
+                     <p class="white">Developers  in India</p>
+                     <div class="white-line"></div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-6">
+                  <div class="box">
+                     <h2 class="color-bronze text-uppercase">13<span class="two-txt-2">Lucrative</span></h2>
+                     <p class="white">Commercial Projects</p>
+                     <div class="white-line"></div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-6">
+                  <div class="box">
+                     <h2 class="color-bronze text-uppercase">15<span class="two-txt-2">Premium</span></h2>
+                     <p class="white">Residential Projects</p>
+                     <div class="white-line"></div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-6 d_hide">
+                  <div class="box">
+                     <h2 class="color-bronze text-uppercase">4<span class="two-txt-2">Crore SQ.FT</span></h2>
+                     <p class="white">Developed &amp; Under<br>Development Area</p>
+                     <div class="white-line"></div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-6 d_hide">
+                  <div class="box">
+                     <h2 class="color-bronze text-uppercase">2200</h2>
+                     <p class="white"><span class="font-weight-bold">Acres</span> Prime Land Bank</p>
+                     <div class="white-line"></div>
+                  </div>
+               </div>
+            </div>
+            <div class="row pdg">
+               <div class="col-lg-4 col-md-4 col-6 m_hide">
+                  <div class="box">
+                     <h2 class="color-bronze text-uppercase">4<span class="two-txt-2">Crore SQ.FT</span></h2>
+                     <p class="white">Developed &amp; Under<br>Development Area</p>
+                     <div class="white-line"></div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-4 col-6 m_hide">
+                  <div class="box">
+                     <h2 class="color-bronze text-uppercase">2200</h2>
+                     <p class="white"><span class="font-weight-bold">Acres</span> Prime Land Bank</p>
+                     <br>
+                     <div class="white-line"></div>
+                  </div>
+               </div>
+            </div>
+         </div> -->
+      </div>
+   </div>
+</div>
+<div class="clearfix"></div>
+
+<!-- real estate ends -->
 
 <!-- Resedential Desktop section start -->
 
@@ -1907,123 +2026,6 @@
 <!--glimpse  section ends -->
 
 
-<!--Contours real estate  section start -->
-<div class="rel_estate">
-   <div class="row rel-margr">
-      <!-- <div class="col-sm-4 pdg m_hide">
-         <img src="img/real_estate.png" alt="real estate">
-      </div> -->
-      <div class="col-sm-12 pdg real-txt">
-         <div class="container pdng-realnew">
-            <h2 class="white text-uppercase real-h2 aos-init aos-animate text-center" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">changing the contours of real estate</h2>
-            <div class="green-line real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
-            <div class="row pdng-top slider-contours-desktop">
-               <div class="col-lg-4 col-md-4 col-12">
-                  <div class="box box-desk-counter">
-                     <!-- <p class="white top-txt text-center top-desktop">One of the</p> -->
-                     <h2 class="color-bronze text-center text-uppercase"><span class="two-txt-2">Number</span> 2</h2>
-                     <p class="white text-center">Developers  in India</p><br>
-                     <div class="white-line"></div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-4 col-12">
-                  <div class="box  box-desk-counter">
-                  <h2 class="color-bronze text-uppercase bold-no text-center"><span class="two-txt-2">Number </span>1</h2>
-                     <p class="text-center white">In North India</p><br>
-                     <div class="white-line small-line"></div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-4 col-12">
-                  <div class="box box-desk-counter">
-                     <h2 class="color-bronze text-center text-uppercase">13 <span class="two-txt-2">Lucrative</span></h2>
-                     <p class="white text-center">Commercial Projects</p><br>
-                     <div class="white-line"></div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-4 col-12">
-                  <div class="box box-desk-counter">
-                     <h2 class="color-bronze text-uppercase text-center">16 <span class="two-txt-2">Premium</span></h2>
-                     <p class="white text-center">Residential Projects</p><br>
-                     <div class="white-line"></div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-4 col-12">
-                  <div class="box box-desk-counter">
-                     <h2 class="color-bronze text-uppercase text-center">4 <span class="two-txt-2">Crore SQ.FT</span></h2>
-                     <p class="white text-center">Developed &amp; Under<br>Development Area</p><br>
-                     <div class="white-line"></div>
-                  </div>
-               </div>
-            </div>
-         </div>
-         <!-- <div class="container pdng-real d_hide">
-            <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">changing the<br> contours of <br>real estate</h2>
-            <div class="green-line prtnr-line real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
-            <div class="col-sm-4 pdg d_hide">
-               <img src="img/Contour.png" alt="real estate">
-            </div>
-            <div class="row pdg slider-contours">
-               <div class="col-lg-4 col-md-4 col-6">
-                  <div class="box">
-                     <p class="white top-txt">One of the</p>
-                     <h2 class="color-bronze text-uppercase"><span class="two-txt">top</span>2</h2>
-                     <p class="white">Developers  in India</p>
-                     <div class="white-line"></div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-4 col-6">
-                  <div class="box">
-                     <h2 class="color-bronze text-uppercase">13<span class="two-txt-2">Lucrative</span></h2>
-                     <p class="white">Commercial Projects</p>
-                     <div class="white-line"></div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-4 col-6">
-                  <div class="box">
-                     <h2 class="color-bronze text-uppercase">15<span class="two-txt-2">Premium</span></h2>
-                     <p class="white">Residential Projects</p>
-                     <div class="white-line"></div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-4 col-6 d_hide">
-                  <div class="box">
-                     <h2 class="color-bronze text-uppercase">4<span class="two-txt-2">Crore SQ.FT</span></h2>
-                     <p class="white">Developed &amp; Under<br>Development Area</p>
-                     <div class="white-line"></div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-4 col-6 d_hide">
-                  <div class="box">
-                     <h2 class="color-bronze text-uppercase">2200</h2>
-                     <p class="white"><span class="font-weight-bold">Acres</span> Prime Land Bank</p>
-                     <div class="white-line"></div>
-                  </div>
-               </div>
-            </div>
-            <div class="row pdg">
-               <div class="col-lg-4 col-md-4 col-6 m_hide">
-                  <div class="box">
-                     <h2 class="color-bronze text-uppercase">4<span class="two-txt-2">Crore SQ.FT</span></h2>
-                     <p class="white">Developed &amp; Under<br>Development Area</p>
-                     <div class="white-line"></div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-4 col-6 m_hide">
-                  <div class="box">
-                     <h2 class="color-bronze text-uppercase">2200</h2>
-                     <p class="white"><span class="font-weight-bold">Acres</span> Prime Land Bank</p>
-                     <br>
-                     <div class="white-line"></div>
-                  </div>
-               </div>
-            </div>
-         </div> -->
-      </div>
-   </div>
-</div>
-<div class="clearfix"></div>
-
-<!-- real estate ends -->
 
 <!-- award section start -->
 
