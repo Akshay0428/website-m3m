@@ -1087,6 +1087,10 @@ real estate desktop
 }
 
 .real-txt {
+	background-color: transparent;
+}
+
+.real-txt2{
 	background-color: #173d61;
 }
 
@@ -1108,7 +1112,7 @@ real estate desktop
 	/* margin-top: 0%;
 	margin-bottom: 24px; */
 	height: 2px;
-    background-color: #fff;
+    background-color: #ccb497;
     width: 30%;
 	top: 85%;
     position: absolute;
