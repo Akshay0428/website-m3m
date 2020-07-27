@@ -29,6 +29,9 @@
             color: #fff;
             text-align: left !important;
          }
+         .del-last {
+            border: none !important;
+         }
          /*************************************************/
          .top-wrp a:hover {
          text-decoration: none !important;
@@ -448,6 +451,13 @@
                         <img src="img/projects-logo/commercial/delivered/Cosmopolitan.png" class="nav-logo">   
                         <p class="name line-anim-01">Sec 66, Golf Course Road (Extn.)<br><span class="font-weight-light">1st High-street Retail on Golf Course Road (Extn.)</span></p>  
                      </a>
+                     <!-----------Dummy box to adjust grid, Dont Touch or Remove---------------------------->
+                     <a href="" target="_blank" class="del-last">
+                        <img src="" class="nav-logo">   
+                        <p class="name line-anim-01"><br><span class="font-weight-light"></span></p>  
+                     </a>
+                     <!------------------------------------------------------------------------------------->
+
                   </div>
                   <div class="right" id="div-newlaunch">
                      <a href="http://www.m3mthemarina.com/ikonic/" target="_blank" >
