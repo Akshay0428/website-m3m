@@ -20,6 +20,7 @@
          }
          img.nav-logo {
             width: 50% !important;
+            height: 67px !important;
          }
          p.name.line-anim-01 {
             text-align: center !important;
@@ -452,8 +453,7 @@
                         <p class="name line-anim-01">Sec 66, Golf Course Road (Extn.)<br><span class="font-weight-light">1st High-street Retail on Golf Course Road (Extn.)</span></p>  
                      </a>
                      <!-----------Dummy box to adjust grid, Dont Touch or Remove---------------------------->
-                     <a href="" target="_blank" class="del-last">
-                        <img src="" class="nav-logo">   
+                     <a href="" target="_blank" class="del-last"> 
                         <p class="name line-anim-01"><br><span class="font-weight-light"></span></p>  
                      </a>
                      <!------------------------------------------------------------------------------------->
