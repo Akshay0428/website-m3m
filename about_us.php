@@ -52,7 +52,7 @@
 
 <div class="container pdng-top">
     <div class="custom-heading">
-        <h2 class="text-left text-uppercase txt-color" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">changing the countours<br> of real estate</h2>
+        <h2 class="text-left text-uppercase txt-color" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">changing the countours<br> of indian real estate</h2>
         <div class="green-line float-left" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
     </div>
     <div class="clearfix"></div>
