@@ -364,7 +364,7 @@ nav.active .menu-btn .lines span:nth-child(4)/*,
     position: relative;
     display: table;
     left: 50%;
-    top: 25%;
+    top: 50px;
     transform: translate(-50%, -50%);
 }
 

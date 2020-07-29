@@ -65,7 +65,7 @@
       <div class="col-sm-4 pdg m_hide">
          <img src="img/career/hands.png" class="height-hand" alt="benifits">
       </div>
-      <div class="col-sm-8 pdg real-txt">
+      <div class="col-sm-8 pdg real-txt real-txt2">
          <div class="container pdng-benifit m_hide">
             <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">benefits of<br>working at m3m</h2>
             <div class="green-line prtnr-line prtnr-line-pad real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>

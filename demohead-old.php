@@ -13,6 +13,19 @@
       <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
       <link rel="stylesheet" href="resources/css/common.css"/>
       <style type="text/css">
+         /*****************Custom Logo Nav**************/
+
+         .menu-wrp .top-wrp .right > a{
+            text-align: center !important;
+         }
+         img.nav-logo {
+            width: 40% !important;
+         }
+         p.name.line-anim-01 {
+            text-align: center !important;
+            font-size: 12px !important;
+         }
+         /*************************************************/
          .top-wrp a:hover {
          text-decoration: none !important;
          }
@@ -53,7 +66,7 @@
             top: 17px;
          }
          .menu-wrp .top-wrp {
-            margin-top: 25px;
+            margin-top: 60px;
          }
          /***********************************slick***********************************/
          .prev-button {
@@ -306,11 +319,15 @@
                      </a>
                   </div> -->
                   <div class="right" id="div-3">
-                     <a href="http://m3mescala.com/" target="_blank" >
-                        <p class="name line-anim-01"> M3M Escala</p>
+                     <a href="http://m3mescala.com/" target="_blank">
+                        <img src="img/M3M logo.png" class="nav-logo">
+                        <p class="name line-anim-01">Sec 68, Gurugram<br><span class="font-weight-light">Spacious 3 bed luxury apartments</span></p>
+                        <!-- <p class="name line-anim-01">Spacious 3 bed luxury apartments</p> -->
                      </a>
                      <a href="http://www.m3mthemarina.com/ikonic/" target="_blank" >
-                        <p class="name line-anim-01"> Ikonic At M3M The Marina</p>
+                        <img src="img/M3M logo.png" class="nav-logo">   
+                        <p class="name line-anim-01">Near Golf Course Road Ext, Sector 65, Gurugram<br><span class="font-weight-light">Finest Golf Resort Living</span></p>
+                        <!-- <p class="name line-anim-01">Finest Golf Resort Living</p> -->
                      </a>
                      <a href="http://m3mfairwaywest.com/" target="_blank" >
                         <p class="name line-anim-01"> M3M Fairway West</p>
