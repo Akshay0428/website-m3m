@@ -228,6 +228,21 @@ $("#ong2mob").click(function () {
 	$("#demo4mob").css('display', 'none')
 	$("#demo3mob").css('display', 'block')
 });
+
+/************************footer disclaimers start Here***********************/
+
+$('.moreless-buttonfoot').click(function() {
+	$('.moretextfoot').slideToggle();
+	if ($('.moreless-buttonfoot').text() == "Read more") {
+	  $(this).text("Read less")
+	} else {
+	  $(this).text("Read more")
+	}
+  });
+
+/************************footer disclaimers ends Here***********************/
+
+
 /************************Mobile Ends Here***********************/
 
 	var $logo = $('#scroll_top');

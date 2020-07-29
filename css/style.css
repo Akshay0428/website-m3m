@@ -1602,7 +1602,14 @@ bespoke living page
 .mrg-foot{
 	margin-top: 20px;;
 }
-
+#sectionfoot {
+	width: 100%;
+	word-wrap: break-word;
+  }
+  
+  .moretextfoot {
+	display: none;
+  }
 /* footer ends */
 
 .contact-bg {

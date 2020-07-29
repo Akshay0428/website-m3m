@@ -131,7 +131,7 @@
       </div> -->
       <div class="col-sm-12 pdg real-txt">
          <div class="container pdng-realnew">
-            <h2 class="text-uppercase real-h2 aos-init aos-animate text-center" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">changing the contours of real estate</h2>
+            <h2 class="text-uppercase real-h2 aos-init aos-animate text-center" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">changing the contours of indian real estate</h2>
             <div class="green-line real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
             <div class="row pdng-top slider-contours-desktop">
                <div class="col-lg-4 col-md-4 col-12">
@@ -656,6 +656,10 @@
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
          </div>
+         <div class="artistic-cmm pdng-top">
+            <p class="text-right">* Images are Artist's Impression</p>
+         </div>
+
       </div>
    </div>
 </section>
@@ -1105,7 +1109,10 @@
             <a class="carousel-control-next" href="#demo2mob" data-slide="next">
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
-         </div>   
+         </div> 
+         <div class="artistic-cmm pdng-top">
+            <p class="text-center">* Images are Artist's Impression</p>
+         </div>  
    </div>
    </div>
 </section>
@@ -1484,6 +1491,9 @@
             <a class="carousel-control-next next-2" href="#demo4" data-slide="next">
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
+         </div>
+         <div class="artistic-cmm pdng-top">
+            <p class="text-right">* Images are Artist's Impression</p>
          </div>
       </div>
    </div>
@@ -1888,6 +1898,9 @@
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
          </div> 
+         <div class="artistic-cmm pdng-top">
+            <p class="text-center">* Images are Artist's Impression</p>
+         </div>
       </div>
    </div>
 </section>
@@ -1898,10 +1911,9 @@
 <section class="header-extradiv">
    <div class="container custm-container">
    <div class="custom-heading" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
-      <h2 class="text-center text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">glimpses of m3m</h2>
+      <h2 class="text-center text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">GLIMPSES OF M3M</h2>
       <div class="green-line text-center" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1500"></div>
-      <p class="text-center pad-custom"  data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">Just like our business, our social life is also thriving. See what's new and exciting
-      </p>
+      <p class="text-center pad-custom"  data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">Stay tuned to the latest at M3M, anytime and anywhere</p>
    </div>
    <div class="clearfix"></div>
    <div class="glimpses-class m_hide">

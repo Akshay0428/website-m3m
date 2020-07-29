@@ -1,4 +1,6 @@
+
 <div class="footer-bg">
+
    <div class="container">
       <div class="row pdng-top footer-menu">
          <div class="col-sm-6 pdg pdng55">
@@ -58,7 +60,22 @@
          </div>
       </div>
    </div>
+
+   <div class="container pdng-top pdng-btm">
+      <div id="sectionfoot">
+         <div class="articlefoot white">
+            <p class="white">Disclaimer : sirloin jowl turducken pork loin pig pork belly, chuck cupim tongue beef doner tri-tip pancetta spare ribs porchetta. 
+            </p>
+            <p class="moretextfoot white">
+               Brisket ball tip cow sirloin. Chuck porchetta kielbasa pork chop doner sirloin, bacon beef brisket ball tip short ribs. 
+            </p>
+         </div>
+         <div class="moreless-buttonfoot white text-capitalize">Read more</div>
+      </div>
+   </div>
+
    <div class="footer-line"></div>
+
 </div>
 
 <!-- <div id="sy-whatshelp">
@@ -477,6 +494,7 @@
       
    });
 </script>
+
 
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script>
