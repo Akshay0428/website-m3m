@@ -63,35 +63,35 @@
                   <div class="box box-desk-counter">
                      <!-- <p class="top-txt text-center top-desktop">One of the</p> -->
                      <h2 class="color-bronze text-center text-uppercase"><span class="two-txt-2">Number </span>2</h2>
-                     <p class="text-center">Developers  in India</p><br>
+                     <p class="text-center white">Developers  in India</p><br>
                      <div class="white-line bronze-line"></div>
                   </div>
                </div>
                <div class="col-lg-4 col-md-4 col-12">
                   <div class="box  box-desk-counter">
                   <h2 class="color-bronze text-uppercase bold-no text-center"><span class="two-txt-2">Number </span>1</h2>
-                     <p class="text-center">In North India</p><br>
+                     <p class="text-center white">In North India</p><br>
                      <div class="white-line small-line"></div>
                   </div>
                </div>
                <div class="col-lg-4 col-md-4 col-12">
                   <div class="box box-desk-counter">
                      <h2 class="color-bronze text-center text-uppercase">13 <span class="two-txt-2">Lucrative</span></h2>
-                     <p class="text-center">Commercial Projects</p><br>
+                     <p class="text-center white">Commercial Projects</p><br>
                      <div class="white-line bronze-line"></div>
                   </div>
                </div>
                <div class="col-lg-4 col-md-4 col-12">
                   <div class="box box-desk-counter">
                      <h2 class="color-bronze text-uppercase text-center">16 <span class="two-txt-2">Premium</span></h2>
-                     <p class="text-center">Residential Projects</p><br>
+                     <p class="text-center white">Residential Projects</p><br>
                      <div class="white-line bronze-line"></div>
                   </div>
                </div>
                <div class="col-lg-4 col-md-4 col-12">
                   <div class="box box-desk-counter">
                      <h2 class="color-bronze text-uppercase text-center">4 <span class="two-txt-2">Crore SQ.FT</span></h2>
-                     <p class="text-center">Developed &amp; Under<br>Development Area</p><br>
+                     <p class="text-center white">Developed &amp; Under<br>Development Area</p><br>
                      <div class="white-line bronze-line"></div>
                   </div>
                </div>
