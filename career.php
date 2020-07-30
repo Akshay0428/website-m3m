@@ -201,21 +201,21 @@
 
 <!-- form career section start -->
 <div class="container">
-    <form class="bottom-carrer" action="" method="POST">
+    <form class="bottom-carrer" action="#" id="career" method="POST" enctype="multipart/form-data">
         <div class="row carrer-formbox">
             <div class="col-lg-6">
                 <div class="form-group form-mrgbtm">
                     <label for="exampleInputEmail1" class="text-capitalize">
                         <h6>name</h6>
                     </label>
-                    <input type="email" class="form-control text-capitalize form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="name" required>
+                    <input type="text" class="form-control text-capitalize form-control-custom" name="fname" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="name" required>
                 </div>
 
                 <div class="form-group form-mrgbtm">
                     <label for="exampleInputEmail1" class="text-capitalize">
                         <h6>phone no.</h6>
                     </label>
-                    <input type="email" class="form-control text-capitalize form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="+91-" required>
+                    <input type="text" class="form-control text-capitalize form-control-custom" id="exampleInputEmail1" maxlenght="10" minlenght="10" name="fphone" aria-describedby="emailHelp" placeholder="+91-" required>
                 </div>
 
                 <div class="form-group form-mrgbtm">
@@ -231,14 +231,14 @@
                     <label for="exampleInputEmail1">
                         <h6>E-mail</h6>
                     </label>
-                    <input type="email" class="form-control form-control-custom" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="E-mail ID" required>
+                    <input type="email" class="form-control form-control-custom" id="exampleInputEmail1" name="femail" aria-describedby="emailHelp" placeholder="E-mail ID" required>
                 </div>
 
                 <div class="form-group form-mrgbtm">
                     <label for="exampleFormControlSelect1">
                         <h6>Position applied for</h6>
                     </label>
-                    <select class="form-control form-control-custom" id="exampleFormControlSelect1" required>
+                    <select class="form-control form-control-custom" id="exampleFormControlSelect1" name="fposition" required>
                         <option>GENERAL MANAGER  - SALES</option>
                         <option>ASST. GENERAL MANAGER  - SALES</option>
                         <option>DEPUTY GENERAL MANAGER  - SALES3</option>
@@ -255,6 +255,14 @@
                 </div>
 
             </div>
+
+            <div class="col-lg-12">
+                <div class="form-group mb-3">
+                    <div class="progress" id="progress">
+                        <div class="progress-bar bg-danger progress-bar-striped progress-bar-animated" id="inner-progress">Please wait....</div>
+                    </div>
+                </div>
+            </div>
         
         </div>
  </form>
@@ -269,6 +277,7 @@ $(".custom-file-input").on("change", function() {
   $(this).siblings(".custom-file-label").addClass("selected").html(fileName);
 });
 </script>
+
 
 
 <?php include 'footer.php';?>

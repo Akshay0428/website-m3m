@@ -1,4 +1,6 @@
+
 <div class="footer-bg">
+
    <div class="container">
       <div class="row pdng-top footer-menu">
          <div class="col-sm-6 pdg pdng55">
@@ -58,7 +60,22 @@
          </div>
       </div>
    </div>
+
+   <div class="container pdng-top pdng-btm">
+      <div id="sectionfoot">
+         <div class="articlefoot white">
+            <p class="white">Disclaimers : sLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
+            </p>
+            <p class="moretextfoot white">
+            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+            </p>
+         </div>
+         <div class="moreless-buttonfoot white text-capitalize">Read more</div>
+      </div>
+   </div>
+
    <div class="footer-line"></div>
+
 </div>
 
 <!-- <div id="sy-whatshelp">
@@ -478,9 +495,59 @@
    });
 </script>
 
+
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 <script>
    AOS.init();
+</script>
+
+<script src="http://admin.pixelatedegg.com/assets/plugins/jquerytoast/jquery.toaster.js" type="text/javascript"></script>
+<script>
+
+$(function(){
+    progressHide();
+    $("#career").submit(function (e) {
+            e.preventDefault();
+    var formdata = new FormData($("#career")[0]);
+                    $.ajax({
+                        type: 'POST',
+                        url: '/upload.php',
+                        data: formdata,
+                        contentType: false,
+                        processData: false, xhr: function () {
+                            progressShow();
+                            var xhr = new XMLHttpRequest();
+                            xhr.upload.addEventListener('progress', function (e) {
+                                var progressbar = Math.round((e.loaded / e.total) * 100);
+                                $("#inner-progress").css('width', progressbar + '%');
+                                $("#inner-progress").html("Please Wait... " + progressbar + '%');
+                            });
+                            return xhr;
+                        },
+                        success: function (data) {
+                            console.log(data);
+                            progressHide();
+                            var json = JSON.parse(data);
+                            $.toaster({priority: json.toast[0], title: json.toast[1], message: json.toast[2]});
+                        },
+                        error: function (request, status, error) {
+                            progressHide()
+                        }
+                    });
+                    console.log("Validation Success send form");
+                    return false;
+                });
+                });
+function progressShow()
+        {
+            $("#btn_submit").attr("disabled", true);
+            $("#progress").show();
+        }
+        function progressHide()
+        {
+            $("#btn_submit").attr("disabled", false);
+            $("#progress").hide();
+        }
 </script>
 </body>
 </html>

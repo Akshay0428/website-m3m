@@ -870,7 +870,8 @@ div#demo4 {
 .box-desk-counter{
 	width: 80%;
     margin: 0 auto;
-    border: 2px solid #ccb497;
+    /* border: 2px solid #ccb497; */
+    background-color: #144168;
 }
 .box-desk-counter h2{
 	font-weight: bold !important;
@@ -1602,7 +1603,14 @@ bespoke living page
 .mrg-foot{
 	margin-top: 20px;;
 }
-
+#sectionfoot {
+	width: 100%;
+	word-wrap: break-word;
+  }
+  
+  .moretextfoot {
+	display: none;
+  }
 /* footer ends */
 
 .contact-bg {
