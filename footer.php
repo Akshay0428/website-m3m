@@ -500,5 +500,54 @@
 <script>
    AOS.init();
 </script>
+
+<script src="http://admin.pixelatedegg.com/assets/plugins/jquerytoast/jquery.toaster.js" type="text/javascript"></script>
+<script>
+
+$(function(){
+    progressHide();
+    $("#career").submit(function (e) {
+            e.preventDefault();
+    var formdata = new FormData($("#career")[0]);
+                    $.ajax({
+                        type: 'POST',
+                        url: '/upload.php',
+                        data: formdata,
+                        contentType: false,
+                        processData: false, xhr: function () {
+                            progressShow();
+                            var xhr = new XMLHttpRequest();
+                            xhr.upload.addEventListener('progress', function (e) {
+                                var progressbar = Math.round((e.loaded / e.total) * 100);
+                                $("#inner-progress").css('width', progressbar + '%');
+                                $("#inner-progress").html("Please Wait... " + progressbar + '%');
+                            });
+                            return xhr;
+                        },
+                        success: function (data) {
+                            console.log(data);
+                            progressHide();
+                            var json = JSON.parse(data);
+                            $.toaster({priority: json.toast[0], title: json.toast[1], message: json.toast[2]});
+                        },
+                        error: function (request, status, error) {
+                            progressHide()
+                        }
+                    });
+                    console.log("Validation Success send form");
+                    return false;
+                });
+                });
+function progressShow()
+        {
+            $("#btn_submit").attr("disabled", true);
+            $("#progress").show();
+        }
+        function progressHide()
+        {
+            $("#btn_submit").attr("disabled", false);
+            $("#progress").hide();
+        }
+</script>
 </body>
 </html>
