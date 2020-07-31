@@ -9,10 +9,17 @@
          <li data-target="#carouselExampleIndicators" data-slide-to="2">3</li>
          <li data-target="#carouselExampleIndicators" data-slide-to="3">4</li>
          <li data-target="#carouselExampleIndicators" data-slide-to="4">5</li>
+         <li data-target="#carouselExampleIndicators" data-slide-to="5">6</li>
       </ol>
       <div class="carousel-inner" role="listbox">
          <!-- Slide One - Set the background image for this slide in the line below -->
-         <div class="carousel-item active" style="background-image: url(img/banner/3D-desk.png)">
+         <div class="carousel-item active" style="background-image: url(img/banner/guru-offer-desk.png)">
+            <!-- <div class="carousel-caption d-none d-md-block">
+               <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
+               <h2 class="display-4">VALUE CREATOR</h2>
+               </div> -->
+         </div>
+         <div class="carousel-item" style="background-image: url(img/banner/3D-desk.png)">
             <!-- <div class="carousel-caption d-none d-md-block">
                <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
                <h2 class="display-4">VALUE CREATOR</h2>
@@ -48,15 +55,11 @@
    </div>
    <!------------------------MOBILE CAROUSEL SECTION---------------------------------------->
    <div id="carouselExampleIndicators2" class="carousel slide mobile_carousel d_hide" data-ride="carousel">
-      <!-- <ol class="carousel-indicators">
-         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-         <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-         <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-         <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-         </ol> -->
       <div class="carousel-inner">
          <div class="carousel-item active">
+            <img src="img/banner/mobile/guru-offer-mob.jpg" class="d-block w-100 h-100" alt="M3M Banner">
+         </div>
+         <div class="carousel-item">
             <img src="img/banner/mobile/3D-mob.png" class="d-block w-100 h-100" alt="M3M Banner">
          </div>
          <div class="carousel-item">
@@ -1889,7 +1892,7 @@
             <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
                   <div class="box">
-                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157009375051923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157048121621923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                   </div>
                </div>
             </div>
@@ -1897,7 +1900,7 @@
                <div class="row h-41 custom-row-setting">
                   <div class="col-md-12 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
                      <div class="box">
-                        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157007447856923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157046300521923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                      </div>
                   </div>
                </div>
@@ -1905,7 +1908,7 @@
             <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
                   <div class="box">
-                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157007163226923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157045839661923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                   </div>
                </div>
             </div>
@@ -1917,7 +1920,7 @@
             <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
                   <div class="box">
-                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157007163226923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157043485581923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                   </div>
                </div>
             </div>
@@ -1925,7 +1928,7 @@
                <div class="row h-41 custom-row-setting">
                   <div class="col-md-12 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
                      <div class="box">
-                        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157006985416923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>   
+                        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157041801841923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>   
                      </div>
                   </div>
                </div>
@@ -1933,7 +1936,7 @@
             <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
                   <div class="box">
-                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157004535571923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157039474426923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                   </div>
                </div>
             </div>
@@ -1946,48 +1949,48 @@
    <div class="row pdng-top glimpses-class glimpsesslider d_hide" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1500">
       <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
          <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
-            <div class="box">
-               <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157009375051923%2F&show_text=true&width=300&appId=333141201041040&height=550" width="100%" height="550" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-            </div>
+               <div class="box">
+                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157048121621923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+               </div>
          </div>
       </div>
       <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
          <div class="row h-41 custom-row-setting">
             <div class="col-md-12 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
+                  <div class="box">
+                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157046300521923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                  </div>
+            </div>
+         </div>
+      </div>
+      <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
+         <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
                <div class="box">
-                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157007447856923%2F&show_text=true&width=300&appId=333141201041040&height=550" width="100%" height="550" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157045839661923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                </div>
-            </div>
          </div>
       </div>
       <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
          <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
-            <div class="box">
-               <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157007163226923%2F&show_text=true&width=300&appId=333141201041040&height=550" width="100%" height="550" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-            </div>
-         </div>
-      </div>
-      <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
-         <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
-            <div class="box">
-               <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157007163226923%2F&show_text=true&width=300&appId=333141201041040&height=550" width="100%" height="550" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-            </div>
+               <div class="box">
+                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157043485581923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+               </div>
          </div>
       </div>
       <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
          <div class="row h-41 custom-row-setting">
             <div class="col-md-12 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
-               <div class="box">
-                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157006985416923%2F&show_text=true&width=300&appId=333141201041040&height=550" width="100%" height="550" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>   
-               </div>
+                  <div class="box">
+                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157041801841923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>   
+                  </div>
             </div>
          </div>
       </div>
       <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
          <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
-            <div class="box">
-               <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157004535571923%2F&show_text=true&width=300&appId=333141201041040&height=550" width="100%" height="550" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-            </div>
+               <div class="box">
+                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157039474426923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+               </div>
          </div>
       </div>
    </div>
