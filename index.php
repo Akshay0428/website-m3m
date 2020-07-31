@@ -2281,7 +2281,7 @@
             <div class="custom-frm">
                <form class="bottom-form" name="insightly_web_to_lead" action="" method="post">
                   <input type="hidden" name="Brand" class="form-control" value="M3M" id="brand">
-                  <input type="hidden" name="Category" class="form-control" value="st.andrews" id="category" required>
+                  <input type="hidden" name="Category" class="form-control" value="Website" id="category" required>
                   <div class="form-group form-group-custom">
                      <label for="exampleInputEmail1" class="text-capitalize">
                         <h6 class="font-400">name</h6>

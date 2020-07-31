@@ -215,11 +215,11 @@
                     <label for="exampleInputEmail1" class="text-capitalize">
                         <h6>phone no.</h6>
                     </label>
-                    <input type="text" class="form-control text-capitalize form-control-custom" id="exampleInputEmail1" maxlenght="10" minlenght="10" name="fphone" aria-describedby="emailHelp" placeholder="+91-" required>
+                    <input type="text" class="form-control text-capitalize form-control-custom" id="exampleInputEmail1" maxlength="10" minlength="10" name="fphone" aria-describedby="emailHelp" placeholder="+91-" required>
                 </div>
 
                 <div class="form-group form-mrgbtm">
-                  <input type="file" class="custom-file-input" id="customFile" name="filename">
+                  <input type="file" class="custom-file-input" id="customFile" name="filename" required>
                   <label class="custom-file-label" for="customFile">Choose file</label>
                 </div>
 

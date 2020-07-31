@@ -15,10 +15,10 @@ $medium = $_POST['medium'];
 $campaign = $_POST['campaign'];
 $term = $_POST['term'];
 
-$servername = "localhost:3306";
+$servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "website-m3m";
+$dbname = "m3m-career";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password,$dbname);
