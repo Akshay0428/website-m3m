@@ -35,8 +35,8 @@ function myfunction() {
             type: 'POST',
             url: "data.php",
             data: formData,
-            success: function(resultData) { //alert("Thank You, Your Form has been submitted Successfully");
-            location.href = "http://m3mproperties.online/andrews-june2020/thankyou.php"
+            success: function(resultData) { alert("Thank You, Your Form has been submitted Successfully");
+            // location.href = "http://m3mproperties.online/andrews-june2020/thankyou.php"
             }
         });
 }
@@ -174,8 +174,8 @@ function myfunction2() {
             type: 'POST',
             url: "data.php",
             data: formData,
-            success: function(resultData) { //alert("Thank You, Your Form has been submitted Successfully");
-            location.href = "http://m3mproperties.online/andrews-june2020/thankyou.php"
+            success: function(resultData) { alert("Thank You, Your Form has been submitted Successfully");
+            // location.href = "http://m3mproperties.online/andrews-june2020/thankyou.php"
             }
         });
 }
@@ -253,7 +253,7 @@ function callValidation2(){
             alert('Please enter Email');
             return false;
         } else {
-            var email = document.getElementById('insightly_Email').value;
+            var email = document.getElementById('insightly_Email2').value;
             var emailReg = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email);
             if(!emailReg) {
                // console.log('i m in if');
