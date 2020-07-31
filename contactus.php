@@ -103,7 +103,7 @@
                      <label for="exampleInputEmail1" class="text-capitalize">
                         <h6 class="font-400">phone no.</h6>
                      </label>
-                     <input type="text" class="form-control text-capitalize form-control-custom" id="insightly_Phone2" aria-describedby="emailHelp" placeholder="+91-" required>
+                     <input type="text" class="form-control text-capitalize form-control-custom" id="insightly_Phone2" aria-describedby="emailHelp"  maxlength="10" minlength="10" placeholder="+91-" required>
                   </div>
 
                   <div class="form-group form-group-custom">
