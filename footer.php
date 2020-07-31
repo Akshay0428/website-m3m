@@ -98,7 +98,7 @@
 <!-- contact us ends -->
 
 
-<script src="send.js"></script>
+<script src="js/send.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
 <script src="js/custom.js"></script>
@@ -501,7 +501,7 @@
    AOS.init();
 </script>
 
-<script src="http://admin.pixelatedegg.com/assets/plugins/jquerytoast/jquery.toaster.js" type="text/javascript"></script>
+<script src="js/toaster.js" type="text/javascript"></script>
 <script>
 
 $(function(){

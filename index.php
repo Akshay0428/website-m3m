@@ -9,10 +9,17 @@
          <li data-target="#carouselExampleIndicators" data-slide-to="2">3</li>
          <li data-target="#carouselExampleIndicators" data-slide-to="3">4</li>
          <li data-target="#carouselExampleIndicators" data-slide-to="4">5</li>
+         <li data-target="#carouselExampleIndicators" data-slide-to="5">6</li>
       </ol>
       <div class="carousel-inner" role="listbox">
          <!-- Slide One - Set the background image for this slide in the line below -->
-         <div class="carousel-item active" style="background-image: url(img/banner/3D-desk.png)">
+         <div class="carousel-item active" style="background-image: url(img/banner/guru-offer-desk.png)">
+            <!-- <div class="carousel-caption d-none d-md-block">
+               <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
+               <h2 class="display-4">VALUE CREATOR</h2>
+               </div> -->
+         </div>
+         <div class="carousel-item" style="background-image: url(img/banner/3D-desk.png)">
             <!-- <div class="carousel-caption d-none d-md-block">
                <p class="slider-caption">FROM BEING A GAME CHANGER TO A</p>
                <h2 class="display-4">VALUE CREATOR</h2>
@@ -48,15 +55,11 @@
    </div>
    <!------------------------MOBILE CAROUSEL SECTION---------------------------------------->
    <div id="carouselExampleIndicators2" class="carousel slide mobile_carousel d_hide" data-ride="carousel">
-      <!-- <ol class="carousel-indicators">
-         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-         <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-         <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-         <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-         </ol> -->
       <div class="carousel-inner">
          <div class="carousel-item active">
+            <img src="img/banner/mobile/guru-offer-mob.jpg" class="d-block w-100 h-100" alt="M3M Banner">
+         </div>
+         <div class="carousel-item">
             <img src="img/banner/mobile/3D-mob.png" class="d-block w-100 h-100" alt="M3M Banner">
          </div>
          <div class="carousel-item">
@@ -131,28 +134,28 @@
                   <div class="box box-desk-counter">
                      <!-- <p class="white top-txt text-center top-desktop">One of the</p> -->
                      <h2 class="color-bronze text-center text-uppercase"><span class="two-txt-2">Number</span> 2</h2>
-                     <p class="text-center white">Developers  in India</p><br>
+                     <p class="text-center white">Developers  in India</p><br><br>
                      <div class="white-line"></div>
                   </div>
                </div>
                <div class="col-lg-4 col-md-4 col-12">
                   <div class="box  box-desk-counter">
                   <h2 class="color-bronze text-uppercase bold-no text-center"><span class="two-txt-2">Number </span>1</h2>
-                     <p class="text-center white">In North India</p><br>
+                     <p class="text-center white">In North India</p><br><br>
                      <div class="white-line small-line"></div>
                   </div>
                </div>
                <div class="col-lg-4 col-md-4 col-12">
                   <div class="box box-desk-counter">
                      <h2 class="color-bronze text-center text-uppercase">13 <span class="two-txt-2">Lucrative</span></h2>
-                     <p class="text-center white">Commercial Projects</p><br>
+                     <p class="text-center white">Commercial Projects</p><br><br>
                      <div class="white-line"></div>
                   </div>
                </div>
                <div class="col-lg-4 col-md-4 col-12">
                   <div class="box box-desk-counter">
                      <h2 class="color-bronze text-uppercase text-center">16 <span class="two-txt-2">Premium</span></h2>
-                     <p class="text-center white">Residential Projects</p><br>
+                     <p class="text-center white">Residential Projects</p><br><br>
                      <div class="white-line"></div>
                   </div>
                </div>
@@ -1889,7 +1892,7 @@
             <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
                   <div class="box">
-                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157009375051923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157048121621923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                   </div>
                </div>
             </div>
@@ -1897,7 +1900,7 @@
                <div class="row h-41 custom-row-setting">
                   <div class="col-md-12 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
                      <div class="box">
-                        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157007447856923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157046300521923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                      </div>
                   </div>
                </div>
@@ -1905,7 +1908,7 @@
             <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
                   <div class="box">
-                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157007163226923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157045839661923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                   </div>
                </div>
             </div>
@@ -1917,7 +1920,7 @@
             <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
                   <div class="box">
-                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157007163226923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157043485581923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                   </div>
                </div>
             </div>
@@ -1925,7 +1928,7 @@
                <div class="row h-41 custom-row-setting">
                   <div class="col-md-12 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
                      <div class="box">
-                        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157006985416923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>   
+                        <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157041801841923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>   
                      </div>
                   </div>
                </div>
@@ -1933,7 +1936,7 @@
             <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
                <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
                   <div class="box">
-                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157004535571923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157039474426923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                   </div>
                </div>
             </div>
@@ -1946,48 +1949,48 @@
    <div class="row pdng-top glimpses-class glimpsesslider d_hide" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1500">
       <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
          <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
-            <div class="box">
-               <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157009375051923%2F&show_text=true&width=300&appId=333141201041040&height=550" width="100%" height="550" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-            </div>
+               <div class="box">
+                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157048121621923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+               </div>
          </div>
       </div>
       <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
          <div class="row h-41 custom-row-setting">
             <div class="col-md-12 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
+                  <div class="box">
+                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157046300521923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                  </div>
+            </div>
+         </div>
+      </div>
+      <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
+         <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
                <div class="box">
-                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157007447856923%2F&show_text=true&width=300&appId=333141201041040&height=550" width="100%" height="550" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157045839661923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                </div>
-            </div>
          </div>
       </div>
       <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
          <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
-            <div class="box">
-               <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157007163226923%2F&show_text=true&width=300&appId=333141201041040&height=550" width="100%" height="550" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-            </div>
-         </div>
-      </div>
-      <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
-         <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
-            <div class="box">
-               <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157007163226923%2F&show_text=true&width=300&appId=333141201041040&height=550" width="100%" height="550" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-            </div>
+               <div class="box">
+                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157043485581923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+               </div>
          </div>
       </div>
       <div class="col-md-4 col-sm-12 co-xs-12 gal-item">
          <div class="row h-41 custom-row-setting">
             <div class="col-md-12 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
-               <div class="box">
-                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157006985416923%2F&show_text=true&width=300&appId=333141201041040&height=550" width="100%" height="550" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>   
-               </div>
+                  <div class="box">
+                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157041801841923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>   
+                  </div>
             </div>
          </div>
       </div>
       <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
          <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
-            <div class="box">
-               <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157004535571923%2F&show_text=true&width=300&appId=333141201041040&height=550" width="100%" height="550" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-            </div>
+               <div class="box">
+                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157039474426923%2F&show_text=true&width=300&appId=333141201041040&height=435" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+               </div>
          </div>
       </div>
    </div>
@@ -2278,7 +2281,7 @@
             <div class="custom-frm">
                <form class="bottom-form" name="insightly_web_to_lead" action="" method="post">
                   <input type="hidden" name="Brand" class="form-control" value="M3M" id="brand">
-                  <input type="hidden" name="Category" class="form-control" value="st.andrews" id="category" required>
+                  <input type="hidden" name="Category" class="form-control" value="Website" id="category" required>
                   <div class="form-group form-group-custom">
                      <label for="exampleInputEmail1" class="text-capitalize">
                         <h6 class="font-400">name</h6>
@@ -2295,7 +2298,7 @@
                      <label for="exampleInputEmail1" class="text-capitalize">
                         <h6 class="font-400">phone no.</h6>
                      </label>
-                     <input type="text" class="form-control text-capitalize form-control-custom" id="insightly_Phone" aria-describedby="emailHelp" placeholder="+91-" required>
+                     <input type="text" class="form-control text-capitalize form-control-custom" id="insightly_Phone" maxlength="10" minlength="10" aria-describedby="emailHelp" placeholder="+91-" required>
                   </div>
                   <div class="form-group form-group-custom">
                      <label for="exampleFormControlSelect1">

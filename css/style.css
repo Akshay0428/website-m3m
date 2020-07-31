@@ -1928,6 +1928,7 @@ a[data-tooltip][data-placement="bottom"]::after {
 	}
 	.carousel-indicators{
 		top: 220px !important;
+		right: 154px !important;
 	}
 	.gal-item .box {
 		height: 98.5% !important;
