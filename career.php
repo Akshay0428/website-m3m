@@ -76,33 +76,33 @@
                 <div class="col-lg-4 col-md-4 col-6 extra-mrgnew">
                     <div class="box-carrer">
                         <img src="img/career/success.png" alt="success">
-                        <p class="white box-car-txt font-weight-lighter">Clear path<br> to success</p>
+                        <p class="white box-car-txt font-weight-lighter text-capitalize">Clear path<br> to success</p>
                     </div>
                     <div class="clearfix"></div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-6">
                     <div class="box-carrer">
                         <img src="img/career/money.png" alt="money">
-                        <p class="white box-car-txt font-weight-lighter">Best Salary<br> benchmark</p>
+                        <p class="white box-car-txt font-weight-lighter text-capitalize">Best Salary<br> benchmark</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-6">
                     <div class="box-carrer">
                         <img src="img/career/target.png" alt="target">
-                        <p class="white box-car-txt font-weight-lighter">Comprehensive<br> training</p>
+                        <p class="white box-car-txt font-weight-lighter text-capitalize">Comprehensive<br> training</p>
                     </div>
                 </div>
                <div class="col-lg-4 col-md-4 col-6 d_hide">
                   <div class="box-carrer">
                      <h2 class="color-bronze text-uppercase">4<span class="two-txt-2">Crore SQ.FT</span></h2>
-                     <p class="white">Developed &amp; Under<br>Development Area</p>
+                     <p class="white text-capitalize">Developed &amp; Under<br>Development Area</p>
                      <div class="white-line"></div>
                   </div>
                </div>
                <div class="col-lg-4 col-md-4 col-6 d_hide">
                   <div class="box-carrer">
                      <h2 class="color-bronze text-uppercase">2200</h2>
-                     <p class="white"><span class="font-weight-bold">Acres</span> Prime Land Bank</p>
+                     <p class="white text-capitalize"><span class="font-weight-bold">Acres</span> Prime Land Bank</p>
                      <div class="white-line"></div>
                   </div>
                </div>
@@ -111,19 +111,19 @@
                <div class="col-lg-4 col-md-4 col-6 m_hide">
                     <div class="box-carrer">
                         <img src="img/career/business-and-finance.png" alt="business-and-finance">
-                        <p class="white box-car-txt font-weight-lighter">Enhanced<br> performance</p>
+                        <p class="white box-car-txt font-weight-lighter text-capitalize">Enhanced<br> performance</p>
                     </div>
                </div>
                <div class="col-lg-4 col-md-4 col-6 m_hide">
                   <div class="box-carrer">
                     <img src="img/career/checkmark.png" alt="checkmark">
-                        <p class="white box-car-txt font-weight-lighter">Job Security</p>
+                        <p class="white box-car-txt font-weight-lighter text-capitalize">Job Security</p>
                   </div>
                </div>
                <div class="col-lg-4 col-md-4 col-6 m_hide">
                   <div class="box-carrer">
                     <img src="img/career/partner.png" alt="partner">
-                        <p class="white box-car-txt font-weight-lighter">Diverse<br> networking</p>
+                        <p class="white box-car-txt font-weight-lighter text-capitalize">Diverse<br> networking</p>
                   </div>
                </div>
             </div>
@@ -138,38 +138,38 @@
                <div class="col-lg-4 col-md-4 col-6">
                   <div class="box-carrer">
                      <img src="img/career/success.png" alt="success">
-                     <p class="white box-car-txt font-weight-lighter">Clear path<br> to success</p>
+                     <p class="white box-car-txt font-weight-lighter text-capitalize">Clear path<br> to success</p>
                   </div>
                   <div class="clearfix"></div>
                </div>
                <div class="col-lg-4 col-md-4 col-6">
                     <div class="box-carrer">
                         <img src="img/career/money.png" alt="money">
-                        <p class="white box-car-txt font-weight-lighter">Best Salary<br> benchmark</p>
+                        <p class="white box-car-txt font-weight-lighter text-capitalize">Best Salary<br> benchmark</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-6">
                     <div class="box-carrer">
                         <img src="img/career/target.png" alt="target">
-                        <p class="white box-car-txt font-weight-lighter">Comprehensive<br> training</p>
+                        <p class="white box-car-txt font-weight-lighter text-capitalize">Comprehensive<br> training</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-6 d_hide">
                     <div class="box-carrer">
                         <img src="img/career/business-and-finance.png" alt="business-and-finance">
-                        <p class="white box-car-txt font-weight-lighter">Enhanced<br> performance</p>
+                        <p class="white box-car-txt font-weight-lighter text-capitalize">Enhanced<br> performance</p>
                     </div>
                </div>
                <div class="col-lg-4 col-md-4 col-6 d_hide">
                   <div class="box-carrer">
                     <img src="img/career/checkmark.png" alt="checkmark">
-                        <p class="white box-car-txt font-weight-lighter">Job Security</p>
+                        <p class="white box-car-txt font-weight-lighter text-capitalize">Job Security</p>
                   </div>
                </div>
                <div class="col-lg-4 col-md-4 col-6 d_hide">
                   <div class="box-carrer">
                     <img src="img/career/partner.png" alt="partner">
-                        <p class="white box-car-txt font-weight-lighter">Diverse<br> networking</p>
+                        <p class="white box-car-txt font-weight-lighter text-capitalize">Diverse<br> networking</p>
                   </div>
                </div>
             </div>
@@ -177,14 +177,14 @@
                <div class="col-lg-4 col-md-4 col-6 m_hide">
                   <div class="box-carrer">
                      <h2 class="color-bronze text-uppercase">4<span class="two-txt-2">Crore SQ.FT</span></h2>
-                     <p class="white">Developed &amp; Under<br>Development Area</p>
+                     <p class="white text-capitalize">Developed &amp; Under<br>Development Area</p>
                      <div class="white-line"></div>
                   </div>
                </div>
                <div class="col-lg-4 col-md-4 col-6 m_hide">
                   <div class="box-carrer">
                      <h2 class="color-bronze text-uppercase">2200</h2>
-                     <p class="white"><span class="font-weight-bold">Acres</span> Prime Land Bank</p>
+                     <p class="white text-capitalize"><span class="font-weight-bold">Acres</span> Prime Land Bank</p>
                      <br>
                      <div class="white-line"></div>
                   </div>
