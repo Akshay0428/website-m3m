@@ -456,42 +456,21 @@
                      </a>
                   </div>
                   <div class="right" id="div-newlaunch">
+                     <a href="http://www.m3mlatitude.com/" target="_blank" >
+                        <img src="img/projects-logo/residential/ongoing/Latitude.png" class="nav-logo">   
+                        <p class="name line-anim-01">Sec 65, Golf Course Road (Extn.)<br><span class="font-weight-light">High rise with modern design</span></p>
+                     </a>
                      <a href="http://www.m3mthemarina.com/ikonic/" target="_blank" >
                         <img src="img/projects-logo/residential/ongoing/Ikonic.png" class="nav-logo">   
                         <p class="name line-anim-01">Sec 68, Golf Course Road (Extn.)<br><span class="font-weight-light">A lifestyle filled with infinite luxury</span></p>
-                        <!-- <p class="name line-anim-01">Finest Golf Resort Living</p> -->
                      </a>
                      <a href="http://m3mprive73.com/" target="_blank" >
                         <img src="img/projects-logo/commercial/ongoing/M3M-Prive.png" class="nav-logo">   
                         <p class="name line-anim-01">Sec 73, Golf Course Road (Extn.)<br><span class="font-weight-light">Inspired from Burlington Arcade, London</span></p>
                      </a>
-                     <a href="http://m3mnatura.com/" target="_blank" >
-                        <img src="img/projects-logo/residential/ongoing/M3M-Natura.png" class="nav-logo">   
-                        <p class="name line-anim-01">Sec 68, Golf Course Road (Extn.)<br><span class="font-weight-light">Beautiful landscapes & sprawling water body</span></p>
-                     </a>
                      <a href="http://m3mbroadway.com/" target="_blank" >
                         <img src="img/projects-logo/commercial/ongoing/Broadway.png" class="nav-logo">   
                         <p class="name line-anim-01">Sec 71, Golf Course Road (Extn.)<br><span class="font-weight-light">Retail, F&B, entertainment & office spaces</span></p>
-                     </a>
-                     <a href="http://www.m3mifc.com/" target="_blank" >
-                        <img src="img/projects-logo/commercial/ongoing/M3M-IFC.png" class="nav-logo">   
-                        <p class="name line-anim-01">Sec 66, Golf Course Road (Extn.)<br><span class="font-weight-light">Premium grade ‘A’ office spaces</span></p>
-                     </a>
-                     <a href="http://m3mcornerwalk.com/" target="_blank" >
-                        <img src="img/projects-logo/commercial/ongoing/Corner-Walk.png" class="nav-logo">   
-                        <p class="name line-anim-01">Sec 74, Golf Course Road (Extn.)<br><span class="font-weight-light">A micro-universe with every convenience</span></p>
-                     </a>
-                     <a href="http://m3m65thavenue.com/" target="_blank" >
-                        <img src="img/projects-logo/commercial/ongoing/65-Avenue.png" class="nav-logo">   
-                        <p class="name line-anim-01">Sec 65, Golf Course Road (Extn.)<br><span class="font-weight-light">A mixed-used destination</span></p>
-                     </a>
-                     <a href="http://m3m65thavenue.com/heights/" target="_blank" >
-                        <img src="img/projects-logo/residential/ongoing/Heights.png" class="nav-logo">   
-                        <p class="name line-anim-01">Sec 65, Golf Course Road (Extn.)<br><span class="font-weight-light">An elevated living experience</span></p>
-                     </a>
-                     <a href="http://www.m3mskycity.com/" target="_blank" >
-                        <img src="img/projects-logo/residential/ongoing/Sky-Life.png" class="nav-logo">   
-                        <p class="name line-anim-01">Sec 65, Golf Course Road (Extn.)<br><span class="font-weight-light">An acme of convenience</span></p>
                      </a>
                   </div>
                   <div class="left">
@@ -662,6 +641,10 @@
                            </div>
                            <a class="line-anim-01 newlaunchmob" onclick="togglesign('.newlaunchmob')" data-toggle="collapse" href="#launchdiv" role="button" aria-expanded="false">New Launch <i class="fa fa-plus"></i></a>
                            <div class="collapse card-header" id="launchdiv">
+                              <a href="http://www.m3mlatitude.com/" target="_blank" >
+                                 <img src="img/projects-logo/residential/ongoing/Latitude.png" class="nav-logo">   
+                                 <p class="name line-anim-01">Sec 65, Golf Course Road (Extn.)<br><span class="font-weight-light">High rise with modern design</span></p>
+                              </a>
                               <a href="http://www.m3mthemarina.com/ikonic/" target="_blank" >
                                  <img src="img/projects-logo/residential/ongoing/Ikonic.png" class="nav-logo">   
                                  <p class="name line-anim-01">Sec 68, Golf Course Road (Extn.)<br><span class="font-weight-light">A lifestyle filled with infinite luxury</span></p>
@@ -671,33 +654,9 @@
                                  <img src="img/projects-logo/commercial/ongoing/M3M-Prive.png" class="nav-logo">   
                                  <p class="name line-anim-01">Sec 73, Golf Course Road (Extn.)<br><span class="font-weight-light">Inspired from Burlington Arcade, London</span></p>
                               </a>
-                              <a href="http://m3mnatura.com/" target="_blank" >
-                                 <img src="img/projects-logo/residential/ongoing/M3M-Natura.png" class="nav-logo">   
-                                 <p class="name line-anim-01">Sec 68, Golf Course Road (Extn.)<br><span class="font-weight-light">Beautiful landscapes & sprawling water body</span></p>
-                              </a>
                               <a href="http://m3mbroadway.com/" target="_blank" >
                                  <img src="img/projects-logo/commercial/ongoing/Broadway.png" class="nav-logo">   
                                  <p class="name line-anim-01">Sec 71, Golf Course Road (Extn.)<br><span class="font-weight-light">Retail, F&B, entertainment & office spaces</span></p>
-                              </a>
-                              <a href="http://www.m3mifc.com/" target="_blank" >
-                                 <img src="img/projects-logo/commercial/ongoing/M3M-IFC.png" class="nav-logo">   
-                                 <p class="name line-anim-01">Sec 66, Golf Course Road (Extn.)<br><span class="font-weight-light">Premium grade ‘A’ office spaces</span></p>
-                              </a>
-                              <a href="http://m3mcornerwalk.com/" target="_blank" >
-                                 <img src="img/projects-logo/commercial/ongoing/Corner-Walk.png" class="nav-logo">   
-                                 <p class="name line-anim-01">Sec 74, Golf Course Road (Extn.)<br><span class="font-weight-light">A micro-universe with every convenience</span></p>
-                              </a>
-                              <a href="http://m3m65thavenue.com/" target="_blank" >
-                                 <img src="img/projects-logo/commercial/ongoing/65-Avenue.png" class="nav-logo">   
-                                 <p class="name line-anim-01">Sec 65, Golf Course Road (Extn.)<br><span class="font-weight-light">A mixed-used destination</span></p>
-                              </a>
-                              <a href="http://m3m65thavenue.com/heights/" target="_blank" >
-                                 <img src="img/projects-logo/residential/ongoing/Heights.png" class="nav-logo">   
-                                 <p class="name line-anim-01">Sec 65, Golf Course Road (Extn.)<br><span class="font-weight-light">An elevated living experience</span></p>
-                              </a>
-                              <a href="http://www.m3mskycity.com/" target="_blank" >
-                                 <img src="img/projects-logo/residential/ongoing/Sky-Life.png" class="nav-logo">   
-                                 <p class="name line-anim-01">Sec 65, Golf Course Road (Extn.)<br><span class="font-weight-light">An acme of convenience</span></p>
                               </a>
                            </div>
                         </div>

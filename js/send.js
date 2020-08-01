@@ -36,6 +36,7 @@ function myfunction() {
             url: "data.php",
             data: formData,
             success: function(resultData) { alert("Thank You, Your Form has been submitted Successfully");
+            location.reload();
             // location.href = "http://m3mproperties.online/andrews-june2020/thankyou.php"
             }
         });
@@ -175,6 +176,7 @@ function myfunction2() {
             url: "data.php",
             data: formData,
             success: function(resultData) { alert("Thank You, Your Form has been submitted Successfully");
+            location.reload();
             // location.href = "http://m3mproperties.online/andrews-june2020/thankyou.php"
             }
         });
