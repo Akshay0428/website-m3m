@@ -56,7 +56,7 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="text-capitalize text-left font-400">office:</h5>
+                  <h5 class="text-capitalize text-left font-400">office</h5>
                   <p class="text-capitalize text-left">tel: +91 124 4732000</p>
                   <p class="text-capitalize text-left">toll free: 1800 123 3333</p>
                   <p class="text-capitalize text-left">fax: +91 124 4732010</p>
@@ -70,7 +70,7 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="text-capitalize text-left font-400">leasing enquires:</h5>
+                  <h5 class="text-capitalize text-left font-400">leasing enquires</h5>
                   <p class="text-left">leasing@m3mindia.com</p>
                   <p class="text-capitalize text-left">tel:+91 9870323433</p>
                </div>
@@ -167,7 +167,7 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="text-capitalize text-left font-400">office:</h5>
+                  <h5 class="text-capitalize text-left font-400">office</h5>
                   <p class="text-capitalize text-left">tel: +91 124 4732000</p>
                   <p class="text-capitalize text-left">toll free: 1800 123 3333</p>
                   <p class="text-capitalize text-left">fax: +91 124 4732010</p>
@@ -181,7 +181,7 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="text-capitalize text-left font-400">leasing enquires:</h5>
+                  <h5 class="text-capitalize text-left font-400">leasing enquires</h5>
                   <p class="text-left">leasing@m3mindia.com</p>
                   <p class="text-capitalize text-left">tel:+91 9870323433</p>
                </div>
