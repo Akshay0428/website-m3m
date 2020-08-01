@@ -12,6 +12,20 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick-theme.min.css">
       <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
       <link rel="stylesheet" href="resources/css/common.css"/>
+
+      <!-- Gtag COde for m3m website start -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=AW-796224392" defer="defer"></script>
+
+      <script >
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'AW-796224392');
+      </script>
+
+   <!-- Gtag COde for m3m website ends -->
+
+
       <style type="text/css">
          /*****************Custom Logo Nav**************/
          .menu-wrp .top-wrp .right > a{
