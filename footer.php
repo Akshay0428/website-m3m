@@ -64,7 +64,7 @@
    <div class="container pdng-top pdng-btm">
       <div id="sectionfoot">
          <div class="articlefoot white">
-            <p class="white">Disclaimers :<span class="font-weight-light"> Welcome to [insert website] (“Website”).
+            <p class="white">Disclaimers :<span class="font-weight-light"> Welcome to M3M India Private Limited (“Website”).
 The contents of this website are for general informational purposes only. </span> 
             </p>
             <p class="moretextfoot white font-weight-light">
@@ -81,7 +81,7 @@ In no event shall M3M India Private Limited, its affiliates, employees, director
 
             </p>
          </div>
-         <div class="moreless-buttonfoot white text-capitalize">Read more</div>
+         <div class="moreless-buttonfoot white text-capitalize fon-14">Read more</div>
       </div>
    </div>
 

@@ -413,8 +413,8 @@ nav.active .menu-btn .lines span:nth-child(4)/*,
 }
 
 .menu-wrp .bottom-wrp .right a {
-    background: #767676;
-    width: 24px;
+    /* background: #767676; */
+    width: 35px;
     height: 24px;
     border-radius: 50%;
     display: inline-block;

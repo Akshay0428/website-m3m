@@ -285,7 +285,7 @@
                                  <img src="img\residential-projects\desktop\ongoing\Ikonic.jpg" class="img-ht img-fluid rounded">
                                  <div class="content-overlay-middle"></div>
                                  <div class="content-details fadeIn-top">
-                                    <h3>M3M ICONIC</h3>
+                                    <h3>M3M IKONIC</h3>
                                     <ul class="text-left text-white overtxt">
                                        <li>Located at sector 68, a premium location connected to Southern Periphery Road and NH-8</li>
                                        <li>A single Iconic tower with 3 BHK Luxury Apartments</li>
@@ -295,7 +295,7 @@
                                     <h4><a href="http://www.m3mthemarina.com/ikonic/" target="_blank">KNOW MORE</a></h4>
                                  </div>
                                  <div class="btm-txt-middle">
-                                    <p>M3M ICONIC</p>
+                                    <p>M3M IKONIC</p>
                                  </div>
                               </div>
                            </div>
@@ -702,7 +702,7 @@
                               <img src="img\residential-projects\mobile\ongoing\Ikonic.jpg" class="img-ht img-fluid rounded">
                               <div class="content-overlay-middle"></div>
                               <div class="content-details fadeIn-top">
-                                 <h3>M3M ICONIC</h3>
+                                 <h3>M3M IKONIC</h3>
                                  <ul class="text-left text-white overtxt">
                                     <li>Located at sector 68, a premium location connected to Southern Periphery Road and NH-8</li>
                                     <li>A single Iconic tower with 3 BHK Luxury Apartments</li>
@@ -712,7 +712,7 @@
                                  <h4><a href="http://www.m3mthemarina.com/ikonic/" target="_blank">KNOW MORE</a></h4>
                               </div>
                               <div class="btm-txt">
-                                 <p>M3M ICONIC</p>
+                                 <p>M3M IKONIC</p>
                               </div>
                            </div>
                         </div>
