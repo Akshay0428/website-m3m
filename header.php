@@ -692,7 +692,7 @@
                      </a>
                   </div>
                   <div class="right">
-                     <a href="https://www.facebook.com/M3MIndiaLtd" target ="_blank" class="bg-anim-01">
+                     <!-- <a href="https://www.facebook.com/M3MIndiaLtd" target ="_blank" class="bg-anim-01">
                      <img src="https://www.thewadhwagroup.com/resources/images/fb-circle-icon.png">
                      </a>
                      <a href="https://twitter.com/M3MIndiaPvtLtd" target ="_blank" class="bg-anim-01">
@@ -706,7 +706,17 @@
                      </a>
                      <a href="https://www.youtube.com/user/M3MIndiaLtd/Q" target ="_blank" class="bg-anim-01">
                      <img src="https://www.thewadhwagroup.com/resources/images/youtube-circle-icon.png">
-                     </a>
+                     </a> -->
+
+                     <a href="https://api.whatsapp.com/send?phone=919871093339" target="_blank"><i id="social-fb" class="fa fa-whatsapp fa-2x social"></i></a>
+               <a href="https://in.pinterest.com/m3mi/" target="_blank"><i id="social-pintrest" class="fa fa-pinterest fa-2x social"></i></a>
+               <a href="https://twitter.com/M3MIndiaPvtLtd" target="_blank"><i id="social-twitter" class="fa fa-twitter fa-2x social"></i></a>
+               <a href="https://www.instagram.com/M3MIndiaPvtLtd/" target="_blank"><i id="social-insta" class="fa fa-instagram fa-2x social"></i></a>
+               <a href="https://www.facebook.com/M3MIndiaLtd" target="_blank"><i id="social-tw" class="fa fa-facebook fa-2x social"></i></a>
+               <a href="https://www.youtube.com/user/M3MIndiaLtd/" target="_blank"><i id="social-gp" class="fa fa-youtube-play fa-2x social"></i></a>
+               <a href="https://www.linkedin.com/company/m3m-india-limited/?originalSubdomain=in" target="_blank"><i id="social-em" class="fa fa-linkedin fa-2x social"></i></a>
+
+
                   </div>
                </div>
             </div>
