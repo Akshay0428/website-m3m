@@ -470,10 +470,10 @@
                      </a>
                   </div>
                   <div class="right" id="div-newlaunch">
-                     <a href="http://www.m3mlatitude.com/" target="_blank" >
+                     <!-- <a href="http://www.m3mlatitude.com/" target="_blank" >
                         <img src="img/projects-logo/residential/ongoing/Latitude.png" class="nav-logo">   
                         <p class="name line-anim-01">Sec 65, Golf Course Road (Extn.)<br><span class="font-weight-light">High rise with modern design</span></p>
-                     </a>
+                     </a> -->
                      <a href="http://www.m3mthemarina.com/ikonic/" target="_blank" >
                         <img src="img/projects-logo/residential/ongoing/Ikonic.png" class="nav-logo">   
                         <p class="name line-anim-01">Sec 68, Golf Course Road (Extn.)<br><span class="font-weight-light">A lifestyle filled with infinite luxury</span></p>
@@ -655,10 +655,10 @@
                            </div>
                            <a class="line-anim-01 newlaunchmob" onclick="togglesign('.newlaunchmob')" data-toggle="collapse" href="#launchdiv" role="button" aria-expanded="false">New Launch <i class="fa fa-plus"></i></a>
                            <div class="collapse card-header" id="launchdiv">
-                              <a href="http://www.m3mlatitude.com/" target="_blank" >
+                              <!-- <a href="http://www.m3mlatitude.com/" target="_blank" >
                                  <img src="img/projects-logo/residential/ongoing/Latitude.png" class="nav-logo">   
                                  <p class="name line-anim-01">Sec 65, Golf Course Road (Extn.)<br><span class="font-weight-light">High rise with modern design</span></p>
-                              </a>
+                              </a> -->
                               <a href="http://www.m3mthemarina.com/ikonic/" target="_blank" >
                                  <img src="img/projects-logo/residential/ongoing/Ikonic.png" class="nav-logo">   
                                  <p class="name line-anim-01">Sec 68, Golf Course Road (Extn.)<br><span class="font-weight-light">A lifestyle filled with infinite luxury</span></p>
