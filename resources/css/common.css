@@ -326,7 +326,7 @@ nav.active .menu-btn .lines span:nth-child(4)/*,
 .menu-wrp .top-wrp .right > a {
   width: 28%;
     padding-left: 5px;
-    border: 1px solid #e3e3e3;
+    border: 1px solid #e3e3e361;
     border-left: none;
     border-top: none;
     padding-top: 15px;
