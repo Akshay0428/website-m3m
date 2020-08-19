@@ -2243,3 +2243,11 @@ screen and (max-height: 640px) {
 		padding: 16px 44px !important;
 	}
 }
+
+
+@media only screen and (orientation: landscape) {
+	.scroll-css {
+	    background-color: #144168 !important;
+	    height: 25vh;
+	}
+}
