@@ -2247,7 +2247,10 @@ screen and (max-height: 640px) {
 
 @media only screen and (orientation: landscape) {
 	.scroll-css {
-	    background-color: #144168 !important;
 	    height: 25vh;
+	}
+	.menu-btn {
+	    margin-top: 10px;
+	    margin-right: 20px;
 	}
 }
