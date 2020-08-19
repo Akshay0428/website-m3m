@@ -2197,6 +2197,22 @@ a[data-tooltip][data-placement="bottom"]::after {
 	.box-desk-counter {
 		width: 100%;
 	}
+	.col-sm-2.col-3.icon-center {
+		padding: 0 !important;
+	}
+	.mrg-foot {
+		margin-top: 0px;
+	}
+	.fa-2x {
+		font-size: 20px !important;
+		padding: 5px !important;
+	}
+	.custom-h6-footer {
+		font-size: 6px !important;
+	}
+	.menu-wrp .horiz-line {
+		margin-bottom: 120px !important;
+	}
 
 	
 }
