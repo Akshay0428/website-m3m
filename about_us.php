@@ -318,7 +318,7 @@
             </div>
          </div>
          <div class="container pdng-benifit_abt d_hide">
-            <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">benifits of<br>working at m3m</h2>
+            <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">M3M COMMITMENT</h2>
             <div class="green-line prtnr-line real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
             <div class="col-sm-4 pdg d_hide">
                <img src="img/aboutus/commitnent_mobile.png" class="height-hand_abt" alt="benifits">
