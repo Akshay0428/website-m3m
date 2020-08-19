@@ -2186,6 +2186,20 @@ a[data-tooltip][data-placement="bottom"]::after {
 	}
 }
 
+@media screen and (max-width: 900px) and (min-width: 600px) {
+	.scroll-css {
+	    height: 25vh;
+	}
+	.menu-btn {
+	    margin-top: 10px;
+	    margin-right: 20px;
+	}
+
+	
+}
+
+
+
 /***************************Iphone 11************************************************************************/
 @media only screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) { 
 	.view-button a {
@@ -2245,7 +2259,7 @@ screen and (max-height: 640px) {
 }
 
 
-@media only screen and (orientation: landscape) {
+/*@media only screen and (orientation: landscape) {
 	.scroll-css {
 	    height: 25vh;
 	}
@@ -2253,4 +2267,4 @@ screen and (max-height: 640px) {
 	    margin-top: 10px;
 	    margin-right: 20px;
 	}
-}
+}*/
