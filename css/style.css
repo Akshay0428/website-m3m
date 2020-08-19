@@ -2194,6 +2194,9 @@ a[data-tooltip][data-placement="bottom"]::after {
 	    margin-top: 10px;
 	    margin-right: 20px;
 	}
+	.box-desk-counter {
+		width: 100%;
+	}
 
 	
 }
