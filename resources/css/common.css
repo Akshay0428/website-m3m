@@ -570,3 +570,8 @@ nav.active .menu-btn .lines span:nth-child(4)/*,
   .menu-wrp .top-wrp{flex-direction: column; height: auto;} 
 }
 
+@media screen and (max-width: 900px) and (min-width: 600px) {
+	.menu-wrp .top-wrp {
+		height: auto;
+  }
+}

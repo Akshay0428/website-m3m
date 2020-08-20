@@ -253,7 +253,7 @@
                </div>
             </div>
             <div class="col-lg-4 col-md-4 col-12 custom-col-setting">
-               <div class="row custom-row-setting">
+               <div class="row custom-row-setting pdng-land">
                   <div class="col-lg-6 col-md-6 col-6 custom-col-setting">
                      <div class="view-button view-button-active" id="ongoing">
                         <a class="text-uppercase" id="ong">ongoing</a>
@@ -671,7 +671,7 @@
                </div>
             </div>
             <div class="col-lg-4 col-md-4 col-12 custom-col-setting">
-               <div class="row custom-row-setting">
+               <div class="row custom-row-setting row-land">
                   <div class="col-lg-6 col-md-6 col-6 custom-col-setting">
                      <div class="view-button view-button-active" id="ongoingmob">
                         <a class="text-uppercase" id="ongmob">ongoing</a>
@@ -1494,7 +1494,7 @@
                   </p>
                </div>
                <div class="col-lg-6 col-md-6 col-12 custom-col-setting">
-                  <div class="row custom-row-setting">
+                  <div class="row custom-row-setting row-land">
                      <div class="col-lg-6 col-md-6 col-12 custom-col-setting commercial-btn">
                         <div class="view-button view-button-active" id="ongoing2mob">
                            <a class="text-uppercase" id="ong2mob">ongoing</a>
@@ -1889,22 +1889,22 @@
    <div class="glimpses-class m_hide">
       <div class="main-glin">
          <div class="row custom-row-setting">
-            <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
-               <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
+            <div class="col-md-4  co-xs-12 gal-item">
+               <div class="col-md-12  co-xs-12 gal-item h-41 custom-col-setting-pad">
                   <div class="box">
                   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157088411991923%2F%3Ftype%3D3&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                   </div>
                </div>
             </div>
-            <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
-               <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
+            <div class="col-md-4  co-xs-12 gal-item">
+               <div class="col-md-12  co-xs-12 gal-item h-41 custom-col-setting-pad">
                   <div class="box">
                   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157086167846923%2F%3Ftype%3D3&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                   </div>
                </div>
             </div>
-            <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
-               <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
+            <div class="col-md-4  co-xs-12 gal-item">
+               <div class="col-md-12  co-xs-12 gal-item h-41 custom-col-setting-pad">
                   <div class="box">
                   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157084021131923%2F%3Ftype%3D3&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                   </div>
@@ -1925,8 +1925,8 @@
                   </div>
                </div>
             </div>
-            <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
-               <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
+            <div class="col-md-4  co-xs-12 gal-item">
+               <div class="col-md-12  co-xs-12 gal-item h-41 custom-col-setting-pad">
                   <div class="box">
                   <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157079945751923%2F%3Ftype%3D3&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                   </div>
@@ -1948,15 +1948,15 @@
       </div>
    </div>
    <div class="row pdng-top glimpses-class glimpsesslider d_hide" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1500">
-      <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
-         <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
+      <div class="col-md-4  co-xs-12 gal-item">
+         <div class="col-md-12  co-xs-12 gal-item h-41 custom-col-setting-pad">
                <div class="box">
                <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157088411991923%2F%3Ftype%3D3&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                </div>
          </div>
       </div>
-      <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
-         <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
+      <div class="col-md-4  co-xs-12 gal-item">
+         <div class="col-md-12  co-xs-12 gal-item h-41 custom-col-setting-pad">
                <div class="box">
                <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157086167846923%2F%3Ftype%3D3&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                </div>
@@ -1971,15 +1971,15 @@
             </div>
          </div>
       </div>
-      <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
-         <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
+      <div class="col-md-4  co-xs-12 gal-item">
+         <div class="col-md-12  co-xs-12 gal-item h-41 custom-col-setting-pad">
                <div class="box">
                <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157081980526923%2F%3Ftype%3D3&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                </div>
          </div>
       </div>
-      <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
-         <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
+      <div class="col-md-4  co-xs-12 gal-item">
+         <div class="col-md-12  co-xs-12 gal-item h-41 custom-col-setting-pad">
                <div class="box">
                <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157079945751923%2F%3Ftype%3D3&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                </div>
@@ -2169,7 +2169,7 @@
          <div class="col-sm-6">
             <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ngL6S0lDMeQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
          </div>
-         <div class="col-sm-6">
+         <div class="col-sm-6 pdg">
             <div class="row test-slider mrg-top">
                <div class="col-sm-6">
                   <div class="info">
