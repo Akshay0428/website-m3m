@@ -251,10 +251,10 @@
 
 <div class="rel_estate career pdng-top pdng-btm">
    <div class="row rel-margr">
-      <div class="col-sm-4 pdg m_hide">
+      <div class="col-lg-4 col-md-4 col-12 pdg m_hide">
          <img src="img/aboutus/commitnent_desk.png" class="height-hand_abt" alt="commitnent">
       </div>
-      <div class="col-sm-8 pdg real-txt real-txt2">
+      <div class="col-lg-8 col-md-4 col-12 pdg real-txt real-txt2">
          <div class="container pdng-benifit_abt m_hide">
             <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">m3m commitment</h2>
             <div class="green-line prtnr-line real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
@@ -320,7 +320,7 @@
          <div class="container pdng-benifit_abt d_hide">
             <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">M3M COMMITMENT</h2>
             <div class="green-line prtnr-line real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
-            <div class="col-sm-4 pdg d_hide">
+            <div class="col-lg-4 col-md-4 col-12 pdg d_hide">
                <img src="img/aboutus/commitnent_mobile.png" class="height-hand_abt" alt="benifits">
             </div>
             <div class="row pdg slider-contours">

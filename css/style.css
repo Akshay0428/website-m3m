@@ -2201,7 +2201,7 @@ a[data-tooltip][data-placement="bottom"]::after {
 		padding: 0 !important;
 	}
 	.mrg-foot {
-		margin-top: 0px;
+		margin-top: -10px;
 	}
 	.fa-2x {
 		font-size: 20px !important;
@@ -2210,10 +2210,15 @@ a[data-tooltip][data-placement="bottom"]::after {
 	.custom-h6-footer {
 		font-size: 6px !important;
 	}
-	.menu-wrp .horiz-line {
-		margin-bottom: 120px !important;
+	.height-hand {
+		height: 90vh;
 	}
-
+	.pdng-land{
+		padding: 0px 35px 0px ! important;
+	}
+	.row-land{
+		display: inline-flex !important;
+	}
 	
 }
 
