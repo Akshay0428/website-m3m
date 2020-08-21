@@ -136,7 +136,7 @@
         <div class="row pdng-top">
             <div class="col-lg-4 col-md-4 col-12">
                 <div class="box">
-                    <p class="bold-p">2011: DFL Group </p>
+                    <p class="bold-p">2011: DFL !!!  Group </p>
                     <h4 class="font-400 font-box">₹<span class="color-bronze font-bold"> 440 </span>crore</h4>
                 </div>
             </div>
@@ -178,7 +178,7 @@
         <div class="row deal-slider pdng-top">
             <div class="col-lg-4 col-md-4 col-12">
                 <div class="box">
-                    <p class="bold-p text-center">2011: DFL Group </p>
+                    <p class="bold-p text-center">2011: DFL !!!  Group </p>
                     <h4 class="font-400 font-box text-center">₹<span class="color-bronze font-bold"> 440 </span>crore</h4>
                 </div>
             </div>

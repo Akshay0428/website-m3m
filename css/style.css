@@ -2279,8 +2279,7 @@ a[data-tooltip][data-placement="bottom"]::after {
 
 /**************************************************Samsung************************************************/
 
-@media only screen and (max-width:360px),
-screen and (max-height: 640px) {
+@media only screen and (max-width:360px),screen and (max-height: 640px) {
 	.view-button a {
 		padding: 16px 44px !important;
 	}
