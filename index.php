@@ -556,7 +556,7 @@
                                  <img src="img\residential-projects\desktop\delivered\panorama.jpg" class="img-ht img-fluid rounded">
                                  <div class="content-overlay-middle"></div>
                                  <div class="content-details fadeIn-top">
-                                    <h3>M3M PANORAMA</h3>
+                                    <h3>M3M Panorama Suites</h3>
                                     <ul class="text-left text-white overtxt">
                                        <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                        <li>36 Limited Edition, Luxury Suites Starting from 3,700 Sq. Ft.</li>
@@ -566,7 +566,7 @@
                                     <h4><a href="http://www.m3mpanoramasuites.com/" target="_blank">KNOW MORE</a></h4>
                                  </div>
                                  <div class="btm-txt-middle">
-                                    <p>M3M PANORAMA</p>
+                                    <p>M3M Panorama Suites</p>
                                  </div>
                               </div>
                            </div>
@@ -579,7 +579,7 @@
                                  <img src="img\residential-projects\desktop\delivered\St-Andrews.jpg" class="img-ht img-fluid rounded">
                                  <div class="content-overlay-middle"></div>
                                  <div class="content-details fadeIn-top">
-                                    <h3>M3M ST ANDREWS</h3>
+                                    <h3>M3M St. Andrews Golf Residences</h3>
                                     <ul class="text-left text-white overtxt">
                                        <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                        <li>Inspired by the Link in Scotland, this is where the world’s best offerings converge for an extravagant lifestyle</li>
@@ -589,7 +589,7 @@
                                     <h4><a href="http://m3mstandrewsgolfresidences.com/" target="_blank">KNOW MORE</a></h4>
                                  </div>
                                  <div class="btm-txt-middle">
-                                    <p>M3M ST ANDREWS</p>
+                                    <p>M3M St. Andrews Golf Residences</p>
                                  </div>
                               </div>
                            </div>
@@ -995,7 +995,7 @@
                               <img src="img\residential-projects\mobile\delivered\panorama.jpg" class="img-ht img-fluid rounded">
                               <div class="content-overlay-middle"></div>
                               <div class="content-details fadeIn-top">
-                                 <h3>M3M PANORAMA</h3>
+                                 <h3>M3M Panorama Suites</h3>
                                  <ul class="text-left text-white overtxt">
                                     <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                     <li>36 Limited Edition, Luxury Suites Starting from 3,700 Sq. Ft.</li>
@@ -1005,7 +1005,7 @@
                                  <h4><a href="http://www.m3mpanoramasuites.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
                               <div class="btm-txt">
-                                 <p>M3M PANORAMA</p>
+                                 <p>M3M Panorama Suites</p>
                               </div>
                            </div>
                         </div>
@@ -1020,7 +1020,7 @@
                               <img src="img\residential-projects\mobile\delivered\St-Andrews.jpg" class="img-ht img-fluid rounded">
                               <div class="content-overlay-middle"></div>
                               <div class="content-details fadeIn-top">
-                                 <h3>M3M ST ANDREWS</h3>
+                                 <h3>M3M St. Andrews Golf Residences</h3>
                                  <ul class="text-left text-white overtxt">
                                     <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                     <li>Inspired by the Link in Scotland, this is where the world’s best offerings converge for an extravagant lifestyle</li>
@@ -1030,7 +1030,7 @@
                                  <h4><a href="http://m3mstandrewsgolfresidences.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
                               <div class="btm-txt">
-                                 <p>M3M ST ANDREWS</p>
+                                 <p>M3M St. Andrews Golf Residences</p>
                               </div>
                            </div>
                         </div>
@@ -1141,7 +1141,7 @@
                </div>
                <div class="clearfix"></div>
                <div class="inner-para-commercial" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
-                  <p class="text-left">Striving to achieve the best in class, M3M’s commercial projects are state-of-the-art masterpieces that are strategically located and have cutting edge infrastructure
+                  <p class="text-left">Striving to achieve the best in class, M3M’s commercial projects are state-of-the-art masterpieces that are strategically located and have cutting edge architecture
                   </p>
                </div>
             </div>
@@ -1314,7 +1314,7 @@
                                     <h3>M3M IFC</h3>
                                     <ul class="text-left text-white overtxt">
                                        <li>Located on Sector 66, Golf Course Road (Extn.)</li>
-                                       <li>Premium grade ‘A’ office spaces</li>
+                                       <li>Premium grade ‘A’ offices and retail spaces</li>
                                        <li>Luxury shopping experience with high-end boutiques</li>
                                        <li>LEED Gold Rated and designed by Chapman Taylor</li>
                                     </ul>
@@ -1406,7 +1406,7 @@
                                     <ul class="text-left text-white overtxt">
                                        <li>Located on Sector 65, Golf Course Road (Extn.)</li>
                                        <li>Low rise commercial tower G+7 with independent floor upto 15,000 sq. ft.</li>
-                                       <li>Mix of Offices and retail spaces (10,000 sq. ft. to 60,000 sq. ft.)</li>
+                                       <li>Uber Offices and premium retail spaces (10,000 sq. ft. to 60,000 sq. ft.)</li>
                                        <li>Ideal for signature corporate identity (Upto 75,000 sq. ft.)</li>
                                     </ul>
                                     <h4><a href="http://m3mteepoint.com/" target="_blank">KNOW MORE</a></h4>
@@ -1429,7 +1429,7 @@
                                     <li>Located on Sector 66, Golf Course Road (Extn.)</li>
                                     <li>Impeccable mix of retail, F&amp;B and offices spaces</li>
                                     <li>Wide boulevards and open landscaped areas</li>
-                                    <li>First high-street retail hub on Golf Course Road (Extn.) with big, popular brands</li>
+                                    <li>First high-street retail hub on Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://www.m3murbana.com/urbanabusinesspark/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1445,7 +1445,7 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M ONE-KEY RESI-MENTS</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located on Sec 67, Golf Course Road (Extn.)</li>
+                                    <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                     <li>An integral part of M3M Urbana with compact, trendy and smart studios</li>
                                     <li>Sophisticated office spaces right in the development and modern retail brands right next door</li>
                                     <li>Revolutionary technology driven units design by a renowned firm of Singapore</li>
@@ -1490,7 +1490,7 @@
                </div>
                <div class="clearfix"></div>
                <div class="inner-para-commercial" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
-                  <p class="text-left">Striving to achieve the best in class, M3M’s commercial projects are state-of-the-art masterpieces that are strategically located and have cutting edge infrastructure
+                  <p class="text-left">Striving to achieve the best in class, M3M’s commercial projects are state-of-the-art masterpieces that are strategically located and have cutting edge architecture
                   </p>
                </div>
                <div class="col-lg-6 col-md-6 col-12 custom-col-setting">
@@ -1704,7 +1704,7 @@
                                  <h3>M3M IFC</h3>
                                  <ul class="text-left text-white overtxt">
                                     <li>Located on Sector 66, Golf Course Road (Extn.)</li>
-                                    <li>Premium grade ‘A’ office spaces</li>
+                                    <li>Premium grade ‘A’ offices and retail spaces</li>
                                     <li>Luxury shopping experience with high-end boutiques</li>
                                     <li>LEED Gold Rated and designed by Chapman Taylor</li>
                                  </ul>
@@ -1798,7 +1798,8 @@
                                  <ul class="text-left text-white overtxt">
                                     <li>Located on Sector 65, Golf Course Road (Extn.)</li>
                                     <li>Low rise commercial tower G+7 with independent floor upto 15,000 sq. ft.</li>
-                                    <li>Mix of Offices and retail spaces (10,000 sq. ft. to 60,000 sq. ft.)</li>
+                                    <!-- <li>Mix of Offices and retail spaces (10,000 sq. ft. to 60,000 sq. ft.)</li> -->
+                                    <li>Uber Offices and premium retail spaces (10,000 sq. ft. to 60,000 sq. ft.)</li>
                                     <li>Ideal for signature corporate identity (Upto 75,000 sq. ft.)</li>
                                  </ul>
                                  <h4><a href="http://m3mteepoint.com/" target="_blank">KNOW MORE</a></h4>
@@ -1824,7 +1825,7 @@
                                     <li>Located on Sector 66, Golf Course Road (Extn.)</li>
                                     <li>Impeccable mix of retail, F&B and offices spaces</li>
                                     <li>Wide boulevards and open landscaped areas</li>
-                                    <li>First high-street retail hub on Golf Course Road (Extn.) with big, popular brands</li>
+                                    <li>First high-street retail hub on Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://www.m3murbana.com/urbanabusinesspark/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1846,7 +1847,7 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M ONE-KEY RESI-MENTS</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located on Sec 67, Golf Course Road (Extn.)</li>
+                                    <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                     <li>An integral part of M3M Urbana with compact, trendy and smart studios</li>
                                     <li>Sophisticated office spaces right in the development and modern retail brands right next door</li>
                                     <li>Revolutionary technology driven units design by a renowned firm of Singapore</li>
@@ -2174,7 +2175,7 @@
                <div class="col-sm-6">
                   <div class="info">
                      <div class="position">
-                        <h4 class="text-capitalize">Mrs. Oytan Calapover<br><span class="text-uppercase">Golfestate</span></h4>
+                        <h4 class="text-capitalize">Mrs. Oytan Calapover<br><span class="text-uppercase">M3M Golfestate</span></h4>
                      </div>
                      <div class="work pdng-top">
                         <p>Safety and hygiene being the most important aspects, the clubhouse has an indoor kids’ play area and the people are polite and always helpful.</p>
@@ -2187,7 +2188,7 @@
                <div class="col-sm-6">
                   <div class="info">
                      <div class="position">
-                        <h4 class="text-capitalize">Mr. Saurabh Jolly & family<br><span class="text-uppercase">Golfestate</span></h4>
+                        <h4 class="text-capitalize">Mr. Saurabh Jolly & family<br><span class="text-uppercase">M3M Golfestate</span></h4>
                      </div>
                      <div class="work pdng-top">
                         <p>Security and quality of construction well and truly exceeded expectations. Excellent landscape and layout that even has a vast pet area for our furry friends to hang around.</p>
@@ -2200,7 +2201,7 @@
                <div class="col-sm-6">
                   <div class="info">
                      <div class="position">
-                        <h4 class="text-capitalize">Mr. Saurabh Jolly & family<br><span class="text-uppercase">Golfestate</span></h4>
+                        <h4 class="text-capitalize">Mr. Saurabh Jolly & family<br><span class="text-uppercase">M3M Golfestate</span></h4>
                      </div>
                      <div class="work pdng-top">
                         <p>Security and quality of construction well and truly exceeded expectations. Excellent landscape and layout that even has a vast pet area for our furry friends to hang around.</p>
@@ -2237,7 +2238,7 @@
                <div class="col-sm-10 col-9">
                   <h5 class="white text-capitalize text-left font-bold">corporate office</h5>
                   <h5 class="white text-capitalize text-left font-bold">M3M india pvt. ltd.</h5>
-                  <p class="white text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
+                  <p class="white text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road (Extn.)  Gurugram - 122002</p>
                </div>
             </div>
             <div class="row name">
@@ -2247,7 +2248,7 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="white text-capitalize text-left font-bold">sales gallery address</h5>
+                  <h5 class="white text-capitalize text-left font-bold">sales gallery </h5>
                   <p class="white text-capitalize text-left">‘The Experia’, Golf Course Road (Extn.),Sector–73, Gurugram (Gurgaon) 122004,Haryana, India</p>
                </div>
             </div>
@@ -2336,7 +2337,7 @@
                <div class="col-sm-10 col-9">
                   <h5 class="white text-capitalize text-left font-bold">corporate office</h5>
                   <h5 class="white text-capitalize text-left font-bold">M3M india pvt. ltd.</h5>
-                  <p class="white text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
+                  <p class="white text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road (Extn.)  Gurugram - 122002</p>
                </div>
             </div>
             <div class="row name">
@@ -2346,7 +2347,7 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="white text-capitalize text-left font-bold">sales gallery address</h5>
+                  <h5 class="white text-capitalize text-left font-bold">sales gallery </h5>
                   <p class="white text-capitalize text-left">‘The Experia’, Golf Course Road (Extn.),Sector–73, Gurugram (Gurgaon) 122004,Haryana, India</p>
                </div>
             </div>

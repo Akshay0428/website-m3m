@@ -560,5 +560,16 @@ function progressShow()
             $("#progress").hide();
         }
 </script>
+
+
+<!-- on refresh it loads from top of page -->
+<script>
+
+window.onbeforeunload = function () {
+    window.scrollTo(0,0);
+};
+
+</script>
+
 </body>
 </html>

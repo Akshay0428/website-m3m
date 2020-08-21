@@ -35,7 +35,7 @@
                <div class="col-sm-10 col-9">
                   <h5 class="text-capitalize text-left font-400">corporate office</h5>
                   <h5 class="text-capitalize text-left font-400">M3M india pvt. ltd.</h5>
-                  <p class="text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
+                  <p class="text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road (Extn.)  Gurugram - 122002</p>
                </div>
             </div>
             <div class="row name">
@@ -45,7 +45,7 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="text-capitalize text-left font-400">sales gallery address</h5>
+                  <h5 class="text-capitalize text-left font-400">sales gallery </h5>
                   <p class="text-capitalize text-left">‘The Experia’, Golf Course Road (Extn.),Sector–73, Gurugram (Gurgaon) 122004,Haryana, India</p>
                </div>
             </div>
@@ -146,7 +146,7 @@
                <div class="col-sm-10 col-9">
                   <h5 class="text-capitalize text-left font-400">corporate office</h5>
                   <h5 class="text-capitalize text-left font-400">M3M india pvt. ltd.</h5>
-                  <p class="text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
+                  <p class="text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road (Extn.)  Gurugram - 122002</p>
                </div>
             </div>
             <div class="row name">
@@ -156,7 +156,7 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="text-capitalize text-left font-400">sales gallery address</h5>
+                  <h5 class="text-capitalize text-left font-400">sales gallery </h5>
                   <p class="text-capitalize text-left">‘The Experia’, Golf Course Road (Extn.),Sector–73, Gurugram (Gurgaon) 122004,Haryana, India</p>
                </div>
             </div>
