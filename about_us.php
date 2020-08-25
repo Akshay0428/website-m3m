@@ -168,7 +168,7 @@
             </div>
             <div class="col-lg-4 col-md-4 col-12">
                 <div class="box">
-                    <p class="text-capitalize bold-p">SWECO </p>
+                    <p class="text-capitalize bold-p">SWECO MoU</p>
                     <h4 class="font-400 font-box">US $ <span class="color-bronze font-bold"> 2 </span>billion</h4>
                 </div>
             </div>
@@ -208,7 +208,7 @@
             </div>
             <div class="col-lg-4 col-md-4 col-12">
                 <div class="box">
-                    <p class="text-capitalize bold-p text-center">SWECO </p>
+                    <p class="text-capitalize bold-p text-center">SWECO MoU</p>
                     <h4 class="font-400 font-box text-center ">US $ <span class="color-bronze font-bold"> 2 </span>billion</h4>
                 </div>
             </div>

@@ -403,7 +403,7 @@
                      </a>
                      <a href="http://m3mstandrewsgolfresidences.com/" target="_blank" >
                         <img src="img/projects-logo/residential/delivered/Andrews.png" class="nav-logo">   
-                        <p class="name line-anim-01">Sec 65, Golf Course Road (Extn.)<br><span class="font-weight-light">Extravagant international lifestyle0</span></p>
+                        <p class="name line-anim-01">Sec 65, Golf Course Road (Extn.)<br><span class="font-weight-light">Extravagant international lifestyle</span></p>
                      </a>
                      <a href="https://www.m3mskysuites.com/" target="_blank" >
                         <img src="img/projects-logo/residential/delivered/Sky-Suites.png" class="nav-logo">   
@@ -581,7 +581,7 @@
                                  </a>
                                  <a href="http://m3mstandrewsgolfresidences.com/" target="_blank" >
                                     <img src="img/projects-logo/residential/delivered/Andrews.png" class="nav-logo">   
-                                    <p class="name line-anim-01">Sec 65, Golf Course Road (Extn.)<br><span class="font-weight-light">Extravagant international lifestyle0</span></p>
+                                    <p class="name line-anim-01">Sec 65, Golf Course Road (Extn.)<br><span class="font-weight-light">Extravagant international lifestyle</span></p>
                                  </a>
                                  <a href="https://www.m3mskysuites.com/" target="_blank" >
                                     <img src="img/projects-logo/residential/delivered/Sky-Suites.png" class="nav-logo">   

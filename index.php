@@ -287,7 +287,7 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M IKONIC</h3>
                                     <ul class="text-left text-white overtxt">
-                                       <li>Located at sector 68, a premium location connected to Southern Periphery Road and NH-8</li>
+                                       <li>Located at Sector 68, a premium location connected to Southern Periphery Road and NH-8</li>
                                        <li>A single Iconic tower with 3 BHK Luxury Apartments</li>
                                        <li>Magnificent waterfront views with lush green landscapes and open spaces</li>
                                        <li>State-of-the-art 3 level Club House, Day and Night’ Club, Salsa & Yoga classes</li>
@@ -647,7 +647,7 @@
             </a>
          </div>
          <div class="artistic-cmm pdng-top">
-            <p class="text-right">* Images are Artist's Impression</p>
+            <p class="text-right">*Shot on Location</p>
          </div>
       </div>
    </div>
@@ -704,7 +704,7 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M IKONIC</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at sector 68, a premium location connected to Southern Periphery Road and NH-8</li>
+                                    <li>Located at Sector 68, a premium location connected to Southern Periphery Road and NH-8</li>
                                     <li>A single Iconic tower with 3 BHK Luxury Apartments</li>
                                     <li>Magnificent waterfront views with lush green landscapes and open spaces</li>
                                     <li>State-of-the-art 3 level Club House, Day and Night’ Club, Salsa & Yoga classes</li>
@@ -1097,7 +1097,7 @@
             </a>
          </div>
          <div class="artistic-cmm pdng-top">
-            <p class="text-center">* Images are Artist's Impression</p>
+            <p class="text-center">*Shot on Location</p>
          </div>
       </div>
    </div>
@@ -1247,7 +1247,7 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M CORNER WALK</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at sector 74, Golf Course Road (Extn.)</li>
+                                    <li>Located at Sector 74, Golf Course Road (Extn.)</li>
                                     <li>A mix of retail shops, F&B and office spaces with separate entry, pick-up and drop offs points</li>
                                     <li>Double-height and conventional shops</li>
                                     <li>Rectangular-shaped for a spectacular frontage and two-side access</li>
@@ -1470,7 +1470,7 @@
             </a>
          </div>
          <div class="artistic-cmm pdng-top">
-            <p class="text-right">* Images are Artist's Impression</p>
+            <p class="text-right">*Shot on Location</p>
          </div>
       </div>
    </div>
@@ -1628,7 +1628,7 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M CORNER WALK</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at sector 74, Golf Course Road (Extn.)</li>
+                                    <li>Located at Sector 74, Golf Course Road (Extn.)</li>
                                     <li>A mix of retail shops, F&B and office spaces with separate entry, pick-up and drop offs points</li>
                                     <li>Double-height and conventional shops</li>
                                     <li>Rectangular-shaped for a spectacular frontage and two-side access</li>
@@ -1872,7 +1872,7 @@
             </a>
          </div>
          <div class="artistic-cmm pdng-top">
-            <p class="text-center">* Images are Artist's Impression</p>
+            <p class="text-center">*Shot on Location</p>
          </div>
       </div>
    </div>
