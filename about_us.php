@@ -225,7 +225,7 @@
     <h2 class="text-center text-uppercase txt-color" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">m3m group vision</h2>
     <div class="green-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
     <div class="clearfix"></div>
-    <p>The Group’s projects have repeatedly been acknowledged as the best and have been felicitated with numerous business and lifestyle awards the world over.</p>
+    <!-- <p>The Group’s projects have repeatedly been acknowledged as the best and have been felicitated with numerous business and lifestyle awards the world over.</p> -->
     <div class="row pdng-top">
         <div class="col-lg-5 col-md-5 col-12">
             <img src="img/aboutus/Vision-M3M_Desktop.png" alt="">
