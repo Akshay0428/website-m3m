@@ -287,7 +287,7 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M IKONIC</h3>
                                     <ul class="text-left text-white overtxt">
-                                       <li>Located at sector 68, a premium location connected to Southern Periphery Road and NH-8</li>
+                                       <li>Located at Sector 68, a premium location connected to Southern Periphery Road and NH-8</li>
                                        <li>A single Iconic tower with 3 BHK Luxury Apartments</li>
                                        <li>Magnificent waterfront views with lush green landscapes and open spaces</li>
                                        <li>State-of-the-art 3 level Club House, Day and Night’ Club, Salsa & Yoga classes</li>
@@ -468,7 +468,7 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M ESCALA</h3>
                                     <ul class="text-left text-white overtxt">
-                                       <li>Located at Sector 70A, Golf Course Road (Extn.), it is a destination inspired by nature</li>
+                                       <li>Located at Sector 70A,Golf Course Road (Extn.), it is a destination inspired by nature</li>
                                        <li>Inspired by nature with 90% of open spaces and beautiful views of the Aravalli</li>
                                        <li>Exclusive condominium with 2 & 3 BHK Apartments and Penthouses</li>
                                        <li>Short Drive from NH-8 and Golf Course Extension Road</li>
@@ -647,7 +647,7 @@
             </a>
          </div>
          <div class="artistic-cmm pdng-top">
-            <p class="text-right">* Images are Artist's Impression</p>
+            <p class="text-right">*Shot on Location</p>
          </div>
       </div>
    </div>
@@ -704,7 +704,7 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M IKONIC</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at sector 68, a premium location connected to Southern Periphery Road and NH-8</li>
+                                    <li>Located at Sector 68, a premium location connected to Southern Periphery Road and NH-8</li>
                                     <li>A single Iconic tower with 3 BHK Luxury Apartments</li>
                                     <li>Magnificent waterfront views with lush green landscapes and open spaces</li>
                                     <li>State-of-the-art 3 level Club House, Day and Night’ Club, Salsa & Yoga classes</li>
@@ -897,7 +897,7 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M ESCALA</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at Sector 70A, Golf Course Road (Extn.), it is a destination inspired by nature</li>
+                                    <li>Located at Sector 70A, Golf Course Road (Extn.) it is a destination inspired by nature</li>
                                     <li>Inspired by nature with 90% of open spaces and beautiful views of the Aravalli</li>
                                     <li>Exclusive condominium with 2 & 3 BHK Apartments and Penthouses</li>
                                     <li>Short Drive from NH-8 and Golf Course Extension Road</li>
@@ -1097,7 +1097,7 @@
             </a>
          </div>
          <div class="artistic-cmm pdng-top">
-            <p class="text-center">* Images are Artist's Impression</p>
+            <p class="text-center">*Shot on Location</p>
          </div>
       </div>
    </div>
@@ -1187,7 +1187,7 @@
                                     <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                     <li>Part of a 17 acres commercial development: M3M Urbana</li>
                                     <li>Replete with top-notch specifications and technology</li>
-                                    <li>An iconic structure design by UHA London</li>
+                                    <li>An iconic structure design by Premium Retail and uber offices</li>
                                  </ul>
                                  <h4><a href="http://m3murbanapremium.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1247,7 +1247,7 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M CORNER WALK</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at sector 74, Golf Course Road (Extn.)</li>
+                                    <li>Located at Sector 74, Golf Course Road (Extn.)</li>
                                     <li>A mix of retail shops, F&B and office spaces with separate entry, pick-up and drop offs points</li>
                                     <li>Double-height and conventional shops</li>
                                     <li>Rectangular-shaped for a spectacular frontage and two-side access</li>
@@ -1448,7 +1448,8 @@
                                     <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                     <li>An integral part of M3M Urbana with compact, trendy and smart studios</li>
                                     <li>Sophisticated office spaces right in the development and modern retail brands right next door</li>
-                                    <li>Revolutionary technology driven units design by a renowned firm of Singapore</li>
+                                    <li>Futuristic lifestyle that will redefine your world</li>
+                                    <!-- <li>Revolutionary technology driven units design by a renowned firm of Singapore</li> -->
                                  </ul>
                                  <h4><a href="http://www.m3monekeyresiments.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1470,7 +1471,7 @@
             </a>
          </div>
          <div class="artistic-cmm pdng-top">
-            <p class="text-right">* Images are Artist's Impression</p>
+            <p class="text-right">*Shot on Location</p>
          </div>
       </div>
    </div>
@@ -1556,7 +1557,7 @@
                                     <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                     <li>Part of a 17 acres commercial development: M3M Urbana</li>
                                     <li>Replete with top-notch specifications and technology</li>
-                                    <li>An iconic structure design by UHA London</li>
+                                    <li>An iconic structure design by Premium Retail and uber offices</li>
                                  </ul>
                                  <h4><a href="http://m3murbanapremium.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1628,7 +1629,7 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M CORNER WALK</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at sector 74, Golf Course Road (Extn.)</li>
+                                    <li>Located at Sector 74, Golf Course Road (Extn.)</li>
                                     <li>A mix of retail shops, F&B and office spaces with separate entry, pick-up and drop offs points</li>
                                     <li>Double-height and conventional shops</li>
                                     <li>Rectangular-shaped for a spectacular frontage and two-side access</li>
@@ -1850,7 +1851,8 @@
                                     <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                     <li>An integral part of M3M Urbana with compact, trendy and smart studios</li>
                                     <li>Sophisticated office spaces right in the development and modern retail brands right next door</li>
-                                    <li>Revolutionary technology driven units design by a renowned firm of Singapore</li>
+                                    <li>Futuristic lifestyle that will redefine your world</li>
+                                    <!-- <li>Revolutionary technology driven units design by a renowned firm of Singapore</li> -->
                                  </ul>
                                  <h4><a href="http://www.m3monekeyresiments.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1872,7 +1874,7 @@
             </a>
          </div>
          <div class="artistic-cmm pdng-top">
-            <p class="text-center">* Images are Artist's Impression</p>
+            <p class="text-center">*Shot on Location</p>
          </div>
       </div>
    </div>
@@ -2067,8 +2069,9 @@
 <!-- partner section start -->
 <div class="partner-color pdng55">
    <div class="container mrg-top  custom-heading">
-      <h2 class="text-uppercase pdng-top" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">partners and<br> testimonials</h2>
+      <h2 class="text-uppercase pdng-top" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">partners <br> testimonials</h2>
       <div class="green-line prtnr-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
+      <p>Our partners are our strength and their endorsement our pride</p>
       <div class="row pdng-top partner-slider">
          <div class="col-sm-6">
             <iframe width="100%" height="350px" src="https://www.youtube.com/embed/nUsc2wxaavw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

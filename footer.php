@@ -6,11 +6,13 @@
          <div class="col-sm-6 pdg pdng55">
             <div class="row pdg">
                <div class="col-2 icon-center text-uppercase pdg">
+               <a href="about_us.php">
                   <h6 class="text-center text-uppercase white font-100 custom-h6-footer">company</h6>
+               </a>
                </div>
-               <div class="col-2 icon-center text-uppercase pdg">
+               <!-- <div class="col-2 icon-center text-uppercase pdg">
                   <h6 class="text-center text-uppercase white font-100 custom-h6-footer">partners</h6>
-               </div>
+               </div> -->
                <div class="col-2 icon-center text-uppercase pdg">
                   <h6 class="text-center text-uppercase white font-100 custom-h6-footer pdng-left">projects</h6>
                </div>

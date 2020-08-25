@@ -65,7 +65,7 @@
                 </div>
                 <div class="col-lg-10 col-md-10 col-12 border-btm_award">
                     <div class="txt-award pdng-top">
-                        <h4>A Great Place to Work by Great Place to Work Certified India</h4>
+                        <h4>Recognised by A Great Place to Work Certified India</h4>
                     </div>
                 </div>
             </div>
