@@ -47,9 +47,13 @@
                <div class="col-sm-10 col-9">
                   <h5 class="text-capitalize text-left font-400">sales gallery </h5>
                   <p class="text-capitalize text-left">‘The Experia’, Golf Course Road (Extn.),Sector–73, Gurugram (Gurgaon) 122004,Haryana, India</p>
+                  <p class="text-capitalize text-left"><img src="img/contact/Call-blue.png" alt="tel icon" class="contact-call"> : +91 124 4732000</p>
+                  <p class="text-capitalize text-left"><img src="img/contact/Toll-Free-blue.png" alt="toll free icon" class="contact-call"> : 1800 123 3333</p>
+                  <p class="text-capitalize text-left"><img src="img/contact/FAX-blue.png" alt="FAX icon" class="contact-call"> : +91 124 4732010</p>
+                  <p class="text-left"><img src="img/contact/Mail-blue.png" alt="Mail icon" class="contact-call"> : sales@m3mindia.com</p>
                </div>
             </div>
-            <div class="row name">
+            <!-- <div class="row name">
                <div class="col-sm-2 col-3 icon-center">
                   <div class="con-img">
                      <img src="img/contact-page/phone-book.png" alt="phone-book">
@@ -62,7 +66,7 @@
                   <p class="text-capitalize text-left">fax: +91 124 4732010</p>
                   <p class="text-left">Sales Enquires: sales@m3mindia.com</p>
                </div>
-            </div>
+            </div> -->
             <div class="row name">
                <div class="col-sm-2 col-3 icon-center">
                   <div class="con-img">
@@ -72,7 +76,7 @@
                <div class="col-sm-10 col-9">
                   <h5 class="text-capitalize text-left font-400">leasing enquires</h5>
                   <p class="text-left">leasing@m3mindia.com</p>
-                  <p class="text-capitalize text-left">tel:+91 9870323433</p>
+                  <p class="text-capitalize text-left"><img src="img/contact/Call-blue.png" alt="tel icon" class="contact-call"> :+91 9870323433</p>
                </div>
             </div>
          </div>
@@ -158,9 +162,13 @@
                <div class="col-sm-10 col-9">
                   <h5 class="text-capitalize text-left font-400">sales gallery </h5>
                   <p class="text-capitalize text-left">‘The Experia’, Golf Course Road (Extn.),Sector–73, Gurugram (Gurgaon) 122004,Haryana, India</p>
+                  <p class="text-capitalize text-left"><img src="img/contact/Call-blue.png" alt="tel icon" class="contact-call"> : +91 124 4732000</p>
+                  <p class="text-capitalize text-left"><img src="img/contact/Toll-Free-blue.png" alt="toll free icon" class="contact-call"> : 1800 123 3333</p>
+                  <p class="text-capitalize text-left"><img src="img/contact/FAX-blue.png" alt="FAX icon" class="contact-call"> : +91 124 4732010</p>
+                  <p class="text-left"><img src="img/contact/Mail-blue.png" alt="Mail icon" class="contact-call"> : sales@m3mindia.com</p>
                </div>
             </div>
-            <div class="row name">
+            <!-- <div class="row name">
                <div class="col-sm-2 col-3 icon-center">
                   <div class="con-img">
                      <img src="img/contact-page/phone-book.png" alt="phone-book">
@@ -173,7 +181,7 @@
                   <p class="text-capitalize text-left">fax: +91 124 4732010</p>
                   <p class="text-left">Sales Enquires: sales@m3mindia.com</p>
                </div>
-            </div>
+            </div> -->
             <div class="row name">
                <div class="col-sm-2 col-3 icon-center">
                   <div class="con-img">
@@ -183,7 +191,7 @@
                <div class="col-sm-10 col-9">
                   <h5 class="text-capitalize text-left font-400">leasing enquires</h5>
                   <p class="text-left">leasing@m3mindia.com</p>
-                  <p class="text-capitalize text-left">tel:+91 9870323433</p>
+                  <p class="text-capitalize text-left"><img src="img/contact/Call-blue.png" alt="tel icon" class="contact-call"> :+91 9870323433</p>
                </div>
             </div>
          </div>

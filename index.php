@@ -134,15 +134,17 @@
                   <div class="box box-desk-counter">
                      <!-- <p class="white top-txt text-center top-desktop">One of the</p> -->
                      <h2 class="color-bronze text-center text-uppercase"><span class="two-txt-2">Number</span> 2</h2>
-                     <p class="text-center white">Developers  in India</p><br><br>
-                     <div class="white-line"></div>
+                     <p class="text-center white">Developers  in India</p><br>
+                     <div class="white-line phase-2-line"></div><br>
+                     <p class="text-center white font-12">Source* : Prop Equity Study 2019-2020</p><br>
                   </div>
                </div>
                <div class="col-lg-4 col-md-4 col-12">
                   <div class="box  box-desk-counter">
                   <h2 class="color-bronze text-uppercase bold-no text-center"><span class="two-txt-2">Number </span>1</h2>
-                     <p class="text-center white">In North India</p><br><br>
-                     <div class="white-line small-line"></div>
+                     <p class="text-center white">In North India</p><br>
+                     <div class="white-line small-line phase-2-line"></div><br>
+                     <p class="text-center white font-12">Source* : Prop Equity Study 2019-2020</p><br>
                   </div>
                </div>
                <div class="col-lg-4 col-md-4 col-12">
@@ -168,7 +170,7 @@
                   </div>
                </div>
             </div>
-            <p class="p_rightSrc">Source* : Prop Equity Study 2019-2020</p>
+            <!-- <p class="p_rightSrc">Source* : Prop Equity Study 2019-2020</p> -->
 
          </div>
          <!-- <div class="container pdng-real d_hide">
@@ -242,7 +244,7 @@
 <!-- Resedential Desktop section start -->
 <section class="header-extradiv-custom m_hide" id="Residential">
    <div class="residential-div">
-   <div class="container">
+      <div class="container">
       <div class="custom-heading">
          <h2 class="text-left text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500"><span class="color-head">projects</span><br>residential</h2>
          <div class="green-line float-left" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
@@ -381,10 +383,14 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M NATURA</h3>
                                     <ul class="text-left text-white overtxt">
-                                       <li>Dedicated tower drop offs, salon and Alfresco cafe for you to flaunt away</li>
+                                       <!-- <li>Dedicated tower drop offs, salon and Alfresco cafe for you to flaunt away</li>
                                        <li>Peripheral alignment of towers having magnificent entrance with flowing water structures.</li>
                                        <li>Expansive marina like water body</li>
-                                       <li>Located in Sector 68 Gurugram, these are 2 BHK residences nestled amidst nature</li>
+                                       <li>Located in Sector 68 Gurugram, these are 2 BHK residences nestled amidst nature</li> -->
+                                    <li>2 BHK residences nestled amidst nature with expansive marina like water body</li>
+                                    <li>Dedicated tower drop offs, salon and Alfresco cafe for you to flaunt away</li>
+                                    <li>Peripheral alignment of towers having magnificent entrance with flowing water structures</li>
+                                    <li>Located in Sector 68 Gurugram</li>
                                     </ul>
                                     <h4><a href="http://m3mnatura.com/" target="_blank">KNOW MORE</a></h4>
                                  </div>
@@ -544,7 +550,7 @@
                                     <li>3 & 4 BHK Spacious Residences Ranging from 352 - 484 Sq. Mts.</li>
                                     <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                  </ul>
-                                 <h4><a href="" target="_blank">KNOW MORE</a></h4>
+                                 <h4><a href="http://www.m3mgolfestate.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
                               <div class="btm-txt">
                                  <p>FAIRWAY EAST</p>
@@ -653,7 +659,7 @@
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
             <div class="artistic-cmm pdng-top">
-               <p class="text-right">*Shot on Location</p>
+               <p class="text-right">*Artistic impression</p>
             </div>
          </div>
          
@@ -814,10 +820,14 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M NATURA</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Dedicated tower drop offs, salon and Alfresco cafe for you to flaunt away</li>
+                                    <!-- <li>Dedicated tower drop offs, salon and Alfresco cafe for you to flaunt away</li>
                                        <li>Peripheral alignment of towers having magnificent entrance with flowing water structures.</li>
                                        <li>Expansive marina like water body</li>
-                                       <li>Located in Sector 68 Gurugram, these are 2 BHK residences nestled amidst nature</li>
+                                       <li>Located in Sector 68 Gurugram, these are 2 BHK residences nestled amidst nature</li> -->
+                                       <li>2 BHK residences nestled amidst nature with expansive marina like water body</li>
+                                       <li>Dedicated tower drop offs, salon and Alfresco cafe for you to flaunt away</li>
+                                       <li>Peripheral alignment of towers having magnificent entrance with flowing water structures</li>
+                                       <li>Located in Sector 68 Gurugram</li>
                                  </ul>
                                  <h4><a href="http://m3mnatura.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -888,7 +898,7 @@
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
             <div class="artistic-cmm pdng-top">
-               <p class="text-right">*Artistic impression</p>
+               <p class="text-center">*Artistic impression</p>
             </div>
          </div>
          <div id="demo2mob" class="carousel slide custom-row-setting" data-ride="carousel" >
@@ -990,7 +1000,7 @@
                                     <li>3 & 4 BHK Spacious Residences Ranging from 352 - 484 Sq. Mts.</li>
                                     <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                  </ul>
-                                 <h4><a href="" target="_blank">KNOW MORE</a></h4>
+                                 <h4><a href="http://www.m3mgolfestate.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
                               <div class="btm-txt">
                                  <p>FAIRWAY EAST</p>
@@ -1109,7 +1119,7 @@
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
             <div class="artistic-cmm pdng-top">
-               <p class="text-center">*Shot on Location</p>
+               <p class="text-center">*Artistic impression</p>
             </div>
          </div>
          
@@ -1485,7 +1495,7 @@
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
             <div class="artistic-cmm pdng-top">
-               <p class="text-right">*Shot on Location</p>
+               <p class="text-right">*Artistic impression</p>
             </div>
          </div>
          
@@ -1769,7 +1779,7 @@
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
             <div class="artistic-cmm pdng-top">
-               <p class="text-right">*Artistic impression</p>
+               <p class="text-center">*Artistic impression</p>
             </div>
          </div>
          <div id="demo4mob" class="carousel slide custom-row-setting" data-ride="carousel" >
@@ -1889,7 +1899,7 @@
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
             <div class="artistic-cmm pdng-top">
-               <p class="text-center">*Shot on Location</p>
+               <p class="text-center">*Artistic impression</p>
             </div>
          </div>
          
@@ -2272,9 +2282,13 @@
                <div class="col-sm-10 col-9">
                   <h5 class="white text-capitalize text-left font-bold">sales gallery </h5>
                   <p class="white text-capitalize text-left">‘The Experia’, Golf Course Road (Extn.),Sector–73, Gurugram (Gurgaon) 122004,Haryana, India</p>
+                  <p class="white text-capitalize text-left"><img src="img/contact/Call.png" alt="tel icon" class="contact-call"> : +91 124 4732000</p>
+                  <p class="white text-capitalize text-left"><img src="img/contact/Toll-Free.png" alt="toll free icon" class="contact-call"> : 1800 123 3333</p>
+                  <p class="text-capitalize white text-left"><img src="img/contact/FAX.png" alt="FAX icon" class="contact-call"> : +91 124 4732010</p>
+                  <p class="white text-left"><img src="img/contact/Mail.png" alt="Mail icon" class="contact-call"> : sales@m3mindia.com</p>
                </div>
             </div>
-            <div class="row name">
+            <!-- <div class="row name">
                <div class="col-sm-2 col-3 icon-center">
                   <div class="con-img">
                      <img src="img/contact/Icon 03.png" alt="call">
@@ -2287,7 +2301,7 @@
                   <p class="text-capitalize white text-left">fax: +91 124 4732010</p>
                   <p class="white text-left">Sales Enquires: sales@m3mindia.com</p>
                </div>
-            </div>
+            </div> -->
             <div class="row name">
                <div class="col-sm-2 col-3 icon-center">
                   <div class="con-img">
@@ -2297,7 +2311,7 @@
                <div class="col-sm-10 col-9">
                   <h5 class="white text-capitalize text-left font-bold">leasing enquires</h5>
                   <p class="white text-capitalize text-left">leasing@m3mindia.com</p>
-                  <p class="white text-capitalize text-left">tel:+91 9870323433</p>
+                  <p class="white text-capitalize text-left"><img src="img/contact/Call.png" alt="tel icon" class="contact-call"> : +91 9870323433</p>
                </div>
             </div>
          </div>
@@ -2371,9 +2385,13 @@
                <div class="col-sm-10 col-9">
                   <h5 class="white text-capitalize text-left font-bold">sales gallery </h5>
                   <p class="white text-capitalize text-left">‘The Experia’, Golf Course Road (Extn.),Sector–73, Gurugram (Gurgaon) 122004,Haryana, India</p>
+                  <p class="white text-capitalize text-left"><img src="img/contact/Call.png" alt="tel icon" class="contact-call"> : +91 124 4732000</p>
+                  <p class="white text-capitalize text-left"><img src="img/contact/Toll-Free.png" alt="toll free icon" class="contact-call"> : 1800 123 3333</p>
+                  <p class="text-capitalize white text-left"><img src="img/contact/FAX.png" alt="FAX icon" class="contact-call"> : +91 124 4732010</p>
+                  <p class="white text-left"><img src="img/contact/Mail.png" alt="Mail icon" class="contact-call"> : sales@m3mindia.com</p>
                </div>
             </div>
-            <div class="row name">
+            <!-- <div class="row name">
                <div class="col-sm-2 col-3 icon-center">
                   <div class="con-img">
                      <img src="img/contact/Icon 03.png" alt="call">
@@ -2386,7 +2404,7 @@
                   <p class="text-capitalize white text-left">fax: +91 124 4732010</p>
                   <p class="white text-left">Sales Enquires: sales@m3mindia.com</p>
                </div>
-            </div>
+            </div> -->
             <div class="row name">
                <div class="col-sm-2 col-3 icon-center">
                   <div class="con-img">
@@ -2396,7 +2414,7 @@
                <div class="col-sm-10 col-9">
                   <h5 class="white text-capitalize text-left font-bold">leasing enquires</h5>
                   <p class="white text-capitalize text-left">leasing@m3mindia.com</p>
-                  <p class="white text-capitalize text-left">tel:+91 9870323433</p>
+                  <p class="white text-capitalize text-left"><img src="img/contact/Call.png" alt="tel icon" class="contact-call"> :+91 9870323433</p>
                </div>
             </div>
          </div>
