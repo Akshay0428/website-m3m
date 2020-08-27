@@ -13,9 +13,9 @@
                <!-- <div class="col-2 icon-center text-uppercase pdg">
                   <h6 class="text-center text-uppercase white font-100 custom-h6-footer">partners</h6>
                </div> -->
-               <div class="col-2 icon-center text-uppercase pdg">
+               <!-- <div class="col-2 icon-center text-uppercase pdg">
                   <h6 class="text-center text-uppercase white font-100 custom-h6-footer pdng-left">projects</h6>
-               </div>
+               </div> -->
                <div class="col-2 icon-center text-uppercase pdg">
                   <a href="media.php">
                      <h6 class="text-center text-uppercase white font-100 custom-h6-footer">media</h6>
