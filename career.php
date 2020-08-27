@@ -201,6 +201,9 @@
 
 <!-- form career section start -->
 <div class="container">
+<h2 class="txt-color pdng-top text-center text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">we are hiring</h2>
+            <div class="green-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
+            <p data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500" class="text-center">Fill your details and share with us. We will conect with you soon.</p>
     <form class="bottom-carrer" action="#" id="career" method="POST" enctype="multipart/form-data">
         <div class="row carrer-formbox">
             <div class="col-lg-6">
@@ -220,7 +223,7 @@
 
                 <div class="form-group form-mrgbtm">
                   <input type="file" class="custom-file-input" id="customFile" name="filename" required>
-                  <label class="custom-file-label" for="customFile">Choose file</label>
+                  <label class="custom-file-label" for="customFile">Upload Resume</label>
                 </div>
 
             </div>
