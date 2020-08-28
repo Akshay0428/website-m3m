@@ -707,7 +707,8 @@
                      <!-- <a href="" class="line-anim-01" target="_blank">Verified Agents</a> -->
                      <a href="media.php" class="line-anim-01 ">Media</a>
                      <a href="career.php" class="line-anim-01">Careers</a>
-                     <a href="contactus.php" class="line-anim-01 ">Contact Us</a>
+                     <!-- <a href="https://m3mfoundation.org/" class="line-anim-01" target="_blank">M3M Foundation</a> -->
+                     <a href="contactus.php" class="line-anim-01">Contact Us</a>
                   </div>
                </div>
                <div class="horiz-line"></div>

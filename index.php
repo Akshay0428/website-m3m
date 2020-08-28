@@ -457,9 +457,6 @@
             <a class="carousel-control-next" href="#demo1" data-slide="next">
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
-            <div class="artistic-cmm pdng-top">
-               <p class="text-right">*Artistic impression</p>
-            </div>
          </div>
          <div id="demo2" class="carousel slide custom-row-setting" data-ride="carousel">
             <!-- Indicators -->
@@ -651,18 +648,17 @@
                   </div>
                </div>
             </div>
-            <!-- Left and right controls -->
-            <a class="carousel-control-prev" href="#demo2" data-slide="prev">
+             <!-- Left and right controls -->
+             <a class="carousel-control-prev" href="#demo2" data-slide="prev">
             <span class="carousel-control-prev-icon carousel-control-prev-icon-custom"></span>
             </a>
             <a class="carousel-control-next" href="#demo2" data-slide="next">
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
-            <div class="artistic-cmm pdng-top">
-               <p class="text-right">*Artistic impression</p>
-            </div>
          </div>
-         
+         <div class="artistic-cmm pdng-top">
+            <p class="text-right">*Artistic Impression</p>
+         </div>
       </div>
    </div>
 </section>
@@ -897,9 +893,6 @@
             <a class="carousel-control-next" href="#demo1mob" data-slide="next">
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
-            <div class="artistic-cmm pdng-top">
-               <p class="text-center">*Artistic impression</p>
-            </div>
          </div>
          <div id="demo2mob" class="carousel slide custom-row-setting" data-ride="carousel" >
             <!-- Indicators -->
@@ -940,7 +933,7 @@
                      <div class="col-12 gal-item">
                         <div class="col-12 custom-col-setting-pad">
                            <div class="box content">
-                              <img src="img\residential-projects\mobile\delivered\Merlin.png" class="img-ht img-fluid rounded">
+                              <img src="img\residential-projects\mobile\delivered\Merlin.jpg" class="img-ht img-fluid rounded">
                               <div class="content-overlay-middle"></div>
                               <div class="content-details fadeIn-top">
                                  <h3>M3M MERLIN</h3>
@@ -1118,11 +1111,10 @@
             <a class="carousel-control-next" href="#demo2mob" data-slide="next">
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
-            <div class="artistic-cmm pdng-top">
-               <p class="text-center">*Artistic impression</p>
-            </div>
          </div>
-         
+         <div class="artistic-cmm pdng-top">
+            <p class="text-center">*Artistic Impression</p>
+         </div>
       </div>
    </div>
 </section>
@@ -1384,9 +1376,6 @@
             <a class="carousel-control-next next-2" href="#demo3" data-slide="next">
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
-            <div class="artistic-cmm pdng-top">
-               <p class="text-right">*Artistic impression</p>
-            </div>
          </div>
          <div id="demo4" class="carousel slide custom-row-setting" data-ride="carousel">
             <!-- Indicators -->
@@ -1778,9 +1767,6 @@
             <a class="carousel-control-next" href="#demo3mob" data-slide="next">
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
-            <div class="artistic-cmm pdng-top">
-               <p class="text-center">*Artistic impression</p>
-            </div>
          </div>
          <div id="demo4mob" class="carousel slide custom-row-setting" data-ride="carousel" >
             <!-- Indicators -->
@@ -1898,11 +1884,10 @@
             <a class="carousel-control-next" href="#demo4mob" data-slide="next">
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
-            <div class="artistic-cmm pdng-top">
-               <p class="text-center">*Artistic impression</p>
-            </div>
          </div>
-         
+         <div class="artistic-cmm pdng-top">
+            <p class="text-center">*Artistic Impression</p>
+         </div>
       </div>
    </div>
 </section>
