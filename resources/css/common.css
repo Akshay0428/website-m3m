@@ -544,7 +544,10 @@ nav.active .menu-btn .lines span:nth-child(4)/*,
   .menu-wrp .bottom-wrp .left a {font-size: 22px}
   .menu-wrp .top-wrp .right > a .name {font-size: 18px;}
     /* Menus Ends */
-
+    .menu-wrp .bottom-wrp .right a {
+      /* background: #767676; */
+      width: 30px;
+    }
 
   .home-body header .logo-wrp a img:last-child, header.slide-header .logo-wrp a img:first-child {max-width: 65%}
 
