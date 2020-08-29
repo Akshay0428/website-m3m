@@ -457,6 +457,9 @@
             <a class="carousel-control-next" href="#demo1" data-slide="next">
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
+            <div class="artistic-cmm pdng-top">
+               <p class="text-right">*Artistic Impression</p>
+            </div>
          </div>
          <div id="demo2" class="carousel slide custom-row-setting" data-ride="carousel">
             <!-- Indicators -->
@@ -655,10 +658,11 @@
             <a class="carousel-control-next" href="#demo2" data-slide="next">
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
+            <div class="artistic-cmm pdng-top">
+               <p class="text-right">*Shot on location</p>
+            </div>
          </div>
-         <div class="artistic-cmm pdng-top">
-            <p class="text-right">*Artistic Impression</p>
-         </div>
+         
       </div>
    </div>
 </section>
@@ -1376,6 +1380,9 @@
             <a class="carousel-control-next next-2" href="#demo3" data-slide="next">
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
+            <div class="artistic-cmm pdng-top">
+               <p class="text-right">*Artistic Impression</p>
+            </div>
          </div>
          <div id="demo4" class="carousel slide custom-row-setting" data-ride="carousel">
             <!-- Indicators -->
@@ -1484,10 +1491,9 @@
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
             <div class="artistic-cmm pdng-top">
-               <p class="text-right">*Artistic impression</p>
+               <p class="text-right">*Shot on location</p>
             </div>
          </div>
-         
       </div>
    </div>
 </section>
