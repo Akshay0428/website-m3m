@@ -111,7 +111,7 @@
             <p class="white font-weight-light">M3M today, is No.2 in India & No. 1 in North India with a reputation for identifying emerging real estate markets, recognizing aspirations in lifestyle evolution, perfecting the modulations of luxury and responding with projects that capture the unique spirit of changing India. 
             In less than a decade, M3M has emerged as an illustrious real estate developer with speed, class and innovation being at the core of its vision. The Group has launched a slew of iconic projects, designed and developed by world-class partners. They epitomize the new bustling Millennium Gurugram.</p>
 
-            <p class="white font-weight-light">During the last financial year, the Group recorded Sales worth 3,700 Cr. In terms of area, close to 10,00,000 sq. mtr. (10 million sq. ft.) of real estate was developed by M3M last year, making it one of the largest real estate conglomerates across the country. Approx. 15,00,000 sq. mtr. (15 million sq. ft.) of area will be developed by the Group in near future as well. A new customer base of 2,500 is also being targeted. The brand achieved 3,700 Crores worth of Sales in the last financial year. The brand is ranked #1 in North India and is amongst top 2 brands in the country.</p>
+            <p class="white font-weight-light">During the last financial year, the Group recorded Sales worth 5,500 Cr. In terms of area, close to 10,00,000 sq. mtr. (10 million sq. ft.) of real estate was developed by M3M last year, making it one of the largest real estate conglomerates across the country. Approx. 15,00,000 sq. mtr. (15 million sq. ft.) of area will be developed by the Group in near future as well. A new customer base of 2,500 is also being targeted. The brand achieved 3,700 Crores worth of Sales in the last financial year. The brand is ranked #1 in North India and is amongst top 2 brands in the country.</p>
             <p class="white font-weight-light">M3M signed a landmark agreement with SWECO AB –a Swedish giant to develop a Sustainable Smart City – M3M Smart city Delhi Airport. Landmark project will attract foreign investment of around US$ 2 billion. This will be, 1st of its kind in entire Asia, a mixed-use development spread across 165 acres, strategically located near IGI Airport.
             The Group also recently brought to North India, its first iconic Trump Towers. The global appeal of the Trump brand along with the absolute best product offering is expected to give the luxury residential market in the region a much needed boost.</p>
         </div>
@@ -136,7 +136,7 @@
         <div class="row pdng-top">
             <div class="col-lg-4 col-md-4 col-12">
                 <div class="box">
-                    <p class="bold-p">2011: DFL Group </p>
+                    <p class="bold-p">2011: DLF !!!  Group </p>
                     <h4 class="font-400 font-box">₹<span class="color-bronze font-bold"> 440 </span>crore</h4>
                 </div>
             </div>
@@ -168,7 +168,7 @@
             </div>
             <div class="col-lg-4 col-md-4 col-12">
                 <div class="box">
-                    <p class="text-capitalize bold-p">SWECO </p>
+                    <p class="text-capitalize bold-p">SWECO MoU</p>
                     <h4 class="font-400 font-box">US $ <span class="color-bronze font-bold"> 2 </span>billion</h4>
                 </div>
             </div>
@@ -178,7 +178,7 @@
         <div class="row deal-slider pdng-top">
             <div class="col-lg-4 col-md-4 col-12">
                 <div class="box">
-                    <p class="bold-p text-center">2011: DFL Group </p>
+                    <p class="bold-p text-center">2011: DLF !!!  Group </p>
                     <h4 class="font-400 font-box text-center">₹<span class="color-bronze font-bold"> 440 </span>crore</h4>
                 </div>
             </div>
@@ -208,7 +208,7 @@
             </div>
             <div class="col-lg-4 col-md-4 col-12">
                 <div class="box">
-                    <p class="text-capitalize bold-p text-center">SWECO </p>
+                    <p class="text-capitalize bold-p text-center">SWECO MoU</p>
                     <h4 class="font-400 font-box text-center ">US $ <span class="color-bronze font-bold"> 2 </span>billion</h4>
                 </div>
             </div>
@@ -225,7 +225,7 @@
     <h2 class="text-center text-uppercase txt-color" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">m3m group vision</h2>
     <div class="green-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
     <div class="clearfix"></div>
-    <p>The Group’s projects have repeatedly been acknowledged as the best and have been felicitated with numerous business and lifestyle awards the world over.</p>
+    <!-- <p>The Group’s projects have repeatedly been acknowledged as the best and have been felicitated with numerous business and lifestyle awards the world over.</p> -->
     <div class="row pdng-top">
         <div class="col-lg-5 col-md-5 col-12">
             <img src="img/aboutus/Vision-M3M_Desktop.png" alt="">
@@ -251,10 +251,10 @@
 
 <div class="rel_estate career pdng-top pdng-btm">
    <div class="row rel-margr">
-      <div class="col-sm-4 pdg m_hide">
+      <div class="col-lg-4 col-md-4 col-12 pdg m_hide">
          <img src="img/aboutus/commitnent_desk.png" class="height-hand_abt" alt="commitnent">
       </div>
-      <div class="col-sm-8 pdg real-txt real-txt2">
+      <div class="col-lg-8 col-md-4 col-12 pdg real-txt real-txt2">
          <div class="container pdng-benifit_abt m_hide">
             <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">m3m commitment</h2>
             <div class="green-line prtnr-line real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
@@ -318,9 +318,9 @@
             </div>
          </div>
          <div class="container pdng-benifit_abt d_hide">
-            <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">benifits of<br>working at m3m</h2>
+            <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">M3M COMMITMENT</h2>
             <div class="green-line prtnr-line real-line aos-init" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
-            <div class="col-sm-4 pdg d_hide">
+            <div class="col-lg-4 col-md-4 col-12 pdg d_hide">
                <img src="img/aboutus/commitnent_mobile.png" class="height-hand_abt" alt="benifits">
             </div>
             <div class="row pdg slider-contours">

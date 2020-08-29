@@ -4,10 +4,10 @@
    <!------------------------Desktop CAROUSEL SECTION---------------------------------------->
    <div id="carouselExampleIndicators" class="carousel slide m_hide" data-ride="carousel" data-interval="false">
       <ol class="carousel-indicators carousel-indicators-numbers">
-         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active">1</li>
-         <li data-target="#carouselExampleIndicators" data-slide-to="1">2</li>
-         <li data-target="#carouselExampleIndicators" data-slide-to="2">3</li>
-         <li data-target="#carouselExampleIndicators" data-slide-to="3">4</li>
+         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"> &nbsp;</li>
+         <li data-target="#carouselExampleIndicators" data-slide-to="1"> &nbsp;</li>
+         <li data-target="#carouselExampleIndicators" data-slide-to="2"> &nbsp;</li>
+         <li data-target="#carouselExampleIndicators" data-slide-to="3"> &nbsp;</li>
          <!-- <li data-target="#carouselExampleIndicators" data-slide-to="4">5</li> -->
          <!-- <li data-target="#carouselExampleIndicators" data-slide-to="5">6</li> -->
       </ol>
@@ -134,22 +134,17 @@
                   <div class="box box-desk-counter">
                      <!-- <p class="white top-txt text-center top-desktop">One of the</p> -->
                      <h2 class="color-bronze text-center text-uppercase"><span class="two-txt-2">Number</span> 2</h2>
-                     <p class="text-center white">Developers  in India</p><br><br>
-                     <div class="white-line"></div>
+                     <p class="text-center white">Developers  in India</p><br>
+                     <div class="white-line phase-2-line"></div><br>
+                     <p class="text-center white font-12">Source* : Prop Equity Study 2019-2020</p><br>
                   </div>
                </div>
                <div class="col-lg-4 col-md-4 col-12">
                   <div class="box  box-desk-counter">
                   <h2 class="color-bronze text-uppercase bold-no text-center"><span class="two-txt-2">Number </span>1</h2>
-                     <p class="text-center white">In North India</p><br><br>
-                     <div class="white-line small-line"></div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-4 col-12">
-                  <div class="box box-desk-counter">
-                     <h2 class="color-bronze text-center text-uppercase">13 <span class="two-txt-2">Lucrative</span></h2>
-                     <p class="text-center white">Commercial Projects</p><br><br>
-                     <div class="white-line"></div>
+                     <p class="text-center white">In North India</p><br>
+                     <div class="white-line small-line phase-2-line"></div><br>
+                     <p class="text-center white font-12">Source* : Prop Equity Study 2019-2020</p><br>
                   </div>
                </div>
                <div class="col-lg-4 col-md-4 col-12">
@@ -161,12 +156,22 @@
                </div>
                <div class="col-lg-4 col-md-4 col-12">
                   <div class="box box-desk-counter">
+                     <h2 class="color-bronze text-center text-uppercase">13 <span class="two-txt-2">Lucrative</span></h2>
+                     <p class="text-center white">Commercial Projects</p><br><br>
+                     <div class="white-line"></div>
+                  </div>
+               </div>
+               
+               <div class="col-lg-4 col-md-4 col-12">
+                  <div class="box box-desk-counter">
                      <h2 class="color-bronze text-uppercase text-center">4 <span class="two-txt-2">Crore SQ.FT</span></h2>
                      <p class="text-center white">Developed &amp; Under<br>Development Area</p><br>
                      <div class="white-line"></div>
                   </div>
                </div>
             </div>
+            <!-- <p class="p_rightSrc">Source* : Prop Equity Study 2019-2020</p> -->
+
          </div>
          <!-- <div class="container pdng-real d_hide">
             <h2 class="white text-uppercase real-h2 aos-init aos-animate" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">changing the<br> contours of <br>real estate</h2>
@@ -231,6 +236,7 @@
             </div>
             </div> -->
       </div>
+      
    </div>
 </div>
 <div class="clearfix"></div>
@@ -238,7 +244,7 @@
 <!-- Resedential Desktop section start -->
 <section class="header-extradiv-custom m_hide" id="Residential">
    <div class="residential-div">
-   <div class="container">
+      <div class="container">
       <div class="custom-heading">
          <h2 class="text-left text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500"><span class="color-head">projects</span><br>residential</h2>
          <div class="green-line float-left" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
@@ -253,7 +259,7 @@
                </div>
             </div>
             <div class="col-lg-4 col-md-4 col-12 custom-col-setting">
-               <div class="row custom-row-setting">
+               <div class="row custom-row-setting pdng-land">
                   <div class="col-lg-6 col-md-6 col-6 custom-col-setting">
                      <div class="view-button view-button-active" id="ongoing">
                         <a class="text-uppercase" id="ong">ongoing</a>
@@ -287,7 +293,7 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M IKONIC</h3>
                                     <ul class="text-left text-white overtxt">
-                                       <li>Located at sector 68, a premium location connected to Southern Periphery Road and NH-8</li>
+                                       <li>Located at Sector 68, a premium location connected to Southern Periphery Road and NH-8</li>
                                        <li>A single Iconic tower with 3 BHK Luxury Apartments</li>
                                        <li>Magnificent waterfront views with lush green landscapes and open spaces</li>
                                        <li>State-of-the-art 3 level Club House, Day and Night’ Club, Salsa & Yoga classes</li>
@@ -310,10 +316,10 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M LATITUDE</h3>
                                     <ul class="text-left text-white overtxt">
-                                       <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                        <li>Part of a larger development, M3M Golfestate, thus enjoying all-inclusive amenities.</li>
                                        <li>360⁰ Roof top observatory deck with a breath-taking panoramic view</li>
                                        <li>High rise with modern contemporary architecture and magnificent landscaping</li>
+                                       <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                     </ul>
                                     <h4><a href="http://www.m3mlatitude.com/" target="_blank">KNOW MORE</a></h4>
                                  </div>
@@ -332,10 +338,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M HEIGHTS</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at Sector 65, is is a part of a Grand mixed-use development that is 65th Avenue</li>
                                     <li>An elevated living experience at the most promising location with 2 & 3 BHK Residences for your healthier, livelier and sportier life</li>
-                                    <li>Breathtakingly invigorating and classic views with an oasis of leisure </li>
+                                    <li>Breathtakingly invigorating and classic views with an oasis of leisure</li>
                                     <li>Uniquely personalized experience of nature and serenity</li>
+                                    <li>Located at Sector 65, a part of 65th Avenue</li>
                                  </ul>
                                  <h4><a href="http://m3m65thavenue.com/heights/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -349,17 +355,17 @@
                               <img src="img\residential-projects\desktop\ongoing\Marina.jpg" class="img-ht img-fluid rounded">
                               <div class="content-overlay"></div>
                               <div class="content-details fadeIn-top">
-                                 <h3>M3M MARINA</h3>
+                                 <h3>M3M THE MARINA</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at Sector 68, Gurugram</li>
                                     <li>Inspired by nature wake up to the scintillating views of the Aravalli</li>
                                     <li>Exclusive 3 BHK Residences with carefully planned sprawling central greens</li>
                                     <li>Iconic Clubhouse with an Open-Deck Lounge</li>
+                                    <li>Located at Sector 68, Gurugram</li>
                                  </ul>
                                  <h4><a href="http://www.m3mthemarina.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
                               <div class="btm-txt">
-                                 <p>M3M MARINA</p>
+                                 <p>M3M THE MARINA</p>
                               </div>
                            </div>
                         </div>
@@ -377,10 +383,14 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M NATURA</h3>
                                     <ul class="text-left text-white overtxt">
-                                       <li>Located in Sector 68 Gurugram, these are 2 BHK residences nestled amidst nature</li>
-                                       <li>Dedicated tower drop offs, salon and Alfresco cafe for you to flaunt away</li>
+                                       <!-- <li>Dedicated tower drop offs, salon and Alfresco cafe for you to flaunt away</li>
                                        <li>Peripheral alignment of towers having magnificent entrance with flowing water structures.</li>
                                        <li>Expansive marina like water body</li>
+                                       <li>Located in Sector 68 Gurugram, these are 2 BHK residences nestled amidst nature</li> -->
+                                    <li>2 BHK residences nestled amidst nature with expansive marina like water body</li>
+                                    <li>Dedicated tower drop offs, salon and Alfresco cafe for you to flaunt away</li>
+                                    <li>Peripheral alignment of towers having magnificent entrance with flowing water structures</li>
+                                    <li>Located in Sector 68 Gurugram</li>
                                     </ul>
                                     <h4><a href="http://m3mnatura.com/" target="_blank">KNOW MORE</a></h4>
                                  </div>
@@ -400,10 +410,10 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M SIERRA68</h3>
                                     <ul class="text-left text-white overtxt">
-                                       <li>Located in Sector 68 Gurugram</li>
                                        <li>Lush Green Central Landscapes invigoratingly close to nature</li>
                                        <li>World-Class clubhouse with Indulgent Amenities</li>
-                                       <li>Strategically designed architecture which integrates features that minimize the effects of the variables in nature.</li>
+                                       <li>Strategically designed architecture which integrates features that minimize the effects of the variables in nature</li>
+                                       <li>Located in Sector 68 Gurugram</li>
                                     </ul>
                                     <h4><a href="http://m3msierra68.co.in/" target="_blank">KNOW MORE</a></h4>
                                  </div>
@@ -423,10 +433,10 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M SKYCITY</h3>
                                     <ul class="text-left text-white overtxt">
-                                       <li>Strategic location on Golf Course Road (Ext) Sector 65, with a 30m wide road for you to drive away with zeal and enthusiasm</li>
                                        <li>3 BHK residences presenting the acme of availability and access</li>
                                        <li>A distinguished neighbourhood of residential & retail development</li>
                                        <li>Every modern comfort is just 1 minute away from you</li>
+                                       <li>Bang on 150 meter wide Golf Course Road (Extn.)</li>
                                     </ul>
                                     <h4><a href="http://www.m3mskycity.com/" target="_blank">KNOW MORE</a></h4>
                                  </div>
@@ -447,6 +457,9 @@
             <a class="carousel-control-next" href="#demo1" data-slide="next">
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
+            <div class="artistic-cmm pdng-top">
+               <p class="text-right">*Artistic Impression</p>
+            </div>
          </div>
          <div id="demo2" class="carousel slide custom-row-setting" data-ride="carousel">
             <!-- Indicators -->
@@ -468,10 +481,10 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M ESCALA</h3>
                                     <ul class="text-left text-white overtxt">
-                                       <li>Located at Sector 70A, Golf Course Road (Extn.), it is a destination inspired by nature</li>
                                        <li>Inspired by nature with 90% of open spaces and beautiful views of the Aravalli</li>
                                        <li>Exclusive condominium with 2 & 3 BHK Apartments and Penthouses</li>
                                        <li>Short Drive from NH-8 and Golf Course Extension Road</li>
+                                       <li>Located at Sector 70A, Golf Course Road (Extn.)</li>
                                     </ul>
                                     <h4><a href="http://m3mescala.com/" target="_blank">KNOW MORE</a></h4>
                                  </div>
@@ -486,15 +499,15 @@
                         <div class="row h-50 custom-row-setting">
                            <div class="col-md-12 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
                               <div class="box content">
-                                 <img src="img\residential-projects\desktop\delivered\Merlin.jpg" class="img-ht img-fluid rounded">
+                                 <img src="img\residential-projects\desktop\delivered\Merlin.png" class="img-ht img-fluid rounded">
                                  <div class="content-overlay-middle"></div>
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M MERLIN</h3>
                                     <ul class="text-left text-white overtxt">
-                                       <li>Located at Sector 67, Near Golf Course Road (Extn.)</li>
                                        <li>Singapore style architecture for an alluring lifestyle</li>
                                        <li>Magnificent water bodies with lush green landscapes and open spaces</li>
                                        <li>An excellent location with superior connectivity to all strategic locations</li>
+                                       <li>Located at Sector 67, Near Golf Course Road (Extn.)</li>
                                     </ul>
                                     <h4><a href="http://www.m3mmerlin.com/" target="_blank">KNOW MORE</a></h4>
                                  </div>
@@ -511,17 +524,17 @@
                               <img src="img\residential-projects\desktop\delivered\faiway-west.jpg" class="img-ht img-fluid rounded">
                               <div class="content-overlay"></div>
                               <div class="content-details fadeIn-top">
-                                 <h3>M3M FAIRWAY WEST</h3>
+                                 <h3>FAIRWAY WEST</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                     <li>Nestled in the finest golf themed development- M3M Golfestate</li>
                                     <li>3 & 4 BHK Residences in a mix of 2 iconic high-rise towers and 7 mid-rise towers</li>
                                     <li>Concierge and white glove services</li>
+                                    <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://m3mfairwaywest.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
                               <div class="btm-txt">
-                                 <p>M3M FAIRWAY WEST</p>
+                                 <p>FAIRWAY WEST</p>
                               </div>
                            </div>
                         </div>
@@ -530,17 +543,17 @@
                               <img src="img\residential-projects\desktop\delivered\fairway-east.jpg" class="img-ht img-fluid rounded">
                               <div class="content-overlay"></div>
                               <div class="content-details fadeIn-top">
-                                 <h3>M3M FAIRWAY EAST</h3>
+                                 <h3>FAIRWAY EAST</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                     <li>Nestled in the finest golf themed development- M3M Golfestate</li>
                                     <li>Offers the luxury of space, low density and linear design</li>
-                                    <li>3 & 4 BHK Spacious Residences Ranging from 3,799 - 5,210 Sq. Ft.</li>
+                                    <li>3 & 4 BHK Spacious Residences Ranging from 352 - 484 Sq. Mts.</li>
+                                    <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                  </ul>
-                                 <h4><a href="" target="_blank">KNOW MORE</a></h4>
+                                 <h4><a href="http://www.m3mgolfestate.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
                               <div class="btm-txt">
-                                 <p>M3M FAIRWAY EAST</p>
+                                 <p>FAIRWAY EAST</p>
                               </div>
                            </div>
                         </div>
@@ -558,10 +571,10 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M PANORAMA</h3>
                                     <ul class="text-left text-white overtxt">
-                                       <li>Located at Sector 65, Golf Course Road (Extn.)</li>
-                                       <li>36 Limited Edition, Luxury Suites Starting from 3,700 Sq. Ft.</li>
+                                       <li>36 Limited Edition, Luxury Suites Starting from 344 Sq. Mts.</li>
                                        <li>Only 6 Floors and just 12 Suites per Tower for your privacy and exclusiveness</li>
                                        <li>Exclusive Roof Top Sky Walk and Jogging Track on Terrace</li>
+                                       <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                     </ul>
                                     <h4><a href="http://www.m3mpanoramasuites.com/" target="_blank">KNOW MORE</a></h4>
                                  </div>
@@ -581,10 +594,10 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M ST ANDREWS</h3>
                                     <ul class="text-left text-white overtxt">
-                                       <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                        <li>Inspired by the Link in Scotland, this is where the world’s best offerings converge for an extravagant lifestyle</li>
                                        <li>62 select ultra-premium 4 & 5 bedroom spacious residences, with only 2 apartments to a floor</li>
                                        <li>3-side open apartments with lavish balconies that serve as extended living spaces</li>
+                                       <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                     </ul>
                                     <h4><a href="http://m3mstandrewsgolfresidences.com/" target="_blank">KNOW MORE</a></h4>
                                  </div>
@@ -603,10 +616,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M WOODSHIRE</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at Sector 107, Near Dwarka Expressway</li>
-                                    <li>2,3 & 4 BHK with duplex penthouses replete with ultra-modern features</li>
+                                 <li>2,3 & 4 BHK with duplex penthouses replete with ultra-modern features</li>
                                     <li>Three side open apartments let you soak in the natural light and feel the fresh breeze</li>
                                     <li>Crafted on a pristine location providing multilevel club house and ease of shopping</li>
+                                    <li>Located at Sector 107, Near Dwarka Expressway</li>
                                  </ul>
                                  <h4><a href="http://www.m3mwoodshire.co/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -622,10 +635,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M POLO SUITES</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at Sector 65, Golf Course Road (Extn.)</li>
-                                    <li>Inspired by the royal sport Polo and specially designed for the new age blue bloods</li>
+                                 <li>Inspired by the royal sport Polo and specially designed for the new age blue bloods</li>
                                     <li>3 & 4 Bedroom limited edition luxury suites with only 2 apartments to a floor</li>
                                     <li>Exclusive Polo Lounge, access to exclusive polo events and assistance in owning and maintaining a horse</li>
+                                    <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://www.m3mpolosuite.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -638,21 +651,24 @@
                   </div>
                </div>
             </div>
-            <!-- Left and right controls -->
-            <a class="carousel-control-prev" href="#demo2" data-slide="prev">
+             <!-- Left and right controls -->
+             <a class="carousel-control-prev" href="#demo2" data-slide="prev">
             <span class="carousel-control-prev-icon carousel-control-prev-icon-custom"></span>
             </a>
             <a class="carousel-control-next" href="#demo2" data-slide="next">
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
+            <div class="artistic-cmm pdng-top">
+               <p class="text-right">*Shot on location</p>
+            </div>
          </div>
-         <div class="artistic-cmm pdng-top">
-            <p class="text-right">* Images are Artist's Impression</p>
-         </div>
+         
       </div>
    </div>
 </section>
 <!-- Resedential Desktop section ends -->
+
+
 <!-- Resedential Mobile section start -->
 <section class="header-extradiv-custom d_hide" id="Residential">
    <div class="residential-div">
@@ -671,7 +687,7 @@
                </div>
             </div>
             <div class="col-lg-4 col-md-4 col-12 custom-col-setting">
-               <div class="row custom-row-setting">
+               <div class="row custom-row-setting row-land">
                   <div class="col-lg-6 col-md-6 col-6 custom-col-setting">
                      <div class="view-button view-button-active" id="ongoingmob">
                         <a class="text-uppercase" id="ongmob">ongoing</a>
@@ -704,7 +720,7 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M IKONIC</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at sector 68, a premium location connected to Southern Periphery Road and NH-8</li>
+                                    <li>Located at Sector 68, a premium location connected to Southern Periphery Road and NH-8</li>
                                     <li>A single Iconic tower with 3 BHK Luxury Apartments</li>
                                     <li>Magnificent waterfront views with lush green landscapes and open spaces</li>
                                     <li>State-of-the-art 3 level Club House, Day and Night’ Club, Salsa & Yoga classes</li>
@@ -729,10 +745,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M LATITUDE</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                     <li>Part of a larger development, M3M Golfestate, thus enjoying all-inclusive amenities.</li>
                                     <li>360⁰ Roof top observatory deck with a breath-taking panoramic view</li>
                                     <li>High rise with modern contemporary architecture and magnificent landscaping</li>
+                                    <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://www.m3mlatitude.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -777,17 +793,17 @@
                               <img src="img\residential-projects\mobile\ongoing\Marina.jpg" class="img-ht img-fluid rounded">
                               <div class="content-overlay"></div>
                               <div class="content-details fadeIn-top">
-                                 <h3>M3M MARINA</h3>
+                                 <h3>M3M THE MARINA</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at Sector 68, Gurugram</li>
                                     <li>Inspired by nature wake up to the scintillating views of the Aravalli</li>
                                     <li>Exclusive 3 BHK Residences with carefully planned sprawling central greens</li>
                                     <li>Iconic Clubhouse with an Open-Deck Lounge</li>
+                                    <li>Located at Sector 68, Gurugram</li>
                                  </ul>
                                  <h4><a href="http://www.m3mthemarina.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
                               <div class="btm-txt">
-                                 <p>M3M MARINA</p>
+                                 <p>M3M THE MARINA</p>
                               </div>
                            </div>
                         </div>
@@ -804,10 +820,14 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M NATURA</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located in Sector 68 Gurugram, these are 2 BHK residences nestled amidst nature</li>
-                                    <li>Dedicated tower drop offs, salon and Alfresco cafe for you to flaunt away</li>
-                                    <li>Peripheral alignment of towers having magnificent entrance with flowing water structures.</li>
-                                    <li>Expansive marina like water body</li>
+                                    <!-- <li>Dedicated tower drop offs, salon and Alfresco cafe for you to flaunt away</li>
+                                       <li>Peripheral alignment of towers having magnificent entrance with flowing water structures.</li>
+                                       <li>Expansive marina like water body</li>
+                                       <li>Located in Sector 68 Gurugram, these are 2 BHK residences nestled amidst nature</li> -->
+                                       <li>2 BHK residences nestled amidst nature with expansive marina like water body</li>
+                                       <li>Dedicated tower drop offs, salon and Alfresco cafe for you to flaunt away</li>
+                                       <li>Peripheral alignment of towers having magnificent entrance with flowing water structures</li>
+                                       <li>Located in Sector 68 Gurugram</li>
                                  </ul>
                                  <h4><a href="http://m3mnatura.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -829,10 +849,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M SIERRA68</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located in Sector 68 Gurugram</li>
                                     <li>Lush Green Central Landscapes invigoratingly close to nature</li>
-                                    <li>World-Class clubhouse with Indulgent Amenities</li>
-                                    <li>Strategically designed architecture which integrates features that minimize the effects of the variables in nature.</li>
+                                       <li>World-Class clubhouse with Indulgent Amenities</li>
+                                       <li>Strategically designed architecture which integrates features that minimize the effects of the variables in nature</li>
+                                       <li>Located in Sector 68 Gurugram</li>
                                  </ul>
                                  <h4><a href="http://m3msierra68.co.in/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -854,10 +874,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M SKYCITY</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Strategic location on Golf Course Road (Ext) Sector 65, with a 30m wide road for you to drive away with zeal and enthusiasm</li>
                                     <li>3 BHK residences presenting the acme of availability and access</li>
-                                    <li>A distinguished neighbourhood of residential & retail development</li>
-                                    <li>Every modern comfort is just 1 minute away from you</li>
+                                       <li>A distinguished neighbourhood of residential & retail development</li>
+                                       <li>Every modern comfort is just 1 minute away from you</li>
+                                       <li>Bang on 150 meter wide Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://www.m3mskycity.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -897,10 +917,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M ESCALA</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at Sector 70A, Golf Course Road (Extn.), it is a destination inspired by nature</li>
                                     <li>Inspired by nature with 90% of open spaces and beautiful views of the Aravalli</li>
-                                    <li>Exclusive condominium with 2 & 3 BHK Apartments and Penthouses</li>
-                                    <li>Short Drive from NH-8 and Golf Course Extension Road</li>
+                                       <li>Exclusive condominium with 2 & 3 BHK Apartments and Penthouses</li>
+                                       <li>Short Drive from NH-8 and Golf Course Extension Road</li>
+                                       <li>Located at Sector 70A, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://m3mescala.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -922,10 +942,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M MERLIN</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at Sector 67, Near Golf Course Road (Extn.)</li>
                                     <li>Singapore style architecture for an alluring lifestyle</li>
-                                    <li>Magnificent water bodies with lush green landscapes and open spaces</li>
-                                    <li>An excellent location with superior connectivity to all strategic locations</li>
+                                       <li>Magnificent water bodies with lush green landscapes and open spaces</li>
+                                       <li>An excellent location with superior connectivity to all strategic locations</li>
+                                       <li>Located at Sector 67, Near Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://www.m3mmerlin.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -945,17 +965,17 @@
                               <img src="img\residential-projects\mobile\delivered\faiway-west.jpg" class="img-ht img-fluid rounded">
                               <div class="content-overlay"></div>
                               <div class="content-details fadeIn-top">
-                                 <h3>M3M FAIRWAY WEST</h3>
+                                 <h3>FAIRWAY WEST</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                     <li>Nestled in the finest golf themed development- M3M Golfestate</li>
                                     <li>3 & 4 BHK Residences in a mix of 2 iconic high-rise towers and 7 mid-rise towers</li>
                                     <li>Concierge and white glove services</li>
+                                    <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://m3mfairwaywest.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
                               <div class="btm-txt">
-                                 <p>M3M FAIRWAY WEST</p>
+                                 <p>FAIRWAY WEST</p>
                               </div>
                            </div>
                         </div>
@@ -970,17 +990,17 @@
                               <img src="img\residential-projects\mobile\delivered\fairway-east.jpg" class="img-ht img-fluid rounded">
                               <div class="content-overlay"></div>
                               <div class="content-details fadeIn-top">
-                                 <h3>M3M FAIRWAY EAST</h3>
+                                 <h3>FAIRWAY EAST</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                     <li>Nestled in the finest golf themed development- M3M Golfestate</li>
                                     <li>Offers the luxury of space, low density and linear design</li>
-                                    <li>3 & 4 BHK Spacious Residences Ranging from 3,799 - 5,210 Sq. Ft.</li>
+                                    <li>3 & 4 BHK Spacious Residences Ranging from 352 - 484 Sq. Mts.</li>
+                                    <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                  </ul>
-                                 <h4><a href="" target="_blank">KNOW MORE</a></h4>
+                                 <h4><a href="http://www.m3mgolfestate.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
                               <div class="btm-txt">
-                                 <p>M3M FAIRWAY EAST</p>
+                                 <p>FAIRWAY EAST</p>
                               </div>
                            </div>
                         </div>
@@ -997,10 +1017,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M PANORAMA</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at Sector 65, Golf Course Road (Extn.)</li>
-                                    <li>36 Limited Edition, Luxury Suites Starting from 3,700 Sq. Ft.</li>
-                                    <li>Only 6 Floors and just 12 Suites per Tower for your privacy and exclusiveness</li>
-                                    <li>Exclusive Roof Top Sky Walk and Jogging Track on Terrace</li>
+                                    <li>36 Limited Edition, Luxury Suites Starting from 344 Sq. Mts.</li>
+                                       <li>Only 6 Floors and just 12 Suites per Tower for your privacy and exclusiveness</li>
+                                       <li>Exclusive Roof Top Sky Walk and Jogging Track on Terrace</li>
+                                       <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://www.m3mpanoramasuites.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1022,10 +1042,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M ST ANDREWS</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                     <li>Inspired by the Link in Scotland, this is where the world’s best offerings converge for an extravagant lifestyle</li>
-                                    <li>62 select ultra-premium 4 & 5 bedroom spacious residences, with only 2 apartments to a floor</li>
-                                    <li>3-side open apartments with lavish balconies that serve as extended living spaces</li>
+                                       <li>62 select ultra-premium 4 & 5 bedroom spacious residences, with only 2 apartments to a floor</li>
+                                       <li>3-side open apartments with lavish balconies that serve as extended living spaces</li>
+                                       <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://m3mstandrewsgolfresidences.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1047,10 +1067,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M WOODSHIRE</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at Sector 107, Near Dwarka Expressway</li>
                                     <li>2,3 & 4 BHK with duplex penthouses replete with ultra-modern features</li>
                                     <li>Three side open apartments let you soak in the natural light and feel the fresh breeze</li>
                                     <li>Crafted on a pristine location providing multilevel club house and ease of shopping</li>
+                                    <li>Located at Sector 107, Near Dwarka Expressway</li>
                                  </ul>
                                  <h4><a href="http://www.m3mwoodshire.co/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1072,10 +1092,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M POLO SUITES</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                     <li>Inspired by the royal sport Polo and specially designed for the new age blue bloods</li>
                                     <li>3 & 4 Bedroom limited edition luxury suites with only 2 apartments to a floor</li>
                                     <li>Exclusive Polo Lounge, access to exclusive polo events and assistance in owning and maintaining a horse</li>
+                                    <li>Located at Sector 65, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://www.m3mpolosuite.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1097,7 +1117,7 @@
             </a>
          </div>
          <div class="artistic-cmm pdng-top">
-            <p class="text-center">* Images are Artist's Impression</p>
+            <p class="text-center">*Artistic Impression</p>
          </div>
       </div>
    </div>
@@ -1141,7 +1161,7 @@
                </div>
                <div class="clearfix"></div>
                <div class="inner-para-commercial" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
-                  <p class="text-left">Striving to achieve the best in class, M3M’s commercial projects are state-of-the-art masterpieces that are strategically located and have cutting edge infrastructure
+                  <p class="text-left">Striving to achieve the best in class, M3M’s commercial projects are state-of-the-art masterpieces that are strategically located and have cutting edge architecture
                   </p>
                </div>
             </div>
@@ -1165,10 +1185,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M URBANA BUSINESS PARK</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                     <li>Grade-A office spaces in-tune with nature and green-tech solutions</li>
-                                    <li>Efficient large Floor Plate of 16000- 23,000 sq. ft. onwards with open space design</li>
+                                    <li>Efficient large Floor Plate of 1,486- 2,137 Sq. Mts. onwards with open space design</li>
                                     <li>Dedicated drop-off and Entrance Lobby</li>
+                                    <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://www.m3murbana.com/urbanabusinesspark/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1184,10 +1204,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M URBANA PREMIUM</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                     <li>Part of a 17 acres commercial development: M3M Urbana</li>
                                     <li>Replete with top-notch specifications and technology</li>
                                     <li>An iconic structure design by UHA London</li>
+                                    <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://m3murbanapremium.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1206,10 +1226,10 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M 65TH AVENUE</h3>
                                     <ul class="text-left text-white overtxt">
-                                       <li>Located on Sector 65, Golf Course Road (Extn.)</li>
                                        <li>Retail units with large frontage and glazed area, wide boulevards and open spaces for visibility</li>
                                        <li>Anchor stores, F&B and multiplex creating an ambience to the place</li>
-                                       <li>Approx. 2,787 sq. m. (30,000 sq. ft.) central atrium</li>
+                                       <li>Approx. 2,787 Sq. Mts. central atrium</li>
+                                       <li>Located on Sector 65, Near Golf Course Road (Extn.)</li>
                                     </ul>
                                     <h4><a href="http://m3m65thavenue.com/" target="_blank">KNOW MORE</a></h4>
                                  </div>
@@ -1226,17 +1246,17 @@
                               <img src="img/Image08.png" class="img-ht img-fluid rounded">
                               <div class="content-overlay"></div>
                               <div class="content-details fadeIn-top">
-                                 <h3>M3M PRIVE73</h3>
+                                 <h3>M3M PRIVE 73</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located on Sector 73, Golf Course Road (Extn.)</li>
                                     <li>A bewildering architecture inspired from Burlington Arcade, London</li>
                                     <li>Open-to-sky cut outs extending natural light with large, impactful show windows</li>
                                     <li>Sky walkways for seamless connectivity and retail units with glass frontage for better business</li>
+                                    <li>Located on Sector 73, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://m3mprive73.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
                               <div class="btm-txt">
-                                 <p>M3M PRIVE73</p>
+                                 <p>M3M PRIVE 73</p>
                               </div>
                            </div>
                         </div>
@@ -1247,10 +1267,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M CORNER WALK</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at sector 74, Golf Course Road (Extn.)</li>
-                                    <li>A mix of retail shops, F&B and office spaces with separate entry, pick-up and drop offs points</li>
-                                    <li>Double-height and conventional shops</li>
+                                    <li>Mixed-use development with office spaces and double height stores</li>
                                     <li>Rectangular-shaped for a spectacular frontage and two-side access</li>
+                                    <li>A mix of retail shops, F&B and office spaces with separate entry, pick-up and drop offs points</li>
+                                    <li>Located on Sector 74, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://m3mcornerwalk.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1270,17 +1290,17 @@
                               <img src="img\commercial-projects\desktop\ongoing\M3M-SKY-LOFTS.png" class="img-ht img-fluid rounded">
                               <div class="content-overlay"></div>
                               <div class="content-details fadeIn-top">
-                                 <h3>M3M SKYLOFTS</h3>
+                                 <h3>M3M SKY LOFTS</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located on Sector 71, Golf Course Road (Extn.)</li>
-                                    <li>India’s first ever loft concept with flexible option of work and live together</li>
                                     <li>Double height serviced lofts with floor to ceiling height of 5.7* m</li>
                                     <li>Dedicated drop offs with separate parking areas</li>
+                                    <li>India’s first ever loft concept with flexible option of work and live together</li>
+                                    <li>Located on Sector 71, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="https://www.m3mskyloftsgurgaon.in/" target="_blank">KNOW MORE</a></h4>
                               </div>
                               <div class="btm-txt">
-                                 <p>M3M SKYLOFTS</p>
+                                 <p>M3M SKY LOFTS</p>
                               </div>
                            </div>
                         </div>
@@ -1291,10 +1311,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M BROADWAY</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located on Sector 71, Golf Course Road (Extn.)</li>
                                     <li>A mix of retail, F&B and entertainment spaces with 10* screen multiplex</li>
                                     <li>Double height shops and two-side entry</li>
                                     <li>Superior connectivity to NH-8, Sohna Road</li>
+                                    <li>Located on Sector 71, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://www.m3mbroadway.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1313,10 +1333,10 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M IFC</h3>
                                     <ul class="text-left text-white overtxt">
-                                       <li>Located on Sector 66, Golf Course Road (Extn.)</li>
-                                       <li>Premium grade ‘A’ office spaces</li>
+                                       <li>Premium grade ‘A’ office spaces with triple height frontage, front facing retail units</li>
                                        <li>Luxury shopping experience with high-end boutiques</li>
                                        <li>LEED Gold Rated and designed by Chapman Taylor</li>
+                                       <li>Located on Sector 66, Golf Course Road (Extn.)</li>
                                     </ul>
                                     <h4><a href="http://www.m3mifc.com/" target="_blank">KNOW MORE</a></h4>
                                  </div>
@@ -1336,10 +1356,10 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M MY DEN</h3>
                                     <ul class="text-left text-white overtxt">
-                                       <li>Located on Sector 67, Golf Course Road (Extn.)</li>
-                                       <li>1&2 BHK Branded Serviced Suites</li>
                                        <li>Ready to move in, an integral part of M3M Urbana, a mixed-use complex spread across 6.87 hectare (17 acre)</li>
+                                       <li>1&2 BHK Branded Serviced Suites</li>
                                        <li>2000 retail units and 13000 office goers with proximity to schools, hospitals, metro and more</li>
+                                       <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                     </ul>
                                     <h4><a href="https://www.m3mmyden.co/" target="_blank">KNOW MORE</a></h4>
                                  </div>
@@ -1360,6 +1380,9 @@
             <a class="carousel-control-next next-2" href="#demo3" data-slide="next">
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
+            <div class="artistic-cmm pdng-top">
+               <p class="text-right">*Artistic Impression</p>
+            </div>
          </div>
          <div id="demo4" class="carousel slide custom-row-setting" data-ride="carousel">
             <!-- Indicators -->
@@ -1381,10 +1404,10 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M URBANA</h3>
                                     <ul class="text-left text-white overtxt">
-                                       <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                        <li>One of the largest and best commercial project mix - retail, anchor store, restaurant & food courts, office, serviced units</li>
                                        <li>Exclusive Restaurant/F&B space on the second floor with dedicated landscaped terrace area with each</li>
                                        <li>Sky-Bridge over the central plaza connecting the retail blocks</li>
+                                       <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                     </ul>
                                     <h4><a href="http://www.m3murbana.com/" target="_blank">KNOW MORE</a></h4>
                                  </div>
@@ -1404,10 +1427,10 @@
                                  <div class="content-details fadeIn-top">
                                     <h3>M3M TEE POINT</h3>
                                     <ul class="text-left text-white overtxt">
+                                       <li>Low rise commercial tower G+7 with independent floor upto 1,394 Sq. Mts.</li>
+                                       <li>Mix of Offices and retail spaces (929 Sq. Mts. to 5,574 Sq. Mts.)</li>
+                                       <li>Ideal for signature corporate identity (Upto 6,968 Sq. Mts.)</li>
                                        <li>Located on Sector 65, Golf Course Road (Extn.)</li>
-                                       <li>Low rise commercial tower G+7 with independent floor upto 15,000 sq. ft.</li>
-                                       <li>Mix of Offices and retail spaces (10,000 sq. ft. to 60,000 sq. ft.)</li>
-                                       <li>Ideal for signature corporate identity (Upto 75,000 sq. ft.)</li>
                                     </ul>
                                     <h4><a href="http://m3mteepoint.com/" target="_blank">KNOW MORE</a></h4>
                                  </div>
@@ -1426,12 +1449,12 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M COSMOPOLITAN</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located on Sector 66, Golf Course Road (Extn.)</li>
-                                    <li>Impeccable mix of retail, F&amp;B and offices spaces</li>
+                                    <li>Impeccable mix of retail, F&B and offices spaces</li>
+                                    <li>First high-street retail hub on Golf Course Road (Extn.)</li>
                                     <li>Wide boulevards and open landscaped areas</li>
-                                    <li>First high-street retail hub on Golf Course Road (Extn.) with big, popular brands</li>
+                                    <li>Located on Sector 66, Golf Course Road (Extn.)</li>
                                  </ul>
-                                 <h4><a href="http://www.m3murbana.com/urbanabusinesspark/" target="_blank">KNOW MORE</a></h4>
+                                 <h4><a href="http://www.m3mcosmopolitan.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
                               <div class="btm-txt">
                                  <p>M3M COSMOPOLITAN</p>
@@ -1443,17 +1466,16 @@
                               <img src="img\commercial-projects\desktop\delivered\M3M-ONE-KEY-RESIMENTS.png" class="img-ht img-fluid rounded">
                               <div class="content-overlay"></div>
                               <div class="content-details fadeIn-top">
-                                 <h3>M3M ONE-KEY RESI-MENTS</h3>
+                                 <h3>M3M ONE KEY RESIMENTS</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located on Sec 67, Golf Course Road (Extn.)</li>
-                                    <li>An integral part of M3M Urbana with compact, trendy and smart studios</li>
-                                    <li>Sophisticated office spaces right in the development and modern retail brands right next door</li>
-                                    <li>Revolutionary technology driven units design by a renowned firm of Singapore</li>
+                                    <li>A part of a larger development- M3M Urbana</li>
+                                    <li>1 and 2 BHK serviced apartments</li>
+                                    <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://www.m3monekeyresiments.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
                               <div class="btm-txt">
-                                 <p>M3M ONE-KEY RESI-MENTS</p>
+                                 <p>M3M ONE KEY RESIMENTS</p>
                               </div>
                            </div>
                         </div>
@@ -1468,9 +1490,9 @@
             <a class="carousel-control-next next-2" href="#demo4" data-slide="next">
             <span class="carousel-control-next-icon carousel-control-next-icon-custom"></span>
             </a>
-         </div>
-         <div class="artistic-cmm pdng-top">
-            <p class="text-right">* Images are Artist's Impression</p>
+            <div class="artistic-cmm pdng-top">
+               <p class="text-right">*Shot on location</p>
+            </div>
          </div>
       </div>
    </div>
@@ -1490,11 +1512,11 @@
                </div>
                <div class="clearfix"></div>
                <div class="inner-para-commercial" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
-                  <p class="text-left">Striving to achieve the best in class, M3M’s commercial projects are state-of-the-art masterpieces that are strategically located and have cutting edge infrastructure
+                  <p class="text-left">Striving to achieve the best in class, M3M’s commercial projects are state-of-the-art masterpieces that are strategically located and have cutting edge architecture
                   </p>
                </div>
                <div class="col-lg-6 col-md-6 col-12 custom-col-setting">
-                  <div class="row custom-row-setting">
+                  <div class="row custom-row-setting row-land">
                      <div class="col-lg-6 col-md-6 col-12 custom-col-setting commercial-btn">
                         <div class="view-button view-button-active" id="ongoing2mob">
                            <a class="text-uppercase" id="ong2mob">ongoing</a>
@@ -1528,10 +1550,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M URBANA BUSINESS PARK</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                     <li>Grade-A office spaces in-tune with nature and green-tech solutions</li>
-                                    <li>Efficient large Floor Plate of 16000- 23,000 sq. ft. onwards with open space design</li>
+                                    <li>Efficient large Floor Plate of 1,486- 2,137 Sq. Mts. onwards with open space design</li>
                                     <li>Dedicated drop-off and Entrance Lobby</li>
+                                    <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://www.m3murbana.com/urbanabusinesspark/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1553,10 +1575,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M URBANA PREMIUM</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                     <li>Part of a 17 acres commercial development: M3M Urbana</li>
                                     <li>Replete with top-notch specifications and technology</li>
                                     <li>An iconic structure design by UHA London</li>
+                                    <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://m3murbanapremium.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1578,10 +1600,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M 65TH AVENUE</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located on Sector 65, Golf Course Road (Extn.)</li>
                                     <li>Retail units with large frontage and glazed area, wide boulevards and open spaces for visibility</li>
                                     <li>Anchor stores, F&B and multiplex creating an ambience to the place</li>
-                                    <li>Approx. 2,787 sq. m. (30,000 sq. ft.) central atrium</li>
+                                    <li>Approx. 2,787 Sq. Mts. central atrium</li>
+                                    <li>Located on Sector 65, Near Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://m3m65thavenue.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1601,17 +1623,17 @@
                               <img src="img\commercial-projects\mobile\ongoing\prive-73.png" class="img-ht img-fluid rounded">
                               <div class="content-overlay"></div>
                               <div class="content-details fadeIn-top">
-                                 <h3>M3M PRIVE73</h3>
+                                 <h3>M3M PRIVE 73</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located on Sector 73, Golf Course Road (Extn.)</li>
                                     <li>A bewildering architecture inspired from Burlington Arcade, London</li>
                                     <li>Open-to-sky cut outs extending natural light with large, impactful show windows</li>
                                     <li>Sky walkways for seamless connectivity and retail units with glass frontage for better business</li>
+                                    <li>Located on Sector 73, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://m3mprive73.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
                               <div class="btm-txt">
-                                 <p>M3M PRIVE73</p>
+                                 <p>M3M PRIVE 73</p>
                               </div>
                            </div>
                         </div>
@@ -1628,10 +1650,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M CORNER WALK</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located at sector 74, Golf Course Road (Extn.)</li>
-                                    <li>A mix of retail shops, F&B and office spaces with separate entry, pick-up and drop offs points</li>
-                                    <li>Double-height and conventional shops</li>
+                                    <li>Mixed-use development with office spaces and double height stores</li>
                                     <li>Rectangular-shaped for a spectacular frontage and two-side access</li>
+                                    <li>A mix of retail shops, F&B and office spaces with separate entry, pick-up and drop offs points</li>
+                                    <li>Located on Sector 74, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://m3mcornerwalk.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1651,17 +1673,17 @@
                               <img src="img\commercial-projects\mobile\ongoing\M3M-SKY-LOFTS.png" class="img-ht img-fluid rounded">
                               <div class="content-overlay"></div>
                               <div class="content-details fadeIn-top">
-                                 <h3>M3M SKYLOFTS</h3>
+                                 <h3>M3M SKY LOFTS</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located on Sector 71, Golf Course Road (Extn.)</li>
-                                    <li>India’s first ever loft concept with flexible option of work and live together</li>
                                     <li>Double height serviced lofts with floor to ceiling height of 5.7* m</li>
                                     <li>Dedicated drop offs with separate parking areas</li>
+                                    <li>India’s first ever loft concept with flexible option of work and live together</li>
+                                    <li>Located on Sector 71, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="https://www.m3mskyloftsgurgaon.in/" target="_blank">KNOW MORE</a></h4>
                               </div>
                               <div class="btm-txt">
-                                 <p>M3M SKYLOFTS</p>
+                                 <p>M3M SKY LOFTS</p>
                               </div>
                            </div>
                         </div>
@@ -1678,10 +1700,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M BROADWAY</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located on Sector 71, Golf Course Road (Extn.)</li>
                                     <li>A mix of retail, F&B and entertainment spaces with 10* screen multiplex</li>
                                     <li>Double height shops and two-side entry</li>
                                     <li>Superior connectivity to NH-8, Sohna Road</li>
+                                    <li>Located on Sector 71, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://www.m3mbroadway.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1703,10 +1725,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M IFC</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located on Sector 66, Golf Course Road (Extn.)</li>
-                                    <li>Premium grade ‘A’ office spaces</li>
+                                    <li>Premium grade ‘A’ office spaces with triple height frontage, front facing retail units</li>
                                     <li>Luxury shopping experience with high-end boutiques</li>
                                     <li>LEED Gold Rated and designed by Chapman Taylor</li>
+                                    <li>Located on Sector 66, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://www.m3mifc.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1728,10 +1750,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M MY DEN</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located on Sector 67, Golf Course Road (Extn.)</li>
-                                    <li>1&2 BHK Branded Serviced Suites</li>
                                     <li>Ready to move in, an integral part of M3M Urbana, a mixed-use complex spread across 6.87 hectare (17 acre)</li>
-                                    <li>2000 retail units and 13000 office goers with proximity to schools, hospitals, metro and more</li>
+                                       <li>1&2 BHK Branded Serviced Suites</li>
+                                       <li>2000 retail units and 13000 office goers with proximity to schools, hospitals, metro and more</li>
+                                       <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="https://www.m3mmyden.co/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1771,10 +1793,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M URBANA</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                     <li>One of the largest and best commercial project mix - retail, anchor store, restaurant & food courts, office, serviced units</li>
-                                    <li>Exclusive Restaurant/F&B space on the second floor with dedicated landscaped terrace area with each</li>
-                                    <li>Sky-Bridge over the central plaza connecting the retail blocks</li>
+                                       <li>Exclusive Restaurant/F&B space on the second floor with dedicated landscaped terrace area with each</li>
+                                       <li>Sky-Bridge over the central plaza connecting the retail blocks</li>
+                                       <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://www.m3murbana.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1796,10 +1818,10 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M TEE POINT</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located on Sector 65, Golf Course Road (Extn.)</li>
-                                    <li>Low rise commercial tower G+7 with independent floor upto 15,000 sq. ft.</li>
-                                    <li>Mix of Offices and retail spaces (10,000 sq. ft. to 60,000 sq. ft.)</li>
-                                    <li>Ideal for signature corporate identity (Upto 75,000 sq. ft.)</li>
+                                    <li>Low rise commercial tower G+7 with independent floor upto 1,394 Sq. Mts.</li>
+                                       <li>Mix of Offices and retail spaces (929 Sq. Mts. to 5,574 Sq. Mts.)</li>
+                                       <li>Ideal for signature corporate identity (Upto 6,968 Sq. Mts.)</li>
+                                       <li>Located on Sector 65, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://m3mteepoint.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
@@ -1821,12 +1843,12 @@
                               <div class="content-details fadeIn-top">
                                  <h3>M3M COSMOPOLITAN</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located on Sector 66, Golf Course Road (Extn.)</li>
                                     <li>Impeccable mix of retail, F&B and offices spaces</li>
+                                    <li>First high-street retail hub on Golf Course Road (Extn.)</li>
                                     <li>Wide boulevards and open landscaped areas</li>
-                                    <li>First high-street retail hub on Golf Course Road (Extn.) with big, popular brands</li>
+                                    <li>Located on Sector 66, Golf Course Road (Extn.)</li>
                                  </ul>
-                                 <h4><a href="http://www.m3murbana.com/urbanabusinesspark/" target="_blank">KNOW MORE</a></h4>
+                                 <h4><a href="http://www.m3mcosmopolitan.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
                               <div class="btm-txt">
                                  <p>M3M COSMOPOLITAN</p>
@@ -1844,17 +1866,16 @@
                               <img src="img\commercial-projects\mobile\delivered\M3M-ONE-KEY-RESIMENTS.png" class="img-ht img-fluid rounded">
                               <div class="content-overlay"></div>
                               <div class="content-details fadeIn-top">
-                                 <h3>M3M ONE-KEY RESI-MENTS</h3>
+                                 <h3>M3M ONE KEY RESIMENTS</h3>
                                  <ul class="text-left text-white overtxt">
-                                    <li>Located on Sec 67, Golf Course Road (Extn.)</li>
-                                    <li>An integral part of M3M Urbana with compact, trendy and smart studios</li>
-                                    <li>Sophisticated office spaces right in the development and modern retail brands right next door</li>
-                                    <li>Revolutionary technology driven units design by a renowned firm of Singapore</li>
+                                    <li>A part of a larger development- M3M Urbana</li>
+                                    <li>1 and 2 BHK serviced apartments</li>
+                                    <li>Located on Sector 67, Golf Course Road (Extn.)</li>
                                  </ul>
                                  <h4><a href="http://www.m3monekeyresiments.com/" target="_blank">KNOW MORE</a></h4>
                               </div>
                               <div class="btm-txt">
-                                 <p>M3M ONE-KEY RESI-MENTS</p>
+                                 <p>M3M ONE KEY RESIMENTS</p>
                               </div>
                            </div>
                         </div>
@@ -1871,7 +1892,7 @@
             </a>
          </div>
          <div class="artistic-cmm pdng-top">
-            <p class="text-center">* Images are Artist's Impression</p>
+            <p class="text-center">*Artistic Impression</p>
          </div>
       </div>
    </div>
@@ -1889,24 +1910,24 @@
    <div class="glimpses-class m_hide">
       <div class="main-glin">
          <div class="row custom-row-setting">
-            <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
-               <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
+            <div class="col-md-4  co-xs-12 gal-item">
+               <div class="col-md-12  co-xs-12 gal-item h-41 custom-col-setting-pad">
                   <div class="box">
-                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157062610896923%2F%3Ftype%3D3&show_text=true&width=300&height=435&appId" width="100%" height="411" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157088411991923%2F%3Ftype%3D3&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                   </div>
                </div>
             </div>
-            <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
-               <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
+            <div class="col-md-4  co-xs-12 gal-item">
+               <div class="col-md-12  co-xs-12 gal-item h-41 custom-col-setting-pad">
                   <div class="box">
-                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10156997661706923%2F%3Ftype%3D3&show_text=true&width=300&height=435&appId" width="100%" height="411" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157086167846923%2F%3Ftype%3D3&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                   </div>
                </div>
             </div>
-            <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
-               <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
+            <div class="col-md-4  co-xs-12 gal-item">
+               <div class="col-md-12  co-xs-12 gal-item h-41 custom-col-setting-pad">
                   <div class="box">
-                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157007163226923%2F%3Ftype%3D3&show_text=true&width=300&height=435&appId" width="100%" height="411" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157084021131923%2F%3Ftype%3D3&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                   </div>
                </div>
             </div>
@@ -1920,15 +1941,15 @@
                <div class="row h-41 custom-row-setting">
                   <div class="col-md-12 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
                      <div class="box">
-                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157006985416923%2F%3Ftype%3D3&show_text=true&width=300&height=435&appId" width="100%" height="411" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157081980526923%2F%3Ftype%3D3&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                      </div>
                   </div>
                </div>
             </div>
-            <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
-               <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
+            <div class="col-md-4  co-xs-12 gal-item">
+               <div class="col-md-12  co-xs-12 gal-item h-41 custom-col-setting-pad">
                   <div class="box">
-                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157060435841923%2F%3Ftype%3D3&show_text=true&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157079945751923%2F%3Ftype%3D3&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                   </div>
                </div>
             </div>
@@ -1936,7 +1957,7 @@
                <div class="row h-41 custom-row-setting">
                   <div class="col-md-12 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
                      <div class="box">
-                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157058136891923%2F%3Ftype%3D3&show_text=true&width=300&height=435&appId" width="100%" height="411" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                     <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157077745071923%2F%3Ftype%3D3&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                      </div>
                   </div>
                </div>
@@ -1948,17 +1969,17 @@
       </div>
    </div>
    <div class="row pdng-top glimpses-class glimpsesslider d_hide" data-aos="zoom-in-up" data-aos-easing="linear" data-aos-duration="1500">
-      <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
-         <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
+      <div class="col-md-4  co-xs-12 gal-item">
+         <div class="col-md-12  co-xs-12 gal-item h-41 custom-col-setting-pad">
                <div class="box">
-               <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157062610896923%2F%3Ftype%3D3&show_text=true&width=300&height=435&appId" width="100%" height="411" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+               <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157088411991923%2F%3Ftype%3D3&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                </div>
          </div>
       </div>
-      <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
-         <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
+      <div class="col-md-4  co-xs-12 gal-item">
+         <div class="col-md-12  co-xs-12 gal-item h-41 custom-col-setting-pad">
                <div class="box">
-               <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10156997661706923%2F%3Ftype%3D3&show_text=true&width=300&height=435&appId" width="100%" height="411" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+               <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157086167846923%2F%3Ftype%3D3&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                </div>
          </div>
       </div>
@@ -1966,22 +1987,22 @@
          <div class="row h-41 custom-row-setting">
             <div class="col-md-12 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
                   <div class="box">
-                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157007163226923%2F%3Ftype%3D3&show_text=true&width=300&height=435&appId" width="100%" height="411" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157084021131923%2F%3Ftype%3D3&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                   </div>
             </div>
          </div>
       </div>
-      <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
-         <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
+      <div class="col-md-4  co-xs-12 gal-item">
+         <div class="col-md-12  co-xs-12 gal-item h-41 custom-col-setting-pad">
                <div class="box">
-               <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157006985416923%2F%3Ftype%3D3&show_text=true&width=300&height=435&appId" width="100%" height="411" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+               <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157081980526923%2F%3Ftype%3D3&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                </div>
          </div>
       </div>
-      <div class="col-md-4 col-sm-6 co-xs-12 gal-item">
-         <div class="col-md-12 col-sm-6 co-xs-12 gal-item h-41 custom-col-setting-pad">
+      <div class="col-md-4  co-xs-12 gal-item">
+         <div class="col-md-12  co-xs-12 gal-item h-41 custom-col-setting-pad">
                <div class="box">
-               <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157060435841923%2F%3Ftype%3D3&show_text=true&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+               <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157079945751923%2F%3Ftype%3D3&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                </div>
          </div>
       </div>
@@ -1989,7 +2010,7 @@
          <div class="row h-41 custom-row-setting">
             <div class="col-md-12 col-sm-12 co-xs-12 gal-item custom-col-setting-pad">
                   <div class="box">
-                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157058136891923%2F%3Ftype%3D3&show_text=true&width=300&height=435&appId" width="100%" height="411" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FM3MIndiaLtd%2Fphotos%2Fa.402618031922%2F10157077745071923%2F%3Ftype%3D3&width=300&height=435&appId" width="100%" height="435" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
                   </div>
             </div>
          </div>
@@ -2002,7 +2023,9 @@
    <h2 class="text-center text-uppercase" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">awards and accolades</h2>
    <div class="green-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
    <div class="container text-center text-capitalize" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500">
-      <p data-aos="zoom-in" class="text-center" data-aos-easing="linear" data-aos-duration="1500">Our consistent effort towards excellence has won us many prestigious awards in the industry. But our heart still beams the brightest when we see a smile on our customer’s face.</p>
+      <p data-aos="zoom-in" class="text-center" data-aos-easing="linear" data-aos-duration="1500">
+      Our consistent effort towards excellence has won us many prestigious awards in the industry. But the best award always is smile on our customers’ faces.
+      </p>
    </div>
    <div class="row pdng-top award-slider">
       <div class="col-sm-4">
@@ -2066,8 +2089,9 @@
 <!-- partner section start -->
 <div class="partner-color pdng55">
    <div class="container mrg-top  custom-heading">
-      <h2 class="text-uppercase pdng-top" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">partners and<br> testimonials</h2>
+      <h2 class="text-uppercase pdng-top" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">PARTNERS <br> TESTIMONIAL</h2>
       <div class="green-line prtnr-line" data-aos="zoom-in" data-aos-easing="linear" data-aos-duration="1500"></div>
+      <p>Our partners are our strength and their endorsement our pride</p>
       <div class="row pdng-top partner-slider">
          <div class="col-sm-6">
             <iframe width="100%" height="350px" src="https://www.youtube.com/embed/nUsc2wxaavw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -2169,12 +2193,12 @@
          <div class="col-sm-6">
             <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ngL6S0lDMeQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
          </div>
-         <div class="col-sm-6">
+         <div class="col-sm-6 pdg">
             <div class="row test-slider mrg-top">
                <div class="col-sm-6">
                   <div class="info">
                      <div class="position">
-                        <h4 class="text-capitalize">Mrs. Oytan Calapover<br><span class="text-uppercase">Golfestate</span></h4>
+                        <h4 class="text-capitalize">Mrs. Oytan Calapover<br><span class="text-uppercase">M3M Golfestate</span></h4>
                      </div>
                      <div class="work pdng-top">
                         <p>Safety and hygiene being the most important aspects, the clubhouse has an indoor kids’ play area and the people are polite and always helpful.</p>
@@ -2187,7 +2211,7 @@
                <div class="col-sm-6">
                   <div class="info">
                      <div class="position">
-                        <h4 class="text-capitalize">Mr. Saurabh Jolly & family<br><span class="text-uppercase">Golfestate</span></h4>
+                        <h4 class="text-capitalize">Mr. Saurabh Jolly & family<br><span class="text-uppercase">M3M Golfestate</span></h4>
                      </div>
                      <div class="work pdng-top">
                         <p>Security and quality of construction well and truly exceeded expectations. Excellent landscape and layout that even has a vast pet area for our furry friends to hang around.</p>
@@ -2200,7 +2224,7 @@
                <div class="col-sm-6">
                   <div class="info">
                      <div class="position">
-                        <h4 class="text-capitalize">Mr. Saurabh Jolly & family<br><span class="text-uppercase">Golfestate</span></h4>
+                        <h4 class="text-capitalize">Mr. Saurabh Jolly & family<br><span class="text-uppercase">M3M Golfestate</span></h4>
                      </div>
                      <div class="work pdng-top">
                         <p>Security and quality of construction well and truly exceeded expectations. Excellent landscape and layout that even has a vast pet area for our furry friends to hang around.</p>
@@ -2237,7 +2261,7 @@
                <div class="col-sm-10 col-9">
                   <h5 class="white text-capitalize text-left font-bold">corporate office</h5>
                   <h5 class="white text-capitalize text-left font-bold">M3M india pvt. ltd.</h5>
-                  <p class="white text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
+                  <p class="white text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road (Extn.)  Gurugram - 122002</p>
                </div>
             </div>
             <div class="row name">
@@ -2247,11 +2271,15 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="white text-capitalize text-left font-bold">sales gallery address</h5>
+                  <h5 class="white text-capitalize text-left font-bold">sales gallery </h5>
                   <p class="white text-capitalize text-left">‘The Experia’, Golf Course Road (Extn.),Sector–73, Gurugram (Gurgaon) 122004,Haryana, India</p>
+                  <p class="white text-capitalize text-left"><img src="img/contact/Call.png" alt="tel icon" class="contact-call"> : +91 124 4732000</p>
+                  <p class="white text-capitalize text-left"><img src="img/contact/Toll-Free.png" alt="toll free icon" class="contact-call"> : 1800 123 3333</p>
+                  <p class="text-capitalize white text-left"><img src="img/contact/FAX.png" alt="FAX icon" class="contact-call"> : +91 124 4732010</p>
+                  <p class="white text-left"><img src="img/contact/Mail.png" alt="Mail icon" class="contact-call"> : sales@m3mindia.com</p>
                </div>
             </div>
-            <div class="row name">
+            <!-- <div class="row name">
                <div class="col-sm-2 col-3 icon-center">
                   <div class="con-img">
                      <img src="img/contact/Icon 03.png" alt="call">
@@ -2264,7 +2292,7 @@
                   <p class="text-capitalize white text-left">fax: +91 124 4732010</p>
                   <p class="white text-left">Sales Enquires: sales@m3mindia.com</p>
                </div>
-            </div>
+            </div> -->
             <div class="row name">
                <div class="col-sm-2 col-3 icon-center">
                   <div class="con-img">
@@ -2274,7 +2302,7 @@
                <div class="col-sm-10 col-9">
                   <h5 class="white text-capitalize text-left font-bold">leasing enquires</h5>
                   <p class="white text-capitalize text-left">leasing@m3mindia.com</p>
-                  <p class="white text-capitalize text-left">tel:+91 9870323433</p>
+                  <p class="white text-capitalize text-left"><img src="img/contact/Call.png" alt="tel icon" class="contact-call"> : +91 9870323433</p>
                </div>
             </div>
          </div>
@@ -2336,7 +2364,7 @@
                <div class="col-sm-10 col-9">
                   <h5 class="white text-capitalize text-left font-bold">corporate office</h5>
                   <h5 class="white text-capitalize text-left font-bold">M3M india pvt. ltd.</h5>
-                  <p class="white text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road Ext. Gurugram - 122002</p>
+                  <p class="white text-capitalize text-left">6th Floor, M3M Tee Point, Sector 65, Golf Course Road (Extn.)  Gurugram - 122002</p>
                </div>
             </div>
             <div class="row name">
@@ -2346,11 +2374,15 @@
                   </div>
                </div>
                <div class="col-sm-10 col-9">
-                  <h5 class="white text-capitalize text-left font-bold">sales gallery address</h5>
+                  <h5 class="white text-capitalize text-left font-bold">sales gallery </h5>
                   <p class="white text-capitalize text-left">‘The Experia’, Golf Course Road (Extn.),Sector–73, Gurugram (Gurgaon) 122004,Haryana, India</p>
+                  <p class="white text-capitalize text-left"><img src="img/contact/Call.png" alt="tel icon" class="contact-call"> : +91 124 4732000</p>
+                  <p class="white text-capitalize text-left"><img src="img/contact/Toll-Free.png" alt="toll free icon" class="contact-call"> : 1800 123 3333</p>
+                  <p class="text-capitalize white text-left"><img src="img/contact/FAX.png" alt="FAX icon" class="contact-call"> : +91 124 4732010</p>
+                  <p class="white text-left"><img src="img/contact/Mail.png" alt="Mail icon" class="contact-call"> : sales@m3mindia.com</p>
                </div>
             </div>
-            <div class="row name">
+            <!-- <div class="row name">
                <div class="col-sm-2 col-3 icon-center">
                   <div class="con-img">
                      <img src="img/contact/Icon 03.png" alt="call">
@@ -2363,7 +2395,7 @@
                   <p class="text-capitalize white text-left">fax: +91 124 4732010</p>
                   <p class="white text-left">Sales Enquires: sales@m3mindia.com</p>
                </div>
-            </div>
+            </div> -->
             <div class="row name">
                <div class="col-sm-2 col-3 icon-center">
                   <div class="con-img">
@@ -2373,7 +2405,7 @@
                <div class="col-sm-10 col-9">
                   <h5 class="white text-capitalize text-left font-bold">leasing enquires</h5>
                   <p class="white text-capitalize text-left">leasing@m3mindia.com</p>
-                  <p class="white text-capitalize text-left">tel:+91 9870323433</p>
+                  <p class="white text-capitalize text-left"><img src="img/contact/Call.png" alt="tel icon" class="contact-call"> :+91 9870323433</p>
                </div>
             </div>
          </div>

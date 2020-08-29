@@ -65,7 +65,7 @@
                 </div>
                 <div class="col-lg-10 col-md-10 col-12 border-btm_award">
                     <div class="txt-award pdng-top">
-                        <h4>A Great Place to Work by Great Place to Work Certified India</h4>
+                        <h4>Recognised by A Great Place to Work Certified India</h4>
                     </div>
                 </div>
             </div>
@@ -77,7 +77,7 @@
                 </div>
                 <div class="col-lg-10 col-md-10 col-12 border-btm_award">
                     <div class="txt-award pdng-top">
-                        <h4>M3M as Best Employer Brand at the National Human Capital Leadership Congress & Awards</h4>
+                        <h4> Best Employer Brand at the National Human Capital Leadership Congress & Awards</h4>
                     </div>
                 </div>
             </div>
@@ -125,7 +125,7 @@
                 </div>
                 <div class="col-lg-10 col-md-10 col-12 border-btm_award">
                     <div class="txt-award pdng-top">
-                        <h4>M3m 65th Avenue for the ‘Innovative Concept Project of the Year’ at the Golden Bricks Award 2019</h4>
+                        <h4>M3M 65th Avenue !  for the ‘Innovative Concept Project of the Year’ at the Golden Bricks Award 2019</h4>
                     </div>
                 </div>
             </div>
@@ -233,7 +233,7 @@
                 </div>
                 <div class="col-lg-10 col-md-10 col-12 border-btm_award">
                     <div class="txt-award pdng-top">
-                        <h4>M3M 65th Avenue as the Best Mixed-Use Development Project of the Year at the Real Estate Awards</h4>
+                        <h4>M3M 65th Avenue !  as the Best Mixed-Use Development Project of the Year at the Real Estate Awards</h4>
                     </div>
                 </div>
             </div>
@@ -248,7 +248,7 @@
                         </div>
                         <div class="col-lg-10 col-md-10 col-12 border-btm_award">
                             <div class="txt-award pdng-top">
-                                <h4>M3m 65th Avenue for the ‘Innovative Concept Project of the Year’ at the Golden Bricks Award 2019</h4>
+                                <h4>M3M 65th Avenue ! for the ‘Innovative Concept Project of the Year’ at the Golden Bricks Award 2019</h4>
                             </div>
                         </div>
                     </div>
@@ -356,7 +356,7 @@
                         </div>
                         <div class="col-lg-10 col-md-10 col-12 border-btm_award">
                             <div class="txt-award pdng-top">
-                                <h4>M3M 65th Avenue as the Best Mixed-Use Development Project of the Year at the Real Estate Awards</h4>
+                                <h4>M3M 65th Avenue !  as the Best Mixed-Use Development Project of the Year at the Real Estate Awards</h4>
                             </div>
                         </div>
                     </div>
@@ -483,7 +483,7 @@
                 </div>
                 <div class="col-lg-10 col-md-10 col-12 border-btm_award">
                     <div class="txt-award pdng-top">
-                        <h4>Realty Plus Excellence Awards for M3M Golf Estate for ‘Ultra-luxury Lifestyle Project of the Year’</h4>
+                        <h4>Realty Plus Excellence Awards for M3M Golfestate for ‘Ultra-luxury Lifestyle Project of the Year’</h4>
                     </div>
                 </div>
             </div>
@@ -606,7 +606,7 @@
                 </div>
                 <div class="col-lg-10 col-md-10 col-12 border-btm_award">
                     <div class="txt-award pdng-top">
-                        <h4>Mr. Pankaj Bansal as the Most Enterprising Leaders for M3M Golfestate at Realty Plus Excellence Awards, 2012</h4>
+                        <h4>Mr. Pankaj Bansal was adjudged as the ‘Most Enterprising Leader’ at Realty Plus Excellence Awards event, 2012. </h4>
                     </div>
                 </div>
             </div>

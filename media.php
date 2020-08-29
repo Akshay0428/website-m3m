@@ -53,10 +53,13 @@
                 </div>
             </div>
         </div>
+        <!-- <div class="press pdng-top">
+            <h5 class="text-uppercase">press impressions</h5>
+        </div> -->
+        <div id="media-box-1">
         <div class="press pdng-top">
             <h5 class="text-uppercase">press impressions</h5>
         </div>
-        <div id="media-box-1">
             <div class="row media-card pdng-top">
                 <div class="col-lg-4 col-md-4 col-12">
                     <div class="card">

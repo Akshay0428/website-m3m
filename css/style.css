@@ -197,6 +197,20 @@ span.color-head {
 	margin: 10px auto;
 }
 
+.banner-section .carousel-indicators-numbers li {
+    text-indent: 0;
+    margin: 50px 2px;
+    width: 30px;
+    height: 30px;
+    border: none;
+    line-height: 30px;
+    color: #fff;
+    border: 1px solid #cde0f3;
+    border-radius: 100%;
+    background-color: #6b97c1;
+    -webkit-transition: all 0.25s ease;
+    transition: all 0.25s ease;
+}
 
 /*********************
 dropdown
@@ -1123,7 +1137,12 @@ real estate desktop
     position: absolute;
     left: 22%;
 }
-
+.phase-2-line {
+    top: 65%;
+}
+.font-12{
+	font-size: 12px;
+}
 .bronze-line {
 	background-color: #ccb497;
 	left: 25% !important;
@@ -1323,7 +1342,10 @@ Chatbox
 /*********************************************************************
 contact us page
 *********************************************************************/
-
+.contact-call{
+	width: 5%;
+	padding: 5px 0px;
+}
 .contact-bann {
 	background-image: url(../img/contact-page/contactus-bg.png);
 	background-position: center;
@@ -1910,6 +1932,35 @@ a[data-tooltip][data-placement="bottom"]::after {
 	margin-top: 4px;
 }
 
+
+
+
+
+
+
+/* ASP */
+/* .p_rightSrc {
+    text-align: right;
+    font-size: 12px;
+    margin-right: 45px !important;
+} */
+/* #div-reson p{
+	top: 10px !important;
+}
+#div-comon p{
+	top: 10px !important;
+} */
+
+
+
+
+
+
+
+
+
+
+
 @media screen and (max-width: 1444px) and (min-width: 1400px) {
 	/*********************Navbar********************************/
 	.menuPop {
@@ -1956,6 +2007,10 @@ a[data-tooltip][data-placement="bottom"]::after {
 		top: 84%;
 		left: 33%;
 	}
+	.phase-2-line {
+		top: 60%;
+		left: 30%;
+	}
 	.small-line {
 		left: 36% !important;
 	}
@@ -1984,6 +2039,9 @@ a[data-tooltip][data-placement="bottom"]::after {
 	/*******************************
 	contact us mobile
 	********************************/
+	.contact-call{
+		width: 10%;
+	}
 	.contact-bann {
 		background-image: url(../img/contact-page/Contact-Us_Mobile.png);
 		height: 300px;
@@ -2186,6 +2244,48 @@ a[data-tooltip][data-placement="bottom"]::after {
 	}
 }
 
+@media screen and (max-width: 900px) and (min-width: 600px) {
+	.scroll-css {
+	    height: 25vh;
+	}
+	.menu-btn {
+	    margin-top: 10px;
+	    margin-right: 20px;
+	}
+	.box-desk-counter {
+		width: 100%;
+	}
+	.col-sm-2.col-3.icon-center {
+		padding: 0 !important;
+	}
+	.mrg-foot {
+		margin-top: -10px;
+	}
+	.fa-2x {
+		font-size: 20px !important;
+		padding: 5px !important;
+	}
+	.custom-h6-footer {
+		font-size: 6px !important;
+	}
+	.height-hand {
+		height: 90vh;
+	}
+	.pdng-land{
+		padding: 0px 35px 0px ! important;
+	}
+	.row-land{
+		display: inline-flex !important;
+	}
+	.btm-txt {
+		top: 87%;
+		left: 3%;
+	}
+	
+}
+
+
+
 /***************************Iphone 11************************************************************************/
 @media only screen and (device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2) { 
 	.view-button a {
@@ -2237,8 +2337,7 @@ a[data-tooltip][data-placement="bottom"]::after {
 
 /**************************************************Samsung************************************************/
 
-@media only screen and (max-width:360px),
-screen and (max-height: 640px) {
+@media only screen and (max-width:360px),screen and (max-height: 640px) {
 	.view-button a {
 		padding: 16px 44px !important;
 	}
